@@ -1,0 +1,103 @@
+#  
+
+# FAA MEDXPRESS: Get in the Express Lane to Medical Certification  
+
+The Federal Aviation Administration’s MedXPress system allows anyone  requiring an FAA Medical Certificate or Student Pilot Medical Certificate to  electronically complete their medical application (FAA Form 8500-8).  
+
+Information entered into MedXPress will  
+
+![](images/c5ed0fe25da9a35985271a0ced587909cf91510d404cb728761e16943dd03e53.jpg)  
+
+be available to your aviation  medical examiner (AME)  to review prior to and at  the time of your medical  examination, if you provide  a confi mation number.  
+
+# HOW TO CREATE  AN ACCOUNT  
+
+MedXPress is located at: https://medxpress.faa.gov/  
+
+First-time users should click on  account  and complete the online form.  You will be asked to supply your name  and e-mail address; your e-mail address  will be used as your account name  when logging into FAA MedXPress.  
+
+If you have a hand-held device  —i-Phone, Smartphone,  BlackBerry, etc.— you can fill  out the medical application  form “on the fly” at your  convenience.  
+
+Next, you’ll be prompted to answer three  simple security questions that will be used  to verify your identity if you forget your  password or need help with your account.  
+
+After submitting your form, your initial password and instructions for completing  the account request process will be sent to the e-mail address you provided.  
+
+IMPORTANT:     Never use someone else’s MedXPress account to  enter your information. Each applicant must create his or her own  account. Only one applicant per e-mail address is allowed.  
+
+# HOW TO LOG IN  
+
+Once you receive e-mail confi mation that your account has been created,  you can return to the FAA MedXPress login page and access the secure  site using your e-mail address and the temporary password supplied in the  confi mation e-mail. You’ll need to enter a permanent password.  
+
+# APPLICATION FORM  
+
+Upon signing in to MedXPress, you’ll see the medical application form.  Complete the form and when you have finished, enter your password where it  indicates  I’m done. Send my application to the FAA.  Click  submit.  
+
+![](images/257dd22687464f39620c668184ec1912806e3b7a806ad2cf7d32d75a819cae3c.jpg)  
+
+MedXPress will assign your  application a confi mation  number when it has been  successfully submitted.  
+
+# IMPORTANT: Once you  submit your application,  you can no longer  modify the application.  
+
+TIP:    If you need to find information about the date of previous exams, medications  used, or other such information before completing the MedXPress application, you can  save what you have entered thus far and return later to complete any missing data. Click  the  save now  button on the bottom of the page and log off. When you log back on, the  entries you have made will still be there.  
+
+# CONFIRMATION NUMBER  
+
+A confi mation number is provided for you upon successful  submission of your medical application; this number is also  e-mailed to you to confi m your application. When you make  an appointment with your aviation medical examiner,  you may be asked for this number so your AME  can review your medical information prior  to your physical.  
+
+Take your confi mation number with  you when you arrive for your exam  because your AME will  NOT   be able to access your exam  without it.  
+
+We strongly recommend  that you view and print  a copy of the completed  form before logging off.  
+
+# MAKE YOUR  MOVE  
+
+After submitting the electronic  application form, you have 60 days  in which to schedule and take a physical  examination with your AME.  
+
+After 60 days, the application is deleted.  
+
+# PERMANENT RECORD  
+
+When your AME imports your application using  your confi mation number and saves it in the FAA’s  medical certification system, the application is  considered a permanent record.  
+
+# HELP  
+
+If you have technical questions at any point in the application process, you can call this  toll-free MedXPress support number: (877) 287-6731 (available 24/7), or you can e-mail  the support desk:   9-natl-avs-it-servicedesk@faa.gov  
+
+# REVIEW  
+
+1.	 Connect to MedXPress at https://medxpress.faa.gov
+
+2.	 Create an account or login using your existing account
+
+ 3.	 Enter medical application data
+
+ 4.	 Submit application
+
+ 5.	 Print summary sheet
+
+ 6.	 Give summary sheet with confi mation number to your AMEQR Code  
+
+Scan this QR  code stamp  to quickly  connect with  the MedXPress  home page.Person working on computer  
+
+![](images/03eb00c9620d63881116aa2fcc869c2eb3983521037f3e0deb8262985fd12c20.jpg)  
+
+If you do not have a computer, you can access  MedXPress with any available computer with  Internet access—at your local library or  friend’s house, for example.  
+
+# ADVANTAGE: PILOTS  
+
+Th nk you for participating in the FAA’s MedXPress program.  You are helping to support the FAA’s goal of speeding up  medical certification and increasing data integrity.  
+
+# NOTES  
+
+•  A medical examination by an FAA-designated aviation medical examiner is  required to complete the certification process.  
+
+•  This system is not yet available for FAA Air Traffic Control Specialists.  
+
+# MEDICAL FACTS FOR PILOTS  
+
+Publication AAM-300-12/1 FAA Civil Aerospace Medical Institute Aerospace Medical Certification Division PO Box 25082 Oklahoma City, OK  73125  
+
+# SAFETY BROCHURES  
+
+To view pilot and passenger safety brochures, visit  the Federal Aviation Administration’s Web Site: www.faa.gov/pilots/safety/pilot safety brochures/  
+
+AME LOCATOR To locate AMEs in your area: www.faa.gov/pilots/amelocator/  

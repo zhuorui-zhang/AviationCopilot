@@ -1,0 +1,113 @@
+#  
+
+Currently, about  $55\%$   of the civilian pilots in the United States  must utilize some form of refractive correction to meet the vision  requirements for medical certifi  cation. While spectacles are the most  common choice for aviators, recent studies show a growing number  of pilots have opted for refractive surgical procedures, which include  laser refractive surgery . The information in this brochure describes  the benefi  ts as well as possible pitfalls laser refractive surgery offers  to those considering these procedures.  
+
+# What is Refractive Error?  
+
+Refractive error prevents light rays from being brought to a single  focus on the retina resulting in reduced visual acuity. To see clearly,  refractive errors are most often corrected with ophthalmic lenses  (glasses, contact lenses). The three principal types of refractive  conditions are myopia, hyperopia, and astigmatism. Another  ophthalmic condition that also results in blurred near vision is called  presbyopia.  Presbyopia  is a progressive loss of accommodation  (decreased ability to focus at near distance due to physiological  changes in the eye’s crystalline lens) that normally occurs around 40  years of age. Bifocals or reading glasses are necessary to correct this  condition.  
+
+Myopia  (nearsightedness, distant objects appear fuzzy) is a condition  in which light rays are focused in front of the retina. About  $30\%$   of  Americans are myopic.  
+
+Hyperopia  (farsightedness, near objects appear fuzzy) is a condition  in which light rays are focused behind the retina. An estimated   $40\%$   of Americans are hyperopic. However, this number may not  be accurate. Young hyperopes   $(<40$   years), who can compensate  for their farsightedness with their ability to accommodate, are often  not counted in this number and some studies incorrectly include  presbyopes, who also require plus power lenses to see clearly.  
+
+Astigmatism  is a condition often caused from an irregular curvature  of the cornea. As a result, light is not focused to a single image on the  retina. Astigmatism can cause blurred vision at any distance and may  occur in addition to myopic or hyperopic conditions. Approximately   $60\%$   of the population has some astigmatism.  
+
+# What is Laser Refractive Surgery?  
+
+In October 1995, the Food and Drug Administration (FDA) approved  the use of the excimer laser to perform a refractive procedure  called  Photorefractive Keratectomy (PRK) . PRK improves visual  acuity by altering the curvature of the cornea through a series of  laser pulses. The laser photoablates (vaporizes) the corneal tissue  to a predetermined depth and diameter. PRK can be used to correct  myopia, hyperopia, and astigmatism. Reported PRK problems such  as postoperative pain, prolonged healing period, increased risk of  infection, and glare (halos) at night, has resulted in  Laser in situ  Keratomileusis (LASIK)  becoming the preferred choice for refractive  surgery by patients and eyecare practitioners. A survey in the United  States found that the percentage of refractive surgeons performing  PRK had decreased from  $26\%$   in 1997 to less than   $1\%$   in 2002.  
+
+LASIK is performed using two FDA approved devices: the  microkeratome  and  excimer laser . During the LASIK procedure, the  microkeratome slices a thin fl  ap from the top of the cornea, leaving  it connected by a small hinge of tissue. The corneal fl  ap is folded  aside and the excimer laser is used to reshape the underlying corneal  stroma. The fl  ap is then returned to its original position.Lasik image  
+
+![](images/bb14cdbd66410e95fbae4e163545c1e9176fb872c80517ededfbfaead941cada.jpg)  
+
+# Is LASIK an Option for Me?  
+
+An eye care specialist should thoroughly evaluate your current  ocular health and correction requirements to determine whether you  are a suitable candidate for refractive surgery. Clinical trials have  established the following selection criteria for LASIK.  
+
+# Selection Criteria:  
+
+4  Age 18 years or older  
+
+4  Stable refractive error (less than .50 diopters [D] change within  the last year) correctable to 20/40 or better 4  Less than -   $15.00\:\mathrm{D}$   of myopia and up to 6 to 7 D of astigmatism 4  Less than  ${\displaystyle+\,6.00\,\mathrm{D}}$   of hyperopia and less than  $6\;\mathrm{D}$   of  astigmatism 4  No gender restriction, with the exception of pregnancy  $\blacktriangleright$   Pupil size less than or equal to  $6\:\mathrm{mm}$   (in normal room lighting) 4  Realistic expectations of fi  nal results (with a complete  understanding of the benefi  ts, as well as the possible risks)  
+
+In addition to conforming to the above criteria, it is important that you  possess normal ocular health and be free of pre-existing conditions  that may contraindicate LASIK.  
+
+# Contra indications:  
+
+4  Collagen vascular disease (corneal ulceration or melting) 4  Ocular disease (dry eye, keratoconus, glaucoma, incipient  cataracts, herpes simplex keratitis, corneal edema) 4  Systemic disorders (diabetes, rheumatoid arthritis, lupus, HIV,  AIDS) 4  History of side effects from steroids 4  Signs of keratoconus 4  Use of some acne medication (e.g., Accutane and/or Cordarone)  
+
+# Is LASIK Safe for Pilots?  
+
+Aviators considering LASIK should know that in initial FDA trials  reporting high success rates   $(\geq90\%)$   and low complication rates   $\because$   $1\%$  ), the criteria for success varied. In most clinical studies, success  was defi  ned as 20/40 or better distant uncorrected visual acuity  (UCVA) under normal room lighting with high contrast targets, not   $20/20$   or better UCVA. While the majority of patients do experience  dramatic improvement in vision after laser refractive surgery,  there is no guarantee that perfect UCVA will be the fi  nal outcome.  Even successful procedures may leave many patients with a small  amount of residual refractive error that requires an ophthalmic  device (eyeglasses or contact lenses) to obtain  $20/20$   visual acuity. If  overcorrection results, patients may need reading glasses.  
+
+Compared to its predecessor (PRK), LASIK requires higher technical  skill by the surgeon because a corneal fl  ap must be created. Although  rare, loss of best corrected visual acuity (BCVA) can occur when there  are surgical complications such as those summarized below.  
+
+# Surgical Complications:  
+
+Decentered or detached corneal fl  ap  
+
+4  Decentered ablation zone 4  Button-hole fl  ap (fl  ap cut too thin resulting in a hole) 4  Perforation of the eye  
+
+Operation of an aircraft is a visually demanding activity performed  in an environment that is not always user friendly. This becomes  particularly evident if the choice of vision correction is ill-suited for  the task. While the risk of serious vision-threatening complications  
+
+after having LASIK is low   $(<1\%)$  , some complications  could have a signifi  cant impact  on visual performance in a  cockpit environment. Eye sergical photo  
+
+![](images/4bbbb5029fdbe4a17631df56a3f787453908b9a4f85a34c583937078ca62e8c1.jpg)  
+
+# Relative Risk of Post-Surgical Complications:  
+
+Prolonged healing periods: 3 months or more    Night glare (halos, starbursts): 1 in 50  Under/over-correction: less than 1 in 100  Increased intraocular pressure: non signifi  cant  Corneal haze: 1 in 1,000  Corneal scarring: non signifi  cant  Loss of BCVA: 1 in 100  Infection: 1 in 5,000  Corneal fl  ap complications (dislocated fl  ap, epithelial ingrowth):  less than 1 in 100  
+
+Following LASIK, patients are cautioned to avoid rubbing their eyes  and to stay out of swimming pools, hot tubs, or whirlpools for at  least a week. Contact sports should be avoided for a minimum of 2  weeks, and many eye surgeons recommend wearing safety eyewear  while playing sports. Even after the patient’s vision has stabilized and  healing appears complete, the corneal fl  ap may not be completely re- adhered. There have been reports of corneal fl  ap displacement due to  trauma up to 38 months after the procedure.  
+
+After surgery, patients are cautioned to not wear eye makeup or use  lotions and creams around their eyes for a minimum of 2 weeks and  to discard all previously used makeup to reduce the risk of infection.  In some instances, LASIK may be an option for patients with higher  refractive error than can be safely corrected with PRK or those with  conditions that can delay healing (e.g., lupus, rheumatoid arthritis).  Since LASIK minimizes the area of the epithelium surgically  altered, it reduces some of the risks associated with delayed healing.  Additionally, ablation of the underlying stromal tissue results in less  corneal haze and the tendency for the cornea to revert back to the  original refractive condition during the healing process (refractive  regression), which improves predictability. Most patients do not  require long-term, postoperative steroid use, decreasing the possibility  of steroid-induced complications (cataract, glaucoma).  
+
+As with any invasive procedure, there are surgical risks, and the  recovery process often varies with each individual. Post-LASIK  patients report experiencing mild irritation, sensitivity to bright light,  and tearing for a few days after surgery. For most, vision stabilizes  within 3 months to near-predicted results, and residual night glare  usually diminishes within 6 months. In rare cases, symptoms have  lingered longer than a year. Earlier versions of LASIK used a smaller  ablation zone which sometimes resulted in glare problems at night.  Ablation zones have an area of transition between treated and  untreated corneal tissue. As the pupil dilates and becomes larger than  the ablation zone, light (car headlights, streetlights, and traffi  c signals  lights) entering through these transition areas becomes distorted,  resulting in aberrations perceived as glare. These patients often  complain of diffi  culties seeing under low-light conditions.  
+
+Patients that develop postoperative haze during the healing process  have complained of glare (halos and starbursts). Furthermore, it has  been reported that exposure to ultraviolet radiation or bright sunlight  may result in refractive regression and late-onset corneal haze. It  is therefore recommended that all refractive surgery patients wear  sunglasses with UV protection and to refrain from using tanning beds  for several months after surgery.  
+
+For those with larger amounts of refractive correction, the  predictability of the resulting refractive correction is less exact.  This can lead to under-correction (requiring an additional laser  enhancement  procedure and/or corrective lenses) or over-correction  of the refractive error. In the case of overcorrection, premature  presbyopia and the need for reading glasses can result.  
+
+It has been reported that there can be a slower recovery of BCVA and  UCVA with hyperopic LASIK compared with those having myopic  LASIK. This is especially true for older patients who may be even  less likely to achieve UCVA of 20/20 or better. (Note: Loss of BCVA  is reportedly 5 to 15 times more likely with refractive surgery than  from the use of extended-wear contact lenses.)  
+
+Older patients with presbyopia may opt for monovision LASIK,  which corrects the dominant eye for distant vision and the other  eye for near vision. The procedure is intended to eliminate the need  for a patient to wear corrective lenses for near and distant vision.  Anisometropia (difference in correction between the eyes) induced  
+
+by monovision may result in decreased binocular vision, contrast  sensitivity, and stereo acuity. After an adaptation period, patients are  often able to see and function normally. Patients who report blurred  vision, diffi  culty with night driving, and other visual tasks in low-light  conditions typically do not adapt to monovision and may require an  enhancement on their non-dominant eye so that both eyes are fully  corrected for distant vision. Airmen who seek monovision correction  should consult an eye care practitioner to assist them in compliance  with standards outlined in the “Guide for Aviation Medical Examiners  (see below):  
+
+Airmen who opt for monovision LASIK must initially wear correction  (i.e., glasses or contact lens) for near vision eye while operating an  aircraft. After a 6-month period of adaptation, they may apply for a  Statement of Demonstrated Ability (SODA) with a medical fl  ight test.  If the airman is successful, the lens requirement is removed from their  medical certifi  cate.  
+
+# Advances in Refractive Surgery  
+
+# Wavefront LASIK  
+
+Eye care specialists have traditionally used standard measurement  techniques that identify and correct lower-order aberrations, such as  nearsightedness, farsightedness, and astigmatism. However, no two  people share the same eye irregularities or have similar refractive  needs. Vision is unique and as personal as fi  ngerprints or DNA.  
+
+Wavefront ont  technology allows eye surgeons to customize the LASIK  procedure for each eye, providing the possibility of even better vision.  The FDA approved the fi  rst system for general use in October 2002.  A laser beam is sent through the eye to the retina and is refl  ected  back through the pupil, measuring the irregularities of the light wave  (wavefront) as it emerges from the eye. This process produces a three- dimensional map of the eye’s optical system. Measuring the cornea’s  imperfections or aberrations in this way allows the refractive surgeon  to develop a personalized treatment plan for the patient’s unique  vision needs. Correcting the patient’s specifi  c imperfections can result  in sharper vision, better contrast sensitivity, and reduces problems  associated with higher-order aberrations after surgery, such as haloes  and blurred images. Studies indicate that  $90–94\%$   of patients receiving  wavefront LASIK achieved visual acuity of  $20/20$   or better. However,  those with thin corneas, high degrees of aberrations, severe dry eyes,  or conditions affecting the lens and vitreous fl  uid inside the eye may  not be good candidates for wavefront LASIK.  
+
+# Other Advances in Refractive Surgery  
+
+The eye’s optical system creates a limit as to how wide and deep the  laser ablation should be, i.e., the wider the ablation, the deeper the  laser must ablate into the cornea, which may result in delayed healing  and prolonged visual recovery. The development of new lasers allows  the creation of a wider ablation zone while removing the least amount  of tissue. Studies have shown that this reduces problems with night  vision and other side effects associated with laser refractive surgery.Stilla  
+
+![](images/cdb467139e39d8343f6e17428cd9a88fba9cac4919005ebfb7ae204372f4a434.jpg)  
+
+Laser technology that provides variable optical zone sizes and beam  shapes with scanning capabilities allows the eye surgeon greater  fl  exibility in developing a more personalized laser vision procedure.  A spot laser may be adjusted so minimal spherical aberrations are  produced and a larger optical zone is created. Results from clinical  trials indicate that  $67\%$   of eyes had UCVA of 20/16 or better and   $25\%$  had 20/12.5 or better. Additionally, there was an overall improvement  in nighttime visual function and night driving, which is achieved by  preserving the optical zone size and better shaping of the ablation  profi  le.  
+
+During traditional LASIK, the corneal fl  ap is created with a  mechanical microkeratome manipulated by the surgeon’s hand.  While this method has worked well over the years, the performance  of these devices can be unpredictable and is the source of a majority  of surgical complications. These diffi  culties result in irregularities in  thickness between the central and peripheral areas of the fl  ap that can  induce postoperative astigmatism.  
+
+The IntraLase Femtosecond Laser Keratome, which received FDA  approval in December 1999, is the fi  rst blade-free technology for  creating the corneal fl  ap. The laser keratome beam passes into the  cornea at a predetermined depth, producing a precise cut that is  reportedly more accurate than the microkeratome. Corneal fl  aps made  with the laser keratome appear to adhere more tightly to the corneal  bed at the end of the procedure, which may eliminate problems with  long-term fl  ap displacement. A reported disadvantage to this new  technology is that surgical time is increased, leaving the stroma  exposed several minutes longer, which has led to reported complaints  of photophobia and eye irritation for up to two days after surgery.  While it may take longer (4 to 7 days) to recover good vision, the  approach appears to be associated with a lower incidence of dry eyes,  corneal complications, and enhancement procedures compared with  traditional LASIK.  
+
+The FAA requires that civil airmen with refractive surgical procedures  (e.g., PRK, LASIK) discontinue fl  ying until their eyecare specialist  has determined that their vision is stable and there are no signifi  cant  adverse effects or complications. The airman should submit one of  two documents to the FAA (a report from their eyecare specialist or  “Report of Eye Evaluation” [FAA-8500-7]). These reports can be  submitted directly to the Aerospace Medical Certifi  cation Division  when released from care, or to their Aviation Medical Examiner  during their next fl  ight physical. This report should state:  
+
+“. . . . that the airman meets the visual acuity standards and the  report of eye evaluation indicates healing is complete, visual acuity  remains stable, and the applicant does not suffer sequela, such as  glare intolerance, halos, rings, impaired night vision, or any other  complications. . . .” (Guide for Aviation Medical Examiners, July  2005)  
+
+If you are a pilot contemplating refractive surgery, consult an eyecare  specialist to determine if you are a good candidate for laser refractive  surgery. Although the FAA and most major air carriers allow laser  refractive surgery, professional aviators should consider how it  could affect their occupational and certifi  cation status. As with any  invasive procedure, there are many variables that can infl  uence the  fi  nal outcome. You should understand all risks as well as the benefi  ts  before electing to have a procedure performed that could compromise  your visual performance in the cockpit.  
+
+# MEDICAL FACTS FOR PILOTS  
+
+Publication OK-06-148 Written by:  
+
+Van B. Nakagawara, O.D., F.A.A.O. Kathryn J. Wood, CPOT Ron W. Montgomery, B.S.  
+
+For additional copies, download from our Web site: www.faa.gov/pilots/safety/pilot safety brochures/  
+
+Or contact: FAA Civil Aerospace Medical Institute Aerospace Medical Education Division AAM-400, P.O. Box 25082 Oklahoma City, OK 73125  

@@ -1,0 +1,41 @@
+CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node 1 supervised_finetuning.py \
+    --model_type auto \
+    --model_name_or_path /media/zhangzr/4TB/hf_models/Qwen2.5-1.5B \
+    --train_file_dir ./data/SFT \
+    --validation_file_dir ./data/SFT \
+    --per_device_train_batch_size 24 \
+    --per_device_eval_batch_size 24 \
+    --do_train \
+    --do_eval \
+    --template_name qwen \
+    --use_peft True \
+    --max_train_samples -1 \
+    --max_eval_samples 10 \
+    --model_max_length 256 \
+    --num_train_epochs 3 \
+    --learning_rate 4e-5 \
+    --warmup_ratio 0.05 \
+    --weight_decay 0.05 \
+    --logging_strategy steps \
+    --logging_steps 10 \
+    --eval_steps 50 \
+    --evaluation_strategy steps \
+    --save_steps 20 \
+    --save_strategy steps \
+    --save_total_limit -1 \
+    --gradient_accumulation_steps 1 \
+    --preprocessing_num_workers 16 \
+    --output_dir outputs-sft \
+    --overwrite_output_dir \
+    --ddp_timeout 30000 \
+    --logging_first_step True \
+    --target_modules all \
+    --lora_rank 64 \
+    --lora_alpha 128 \
+    --lora_dropout 0.05 \
+    --torch_dtype float16 \
+    --fp16 \
+    --device_map auto \
+    --report_to tensorboard \
+    --ddp_find_unused_parameters False \
+    --gradient_checkpointing True \

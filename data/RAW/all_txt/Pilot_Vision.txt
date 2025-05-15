@@ -1,0 +1,187 @@
+# Visual Scanning  
+
+The probability of spotting a potential collision threat  increases with the time spent looking outside, but certain  techniques may be used to increase the effectiveness of  the scan time. Effective scanning is accomplished with a  series of short, regularly-spaced eye movements that bring  successive areas of the sky into the central visual field. Each  movement should not exceed 10 degrees, and each area  should be observed for at least 1 second to enable detection.  Although horizontal eye movements seem preferred by most  pilots, each pilot should develop a scanning pattern that  is most comfortable and adhere to it to assure optimum  scanning. The human eyes tend to focus somewhere, even  in a featureless sky. If there is nothing specific on which  to focus, your eyes revert to a relaxed intermediate focal  distance (10 to 30 feet). This means that you are looking  without actually seeing anything, which is dangerous. In  order to be most effective, the pilot should shift glances and  refocus at intervals. Shifting the area of focus, at regular  intervals, between the instrument panel and then refocusing  outside of the aircraft helps to alleviate this problem. [See  FAA-H-8083-3B and AC 90-48, Pilots’ Role in Collision  Avoidance.]  
+
+![](images/fab8909bcf5864916bb46d2f45f3effd5e1b95dc6f2d1988678ce000400c7171.jpg)  
+
+# Vision Pathophysiology  
+
+# Cataracts:  
+
+A cataract is a painless, progressive condition where the  lens becomes progressively opaque interfering with vision  first noted at night and with reading fine print.  Most  cases occur in people over 60 but can occur in younger  patients with diabetes mellitus, chronic use of cortisone, or  with a history of eye trauma. Surgical correction involves  implanting a synthetic intraocular lens, either monofocal or  multifocal.  
+
+Untreated cataracts were a factor in a fatal accident in  2013. The FAA permits pilots to fly with early cataracts  
+
+with regular eye examinations and post surgically with  monofocal lenses when they meet vision standards without  complications. Multifocal lenses require a brief waiting  period. The visual effects of cataracts can be successfully  treated with   $\a\ 90\%$   improvement in visual function for most  patients. Regardless of vision correction to  $20/20$  , cataracts  pose a significant risk to flight safety.  
+
+![](images/001ff4b96e09642bcad9d7c651d984e65a7cc18ba6a66777eefbcbfb6361251d.jpg)  
+
+Untreated cataracts were a factor in a fatal accident in 2013. As a  cataract progresses, it can cause vision disturbances such as glare,  halos, starbursts, and loss of contrast sensitivity in dark or dusk  conditions making it difficult for a pilot to land.  
+
+# Glaucoma:  
+
+Glaucoma can be defined as optic nerve damage resulting  from an increase in intraocular pressure affecting the ability  of axons of the retinal ganglion cells to effectively carry visual  information to the brain.  
+
+The specific type of glaucoma, stability on acceptable  medications, evidence of visual field defects, and adequate  control of intraocular pressures are factors that influence the  ability to fly with this condition. Ocular Hypertension or  Glaucoma Suspect that is monitored and stable or previous  history of Narrow Angle/Angle Closure Glaucoma which has  been treated with iridectomy /iridotomy (surgical or laser)  and is currently stable may be certified for flying.  
+
+Symptoms of severe pain, nausea, transitory loss of  accommodative power, blurred vision, halos, epiphora  (excessive watering of the eye), or iridoparesis (swelling of the  iris of the eye) characteristic of primary or secondary narrow  angle glaucoma are not acceptable for flying. There must be  an absence of side effects and unreliable visual fields or other  defects, and intraocular pressure must be 23 mm Hg or less  in both eyes to be certified by the FAA.  
+
+# Heterophoria:  
+
+Heterophoria relates to an improper fixation of the visual  axis, resulting in misalignment of the eyes. When the ability  to maintain binocular fusion through vergence is exceeded,  phoria results. A pilot who has such a condition could progress  to seeing double (tropia) should they be exposed to hypoxia or  certain medications.  
+
+One prism diopter of hyperphoria, six prism diopters of  esophoria, and six prism diopters of exophoria represent  FAA phoria (deviation of the eye) standards that may not be  exceeded.  
+
+# Color Vision  
+
+• Color perception is critical to safe flight for several reasons.  Within the flight environment many types of information are  conveyed using color. 
+
+ • Human color perception is the result of three types of cones  that contain variations of the photopigment photopsin that  are sensitive to long, medium, and short wavelengths. The  cones are most sensitive to approximately 565nm (red),   $545\mathrm{nm}$   (green), and 440nm (blue), respectively.
+
+ • Six to eight percent of males have some degree of genetically  programmed color blindness.
+
+ • There are many degrees of color vision deficiency, including  perception, that are skewed but largely trichromatic. Some  individuals are “weak,” or anomalous, in detecting certain  colors, while others have dichromatic vision and only have  two cone types.
+
+ • An applicant can be tested with a number of different color  vision tests: the FAA recommends Richmond HRR (Hardy  Rand and Rittler) pseudo iso chromatic plates based on the  ability to test for both Red-Green and Blue-Yellow color  deficiency.  
+
+![](images/80eb510c896cc2f16003b926f1f9ff79f6812101d4db2dfc31a2c14dfd9e1c88.jpg)  
+
+Richmond HRR pseudo iso chromatic plates can test for Blue – Yellow color deficiency  (tritanopia)  
+
+# Monocular Vision  
+
+A pilot with one eye (monocular), or with effective visual acuity  equivalent to monocular ( i.e., best corrected distant visual  acuity in the poorer eye is no better than 20/200 ), may be  considered for medical certification through special issuance with  a satisfactory adaption period, complete evaluation by an eye  specialist, satisfactory visual acuity corrected to 20/20 or better by  lenses of no greater power than ±3.5 diopters spherical equivalent,  and by passing an FAA medical flight test (MFT).  
+
+# A Word about Contact Lenses  
+
+Monovision contact lenses (one contact lens for distant vision  and the other lens for near vision) make the pilot alternate his/ her vision; that is, a person uses one eye at a time, suppressing  the other, and consequently impairs binocular vision and depth  perception. These lenses are not acceptable for piloting an aircraft.  
+
+# The Eyes Have It  
+
+Good near, intermediate, and distant visual acuity is vital because:  
+
+• Distant vision is required for VFR operations including take- off, attitude control, navigation, and landing.
+
+ • Distant vision is especially important in avoiding midair  collisions.
+
+ • Near vision is required for checking charts, maps, frequency  settings, etc.
+
+ • Near and intermediate vision are required for checking aircraft  instruments.  
+
+Pilots are encouraged to learn about their own visual strengths and  weaknesses. Changes in vision may occur imperceptibly or very  rapidly. Any change in range of visual acuity at near, intermediate,  and distant points should be brought to the attention of a licensed  physician or Aviation Medical Examiner (AME). An extra pair of  corrective lenses or glasses should be carried when flying. Always  remember vision is a pilot’s most important sense.  
+
+# See and Be Seen:  
+
+• Outside of a 10° cone, visual acuity drops 90%.
+
+ • Pilots are 5 times more likely to have a midair collision with an  aircraft flying in the same direction than with one flying in the  opposite direction.
+
+ • Avoid self-imposed stresses such as self-medication, alcohol  consumption, smoking, hypoglycemia, sleep deprivation, and  fatigue.
+
+ • Do not use monovision contact lenses while flying an aircraft.
+
+ • Use supplemental oxygen during night flights above 5,000 ft  MSL and daytime flights above 10,000 ft MSL. 
+
+ • Any pilot can experience visual illusions–rely on instruments to  confirm visual perceptions during flight.  
+
+Some images used from The Federal Aviation Administration.  Helicopter Flying Handbook. Oklahoma City, Ok: US Department  of Transportation; 2012; 13-1. Publication FAA-H-8083. Available  at:  https://www.faa.gov/regulations policies/handbooks manuals/ aviation/helicopter flying handbook/ . Accessed September 28, 2017.  
+
+Provided by  Aerospace Medical Education Division, AAM-400  
+
+To obtain copies of this brochure online: http://www.faa.gov/pilots/safety/pilot safety brochures/  
+
+# or contact:  
+
+Federal Aviation Administration Civil Aerospace Medical Institute AAM-400 P .O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831  
+
+![](images/616516d45d84f924521bb526779a336a62468f5e76367d0fab83013650361bd1.jpg)  
+
+# PILOT VISION  
+
+Vision is a pilot’s most important sense to obtain reference  information during flight. Most pilots are familiar with the optical  aspects of the eye. Before we start flying, we know whether we  have normal uncorrected vision, are farsighted or nearsighted,  or have other visual problems. Most of us who have prescription  lenses, contacts, or eyeglasses have learned to carry an extra set of  glasses with us as a backup when we fly; however, vision in flight is  far more than a lesson in optics.  
+
+Seeing involves the transmission of light energy (images) from the  exterior surface of the cornea to the interior surface of the retina 
+
+ (inside the eye) and the transference of these signals to the brain.  
+
+![](images/6a928144c15fd7d401efe3c53246143d084691abc6f9e994faaa964f16d23e82.jpg)  
+
+# The Anatomy of the Eye  
+
+• Light from an object enters the eye through the cornea and then  continues through the pupil.
+
+ • The opening (dilation) and closing (constriction) of the pupil is  controlled by the iris, which is the colored part of the eye. The  function of the pupil is similar to that of the diaphragm of a  photographic camera: to control the amount of light.
+
+ • The lens is located behind the pupil and its function is to focus  light on the surface of the retina.
+
+ • The retina is the inner layer of the eyeball that contains  photosensitive cells called rods and cones. The function of the  retina is similar to that of the film in a photographic camera: to  record an image.
+
+ • The cones are located in higher concentrations than rods in the  central area of the retina known as the macula, which measures  about 4.5 mm in diameter. The exact center of the macula has a  very small depression called the fovea, which contains cones only.  The cones are used for day or high-intensity light vision. They are  involved with central vision to detect detail, perceive color, and  identify far-away objects.  
+
+• The rods are located mainly in the periphery of the retina—an  area that is about 10,000 times more sensitive to light than the  fovea. Rods are used for low light intensity or night vision and  are involved with peripheral vision to detect position references,  including objects (fixed and moving) in shades of gray, but cannot  be used to detect detail or to perceive color.  
+
+• Light energy (an image) enters the eyes and is transformed by the  cones and rods into electrical signals that are carried by the optic  nerve to the posterior area of the brain (occipital lobes). This part  of the brain interprets the electrical signals and creates a mental  image of the actual object that was seen by the person.  
+
+# The Anatomical Blind Spot  
+
+The area where the optic nerve connects to the retina in the back of  each eye is known as the optic disk. There is a total absence of cones  and rods in this area, and consequently, each eye is completely blind  in this spot. Under normal binocular vision conditions this is not a  problem because an object cannot be in the blind spot of both eyes  at the same time. On the other hand, where the field of vision of  one eye is obstructed by an object (windshield post), a visual target  (another aircraft) could fall in the blind spot of the other eye and  remain undetected.  
+
+# The Night Blind Spot  
+
+The “Night Blind Spot” appears under conditions of low ambient  illumination due to the absence of rods in the fovea and involves an  area 5 to 10 degrees wide in the center of the visual field. Therefore,  if an object is viewed directly at night, it may  $\mathrm{ge}$   undetected or it  may fade away after initial detection due to the night blind spot.  
+
+![](images/0bcfe04921d0c498583224fed25be49ff374c9403a4294d783f33bd3638de123.jpg)  
+
+# The Fovea  
+
+The fovea is the small depression located in the exact center of  the macula, which contains a high concentration of cones but no  rods, and this is where our vision is most sharp. While the normal  field of vision for each eye is about 135 degrees vertically and  about 160 degrees horizontally, only the fovea has the ability to  perceive and send clear, sharply focused visual images to the brain.  
+
+![](images/07666a25211b003b81608f3f4bd2bd9fa3f8ae3b11ed5c7989889c0a16f54dee.jpg)  
+
+This foveal field of vision represents a small conical area of only  about 1 degree. To fully appreciate how small a one-degree field is,  and to demonstrate foveal field, take a quarter from your pocket  and tape it to a flat piece of glass, such as a window. Now back off   $4~1/2$   feet from the mounted quarter and close one eye. The area  of your field of view covered by the quarter is a one-degree field,  similar to your foveal vision.  
+
+We know that you can see a lot more than just that one-degree  cone, but do you know how little detail you see outside of that  foveal cone? For example, outside of a ten-degree cone, concentric  to the foveal one-degree cone, you see only about one-tenth of  what you can see within the foveal field. In terms of an oncoming  aircraft, if you are capable of seeing an aircraft within a pilot  foveal field at 5,000 feet away, with peripheral vision you would  detect it at 500 feet. That is why, when you were learning to fly,  your instructor always told you to “put your head on a swivel,” to  keep your eyes scanning the wide expanse of space in front of your  aircraft.  
+
+![](images/28427d448cb8cfa7bf31ffdba3178eeef9476a120bc486cf99b9b72942fa85f9.jpg)  
+
+# Types of Vision  
+
+•  Photopic Vision.  During daytime or high intensity artificial  illumination conditions, the eyes rely on central vision (foveal  cones) to perceive and interpret sharp images and color of  objects.  
+
+•  Mesopic Vision.  Occurs at dawn, dusk, or under full  moonlight levels and is characterized by decreasing  visual acuity and color vision. Under these conditions, a  combination of central (foveal cones) and peripheral (rods)  vision is required to maintain appropriate visual performance.
+
+ •  Scotopic Vision.  During nighttime, partial moonlight, or  low intensity artificial illumination conditions, central vision  (foveal cones) becomes ineffective to maintain visual acuity  and color perception. Under these conditions, if you look  directly at an object for more than a few seconds, the image  of the object fades away completely (night blind spot).  Peripheral vision (off center scanning) provides the only  means of seeing very dim objects in the dark.  
+
+![](images/72f2982ef366322270340c177e4f4da0a52822655c443ddb655babd0b95bac93.jpg)  
+
+![](images/6ea6064ee399abd4142f8a613672b933cbcf390a8897478d8a8688ba2683434f.jpg)  
+
+# Factors Affecting Vision  
+
+• The greater the object size, ambient illumination, contrast,  viewing time, and atmospheric clarity, the better the visibility  of such an object.
+
+ • During the day, objects can be identified easier at a  great distance with good detail resolution. At night, the  identification range of dim objects is limited and the detail  resolution is poor.
+
+ • Surface references or the horizon may become obscured  by smoke,   ${\mathrm{fog}},$   smog, haze, dust, ice particles, or other  phenomena, although visibility may be above Visual Flight  Rule (VFR) minimums. This is especially true at airports  located adjacent to large bodies of water or sparsely populated  areas where few, if any, surface references are available. Lack  of horizon or surface reference is common on over-water  flights, at night, and in low-visibility conditions.  
+
+![](images/2f52678276b082fcc3b4e81a3e21fa06fc8e1d637af90321f9156bfd22e5b4c3.jpg)  
+
+Flying at night under clear skies with ground lights below can result  in situations where it is difficult to distinguish the ground lights from  the stars. A similar problem is encountered during certain daylight  operations over large bodies of water. Various atmospheric and water  conditions can create a visual scene with no discernible horizon.  
+
+• Excessive ambient illumination, especially from light  reflected off the canopy, surfaces inside the aircraft, clouds,  water, snow, and desert terrain can produce glare that  may cause uncomfortable squinting, eye tearing, and even  temporary blindness.  
+
+• Presence of uncorrected refractive eye disorders such as  myopia (nearsightedness–impaired focusing of distant  objects), hyperopia (farsightedness–impaired focusing of  near objects), astigmatism (impaired focusing of objects in  different meridians), or presbyopia (impaired focusing of  near objects). 
+
+ • Self-imposed stresses such as self-medication, alcohol  consumption (including hangover effects), tobacco  use (including withdrawal), hypoglycemia, and sleep  deprivation/fatigue can seriously impair your vision.
+
+ • Inflight exposure to low barometric pressure without the  use of supplemental oxygen (above 10,000 ft during the  day and above 5,000 ft at night) can result in hypoxia,  which impairs visual performance.
+
+ • Other factors that may have an adverse effect on  visual performance include windscreen haze, improper  illumination of the cockpit and/or instruments, scratched  and/or dirty instrumentation, use of cockpit red lighting,  inadequate cockpit environmental control (temperature  and humidity), inappropriate sunglasses and/or prescription  glasses/contact lenses, and sustained visual workload during  flight.
+
+ • Due to the effects of carbon monoxide on the blood,  smokers may experience a physiological altitude that is  much higher than actual altitude. The smoker is thus  more susceptible to hypoxia at lower altitudes than the  nonsmoker.  
+
+# Focusing  
+
+The natural ability to focus your eyes is critical to flight  safety. It is important to know that normal eyes may  require several seconds to refocus when switching views  between near (reading charts), intermediate (monitoring  instruments), and distant objects (looking for traffic or  external visual references).  
+
+If dark-adapted eyes are exposed to a bright light source  (searchlights, landing lights, flares, etc.) for a period in  excess of 1 second, night vision is temporarily impaired:  Exposure to aircraft anti-collision lights does not impair  night vision adaptation because the intermittent flashes  have a very short duration (less than 1 second).  

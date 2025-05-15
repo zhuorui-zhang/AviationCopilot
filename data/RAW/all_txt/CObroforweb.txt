@@ -1,0 +1,104 @@
+# An ‘Unconscious’ Landing  
+
+Plane Lands Itself in Hayfield as Pilot  Slumbers  
+
+P HYSICIAN  R OBERT  F RAYSER  had lifted off  in his Comanche 400 from the North  Bend, Kansas, airport at 7 a.m., en route for  a meeting in Topeka. He was flying alone,  cruising at 5,500 feet on autopilot, with the  sun coming up on a clear, beautiful day. Per  established routine, he switched the fuel  selector to the auxiliary tank and set up the  navigation system for nearby Topeka.  
+
+About 90 minutes later, Dr. Frayser found  himself in a hay field. The engine was silent.  He was confused, disoriented, and groggy  as he struggled to rouse himself from a deep  sleep. His head was throbbing.  
+
+Thinking he was still in the air, he went  through his landing checklist. As he became  more oriented to his surroundings, a new  reality dawned: The airplane’s right wing was  nearly torn off from an impact with a tree, but  the plane was otherwise intact. Aside from  a fractured wrist, minor cuts, and bruises,  he seemed to be relatively uninjured. But  he had no idea where he was. He had no  memory of landing.  
+
+Dr. Frayser stated that there were no  early warnings or symptoms to alert him.  “I just went to sleep.” The plane, trimmed  for cruise flight and on autopilot, flew a  perfectly straight course over Kansas and  into Missouri until it ran out of fuel, and then  the autopilot gently brought the Comanche in  for landing.  
+
+Since the engine had stopped, no one  heard the aircraft glide to a landing on the  open field. “I was alone, disoriented, injured,  and had a severe headache and ringing in  my ears,” he said. Photo of plane crash  
+
+![](images/b08ef22eb9a273150b138e5b9010974147cc6fea0fbb1380facb74900a057350.jpg)  
+The aftermath of a near-fatal accident  caused by carbon monoxide poisoning.  
+
+Extracting himself from the aircraft, he  struggled a quarter of a mile through snow- covered fields for help, finally stumbling  onto a farmhouse. Dr. Frayser was taken  by ambulance to a hospital, where the  emergency room physician put him on 100  percent oxygen to overcome near-fatal blood  levels of carb oxyhemoglobin.  
+
+Carbon monoxide poisoning from a  cracked muffler had allowed the deadly,  odorless gas to seep into the cabin through  the heater and caused him to fall asleep. The  crack, which had apparently opened after  the last annual inspection, was concealed  by the heat shield and could not be detected  during the pre-flight inspection. “The crack  could have been there for a long time, just  waiting for someone to turn on the heater,”  he said. Frayser did not have a carbon  monoxide detector on board to alert him of  its presence.  
+
+Another 30 minutes in the air might have  been fatal. Carbon monoxide poisoning  would have claimed another victim.  
+
+# Overlooked Safety Issue  
+
+Carbon monoxide poisoning is a safety  issue that pilots tend to ignore, even though  it is the most common industrial poisoning  accident in the United States. When carbon  monoxide poisoning occurs, it can have  significant and fatal consequences for  aircraft occupants.  
+
+Carbon monoxide is a by-product of the  incomplete combustion of carbon-containing  materials. Aviation fuel contains carbon and  is a ready source of carbon monoxide when  burned. Expect carbon monoxide whenever  an internal combustion engine is operating,  and even though piston engines produce the  highest concentrations of carbon monoxide,  exhaust from turbine engines could also  cause carbon monoxide poisoning. In  addition, expect carbon monoxide whenever  a fire occurs, as commonly happens in a  post-crash environment.  
+
+Carbon monoxide is truly a hidden  menace because by itself, it is both a  colorless  and  odorless  gas. An individual  would not be aware of its presence until  symptoms developed, or during treatment  it was determined exposure had occurred.  The least desirable situation would be  incapacitation. In this case, the victim  is powerless to do anything about the  
+
+exposure. Fortunately, because it is a by- product of combustion, carbon monoxide is  frequently associated with other gases that  do have an odor and color.  
+
+By avoiding an environment with known  combustion fumes, you will also avoid  carbon monoxide. The true problem comes  when exposure is so gradual that you don’t  perceive it. You can become incapacitated  before you can vacate the environment. In  an airplane, the result most likely will be a  fatal accident.  
+
+# Why Carbon Monoxide Poisoning  
+
+# Should Concern Pilots  
+
+What is not known is the full extent of  carbon monoxide poisoning in aviation.  Analysis of toxicology samples from fatal  U.S. aircraft accidents between 1967 and  1993 showed that at least 360 victims  had been exposed to sufficient carbon  monoxide before or after the crash to impair  their abilities. Non-fatal carbon monoxide  poisoning in aviation is likely a more  common occurrence than currently believed.  No one is sure how many times pilots or  passengers became ill, not realizing they had  been exposed to carbon monoxide. Because  no significant incident or incapacitation  occurred, the matter was not reported and,  hence, not investigated. Symptoms that  could be attributed to airsickness, altitude  hypoxia, fatigue, or a variety of other  conditions actually could have been carbon  monoxide poisoning.  
+
+Exposure and symptoms may occur  repeatedly over several flights until, finally,  someone suspects carbon monoxide or,  tragically, an accident claims a victim. No  database presently exists that accurately  collects or tracks non-fatal aviation carbon  monoxide exposure information.  
+
+# Toxicity Mechanism  
+
+Carbon monoxide has a very high affinity  for hemoglobin, the molecule in blood  responsible for transporting oxygen through  the body. Carbon monoxide has affinity of  240 times that of oxygen. Carbon monoxide  tightly attaches to the hemoglobin, creating  the compound carb oxyhemoglobin, which  prevents oxygen from binding, thereby  blocking its transport. The result is hypoxia  but through a mechanism different from that  produced by altitude. However, with respect  to symptoms, the end-effects can be very  similar.  
+
+There should be little or no carbon  monoxide in the blood of individuals who  have not been exposed to smoke or  other by-products of combustion. People  living in polluted urban environments may  have between  $3{\cdot}10\%$   carb oxyhemoglobin  concentrations because of the carbon  monoxide contained in the smoke and fumes  they inhale, while a cigar smoker could have  up to   $15\%$  . People in certain occupations  such as foundry workers, welders,  mechanics, firefighters, and tollbooth or  tunnel attendants that expose them to  products of combustion may also have  elevated carbon monoxide baseline levels.  
+
+# Symptoms  
+
+The most common symptoms of carbon  monoxide exposure are shown in Table 1.  These symptoms are typical for an individual  with normal hemoglobin at sea level. You can  expect these symptoms to worsen at altitude  and/or appear sooner than they otherwise  would. Wide personal variations may also  occur, depending on the circumstances and  whether or not the indificual smokes.  
+
+![Table 1 : Carbon Monoxide (CO) Blood  Levels and Possible Symptoms ](images/c2a74833d4c1ff84cfb12a1934c7cdc83e991c72cf1ee5d9aebebfe1bff8e445.jpg)  
+
+# Protection From Carbon  Monoxide Exposure  
+
+First and foremost is pilot education and  awareness. Pilots must understand the  danger posed by carbon monoxide poisoning  and should be alert to the symptoms.  Any unusual cabin smell or sensation  of illness should call for immediate  troubleshooting.  
+
+# •  Turn the cabin heat fully off.  
+
+•  Increase the rate of cabin fresh air  ventilation to the maximum.  
+
+•  Open windows if the flight profile and  aircraft’s operating manual permit such an  action.  
+
+•  If available  (provided it does not  represent a safety or fire hazard) ,   consider using supplemental oxygen.  
+
+•  Land as promptly as possible.  
+
+•  Do not hesitate to let Air Traffic Control  know of your concerns, and ask for vectors  to the nearest airport.  
+
+•  Once on the ground, seek medical  attention.  
+
+•  Before continuing the flight, have the  aircraft inspected by a certified mechanic.  
+
+# Safeguards  
+
+•  The best protection against carbon  monoxide poisoning is to avoid exposure.  
+
+•  Aircraft operators and pilots must ensure  that heating/ventilation systems and  exhaust manifolds in their aircraft are all  in good working order, as specified by the  manufacturer and the Federal Aviation  Administration.  
+
+•  Finally, several devices are available  to monitor for carbon monoxide. The  least expensive are handheld or stick-on  colorimetric devices that change color in  the presence of carbon monoxide. While  effective, they are not perfect or foolproof.  Powered detectors for aviation use are  available as either portable or panel-mounted  units and provide greater reliability.  
+
+Don’t become a statistic. Learn to prevent and avoid this deadly  threat to your flying safety.  
+
+# MEDICAL FACTS FOR  PILOTS  
+
+Written by G.J. Salazar, M.D.  
+
+Prepared by:  Federal Aviation Administration  Civil Aerospace Medical Institute Aerospace Medical Education Division  
+
+To order copies of this brochure, contact:  
+
+FAA Civil Aerospace Medical Institute  Shipping Clerk, AAM-400 P.O. Box 25082 Oklahoma City, OK 73125 Telephone: (405) 954-4831  
+
+Aerospace Medical Education A Key to Aviation Safety  
+
+![](images/c7e9a38143487a7910696e73187e919a29eda28b92366e56d31611f1915c766b.jpg)  
+
+•  Certified mechanics must conduct all required  inspections.  
+
+•  Special attention should be paid to older  aircraft because of corrosion or simple  wear and tear.  
+
+•  A certified mechanic should verify firewall  and aircraft structural integrity and seal any  defects.  

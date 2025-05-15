@@ -1,0 +1,1523 @@
+![](images/dfc68900793110819c90a35b919d8c65534b40982ac09f3c58401129677d98dd.jpg)  
+
+U.S. Department of Transportation Federal Aviation Administration  
+
+# Plane Sense General Aviation Information  
+
+![](images/c5951ec1537edc5e59d9c343bce678d8c1bcd0935e8af11df6bd35b8377295c4.jpg)  
+
+# Plane Sense General Aviation Information  
+
+2008  
+
+# Preface  
+
+Plane Sense  introduces aircraft owners and operators, or prospective aircraft owners and operators, to   basic information about the requirements involved in acquiring, owning, operating, and maintaining   a private aircraft.  
+
+This handbook can be a valuable reference tool for anyone who would like to review the “nuts and bolts”   of aircraft ownership. Aircraft owners and operators, or anyone considering aircraft ownership, should   be familiar with Title 14 of the Code of Federal Regulations (14 CFR), which details regulations for aircraft   owners, operators, pilots, aircraft mechanics, and maintenance providers. Since the requirements can   be updated and the regulations can change, the Federal Aviation Administration (FAA) recommends that   you contact your nearest FAA Flight Standards District Office (FSDO), where the personnel can assist   you with the various requirements for aircraft ownership, operation, and maintenance.  
+
+The FAA has also added information for aviation enthusiasts who own (or are interested in owning) light-  sport aircraft, a new and evolving sector of the general aviation marketplace.  
+
+This handbook highlights regulations and regulatory guidance material, as well as providing advice   regarding where to locate answers to your questions. While  Plane Sense  cannot cover every issue faced   by aircraft owners and operators, this handbook is intended to be a useful guide and will help you locate   the resources to assist you.  
+
+This publication supersedes FAA-8083-19, which was reprinted with editorial updates in 2003.  
+
+This handbook is available free of charge for download, in PDF format, from the FAA Regulatory Support  Division (AFS-600) on the FAA website at www.faa.gov.  
+
+Plane Sense  may be also be purchased from:  
+
+Superintendent of Documents United States Government Printing Office Washington, DC 20402-9325  http://bookstore.gpo.gov  
+
+This handbook is published by and comments should be sent to:  
+
+Federal Aviation Administration Airman Testing Standards Branch (AFS-630) P.O. Box 25082 Oklahoma City, OK 73125 afs630comments@faa.gov  
+
+# Acknowledgments  
+
+Plane Sense  was produced by the Federal Aviation Administration (FAA) with the assistance of The Wicks  Group, PLLC. The FAA wishes to acknowledge the providers of the following images used in this handbook:  
+
+Skycatcher used on the cover and in chapter 6, courtesy of Cessna Aircraft Corporation Cirrus SR20-1 used on the cover and in chapter 1, courtesy of Cirrus Design Eclipse 500 used on the cover, courtesy of Eclipse Aviation Corporation  
+
+The FAA would also like to extend its appreciation to several aviation industry organizations that provided  assistance and input in the preparation of this handbook, including:  
+
+General Aviation Manufacturers Association (GAMA)  
+
+Aircraft Owners and Pilots Association (AOPA)  
+
+Experimental Aircraft Association (EAA)  
+
+# Introduction  
+
+Plane Sense  is a handbook for aviation enthusiasts, especially aircraft owners and operators or those who are  interested in becoming aircraft owners, who are looking for a quick reference guide on a number of general  aviation topics. This handbook is published by the Federal Aviation Administration (FAA).  
+
+The FAA is the executive agency responsible for aviation oversight in the United States. The FAA’s mission is   to provide the safest, most efficient aerospace system in the world.  
+
+The FAA is responsible for the safety of civil aviation. The Federal Aviation Act of 1958 created the agency   under the name Federal Aviation Agency. The FAA adopted its present name in 1967 when it became a part of  the Department of Transportation (DOT). The FAA’s major roles include:  
+
+• Regulating civil aviation to promote safety  • Encouraging and developing civil aeronautics, including new aviation technology  •  Developing and operating a system of air traffic control and navigation for both civil and military aircraft  • Researching and developing the National Airspace System (NAS) and civil aeronautics  •  Developing and carrying out programs to control aircraft noise and other environmental effects of civil  aviation  • Regulating U.S. commercial space transportation  
+
+FAA Headquarters is located in Washington, D.C. However, the FAA is organized into eight geographical  regions and the Mike Monroney Aeronautical Center located in Oklahoma City, Oklahoma. FAA regions are  organized as follows:  
+
+• Alaskan (Alaska)  • Central (Iowa, Kansas, Kentucky, Missouri, Nebraska, Tennessee)  • Eastern (Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, 	    New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, Vermont, Virginia, West Virginia)  • Great Lakes (Illinois, Indiana, Michigan, Minnesota, North Dakota, Ohio, South Dakota, Wisconsin)  • Northwest Mountain (Colorado, Idaho, Montana, Oregon, Utah, Washington, Wyoming)  •  Southern Region (Alabama, Florida, Georgia, Puerto Rico, South Carolina, Virgin Islands)  • Southwest Region (Arkansas, Louisiana, Mississippi, New Mexico, Oklahoma, Texas)  • Western-Pacific Region (Arizona, California, Hawaii, Nevada)  
+
+Within each region, you will find several Flight Standards District Offices (FSDOs). Your local FSDO is your  best resource for questions about aircraft ownership, operation, maintenance, regulatory compliance, and other  issues. FAA inspectors are generally assigned to a FSDO. Aviation safety inspectors (ASIs) can assist you with  issues related to the operation of your aircraft, airman certification, maintenance, and other general questions.  
+
+You can find your local FSDO on the FAA website at www.faa.gov by selecting “About FAA” from the top menu  bar and following the links to locate your local FSDO’s contact information.  
+
+Aircraft certification-related activities are handled by the FAA Aircraft Certification Office (ACO) that serves  your geographic area.  
+
+You can contact your ACO for guidance on:  
+
+• Design approval and certificate management  • U.S. production approvals  • Engineering and analysis questions  • Investigating and reporting aircraft accidents, incidents, and service difficulties  • Designated Engineering Representative (DER) oversight  
+
+You can find the nearest ACO on the FAA website at www.faa.gov by selecting “About FAA” from the top menu  bar and following the links to locate the nearest ACO’s contact information.  
+
+This handbook has been revised to include additional topics and updated website addresses to enable you to find  relevant information more easily. You will also notice that some information is repeated in multiple chapters of  Plane Sense , and this is designed to allow each chapter to stand alone as a reference tool to aid you in locating  the information easily.  
+
+Please contact your local FSDO if you have any questions about the material in  Plane Sense  or how the  information might specifically apply to your aircraft. This handbook is intended to provide general guidance for  aircraft owners and operators; however, you should always ensure that the guidance provided applies to your  specific aircraft and/or your specific situation.  
+
+The FAA website is continually updated. If your question is not answered in this handbook, you can access a  great deal of helpful information on the FAA’s website at www.faa.gov. This new edition of  Plane Sense  is color- coded to assist you in quickly finding useful information.  
+
+The chapters containing information that may be useful to all general aviation readers are coded in   blue :  
+
+Chapter 1: 	 Chapter 11: 	 Appendix A:	 Appendix B:  
+
+Aircraft Owner Responsibilities Obtaining FAA Publications and Records FAA Contact Information Regulatory Guidance Index  
+
+The chapters containing information about aircraft acquisition, registration, and ownership are coded in  green :  
+
+Chapter 2:	 Chapter 3:	 Chapter 4:	 Chapter 5:	 Chapter 6:  
+
+Buying an Aircraft Airworthiness Certificate Aircraft Registration Special Flight Permits Light Sport Aircraft  
+
+The chapters containing information on aircraft maintenance are coded in  red :  
+
+Chapter 7:	 Chapter 8:	 Chapter 9:	 Chapter 10:  
+
+Aircraft Maintenance Maintenance Records Airworthiness Directives Service Difficulty Program You will also note the addition of several new checklists to assist you in applying the information found in   Plane Sense . These checklists and any relevant FAA or other forms discussed in the chapter are located   at the end of that particular chapter for ease of reference. For your convenience, FAA Contact Information   is at the end of this handbook.  
+
+Also, the Regulatory Guidance Index at the end of this handbook locates within each chapter the relevant  regulatory guidance material, including pertinent sections of the Code of Federal Regulations (CFR),   FAA Orders, and Avisory Circulars (ACs).  
+
+The FAA wishes you safe landings as you embark on your own aviation journey.  
+
+# Table of Contents  
+
+Preface ................................................................... iii Acknowledgments .............................................. v Introduction ........................................................  vii  
+
+# Chapter 1:  
+
+# Aircraft Owner Responsibilities ............. 1-1  
+
+Documentation........................................................ 1-1 Aircraft Registration. ............................................... 1-1 14 CFR. ..................................................................... 1-2 Logbooks. ................................................................. 1-2 Aircraft Insurance. ................................................... 1-2 Reporting Aircraft Accidents/Incidents................. 1-2
+
+ 	 Accident ........................................................... 1-2
+
+ 	 Incident ........................................................... 1-2
+
+ 	 Contacting the NTSB ...................................... 1-2
+
+ 	 Filing NTSB Form 6120.1 ............................... 1-3 Aviation Safety Reporting System. .......................... 1-3 
+
+ 	 Purpose ........................................................... 1-3
+
+ 	 Confidentiality ................................................ 1-3
+
+ 	 Filing an Incident Report ............................... 1-3  Safety....................................................................... 1-4 
+
+ 	 Safety Hotline ................................................. 1-4 
+
+ 	 Safety Information ......................................... 1-4  Reporting Stolen Aircraft/Equipment.................... 1-4 
+
+ 	 Law Enforcement ........................................... 1-4 
+
+ 	 Insurance Company ....................................... 1-4 
+
+ 	 Aviation Crime Prevention Institute . ............. 1-4 
+
+ 	 Aircraft Registration Branch......................... 1-4  
+
+# Chapter 2:  
+
+......................................... 2-1 Selecting the Aircraft............................................... 2-1
+
+ 	 Where To Look ................................................ 2-1
+
+ 	 Factors Affecting Resale Value ...................... 2-2
+
+ 	 Overhauls ........................................................ 2-2 Aircraft Records...................................................... 2-2 Aircraft Title............................................................ 2-2 Filing Ownership and Lien Documents ......... 2-3
+
+ 	 When a Lien Is Recorded ................................ 2-3
+
+ 	 Releasing a Recorded Lien............................. 2-3 Aircraft Documents................................................. 2-3
+
+ 	 Bill of Sale or Conditional   Sales Contract ................................................. 2-3
+
+ 	 Airworthiness Certificate ............................... 2-3
+
+ 	 Maintenance Records..................................... 2-3  Manuals................................................................... 2-4 Airworthiness.......................................................... 2-4  Maintenance............................................................ 2-4  Pre-Purchase Inspection......................................... 2-4  Light-Sport Aircraft................................................. 2-4 Amateur-Built Aircraft............................................ 2-4 Military Surplus Aircraft......................................... 2-5  
+
+# Chapter 3:  
+
+Airworthiness Certificate .......................... 3-1 Classifications of Airworthiness Certificates. .......... 3-1 Standard Airworthiness Certificate ............... 3-1 	 Special Airworthiness Certificate .................. 3-2 Issuance of an Airworthiness Certificate................ 3-3 Applying for an Airworthiness Certificate.............. 3-3 FAA Form 8100-2,   Standard Airworthiness Certificate .............. 3-3 	 FAA Form 8130-7,   Special Airworthiness Certificate .................. 3-3 Regulations and Policies......................................... 3-3
+
+ 	 Title 14 of the Code of  
+
+ 	 Federal Regulations ....................................... 3-3
+
+ 	 FAA Orders (as revised) ................................. 3-3
+
+ 	 FAA Advisory Circulars (ACs) (as revised) ... 3-3  
+
+# Chapter 4:  
+
+Aircraft Registration ................................... 4-1 Aircraft Registration Branch................................... 4-1 Eligible Registrants................................................. 4-2 Registering Your Aircraft ....................................... 4-2 Registration Number. .............................................. 4-2
+
+ 	 How To Form an N-Number.......................... 4-2
+
+ 	 Other Requirements  ...................................... 4-2 Special Registration Number.................................. 4-2
+
+ 	 Requesting a Special  
+
+ 	 Registration Number ..................................... 4-3
+
+ 	 Placing the Special Registration   Number on Your Aircraft ............................... 4-3 Aircraft Previously Registered   in the United States................................................. 4-3
+
+ 	 Chain of Ownership........................................ 4-3
+
+ 	 Replacement Certificate of   Aircraft Registration ...................................... 4-3 Aircraft Previously Registered  in a Foreign Country. ............................................... 4-3 AC Form 8050-1,  Aircraft Registration Application............................ 4-4 AC Form 8050-3,   Certificate of Aircraft Registration.......................... 4-4 Amateur-Built Aircraft  Registration and Inspection.................................... 4-4 Light-Sport Aircraft Registration. ........................... 4-5 State Registration Requirements............................ 4-5 Additional Information. .......................................... 4-5  
+
+# Chapter 5:  
+
+# Special Flight Permits ................................. 5-1  
+
+Circumstances Warranting   a Special Flight Permit............................................  5-1 Foreign-Registered Civil Aircraft............................ 5-2 Obtaining a Special Flight Authorization............... 5-2 Application for Airworthiness Certificate............... 5-2  
+
+# Chapter 6:  
+
+# Light-Sport Aircraft ...................................... 6-1  
+
+Definition................................................................. 6-1 LSA Certification.....................................................  6-1 LSA Registration...................................................... 6-1 Available Resources. ................................................ 6-2
+
+ 	 Light Sport Aviation Branch, AFS-610 .......... 6-2
+
+ 	 Experimental Aircraft Association. ............... 6-2 Regulatory Guidance. ..............................................  6-2  
+
+# Chapter 7:  
+
+# .................................. 7-1  
+
+Maintenance Responsibilities. ................................ 7-1 14 CFR Part 91, Subpart E....................................... 7-1 Manufacturer Maintenance Manuals..................... 7-2 Preventive Maintenance. ......................................... 7-2 Inspections............................................................... 7-2
+
+ 	 Annual Inspection ........................................... 7-2
+
+ 	 100-Hour Inspection ...................................... 7-2
+
+  	 Condition Inspection ...................................... 7-2 Other Inspection Programs....................................  7-2
+
+ 	 Progressive Inspections .................................. 7-3
+
+ 	 Altimeter System Inspection .......................... 7-3
+
+ 	 Transponder Inspection ................................. 7-3
+
+ 	 Preflight Inspection ......................................... 7-3 Repairs and Alterations...........................................  7-3 Minimum Equipment List/  Configuration Deviation List................................... 7-3 FAA Resources. ........................................................ 7-3 Experimental Aircraft. ............................................. 7-3  
+
+# Chapter 8:  
+
+Maintenance Records ................................. 8-1 Responsibilities of the Aircraft Owner...................  8-1  Logbooks. ................................................................. 8-2 Airworthiness Directives......................................... 8-2 Safety Directives...................................................... 8-2 Service Bulletins...................................................... 8-2 FAA Form 337,   Major Repair and Alteration................................... 8-2 Entries into Aircraft Maintenance Records............ 8-2
+
+ 	 14 CFR Part 43, Section 43.9, 
+
+ 	 Content, form, and disposition of 
+
+ 	 maintenance, preventive maintenance,
+
+ 	 rebuilding, and alteration records (except 
+
+ 	 inspections performed in accordance 
+
+ 	 with part 91, part 125,  $\S\imath_{35.411}(a)(\imath),$  , and 
+
+ 	 §135.419 of this chapter .................................. 8-3
+
+ 	 14 CFR Part 43, Section 43.11, 
+
+ 	 Content, form, and disposition of records 
+
+ 	 for inspections conducted under parts 91
+
+ 	 and 125 and §§135.411(a)(1) and 135.419 
+
+ 	 of this chapter ................................................   8-3
+
+ 	 14 CFR Part 91, Section 91.409,   Inspections ...................................................... 8-3
+
+ 	 14 CFR Part 91, Section 91.411,   Altimeter system and altitude   reporting equipment tests and inspections ... 8-3
+
+  14 CFR Part 91, Section 91.413,  
+
+ 	 ATC transponder tests and inspections ......... 8-3
+
+ 	 14 CFR Part 91, Section 91.207,   Emergency locator transmitters ................... 8-3 Amateur-Built Aircraft. ........................................... 8-4 Available Resources. ................................................ 8-4  
+
+# Chapter 9:  
+
+Airworthiness Directives ........................... 9-1 Types of ADs Issued................................................ 9-1 Standard AD Process............................................... 9-1 Emergency AD......................................................... 9-1 Superseded AD........................................................ 9-2 Compliance with ADs.............................................. 9-2 Amateur-Built Aircraft............................................ 9-2 Summary of ADs. ..................................................... 9-2 Obtaining ADs......................................................... 9-2  
+
+# Chapter 10:  
+
+Background. ..........................................................  10-1 FAA Form 8010-4,  Malfunction or Defect Report..............................  10-1 Maintenance Alerts..............................................  10-2
+
+ 	 Background ..................................................  10-2
+
+ 	 Accessing Maintenance Alerts ....................  10-2
+
+ 	 Contact Information ....................................  10-2  
+
+# Chapter 11:  
+
+# Obtaining FAA Publications  
+
+and Records ...................................................  11-1 Advisory Circulars................................................  11-1 Airworthiness Directives.....................................  11-1 Temporary Flight Restrictions.............................  11-2 Notice to Airmen..................................................  11-2 14 CFR. ..................................................................  11-2 Handbooks and Manuals.....................................  11-2 Aircraft Records...................................................  11-2
+
+ 	 Request Aircraft Records ............................  11-2
+
+ 	 Format .........................................................  11-2 Airman Records....................................................  11-3 Appendix A: FAA Contact Information . ..........................  A-1  
+
+Appendix B: Regulatory Guidance Index .......................  B-1  
+
+![](images/ea556d920d3ca5b7220b92003992e6cb5f9d35533b8fbf1a6c244ca9125dcf66.jpg)  
+
+# Aircraft Owner Responsibilities  
+
+A ircraft ownership is a serious undertaking, and you should be familiar with the obligations  	  and responsibilities of aircraft ownership before you make the decision to purchase an  aircraft. Aircraft owners have a variety of responsibilities that have their foundation in the Code  of Federal Regulations (CFR).  
+
+# Documentation  
+
+Do you know your ARROW? Before you fly, you need to ensure that you have all of the required  documentation on your aircraft. You are responsible for carrying the following documentation  on your aircraft at all times:  
+
+A—Airworthiness Certificate  
+
+R—Registration Certificate R— Radio Station License (Federal Communications Communication (FCC) Radio Station  License, if required by the type of operation) O— Operating Limitations (which may be in the form of a Federal Aviation Administration  (FAA) -approved Airplane Flight Manual (AFM) and/or Pilot’s Operating Handbook  (POH)) W—Weight and Balance Documents  
+
+Some of these documents are addressed in this chapter, and others are covered in later  chapters.  Figure 1-1  at the end if this chapter is an ARROW checklist you can use to ensure you  have all of the required documents. You can expect an FAA aviation safety inspector (ASI) to  ask for these documents any time he or she is inspecting your aircraft and/or assisting you with  a question regarding your aircraft.  
+
+m  CAUTION: A radio station license is required for any international operations. You must  complete an FCC Form 605, Quick-Form Application for Authorization in the Ship, Aircraft,  Amateur, Restricted and Commercial Operator, and General Mobile Radio Services, available   at www.fcc.gov to obtain an FCC radio station license.  
+
+# Aircraft Registration  
+
+The FAA Civil Aviation Registry Aircraft Registration Branch (AFS-750) maintains registration   records on individual aircraft and serves as a repository for airworthiness documents received  from FAA field offices. As an aircraft owner, you are responsible for immediately notifying  AFS-750 of any change of permanent mailing address, the sale or export of your aircraft, or the  loss of your ability to register an aircraft in accordance with Title 14 of the Code of Federal  Regulations (14 CFR) part 47, section 47.41.  
+
+Figure 1-2  at the end of this chapter is a sample FAA  Change of Address Notification you can use to inform  AFS-750. Aircraft registration is addressed in more  detail in chapter 4.  
+
+# 14 CFR  
+
+14 CFR includes rules prescribed by the FAA gover-  ning all aviation activities in the United States.  A wide variety of activities are regulated, such as  airplane design, typical airline flights, pilot training  activities, hot-air ballooning, and even model rocket  launches. The rules are designed to promote safe  aviation while protecting pilots, passengers, and the  general public from unnecessary risk.  
+
+As an aircraft owner, you are responsible for compli-  ance and familiarity with the applicable 14 CFR  part(s) concerning the operation and maintenance   of your aircraft. While the regulations cited below   are not exhaustive, they are a starting point as you  consider aircraft ownership. It is essential that you  remember that you are responsible for complying  with  all  14 CFR parts applicable to your aircraft and  aircraft operations.  
+
+•  As an aircraft owner, you should be familiar with  the provisions of 14 CFR Part 43, Maintenance,  Preventive Maintenance, Rebuilding, and Altera-  tion, and 14 CFR Part 91, General Operating and  Flight Rules. •  If you are also a pilot, you should be familiar with   the provisions of 14 CFR Part 61, Certification:   Pilots, Flight Instructors, and Ground Instructors,  and 14 CFR Part 67, Medical Standards and  Certification.  
+
+Questions regarding 14 CFR can be addressed to  your local Flight Standards District Office (FSDO).  Information about obtaining copies of 14 CFR parts  and FAA publications can be found in chapter 11.  
+
+# Logbooks  
+
+Each aircraft has a unique set of logbooks that   document historical data dating back to the manu- facturing date of the aircraft. As an aircraft owner,  you have a regulatory obligation to ensure that   your logbooks are complete and kept up to date.  
+
+Aircraft logbooks enable the aircraft owner to keep  records of the entire aircraft in chronological order  including: inspections, tests, repairs, alterations,   Airworthiness Directive (AD) compliance, service  bulletins, and equipment additions, removals, or  exchanges. Most logbooks also include sections for   major alterations and altimeter/static system checks.  Anyone performing maintenance on your aircraft   will need complete aircraft logbooks to review the  aircraft’s compliance history before performing main- tenance on your aircraft. Information about aircraft  maintenance and aircraft maintenance records can  be found in chapters 7 and 8, respectively.  
+
+# Aircraft Insurance  
+
+Aircraft insurance is an important consideration   for any aircraft owner. The type(s) and amount of   insurance you should carry on your aircraft are  influenced by several factors, and you should discuss  these decisions with an insurance agent familiar with  providing aviation insurance policies. Depending   on the usage of your aircraft and who might be flying  the aircraft, you may need Owners, Renters and/or  Certified Flight Instructor (CFI) insurance policies  for your aircraft. Responsible aircraft owners always  carry sufficient insurance on their aircraft.  
+
+m  CAUTION: You should ensure that you are in  compliance with any state insurance requirements  relating to aircraft ownership.  
+
+# Reporting Aircraft Accidents/Incidents  
+
+Aircraft owners are responsible for complying   with Title 49 of the Code of Federal Regulations   (49 CFR) part 830 regarding the reporting of air- craft accidents and incidents. You are required to  notify the National Transportation Safety Board  (NTSB) immediately of aviation accidents and   certain incidents.  
+
+# Accident  
+
+An accident is defined in 49 CFR part 830 as “an  occurrence associated with the operation of an   aircraft that takes place between the time any person  boards the aircraft with the intention of flight and   all such persons have disembarked, and in which any  person suffers death or serious injury, or in which   the aircraft receives substantial damage.”  
+
+# Incident  
+
+An incident is defined in 49 CFR part 830 as “an  occurrence other than an accident that affects or  could affect the safety of operations.”  
+
+# Contacting the NTSB  
+
+Contact the nearest NTSB regional office to file a  report.  Reports of accidents or incidents should be   made to the NTSB regional office associated with the  state in which the accident or incident occurred. NTSB regions are organized as follows:  
+
+•   Eastern (Alabama, Connecticut, Delaware,  Florida, Georgia, Kentucky, Maine, Maryland,  Massachusetts, Mississippi, New Hampshire,   New Jersey, New York, North Carolina,  Pennsylvania, Puerto Rico, Rhode Island,   South Carolina, Tennessee, Vermont, Virgin  Islands, Virginia, West Virginia); •  Central (Arkansas, Colorado, Illinois, Indiana,  Iowa, Kansas, Louisiana, Michigan, Minnesota,  Missouri, Nebraska, New Mexico, North  Dakota, Ohio, Oklahoma, South Dakota, Texas,  Wisconsin); •  Western (American Samoa, Arizona, California,  Guam, Hawaii, Idaho, Montana, Nevada, Oregon,  Utah, Washington, Wyoming); and • Alaska (Alaska).  
+
+Contact information for the NTSB regional offices is  located at the end of this chapter in  Figure 1-3  and on  the NTSB website at www.ntsb.gov. Your local FSDO  can also direct you to the correct NTSB regional office  in the event of an aircraft accident or incident.  
+
+For the purpose of notifying the NTSB, a phone call   is sufficient initially, but a written followup is  required. You will probably be directed to complete  NTSB Form 6120.1, Pilot/Operator Aircraft   Accident/Incident Report, which is available on the  NTSB website at www.ntsb.gov, from the nearest  NTSB regional office, or from your local FSDO.  
+
+# Filing NTSB Form 6120.1  
+
+In accordance with 49 CFR part 830, section 830.5,  you must file a report with the NTSB regional office  nearest the accident or incident within 10 days after  an accident for which notification is required.  
+
+Complete Form 6120.1, sign it, and send it by   mail or fax to the applicable NTSB regional office.   Figure 1-4  at the end of this chapter is a sample  NTSB Form 6120.1.  
+
+# Aviation Safety Reporting System  
+
+The Aviation Safety Reporting System (ASRS) is   an important facet of the continuing effort by   government, industry, and individuals to maintain  and improve aviation safety. The ASRS, which is  administered by the National Aeronautics and Space   Administration (NASA), collects voluntarily submit- ted aviation safety incident/situation reports   from pilots, controllers, and others.  
+
+The ASRS acts on the information these reports  contain. It identifies system deficiencies and issues  alerting messages to persons in a position to correct  them. The database is a public repository which  serves the needs of FAA and NASA and those of other  organizations worldwide engaged in research and the  promotion of safe flight.  
+
+# Purpose  
+
+The ASRS collects, analyzes, and responds to volun- tarily submitted aviation safety incident reports in  order to lessen the likelihood of aviation accidents.  
+
+ASRS data is used to:  
+
+•  Identify deficiencies and discrepancies in the  National Airspace (NAS) so that these can be  remedied by appropriate authorities.  •  Support policy formulation and planning for,   and improvements to, the NAS.  •  Strengthen the foundation of aviation human  factors safety research. This is particularly im- portant since it is generally conceded that over  two-thirds of all aviation accidents and incidents  are caused by human performance errors.  
+
+# Confidentiality  
+
+Pilots, air traffic controllers, flight attendants,  mechanics, ground personnel, and others involved   in aviation operations submit reports to the ASRS  when they are involved in, or observe, an incident   or situation in which aviation safety was  compromised. All submissions are voluntary.  
+
+Reports sent to the ASRS are held in strict confidence.  ASRS de-identifies reports before entering them into   the incident database. All personal and organiza- tional names are removed. Dates, times, and related  information that can be used to infer an identity are  either generalized or eliminated.  
+
+# Filing an Incident Report  
+
+An ASRS Incident Report is often referred to as   a “NASA Strip.” When submitting an ASRS Incident  Report, or NASA Strip, the submitter completes   the form and sends it to the address indicated, and   NASA returns the identification strip to the   submitter as confirmation of receipt of the form.  
+
+You can obtain more information, a copy of the  incident report form, or file the form electronically   on the NASA website at http://asrs.arc.nasa.gov.   Figure 1-5  at the end of this chapter is a sample   ASRS Incident Report.  
+
+# Safety  
+
+The FAA has a number of aviation safety resources  available on its website at www.faa.gov. You can  access safety information by selecting “Safety” from  the main menu bar.  
+
+# Safety Hotline  
+
+You can call the FAA 24-Hour Safety Hotline at
+
+ (800) 255-1111 or email the FAA Safety Hotline at 
+
+  9-AWA-ASY-SAFETYHOTLINE@faa.gov to report:  
+
+• Maintenance improprieties  • Aircraft incidents  • Suspected unapproved parts  • Violations of 14 CFR  
+
+You can provide your contact information or file an  anonymous report with the FAA Safety Hotline.  
+
+# Safety Information  
+
+You can also find additional information and   aviation data and statistics on the FAA website   at www.faa.gov including:  
+
+• Temporary Flight Restrictions (TFRs) • Aircraft Safety Alerts  • Safety Program Airmen Notification System  • Information for operators • Safety alerts for operators • CertAlerts for certificated airports •  Traffic Collision Avoidance System (TCAS) Safety  Bulletin •  Aviation Safety Information Analysis and Sharing  (ASIAS) • Accident and incident data • Aviation accident reports and statistics • Runway incursion data and statistics • Weather  
+
+# Law Enforcement  
+
+You should immediately report a stolen aircraft to   the local law enforcement agency having jurisdiction  at the site of the theft. Ask the agency to report the  theft to the Federal Bureau of Investigation  (FBI)  National Crime Information Center, as this will  initiate notifications to the appropriate government  offices.  
+
+# Insurance Company  
+
+After filing the appropriate reports with your local law  enforcement agency, notify your insurance company  or agent of the stolen aircraft, as appropriate.  
+
+# Aviation Crime Prevention Institute  
+
+You should also notify the Aviation Crime Prevention  Institute (ACPI) of the stolen aircraft. After you  give ACPI all available information, ACPI will send  notices of the theft to industry contacts, embassies,  and other agencies, if applicable. You can contact the  ACPI at:  
+
+Aviation Crime Prevention Institute  226 N. Nova Road  Ormond Beach, FL 32174 USA  (800) 969-5473  toll-free (386) 341-7270  outside U.S. (386) 615-3378  fax http://www.acpi.org  
+
+# Aircraft Registration Branch  
+
+If enough time has passed that the return of the  aircraft is no longer expected, the owner should write   to AFS-750 requesting that the registration for this   aircraft be canceled. The request should fully describe  the aircraft, indicate the reason for cancellation, be  signed in ink by the owner, and show a title for the  signer, if appropriate.  
+
+# Reporting Stolen Aircraft/Equipment  
+
+As an aircraft owner, you should be prepared to  handle the theft of your aircraft or aircraft equipment.  In order to manage the reporting process effectively,  you should keep separate records (in a location away  from the aircraft) of serial numbers for powerplants,  avionics, and other installed items. Report these  serial numbers at the same time the aircraft is stolen.  
+
+![ARROW Checklist ](images/03d59710d2e9afcdcc65a4209d777dba284a726714999e2ade37029f211a5098.jpg)  
+
+![](images/78446b691001f048db1ca3f132d954430d0fbdae96b75359f953f8279f4174b7.jpg)  
+
+# NTSB Regional Offices  
+
+# Eastern Region  
+
+Ashburn Regional Office    45065 Riverside Parkway   Ashburn, Virginia 20147 Phone: (571) 223-3930    Fax: (571) 223-3926  
+
+Parsippany Regional Office  2001 Route 46   Suite 310    Parsippany, New Jersey  07054 Phone: (973) 334-6420   Fax: (973) 334-6759  
+
+Atlanta Regional Office  Atlanta Federal Center   60 Forsyth Street, SW   Suite 3M25   Atlanta, Georgia  30303 Phone: (404) 562-1666   Fax: (404) 562-1674  
+
+Miami Regional Office   8405 N.W. 53rd Street   Suite B-103   Miami, Florida  33166 Phone: (305) 597-4610   Fax: (305) 597-4614  
+
+Alabama, Connecticut, Delaware, Florida, Georgia, Kentucky, Maine, Maryland,  Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina,  Pennsylvania, Puerto Rico, Rhode Island, South Carolina, Tennessee, Vermont, Virgin  Islands, Virginia, West Virginia  
+
+# Central Region  
+
+Chicago Regional Office  31 West 775 North Avenue   West Chicago, Illinois  60185 Phone: (630) 377-8177   Fax: (630) 377-8172  
+
+Denver Regional Office  4760 Oakland Street   Suite 500   Denver, Colorado  80239  Phone: (303) 373-3500   Fax: (303) 373-3507  
+
+Arlington Regional Office   624 Six Flags Drive    Suite 150   Arlington, Texas  76011 Phone: (817) 652-7800   Fax: (817) 652-7803  
+
+Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Louisiana, Michigan, Minnesota, Missouri,  Nebraska, New Mexico, North Dakota, Ohio, Oklahoma, South Dakota, Texas, Wisconsin  
+
+Figure 1-3.  NTSB Regional Offices.  The updated list of NTSB Regional Offices, including office hours, is  available on the NTSB website at www.ntsb.gov.  
+
+# NTSB Regional Offices  
+
+# Western Region  
+
+Seattle Regional Office   19518 Pacific Highway South   Suite 201  Seattle, Washington  98188 Phone: (206) 870-2200   Fax: (206) 870-2219  
+
+Gardena Regional Office  1515 W. 190th Street  Suite 555  Gardena, California 90248 Phone: (310) 380-5660  Fax: (310) 380-5666  
+
+Hawaii Regional Office Telework Location  
+
+American Samoa, Arizona, California, Guam, Hawaii, Idaho, Montana, Nevada, Oregon,  Utah, Washington, Wyoming  
+
+# Alaska Region  
+
+Anchorage Regional Office  222 West 7th Avenue   Room 216, Box 11   Anchorage, Alaska  99513 Phone: (907) 271-5001   Fax: (907) 271-3007  
+
+# Alaska  
+
+![](images/57ee021b45ca136d5cd7057e683f03ee6b23cc5d7c77800eb81f506de65890f7.jpg)  
+
+Figure 1-4.  NTSB Form 6120.1, Pilot/Operator Aircraft Accident/Incident Report.  You can obtain instructions  for completing NTSB Form 6120.1 on the NTSB website at www.ntsb.gov or from your local FSDO.  
+
+![](images/def9c04c8b17d8864cb253ced267f6250de49c1b706bc31ac4046e5eb576aab7.jpg)  
+
+![](images/6e890f735ac934e8454b3eb1367e36f971cc176ab933a364f9108bc42a69464d.jpg)  
+
+![](images/db99c34b3c3f229daa73096e20d8ba816da0cde6fef1fc4ffb54b31139d43248.jpg)  
+
+![](images/607a6e6295767542290c6050e0fc4dbcaafda2fb7798405741f79f81c636e56c.jpg)  
+
+![](images/84081dd95af256c78f9313d82f3028d8e7fb546d3e09d7cf441844898cb0ad9c.jpg)  
+
+![](images/ef679fdf63884939d3661f83c3046aaea6bd0ca35a0aea94a5865ccc17f85081.jpg)  
+
+#  
+
+#  
+
+![](images/28b9d05ff89e730bad2f9a01b78d5ebb957654cf0671bee77e4168e0192d6c86.jpg)  
+
+![](images/29adca435caf63c82f1e0aecbaa1a2458101d766efe36d7becc5287fdeca8424.jpg)  
+
+Figure 1-5.  ASRS Incident Report.  You can obtain an ASRS Incident Report and/or file the form online at the  NASA website at http://asrs.arc.nasa.gov/.  
+
+#  
+
+#  
+
+![](images/bb1aa5e5b0688575a1a3bcce6505db20933944860e558cad15aa0502374c9e2f.jpg)  
+
+![](images/da907ea0b0214af710993be22ccab432187865947f3dfbe64f78944b69d0db91.jpg)  
+
+# Buying an Aircraft  
+
+T 	he purchase of an aircraft represents a major commitment that should be approached   	 carefully and cautiously, especially when buying a used aircraft. For many aircraft owners,  it represents the largest single lifetime investment next to buying a home. Quite often, the  purchase price of an aircraft approximates or exceeds the price of a new home.  
+
+Particularly when buying a used aircraft, it is wise to have the selected aircraft inspected by   a qualified person or facility before you complete the transaction. The condition of the air-  craft and the state of its maintenance records can be determined by persons familiar with the   particular make and model. Pre-purchase inspections should be performed by a Federal  Aviation Administration (FAA) certificated airframe and powperplant mechanic (A&P) or   an approved repair station. The Buying an Aircraft Checklist ( Figure 2-1  at the end of this  chapter) is a suggested list of items to consider when purchasing an aircraft.  
+
+# Selecting the Aircraft  
+
+One of the most common mistakes in purchasing an aircraft is to make a decision too quickly.  Take the time to analyze your requirements carefully and be realistic. Consider the typical   flight loading, trip distance, and conditions of flight, then compare aircraft. If possible, rent   the type of aircraft that interests you to determine how well it meets your requirements. Keep   in mind that the biggest expense of owning an aircraft is not always the initial purchase price.  
+
+# Where to Look  
+
+Once you have chosen the type of aircraft that will fit your needs, shop around and do some  pricing. For retail and wholesale price information, check with an aviation trade association,  bank, other financial institution, or Fixed Base Operator (FBO) for the latest aircraft bluebook  values. There are several good publications available that advertise aircraft for sale. Your   local FBO can be very helpful as you look for the right aircraft.  
+
+m  CAUTION: Try to keep your search for an aircraft close to home. If a problem pops up   after the sale, you may not find the long-distance seller as willing to help you as someone   closer to home.  
+
+# Factors Affecting Resale Value  
+
+Know the major factors that affect resale value.  Generally speaking they are:  
+
+•  Engine hours—perhaps the most common in-  fluence on resale value. The closer an engine is to   its recommended time between overhaul (TBO),   the lower the value. There are many factors that  affect engine health, and a high-time engine is   not necessarily bad. Regular use helps keep seals  and other engine components lubricated and in  good shape.  
+
+•  Installed equipment—such as avionics, air condi-  tioning, deicing gear and interior equipment.   The most valuable equipment is usually avionics,   which can easily double the value of some older  
+
+aircraft. The newer the technology, the higher   the value of the aircraft.  •  Airworthiness directives (ADs)—issued by the  FAA for safety reasons. Once issued, owners are  required to comply with the AD within the time  period allotted. It is important to look at the AD  history of an aircraft and ensure the logbooks  show compliance with all applicable ADs. ADs   are discussed in greater detail in chapter 9. •  Damage history—it may be difficult to locate   a complete damage history for an aircraft. Any  aircraft with a damage history should be closely  scrutinized to ensure it has been properly  repaired in accordance with the applicable Title  14 of the Code of Federal Regulations (14 CFR)  parts and recommended practices.  •  Paint/Interior—as is the case with homes, paint  can be used to give “tired” aircraft a quick face- lift. Check new paint jobs carefully for evidence   of corrosion under the surface. Interior items  should be checked for proper fit and condition.  
+
+# Overhauls  
+
+Be careful of the terminology used to describe   engine condition. Do not confuse a top overhaul with  a major overhaul, or a major overhaul with a factory   remanufactured “zero-time” engine. A top overhaul  involves the repair of engine components outside of   the crankcase. A major overhaul involves the com- plete disassembly, inspection, repair, and reassembly  of an engine to specified limits. If an engine has had  a top or major overhaul, the logbooks must still show  the total time on the engine, if known, and its prior  maintenance history. A “zero-time” engine is one  that has been overhauled to factory new limits by the  original manufacturer and is issued a new logbook  without previous operating history.  
+
+# Aircraft Records  
+
+Aircraft records maintained by the FAA are on file   at the Mike Monroney Aeronautical Center in  Oklahoma City, Oklahoma. Copies of aircraft records  are available for review in CD format or paper. For  information on ordering and costs, contact the FAA   Civil Aviation Registry Aircraft Registration Branch  (AFS-750). Copies of aircraft records may also be  requested online. Visit www.faa.gov and select the  “Aircraft Registration” link. There may be other  records on file at federal, state, or local agencies that  are not recorded with the FAA. AFS-750 contact  information is in the FAA Contact Information  appendix on pages A1–A2 of this handbook.  
+
+Make sure the following documents are available   and in proper order for the aircraft:  
+
+• Airworthiness Certificate • Engine and airframe logbooks • Aircraft equipment list • Weight and balance data, placards  •  FAA-approved Airplane Flight Manual (AFM)  and/or Pilot’s Operating Handbook (POH)  
+
+m  CAUTION: Missing documents, pages, or  entries from aircraft logbooks may cause significant  problems for the purchaser and reduce the value   of the aircraft.  
+
+# Aircraft Title  
+
+The Federal Aviation Act requires the FAA to main-  tain a recording system for aircraft bills of sale,   security agreements, mortgages, and other liens.   This is done at AFS-750, which also processes  applications for, and issues, aircraft registration  certificates. The two systems are linked together  because you must prove ownership in order to   be entitled to register an aircraft.  
+
+“Clear title” is a term commonly used by aircraft   title search companies to indicate there are no liens   (e.g., chattel mortgage, security agreement, tax  lien, artisan lien) in the FAA aircraft records. Title  searches for the aviation public are not performed by  AFS-750; however, the aircraft records contain   all of the ownership and security documents that  have been filed with the FAA.  
+
+AFS-750 records acceptable security instruments.   In addition, some states authorize artisan liens  (mechanic liens). These also need to be recorded. Be  sure to check your state’s statutes regarding liens.  
+
+m  CAUTION: Federal liens against an owner   (drug, repossession, etc.) may not show up on your  title search.  
+
+State law determines lien and security interests.  Although there is no federal requirement to file lien  or security instruments with the FAA, the parties   to these transactions can file their qualifying  documents with AFS-750.  
+
+You may search the aircraft records, or have this  done by an attorney or aircraft title search company.  
+
+m  CAUTION: FAA registration cannot be used in  any civil proceeding to establish proof of ownership.  
+
+There is no substitute for examining the aircraft’s  records to secure an ownership history and to   determine if there are any outstanding liens or  mortgages. This procedure should help avoid a   delay in registering an aircraft.  
+
+# Filing Ownership and Lien Documents  
+
+Filing ownership and lien documents constitutes  formal notice to the world of the ownership and   security interests recorded. A person who engages   in a financial transaction involving a U.S. registered  aircraft who does not have a title search performed   is taking a risk. Under the law, that person will be   charged with knowing what is on file with the FAA,   even if he or she does not actually know. A simple  title search will show the federally recorded owner- ship and lien status of any aircraft registered in   the United States.  
+
+# When a Lien Is Recorded  
+
+When a security agreement or lien document is  recorded, the FAA sends an Aeronautical Center (AC)   Form 8050-41, Conveyance Recordation Notice, to  the secured party. This notice describes the affected  aircraft (and other eligible collateral such as engines,  propellers and air carrier spare parts locations). It  also identifies the recorded document by its date,  the parties, the FAA recording number, and date  of recordation. This recordation notice is sent as a  confirmation that the lien has been recorded and  added to the aircraft record.  
+
+# Releasing a Recorded Lien  
+
+The FAA Form 8050-41 may be used as a release   if the secured party signs below the release statement  and returns the form to the AFS-750. The FAA may  
+
+also accept as a release a document that describes  the affected collateral, specifically identifies the lien,  and contains a statement releasing all lienholder  rights and interest in the described collateral from  the terms of the identified lien. The release document  must be signed in ink by the secured party and show  the signer’s title, as appropriate.  
+
+A new AC Form 8050-41 may be requested by con-  tacting AFS-750. You will need to describe the aircraft  and the lien document sufficiently to identify the  specific document needing release. AFS-750 contact  information is in the FAA Contact Information  appendix on pages A1–A2 of this handbook.  
+
+# Aircraft Documents  
+
+There are numerous documents that should be   reviewed and transferred when you purchase an  aircraft.  
+
+# Bill of Sale or Conditional Sales Contract  
+
+The bill of sale or conditional sales contract is your  proof of purchase of the aircraft and will be recorded  with the FAA to protect your ownership interest.  
+
+# Airworthiness Certificate  
+
+The aircraft should have either FAA Form 8100-2,  Standard Airworthiness Certificate, or FAA Form  8130-7, Special Airworthiness Certificate.  
+
+# Maintenance Records  
+
+The previous owner of the aircraft should provide   the aircraft’s maintenance records containing the  following information:  
+
+•  The total time in service of the airframe, each  engine, and each propeller; •  The current status of life-limited parts of each  airframe, engine, propeller, rotor, and appliance; •  The time since last overhaul of all items installed  on the aircraft that are required to be overhauled  on a specified time basis; •  The identification of the current inspection status  of the aircraft, including the time since the last  inspection required by the inspection program  under which the aircraft and its appliances are  maintained; •  The current status of applicable ADs, including   for each the method of compliance, the AD  number, revision date, and if the AD involves  recurring action, the time and date when the next  action is required; and •  A copy of current major alterations to each  airframe, engine, propeller, rotor, and appliance.  
+
+# Manuals  
+
+Manufacturers produce owner’s manuals, main-  tenance manuals, service letters and bulletins, and  other technical data pertaining to their aircraft.  These may be available from the previous owner, but  are not required to be transferred to a purchaser.   If the service manuals are not available from the pre- vious owner, you can usually obtain them from   the aircraft manufacturer.  
+
+# Airworthiness  
+
+Two conditions must be met for a standard category  aircraft to be considered airworthy:  
+
+•  The aircraft conforms to its type design (type  certificate). Conformity to type design is attained  when the required and proper components are  installed that are consistent with the drawings,  specifications, and other data that are part of the   type certificate. Conformity includes applicable  Supplemental Type Certificate(s) (STC) and   field-approval alterations. •  The aircraft is in condition for safe operation,  referring to the condition of the aircraft with  relation to wear and deterioration.  
+
+# Maintenance  
+
+14 CFR part 91, section 91.403, places primary  responsibility upon the owner for maintaining the  aircraft in an airworthy condition. This includes   compliance with applicable ADs. The owner is  responsible for ensuring that maintenance personnel  make appropriate entries in the aircraft main-  tenance records, indicating that the aircraft has been  approved for return to service. In addition, the owner  is responsible for having maintenance performed  that may be required between scheduled inspections.  Inoperative instruments or equipment that can be  deferred under 14 CFR part 91, section 91.213(d)(2),   will be placarded and maintenance recorded in  accordance with 14 CFR part 43, section 43.9.  
+
+# Pre-Purchase Inspection  
+
+Before buying an aircraft, you should have a mechanic  you trust give the aircraft a thorough inspection   and provide you with a written report of its condition. While a pre-purchase inspection need not be an  annual inspection, it should include at least a dif-  ferential compression check on each cylinder of the   engine and any other inspections necessary to  determine the condition of the aircraft. In addition   to a mechanical inspection, the aircraft logbooks   and other records should be carefully reviewed for   such things as FAA Form 337, Report of Major  Repair or Alteration, AD compliance, the status of  service bulletins and letters, and aircraft/component  serial numbers.  
+
+# Light-Sport Aircraft  
+
+Light-sport aircraft is a growing sector of the general   aviation community, specific to the United States.  Several resources are available if you have questions   about acquiring a light-sport aircraft. You can contact  the FAA Light Sport Aviation Branch (AFS-610),   your local FAA Flight Standards District Office 
+
+ (FSDO), or the Experimental Aircraft Association 
+
+ (EAA) for assistance. Chapter 6 discusses light-sport  aircraft in greater detail. AFS-610 contact informa- tion is in the FAA Contact Information appendix on    pages A1–A2 of this handbook.  
+
+# Amateur-Built Aircraft  
+
+There are several unique considerations when  purchasing an amateur-built aircraft. The pros-  pective buyer is advised to have someone familiar   with the type of aircraft check the aircraft of interest  for workmanship, general construction integrity,   and compliance with the applicable 14 CFR parts.  You can contact your local FAA Manufacturing  Inspection District Office (MIDO) or FSDO to speak  with an FAA aviation safety inspector (ASI) who  can explain the requirements for experimental  certification.  
+
+Things to consider when buying an amateur-built  aircraft:  
+
+•  Examine the Special Airworthiness Certificate   and its operating limitations. This certificate is  used for all aircraft that fall under experimental  status and states for what purpose it was issued.  The operating limitations specify any operating  restrictions that may apply to the aircraft. •  Check the aircraft maintenance records of   the airframe, engine, propeller, and accessories.  Under 14 CFR part 91, sections 91.305 and  91.319(b), all initial flight operations of experi- mental aircraft may be limited to an assigned  flight test area. This is called Phase I. The   aircraft is flown in this designated area until it   is shown to be controllable throughout its normal  range of speeds and all maneuvers to be executed,  and that it has not displayed any hazardous  operating characteristics or design features.  The required flight time may vary for each  type of aircraft and is covered in the operating  limitations. •  After the flight time requirements are met, the   owner/operator endorses the aircraft logbook  with a statement certifying that the prescribed  flight hours are completed and the aircraft   complies with 14 CFR part 91, section 91.319(b).  Phase I records are retained for the life of the   aircraft. •  In Phase II, the FAA may prescribe Operating  Limitations for an unlimited duration,   as appropriate. •  Before taking delivery of the aircraft, make   a final pre-purchase inspection. Ensure that   the Special Airworthiness Certificate, Operating  Limitations, Aircraft Data Plate, Weight and  Balance data, Aircraft Maintenance Records,  and any other required documents are with the  aircraft. If the  Special Airworthiness Certificate,  Operating Limitations, and Aircraft Data Plate   are surrendered to the FAA by the original  builder, you may not be able to recertificate the  aircraft because you are not the builder. •  Amateur-built aircraft require a condition in-  spection within the previous 12 calendar months.  This inspection requirement and those who are  eligible to work on the aircraft are addressed  in the Operating Limitations of that particular  aircraft.  
+
+# Military Surplus Aircraft  
+
+Certain surplus military aircraft are not eligible for  FAA certification in the STANDARD, RESTRICTED,   or LIMITED classifications. The FAA, in cooperation   with the Department of Defense (DOD), normally  performs preliminary “screening” inspections on  surplus military aircraft to determine the civil certi- fication potential of the aircraft. For aircraft eligible  for potential certification, you must “show” the FAA  that your aircraft conforms to the FAA-approved   type design (type certificate), and that the aircraft is  in a condition for safe operation (airworthy). This  means you are required to provide the technical   data necessary to support this showing.  
+
+For example, certain military surplus aircraft may   be eligible for certification in the RESTRICTED  category and modified for special purpose operations.  Military-derived RESTRICTED category aircraft may  be manufactured in the United States or in a foreign  country, but military surplus aircraft must be surplus   of the U.S. Armed Forces. The FAA bases its certi- fication on the operation and maintenance of the air- craft including review of the service life of the aircraft  and any modifications.  
+
+When an aircraft has been modified by the military, you  must either return the aircraft to the originally approved  civil configuration, or obtain FAA design approval for  the military modification. This is accomplished through  the STC process. The STC process is also necessary  for modifications to the aircraft for a special purpose  operation (e.g., crop dusting). Once the FAA determines  that the military surplus aircraft conforms to the FAA- approved type design, as noted in FAA Order 8130.2  (as revised), Airworthiness Certification of Aircraft and  Related Products, and military records, you may apply  for an airworthiness certificate.  
+
+Since no civil aircraft may be flown unless certifica- ted, you should discuss this with an ASI at your local   FSDO, who can advise you of eligible aircraft and  certification procedures. An additional source for  advice on amateur-built and surplus military aircraft  is the EAA.  
+
+# Buying an Aircraft Checklist  
+
+STATUS ITEM DESCRIPTION   
+
+Selecting the Aircraft Consider the location of the seller.  
+
+Consider factors affecting resale value:  
+
+• Engine hours • Installed equipment • ADs • Damage history • Paint/Interior  
+
+Consider the condition of the engine   (e.g., overhauls).  
+
+Aircraft Title  
+
+Aircraft Documents  
+
+# Manuals  
+
+# Maintenance  
+
+Ensure the aircraft has “clear title.”  
+
+Ensure the appropriate documentation is reviewed  and transferred with the aircraft:  
+
+•  Proof of purchase (bill of sale or conditional  sales contract) • Airworthiness certificate • Maintenance records  
+
+Ensure all aircraft manufacturer and other manuals  are transferred with the aircraft.  
+
+Review the maintenance records to ensure they are  complete and all inspections are current.  
+
+![](images/d54e99159398c7c7a2c1fe292930f0b20c27de12f8e6234d9413ffa646328087.jpg)  
+
+# Airworthiness Certificate  
+
+A 	n airworthiness certificate is issued by a representative of the Federal Aviation     	   	Administration (FAA) after the aircraft has been inspected, is found to meet the require­ ments of Title 14 of the Code of Federal Regulations (14 CFR) and is in condition for safe  operation. The certificate must be displayed in the aircraft so that it is legible to passengers   or crew whenever the aircraft is operated. The airworthiness certificate is transferred with   the aircraft, except when it is sold to a foreign purchaser.  
+
+An airworthiness certificate is an FAA document that grants authorization to operate an aircraft   in flight. The FAA provides information regarding the definition of the term “airworthy” in   FAA Order 8130.2 (as revised), Airworthiness Certification of Aircraft and Related Products,   chapter 1.  
+
+# Classifications of Airworthiness Certificates  
+
+The FAA initially determines that your aircraft is in condition for safe operation and conforms  to type design or American Society for Testing and Materials (ASTM) International standards,  then issues an airworthiness certificate. There are two different classifications of airworthiness  certificates: Standard Airworthiness and Special Airworthiness.  
+
+# Standard Airworthiness Certificate  
+
+FAA Form 8100-2, Standard Airworthiness Certificate is the FAA’s official authorization  allowing for the operation of type certificated aircraft in the following categories:  
+
+• Normal 	  	 • Utility 	  	 	 • Acrobatic 	 	 • Commuter 	 • Transport 	 • Manned free balloons 	 • Special classes  
+
+A standard airworthiness certificate remains valid as long as the aircraft meets its approved  type design, is in a condition for safe operation and maintenance, preventive maintenance, and  alterations are performed in accordance with 14 CFR parts 21, 43, and 91.  
+
+# Special Airworthiness Certificate  
+
+FAA Form 8130-7, Special Airworthiness Certificate, is an FAA authorization to operate an aircraft in   U.S. airspace in one or more of categories in  Figure 3-1 .  
+
+![Figure 3-1.  Special Airworthiness Certificate Categories.  ](images/38a48a10c2b84939da130be6eb6f5d1786572dfc73b7b50abc752c3481057511.jpg)  
+
+Issuance of an Airworthiness Certificate Only an FAA aviation safety inspector (ASI)   or authorized representative of the Administrator   (i.e., Designees), as defined in 14 CFR Part 183,  Representatives of the Administrator, is authorized  to issue an airworthiness certificate.  
+
+Your local  FAA  Flight Standards District Office  (FSDO)   processes requests for replacement   airworthiness certificates. You should contact your   local FSDO immediately upon discovering that   you need a replacement airworthiness certificate   for your aircraft.  
+
+Applying for an Airworthiness Certificate A registered owner may apply for an airworthiness  certificate by submitting FAA Form 8130-6, Applica-  tion for U.S. Airworthiness Certificate, to your  local FAA Manufacturing Inspection District Office  (MIDO). You can find your local MIDO contact  information on the FAA website at www.faa.gov.  Figure 3-2  at the end of this chapter is a sample  FAA Form 8130-6. You can find instructions for  completing FAA Form 8130-6 on the FAA website   at www.faa.gov or in FAA Order 8130.2 (as revised) .   The FAA will issue the applicable certificate if  the aircraft is eligible and in a condition for safe  operation.  
+
+# FAA Form 8100-2,  
+
+# Standard Airworthiness Certificate  
+
+FAA Form 8100-2, Standard Airworthiness  Certificate, is issued for aircraft type certificated in  the normal, utility, acrobatic, commuter, and   transport categories, or for manned free balloons.  The airworthiness certificate remains in effect as   long as the aircraft receives the required main-  tenance and is properly registered in the United  States. Flight safety relies, in part, on the condition   of the aircraft, which may be determined on  inspection by mechanics, approved repair stations,   or manufacturers that meet specific requirements   of 14 CFR part 43.  Figure 3-3  at the end of this  chapter is a sample FAA Form 8100-2.  
+
+# FAA Form 8130-7,  
+
+Special Airworthiness Certificate FAA Form 8130-7, Special Airworthiness Certificate,  is issued for all aircraft certificated in other than  the Standard classifications, such as Experimental,  Restricted, Limited, Provisional, and Light-Sport.  If you are interested in purchasing an aircraft classed  as other than Standard, you should contact the local  MIDO or FSDO for an explanation of airworthiness  requirements and the limitations of such a certificate.  The Experimental Aircraft Association (EAA) is an   additional source of information on special airworthi-  ness certificates.  Figure 3-4  at the end of this chapter  is a sample FAA Form 8130-7.  
+
+m  CAUTION: The FAA can revoke an existing air- worthiness certificate in any category (14 CFR part 21,  section 21.181), if the aircraft no longer meets its  approved design and/or is not in an airworthy  condition.  
+
+# Regulations and Policies  
+
+There are a number of regulations and policy docu- ments that provide additional guidance on the subject  of airworthiness.  
+
+# Title 14 of the Code of Federal Regulations  
+
+•  14 CFR Part 21, Certification Procedures for  Products and Parts  •  14 CFR Part 21, Subpart H, Airworthiness  Certificates  •  14 CFR Part 45, Identification and Registration   Marking •  14 CFR Part 91, Section 91.313, Restricted  category civil aircraft: Operating limitations •  14 CFR Part 91, Subpart D, Special Flight  Operations  •  14 CFR Part 91, Section 91.715, Special flight  authorizations for foreign civil aircraft •  14 CFR Part 375, Navigation of Foreign Civil  Aircraft Within the United States  
+
+# FAA Orders (as revised)  
+
+•  FAA Order 8130.2, Airworthiness Certification of  Aircraft and Related Products  •  FAA Order 8900.1, Flight Standards Information  Management System (FSIMS)  
+
+# FAA Advisory Circulars (ACs) (as revised)  
+
+•  AC 20-27, Certification and Operation of  Amateur-Built Aircraft  •  AC 20-139, Commercial Assistance During  Construction of Amateur-Built Aircraft  •  AC 21-4, Special Flight Permits for Operation of  Overweight Aircraft  •  AC 21-12, Application for U.S. Airworthiness  Certificate, FAA Form 8130-6 •  AC 45-2, Identification and Registration Marking  •  AC 90-89, Amateur-Built Aircraft and Ultra-light  Flight Testing Handbook  
+
+![](images/a0747affc978bb458a56bc60c4b9d00255a3c5dbc1f63e9f57e74b7d2a03657b.jpg)  
+Figure 3-2.   FAA Form 8130-6, Application for U.S. Airworthiness Certificate.  You can obtain instructions for  completing FAA Form 8130-6 on the FAA website at www.faa.gov or from your local FSDO.  
+
+![](images/f41459fcc0ab6a65eeefc14ee53ade42c70504b8dbd2cf3c27fcc7b6c7f1a958.jpg)  
+
+![](images/85341538b39a16872d265e345172f3aa975a05adf43ef1a2550439e65a3b570a.jpg)  
+
+![](images/d44dd569247e6330975d5051f80724722b580574ad3be9a8b808bb46a56b0997.jpg)  
+
+![](images/bfe053915183b83797667005bad2b6e9a613171908034b417e34006fe3cbffa5.jpg)  
+
+# Aircraft Registration  
+
+I f you purchase an aircraft and intend to operate in the National Air Space, you must register  the aircraft with the Aircraft Registration Branch (AFS-750). Aircraft may be registered  under a Certificate of Aircraft Registration or Dealer’s Aircraft Registration Certificate issued    by AFS-750.  
+
+m  CAUTION: The application must be submitted in the name of the owner(s), not in the name  of the bank or other mortgage holder.  
+
+# Aircraft Registration Branch  
+
+You may confirm any required fees with AFS-750 prior to submitting any aircraft documents  for processing. AFS-750 contact information is in the Federal Aviation Administration  (FAA) Contact Information appendix on pages A1–A2 of this handbook. Visit the “Aircraft  Registration” link on the FAA website at www.faa.gov for information regarding aircraft  registration, recording liens, fees, importing and exporting aircraft, requesting special  N-numbers, obtaining copies of aircraft records, downloading forms, an interactive aircraft  registration database, etc. You may also order aircraft records by mail, fax, or telephone.  
+
+In compliance with statutory requirements, documents are processed in date-received order.  You may check to see if your documents have been received by using the FAA website “Aircraft  Registration” link, and selecting the “Download the Aircraft Registration Database” link to  search the document index.  
+
+The FAA updates the “Aircraft Registration Inquiry” site at midnight on each federal workday.  You can find new information immediately following this update. Please allow up to 20 days for  processing N-number reservations and renewals and up to 30 days for all other non-priority  actions.  
+
+m  CAUTION: The act of registration is not evidence of ownership of an aircraft in any  proceeding in which ownership by a particular person is in issue. The FAA does not issue any  certificate of ownership or endorse any information with respect to ownership on a Certificate  of Aircraft Registration. The FAA issues a Certificate of Aircraft Registration to the person who  appears to be the owner on the basis of the evidence of ownership submitted with the Aircraft  Registration Application, or recorded at the FAA Aircraft Registry. Failure to properly register  your aircraft may invalidate insurance, as well as have other serious consequences. You may  need to follow up with AFS-750 to ensure that your aircraft registration was accomplished  successfully.  
+
+m  CAUTION: An aircraft may not be registered in  a foreign country during the period it is registered in  the United States.  
+
+# Eligible Registrants  
+
+An aircraft is eligible for registration in the United  States if it is owned by:  
+
+•  A U.S. citizen (as defined in Title 14 of the Code   of Federal Regulations (14 CFR), part 47, section  47.2, a U.S. citizen can be an individual, or part- nership where each individual is a U.S. citizen, or   a corporation organized under the laws of the  United States of which the president and at least  two-thirds of the board of directors are U.S.  citizens and 75 percent of the voting interest is  owned or controlled by U.S. citizens) • A resident alien •  A corporation other than one classified as a U.S.  citizen, lawfully organized under the laws of the  United States or of any state thereof, if the aircraft  is based and used primarily in the United States • A government entity (federal, state or local)  
+
+# Registering Your Aircraft  
+
+To register an aircraft, you must send the following  documentation and fee to AFS-750:  
+
+•  Aeronautical Center (AC) Form 8050-1, Aircraft  Registration Application,  • Evidence of ownership (such as a bill of sale), and •  The registration fee made payable to the FAA.  
+
+You must use an original AC Form 8050-1 when  applying for a Certificate of Aircraft Registration.   AC 8050-1 may be obtained from AFS-750 or your  local FAA Flight Standards District Office (FSDO).  If you use a P.O. Box as a mailing address, you must  also provide your street or physical location on the  application.  
+
+m  CAUTION: The FAA does not accept photocopies  or alternate formats of AC 8050-1.  
+
+Your application for aircraft registration must  include the typed or printed name of each applicant  with his or her signature in the signature block.  
+
+m  CAUTION: An aircraft may be registered only by  and in the legal name of its owner.  
+
+m  CAUTION: The FAA will return any applications  that do not include the printed or typed name of the  signer.  
+
+Figure 4-1  at the end of this chapter is an aircraft  registration checklist you can use to assist you in the  registration process.  
+
+# Registration Number  
+
+The United States received the “N” as its nationality  designator under the International Air Navigation  Convention, held in 1919.  
+
+# How To Form an N-Number  
+
+N-numbers consist of a series of alphanumeric   characters. U.S. registration numbers may not ex- ceed five characters in addition to the standard   U.S. registration prefix letter “N.” These characters  may be:  
+
+• One to five numbers (N12345), •  One to four numbers followed by one letter  (N1234Z), or •  One to three numbers followed by two letters  (N123AZ).  
+
+To avoid confusion with the numbers one and zero,  the letters I and O are not used. Also, please note that  a hyphen (-) is no longer used in U.S. registration  numbers.  
+
+# Other Requirements  
+
+An N-number may not begin with zero. You must  precede the first zero in an N-number with any  number 1 through 9. For example, N01Z is not valid.  
+
+Registration numbers N1 through N99 are strictly  reserved for FAA internal use.  
+
+# Special Registration Number  
+
+A special registration number is an N-number of your  choice which may be reserved, if available.  
+
+Special registration numbers may be:  
+
+•  Used to change the N-number currently on   your aircraft.  •  Assigned to a new home-built, import, or   newly manufactured aircraft in preparation   for registering that aircraft.  •  Reserved for 1 year. Upon reservation, the   FAA will mail a confirmation notice to the  requester. A renewal notice will also be   sent prior to the expiration date. An online  reservation request program is available   on the FAA website at www.faa.gov.  •  Renewed annually. The renewal fee is   $\S{10}$   each  year. An online renewal program is available on  the FAA website at www.faa.gov.  
+
+Requesting a Special Registration Number You may reserve a special N-number from the List of  Available N-numbers for immediate use on a specific  aircraft or for future use. This number may not  exceed five characters in addition to the prefix letter  “N.” All five characters may be numbers (N11111) or  four numbers and one suffix letter (N1000A), or one  to three numbers and/or two suffix letters may be  used (N100AA).  
+
+In your written request, list up to five numbers in  order of preference in the event your first choice  is not available, and include the fee. The fee for a  Special Registration Number is  $\S10.00$  . Forward  your request to AFS-750.  
+
+If your request is approved, you will be notified that  the number has been reserved for 1 year, and that   the reservation may be extended on an annual basis  for a  $\S{10}$   renewal fee.  
+
+# Placing the Special Registration   Number on Your Aircraft  
+
+When you are ready to place the number on your   aircraft, you should request permission by forward- ing a complete description of the aircraft to AFS-750.  Permission to place the special number on your  aircraft is given on AC Form 8050-64, Assignment of   Special Registration Numbers. When the number   is placed on your aircraft, sign and return the original  AC Form 8050-64 to AFS-750 within 5 days.    Figure 4-2  at the end of this chapter is a sample   AC Form 8050-64.  
+
+A duplicate AC Form 8050-64, together with your  airworthiness certificate, should be presented to an  aviation safety inspector (ASI) from your local FSDO  within 10 days from placing the new registration  number on your aircraft. The ASI will issue a revised  airworthiness certificate showing the new registration  number. The old registration certificate and the  duplicate AC Form 8050-64 should be carried in the  aircraft until the new Certificate of Registration is  received, in accordance with 14 CFR part 91, section  91.203(a)(1).  
+
+# Aircraft Previously Registered  in the United States  
+
+If the aircraft you are purchasing was previously  registered in the United States, you should immedi-  ately submit evidence of ownership, an AC Form  8050-1, Aircraft Registration Application, and   the registration fee to AFS-750 upon closing. Fees  
+
+required for aircraft registration may be paid by  check or money order made payable to the Treasury  of the United States. AFS-750 contact information is  in the FAA Contact Information appendix on pages  A1–A2 of this handbook.  
+
+AC Form 8050-2, Aircraft Bill of Sale, meets the   FAA’s requirements for evidence of ownership. An   AC Form 8050-2 does not need to be notarized.   AC Forms 8050-1 and 8050-2 can be obtained from   the nearest FSDO, and include information and  instruction sheets.  Figure 4-3  at the end of this  chapter is a sample AC Form 8050-2.  
+
+m  CAUTION: If a conditional sales contract is the  evidence of ownership, an additional fee is required  for recording.  
+
+# Chain of Ownership  
+
+If there is a break in the chain of ownership of the  aircraft (i.e., if it is not being purchased from the  last registered owner), you are required to submit  conveyances to complete the chain of ownership  through all intervening owners, including yourself,   to AFS-750.  
+
+# Replacement Certificate  of Aircraft Registration  
+
+AC Form 8050-1 may also be used to report a change  of address by the aircraft owner. The FAA issues   a revised certificate at no charge. If the certificate is   lost, destroyed, or mutilated, a replacement certificate  may be obtained at the written request of the certi-  ficate holder. Send the request and fee to AFS-750.  
+
+The request should describe the aircraft by make,  model, serial number, and registration number. If  operation of the aircraft is necessary before receipt   of the duplicate certificate, AFS-750 may, if  requested, send temporary authority by fax. You  should include your full address, fax number, and   contact telephone number in your request AFS-750  contact information is in the FAA Contact Informa- tion appendix on pages A1–A2 of this handbook.  
+
+# Aircraft Previously Registered  in a Foreign Country  
+
+If you are considering the purchase of an aircraft  that is currently registered in a foreign country, you  should be aware that multiple issues are involved  with the registration process. You should contact  AFS-750 for registration assistance.  
+
+# AC Form 8050-1,  Aircraft Registration Application  
+
+AC Form 8050-1, Aircraft Registration Application,  includes an information and instruction sheet.  Submit the white and green copies to AFS-750 and  keep the pink copy in the aircraft as temporary  authority to operate the aircraft without registration.  This temporary authority is valid until the date the  applicant receives the AC Form 8050-3, Certificate of  Aircraft Registration, or until the date the FAA denies  the application, but in no case for more than 90 days  after the date of the application. Pink copy operation  is valid only inside the United States.  Figure 4-4  at  the end of this chapter is a sample AC Form 8050-1.  
+
+If by 90 days the FAA has neither issued the  Certificate of Aircraft Registration nor denied the  application, the FAA Aircraft Registry may issue  a letter of extension that serves as authority to  continue to operate the aircraft without registration.  
+
+m  CAUTION: If you plan to operate the aircraft  outside the United States within 90 days of  submitting your registration documents, you should  contact AFS-750 to request a temporary certificate by  fax, also known as a “fly wire”.  
+
+# AC Form 8050-3,  Certificate of Aircraft Registration  
+
+AC Form 8050-3 is issued to the person whose name  is on the application. The pink copy is valid for 90  days and is legal only in the United States.  
+
+An AC Form 8050-3 should be in the aircraft before  an Airworthiness Certificate can be issued. Some  of the conditions under which AC Form 8050-3  becomes invalid, as described in 14 CFR part 47,  section 47.41 include:  
+
+•  The aircraft becomes registered under the laws of  a foreign country. •  The registration of the aircraft is cancelled at the  written request of the holder of the certificate. • The aircraft is totally destroyed or scrapped. •  The holder of the certificate loses his or her U.S.  citizenship or status as a resident alien without  becoming a U.S. citizen. • The ownership of the aircraft is transferred. •  Thirty days have elapsed since the death of the  holder of the certificate.  
+
+When an aircraft is sold, destroyed, or scrapped, the   owner must notify the FAA by filling in the back   of AC Form 8050-3 and mailing it to AFS-750.  
+
+The U.S. registration and nationality marking should  be removed from an aircraft before it is delivered   to a purchaser who is not eligible to register it in the  United States. The endorsed AC Form 8050-3  should be forwarded to AFS-750. AFS-750 contact  information is in the FAA Contact Information  appendix on pages A1–A2 of this handbook.  
+
+An AC Form 8050-6, Dealer’s Aircraft Registration  Certificate, is an alternative form of registration.  It is valid only for flights within the United States  by the manufacturer or dealer for flight testing or  demonstration for sale. It should be removed by the  dealer when the aircraft is sold.  
+
+To apply for a Dealer’s Aircraft Registration  Certificate, the applicant must complete AC Form  8050-5, Dealer’s Aircraft Registration Certificate  Application.  
+
+m  CAUTION: AC Form 8050-3 serves as conclusive  evidence of nationality but it is not a title and is not  evidence of ownership in any proceeding in which  ownership is at issue.  
+
+# Amateur-Built Aircraft  Registration and Inspection  
+
+The FAA recommends that you apply for registration  of your amateur-built aircraft 60–120 days before   you finish building your aircraft, and before you sub- mit FAA Form 8130-6 to the FAA.  The FAA will not  inspect your amateur-built aircraft before it has been  registered or during construction of the aircraft.  
+
+The  FAA  or a Designated Airworthiness Representative  (DAR) in your geographical area inspects your  amateur-built aircraft for general airworthiness   only after you have made an application for an  airworthiness certificate.  
+
+The FAA does not charge a fee to the public for  inspecting amateur-built aircraft. However, FAA  workload may delay inspection of your aircraft.   For this reason, the FAA staff is augmented by the  use of DARs who may charge a fee for their services  (14 CFR Part 183, Section 183.33(b), Designated  Airworthiness Representative).  
+
+You may locate a DAR in your geographical area by  reviewing the online DAR Directory. Manufacturing  DARs are listed by state in the first half of the  directory, and Maintenance DARs are listed by state   in the second half.  A DAR who has authority to  inspect and certify amateur-built aircraft has the  DAR Function Code “46” under his or her name.  (Also see FAA Order 8100.8 (as revised), Designee  Management Handbook, for designee program  details.)  
+
+# Light-Sport Aircraft Registration  
+
+If you purchased a newly manufactured light-sport  aircraft that is to be certificated as:  
+
+•  An experimental light-sport aircraft under 14  CFR, part 21, section 21.191(i)(2); or  •  A special light-sport aircraft under 14 CFR part  21, section 21.190;  
+
+Then you must provide the following documentation  to AFS-750:  
+
+•  AC Form 8050-88 (as revised), Light-Sport  Aircraft Manufacturer’s Affidavit, completed  by the light-sport aircraft manufacturer,  unless previously submitted to AFS-750 by the  manufacturer;  •  Evidence of ownership from the manufacturer for  the aircraft;  •  AC Form 8050-1, Aircraft Registration  Application; and • Registration fee.  
+
+The FAA Light Sport Aviation Branch (AFS-610)  or your local FSDO can assist you with questions  about the registration of light-sport aircraft.  AFS-610 contact information is in the FAA Contact  Information appendix on pages A1–A2 of this  handbook.  
+
+# State Registration Requirements  
+
+Aircraft owners should remember that state registra- tion of aircraft is required in many states. You  should check with your state government to ensure  that you have met any applicable state registration  requirements for your aircraft.  
+
+# Additional Information  
+
+14 CFR part 47 specifies the requirements for  registering an aircraft. For information concerning   14 CFR part 47 or any topics not discussed in this  chapter, please contact AFS-750. AFS-750 contact  information is in the FAA Contact Information  appendix on pages A1–A2 of this handbook.  
+
+# Aircraft Registration Checklist  
+
+Figure 4-1.  Aircraft Registration Checklist.  You can use this checklist to assist you with the aircraft  
+
+![](images/f611ce757cb727e290d662f6a1392cc100ce7f9d8ef24f99e6be382e67c114b6.jpg)  
+
+![](images/cc8c78ac4bfc75bd7bc2b1c04cf6c52eb03710c070d6a81ac2420d7e16557380.jpg)  
+
+![](images/a0a95c36db6ad0e4d041c78525a7f1ba94fbb3ce2e0a074ef9c8dd9bd2977968.jpg)  
+
+Figure 4-3.  AC Form 8050-2, Aircraft Bill of Sale.  You can download the form and obtain instructions for  completing FAA Form 8050-2 on the FAA website at www.faa.gov or from your local FSDO.  
+
+![](images/f941c7ddeaefd4228a5aaa89b6522652f56447930cb58651bf418fd005942efa.jpg)  
+Figure 4-4.   AC Form 8050-1, Aircraft Registration Application.  You must use an original AC Form 8050-1  which can be obtained from AFS-750 or your local FSDO. You can obtain instructions for completing AC Form  8050-1 on the FAA website at www.faa.gov or from your local FSDO. (Be sure to print your name below your  signature or your application will be rejected.)  
+
+![](images/310b857223280003a52628f3e9db2569fa1c7801a61ed91a12fa9daa2d842878.jpg)  
+
+![](images/f93ecf10a08e354867ef3bcdedb72bc6cda373ce269752949c3ad3430862ab35.jpg)  
+
+# Special Flight Permits  
+
+A   special flight permit can be issued to any U.S. registered aircraft that may not currently 	  meet applicable airworthiness requirements but is capable of safe flight. Before the permit   is issued, a Federal Aviation Administration (FAA) aviation safety inspector (ASI) may inspect  the aircraft or require it to be inspected by an FAA-certificated airframe and powerplant (A&P)  mechanic or repair station to determine its safety for the intended flight. The inspection is then  recorded in the aircraft records. This type of special flight permit is often referred to as a “ferry  permit” because it allows the aircraft to be ferried to a location for maintenance.  
+
+In the case of general aviation flights (e.g., flights conducted by operators other than Title 14   of the Code of Federal Regulations (14 CFR) part 121 or part 135 certificate holders), special  flight permits are issued by the FAA Flight Standards District Office (FSDO)/International Field  Office (IFO) having jurisdiction over the geographical area in which the flight is to originate.  
+
+# Circumstances Warranting a Special Flight Permit  
+
+A special flight permit is issued to allow the aircraft to be flown to a base where repairs,  alterations, or maintenance can be performed; for delivering or exporting the aircraft; or for  evacuating an aircraft from an area of impending danger. It may also be issued to allow the  operation of an overweight aircraft for flight beyond its normal range over water or land areas  where adequate landing facilities are not available.  
+
+The following list, which is not all-inclusive, sets forth the most common requests for special  flight permits:  
+
+•  Flying the aircraft to a base where repairs, alterations, or maintenance are to be performed,  or to a point of salvage  •  Flying an aircraft whose annual inspection has expired to a base where an annual inspection   can be accomplished  •  Flying an amateur-built aircraft whose condition inspection has expired to a base where the   condition inspection can be accomplished •  Delivering or exporting the aircraft  •  Production flight testing of new production aircraft  •  Evacuating aircraft from areas of impending danger  •  Conducting customer demonstration flights in new production aircraft that have  satisfactorily completed production flight tests  •  Operating an aircraft at a weight in excess of its maximum certificated takeoff weight  
+
+m  CAUTION: If an Airworthiness Directive (AD)  requires compliance before further flight and does   not have a provision for issuance of a special flight  permit, the operation of the aircraft to which it  applies would not be appropriate, and a special flight  permit will not be issued.  
+
+# Foreign-Registered Civil Aircraft  
+
+A special flight authorization allows a foreign-  registered civil aircraft that does not have the equiva- lent of a U.S. standard airworthiness certificate to be   operated within the United States.  
+
+A civil aircraft registered in a country that is a mem- ber of the International Civil Aviation Organzation  (ICAO) only needs a special flight authorization issu- ed by the FAA. A civil aircraft registered in a country  that is not a member of ICAO must have both an  authorization from the United States Department of   Transportation (DOT) and a special flight  authorization issued by the FAA.  
+
+# Obtaining a Special Flight Authorization  
+
+To obtain a special flight authorization, you must   apply by letter or facsimile. The application and   issuance procedures are provided in FAA Order  8130.2 (as revised), Airworthiness Certification of  Aircraft and Related Products, Chapter 7, Special  Flight Authorizations for Non-U.S.-Registered Civil  Aircraft. You can obtain assistance and the necessary  forms for issuance of a special flight authorization  from the local FSDO or IFO.  
+
+# Application for Airworthiness Certificate  
+
+A special flight permit is an FAA Form 8130-7,  Special Airworthiness Certificate, issued pursuant   to 14 CFR part 21, section 21.197, for an aircraft   that may not currently meet applicable airworthi- ness requirements but is safe for a specific flight.  
+
+m  CAUTION: A special flight permit is not an  authorization to deviate from the requirements of 14  CFR part 91.  
+
+An applicant for a special flight permit must submit   FAA Form 8130-6, Application for U.S. Airworthiness  Certificate, including a statement indicating:  
+
+•  Purpose of the flight;  •  Proposed itinerary;  •  Essential crew required to operate the aircraft;  
+
+•  The ways, if any, in which the aircraft does not   comply with the applicable airworthiness  requirements; and •  Any other information requested by the  Administrator, considered necessary for the  purpose of prescribing operating limitations.  
+
+You should fax the completed form to the FSDO  closest to the location where the flight will originate.  You can locate contact information for the FSDO on  the FAA website at www.faa.gov.  Figure 5-1  at the  end of this chapter is a sample FAA Form 8130-6. Some FSDOs may ask you to include additional  information necessary for the purpose of prescribing  operating limitations when you submit FAA Form  8130-6. Examples of additional information might  include:  
+
+•  A current copy of the Airworthiness Certificate.  •  A current copy of the Certificate of Aircraft  Registration.  •  A current copy of the front page of the aircraft   and engine(s) logbooks, with all entries com- pleted, (i.e., aircraft, engine(s), propeller(s),  manufacturer, model, serial number).  •  A current copy of the Aircraft/Engine/Propeller/ Appliance AD compliance status.  •  A copy of the last Aircraft Log Book entry, stating  that the aircraft has been inspected and is in a  safe condition to fly/ferry, that the aircraft   is in compliance with all applicable ADs, and/or   a listing of the ADs with which the aircraft is not  in compliance. The entry must be signed by an  A&P mechanic or 14 CFR part 145 repair station.  
+
+The Administrator may also want to inspect the  aircraft in question before approving or issuing   a ferry flight permit.  
+
+You may be required to make appropriate inspections  or tests necessary for safety. (This means an A&P   mechanic or 14 CFR part 145 repair station will need  to inspect the aircraft prior to flight.)  
+
+You may request that the local FSDO transmit the  ferry permit via facsimile if the request is time- sensitive.  Figure  ${\o{5^{-2}}}$   at the end of this chapter is   a sample FAA Form 8130-7.  
+
+The aircraft operator must display, in the aircraft, the  current airworthiness certificate and the special flight  (ferry) permit along with its operating limitations.  
+
+For additional information, please refer to 14 CFR  part 21, section 21.197, or your local FSDO.  
+
+![](images/769e7e8e2adffe9350001d80dfe05cd06580ebb2646f9e0fae9793b415953b86.jpg)  
+Figure 5-1.  FAA Form 8130-6, Application for U.S. Airworthiness Certificate.  You can obtain instructions for  completing FAA Form 8130-6 on the FAA website at www.faa.gov or from your local FSDO.  
+
+![](images/dfb35c3ac2998a58b2746aafa3fa986fbe409447f5050cad48ff8269092f628b.jpg)  
+
+![](images/6ff0f56a1e1b3f63264fcb30d419bb96953ed5dba59811a165559955665c342d.jpg)  
+
+![](images/e0155c2a275f5096ed03e26a03d6f58fbe512b045f8bb9a80a6aa334842423d0.jpg)  
+
+# Light-Sport Aircraft  
+
+L  ight-sport aircraft (LSA) is a growing sector of the general aviation community, specific   to the United States. The Federal Aviation Administration (FAA) promulgated sport pilot  (SP)/LSA regulations in 2004. This significant change in Title 14 of the Code of Federal  Regulations (14 CFR) allowed easier and lower-cost access to general aviation.  
+
+# Definition  
+
+LSA as defined in 14 CFR part 1, section 1.1, “means an aircraft, other than a helicopter or  powered-lift that, since its original certification, has continued to meet the following:  
+
+(1)  A maximum takeoff weight of not more than—  
+
+(i)    1,320 pounds (600 kilograms) for aircraft not intended for operation on water; or 	 	 (ii)   1,430 pounds (650 kilograms) for an aircraft intended for operation on water.  (2)  A maximum airspeed in level flight with maximum continuous power  $(\mathrm{V_{H}})$   of not more  than 120 knots CAS under standard atmospheric conditions at sea level. (3)  A maximum never-exceed speed   $(\mathrm{V_{NE}})$   of not more than 120 knots CAS for a glider. (4)  A maximum stalling speed or minimum steady flight speed without the use of lift- enhancing devices   $(\mathrm{V_{s_{1}}})$   of not more than 45 knots CAS at the aircraft’s maximum certificated  takeoff weight and most critical center of gravity. (5)  A maximum seating capacity of no more than two persons, including the pilot. (6)  A single, reciprocating engine, if powered. (7)  A fixed or ground-adjustable propeller if a powered aircraft other than a powered glider. (8)  A fixed or autofeathering propeller system if a powered glider. (9)  A fixed-pitch, semi-rigid, teetering, two-blade rotor system, if a gyroplane. (10)  A nonpressurized cabin, if equipped with a cabin. (11)  Fixed landing gear, except for an aircraft intended for operation on water or a glider. (12)  Fixed or retractable landing gear, or a hull, for an aircraft intended for operation  on water.  
+
+(13)  Fixed or retractable landing gear for a glider.”  
+
+# LSA Certification  
+
+Several different kinds of aircraft may be certificated as LSA. Airplanes (both powered and  gliders), rotorcraft (gyroplanes only, not true for helicopters), powered parachutes, weight-shift  control aircraft, and lighter-than-air craft (free balloons and airships) may all be certificated   as LSA if they fall within weight and other guidelines established by the FAA.  
+
+# LSA Registration  
+
+If you purchased a newly manufactured LSA that is  to be certificated as an experimental LSA under 14  CFR part 21, section 21.191(i)(2), or a special LSA  under 14 CFR part 21, section 21.190, then you must  provide the following documentation to the FAA  Civil Aviation Registry Aircraft Registration Branch  (AFS-750):  
+
+•  Aeronautical Center (AC) Form 8050-88 (as  revised), Light-Sport Aircraft Manufacturer’s  Affidavit, or its equivalent, completed by the LSA  manufacturer, unless previously submitted to  AFS-750 by the manufacturer,  • Evidence of ownership from the aircraft  manufacturer,  • AC Form 8050-1, Aircraft Registration  Application, and • Registration fee.  
+
+The FAA Light Sport Aviation Branch (AFS-610) or  your local Flight Standards District Office (FSDO)  can assist you with questions about LSA registration.  
+
+# Available Resources  
+
+There are a number of resources available to assist  LSA owners and operators.  
+
+# Light Sport Aviation Branch, AFS-610  
+
+AFS-610 manages and provides oversight of the SP   examiner and the LSA repairman-training programs,   and also provides subject matter experts for FAA   and the aviation industry concerning the SP/LSA   aircraft safety initiatives. AFS-610 performs the  following functions:  
+
+AFS-610 contact information is available in the FAA  Contact Information appendix on pages A1–A2 of  this handbook.  
+
+# Experimental Aircraft Association  
+
+The Experimental Aircraft Association (EAA)  was founded in 1953 by a group of individuals  in Milwaukee, Wisconsin, who were interested  in building their own airplanes. Through the  decades, the organization expanded its mission  to include antiques, classics, warbirds, aerobatic  aircraft, ultralights, helicopters, light sport, and  contemporary manufactured aircraft.  
+
+EAA is an excellent resource for light sport aircraft  owners and operators. You can contact the EAA at:  
+
+EAA Aviation Center  3000 Poberezny Rd  Oshkosh, WI 54902 (800) JOIN-EAA  phone www.eaa.org  
+
+# Regulatory Guidance  
+
+Regulatory guidance for  LSA  owners and operators  includes:  
+
+•  FAA Order 8130.2 (as revised), Airworthiness  Certification of Aircraft and Related Products  •  FAA Order 8130.33 (as revised), Designated  Airworthiness Representatives: Amateur-Built  and Light-Sport Aircraft Certification Functions  • Acceptance of LSA Repairman courses 
+
+ • Light Sport Standardization Board 
+
+ • Oversight of designated SP Examiners 
+
+ • SP Examiner Initial Training Seminar 
+
+ • SP Examiner Recurrent Training Program  
+
+![](images/cf442a23c9fb9ae159c785dcdcaa1a9803c9126bc4eb83fe8ad60b6e06d84a35.jpg)  
+
+# Aircraft Maintenance  
+
+M aintenance means the preservation, inspection, overhaul, and repair of aircraft,   including the replacement of parts. The purpose of maintenance is to ensure that the  aircraft remains airworthy throughout its operational life. A properly maintained aircraft   is a safe aircraft.  
+
+Although maintenance requirements vary for different types of aircraft, experience shows   that most aircraft need some type of preventive maintenance every 25 hours or less of  flying time, and minor maintenance at least every 100 hours. This is influenced by the kind  of operation, climactic conditions, storage facilities, age, and construction of the aircraft.  Maintenance manuals are available from aircraft manufacturers or commercial vendors with  revisions for maintaining your aircraft.  
+
+While the requirements for maintaining your aircraft are contained in Title 14 of the Code of  Federal Regulations (14 CFR), it is essential for every aircraft owner to remember that specific  maintenance requirements are available from the aircraft manufacturer.  
+
+# Maintenance Responsibilities  
+
+14 CFR part 91, section 91.403, places primary responsibility on the owner or operator for  maintaining an aircraft in an airworthy condition. Certain inspections must be performed on  your aircraft, and you must maintain the airworthiness of the aircraft between the required  inspections by having any defects corrected. 14 CFR part 91, section 91.327 pertains to light- sport aircraft. Light-sport aircraft certificated in the light sport category under 14 CFR part  21, section 21.190 must be maintained by an FAA-certificated airframe and powerplant (A&P)  mechanic or a light-sport repairman with a maintenance rating.  
+
+# 14 CFR Part 91, Subpart E  
+
+14 CFR part 91, subpart E, requires the inspection of all civil aircraft at specific intervals   to determine the overall condition. The interval generally depends on the type of operations   in which the aircraft is engaged. Some aircraft need to be inspected at least once every   12 calendar months, while inspection is required for others after each 100 hours of operation.   In other instances, an aircraft may be inspected in accordance with an inspection system set  up to provide for total inspection of the aircraft on the basis of calendar time, time in service,  number of system operations, or any combination of these factors.  
+
+To determine the specific inspection requirements  and rules for the performance of inspections, you  should refer to 14 CFR part 91, subpart E, which  prescribes the requirements for various types of  operations.  
+
+# Manufacturer Maintenance Manuals  
+
+All inspections must follow the manufacturer main-  tenance manual, including the instructions for  continued airworthiness concerning inspection  intervals, parts replacement, and life-limited items   as applicable to your aircraft. The maintenance  manuals provided by the manufacturer of your air- craft are your best available resource on issues of  aircraft maintenance.  
+
+# Preventive Maintenance  
+
+14 CFR lists 32 relatively uncomplicated repairs and   procedures defined as preventive maintenance.  Certificated pilots, excluding student and recreational  pilots, may perform preventive maintenance on any   aircraft owned or operated by them that are not used   in air carrier service. These preventive maintenance  operations are listed in 14 CFR Part 43, Appendix A,   Preventive Maintenance. 14 CFR part 43 also con- tains other rules to be followed in the maintenance   of aircraft.  
+
+# Inspections  
+
+In order to provide a reasonable assurance that  aircraft are functioning properly, the Federal Aviation  Administration (FAA) requires a series of aircraft  inspections somewhat similar to the many currency  requirements for airmen. This section outlines the  basic inspection requirements for aircraft.  
+
+# Annual Inspection  
+
+Most general aviation aircraft require an annual in- spection pursuant to 14 CFR part 91, section 91.409.  
+
+Excluded aircraft:  
+
+• Use an approved progressive inspection plan;  • Carry a special flight permit; or • Carry a provisional airworthiness certificate.  
+
+The annual inspection must be completed and  approved by a mechanic with an inspection  authorization (IA) once every 12 calendar months.   For example, if the aircraft’s annual is endorsed on  June 16, 2008, the next annual inspection is due   before July 1, 2009; otherwise the aircraft may not   be flown without authorization (e.g., a special   flight or “ferry” permit).  
+
+A ferry permit is required to fly an aircraft that is   out of annual, such as in the case of flying to another   airport for the inspection. Chapter 5 discusses the  issuance of special flight permits. You can contact  your local Flight Standards District Office (FSDO)   for instructions on applying for a special flight or  ferry permit.  
+
+# 100-Hour Inspection  
+
+The 100-hour (14 CFR part 91, section 91.409)  inspection is required for aircraft that either:  
+
+•  Carry any person (other than a crewmember) for  hire, or  •  Are provided by any person giving flight  instruction.  
+
+The 100-hour limit may be exceeded by 10 hours   for the purposes of flying to a place where the  inspection can be completed. The excess time must  be included in computing the next 100 hours of   time in service.  
+
+Some examples of “for hire” operations under 14 CFR  part 91 that subject the aircraft to the 100-hour  inspection requirement include:  
+
+•  An aerial photography flight, or •  A flight instructor providing an aircraft, or   any operation that supplies both flight instruction  and an aircraft. (An aircraft provided by the  (student) pilot receiving instruction is not subject  to the 100-hour inspection.)  
+
+# Condition Inspection  
+
+A condition inspection is required once every 12  calendar months for light-sport aircraft certificated  in the light-sport category. In accordance with 14  CFR part 91, section 91.327, the condition inspection  must be performed by “a certificated repairman  (light-sport aircraft) with a maintenance rating, an  appropriately rated mechanic, or an appropriately  rated repair station in accordance with inspection  procedures developed by the aircraft manufacturer or  a person acceptable to the FAA.”  
+
+# Other Inspection Programs  
+
+The annual and 100-hour inspection requirements   do not apply to large (over 12,500 pounds)   airplanes, turbojets, or turbopropeller-powered  multiengine airplanes, or to airplanes for which the  owner or operator complies with the progressive  inspection requirements. Details of these require- ments may be determined by reference to 14 CFR  part 43, section 43.11; 14 CFR part 91, subpart E;   and by inquiry at the local FSDO.  
+
+# Progressive Inspection  
+
+To minimize maintenance downtime, the owner may  opt for a progressive inspection plan. Progressive  inspections benefit owners whose aircraft experience  high usage such as fixed base operators (FBOs), flight  schools, and corporate flight departments. Unlike   an annual inspection, a progressive inspection allows  for more frequent but shorter inspection phases,   only if all items required for the annual and 100-hour  inspections are inspected within the required time.  The authority to use a progressive inspection plan   is non-transferable. Once the aircraft is sold, an   annual becomes due within 12 calendar months of  the last complete cycle. The 100-hour inspection  is due at the completion of the next 100 hours of  operation. Most airframe manufacturers provide   a boilerplate progressive maintenance plan.  
+
+14 CFR Part 43, Appendix D, Scope and Detail of  Items (as Applicable to the Particular Aircraft) To  Be Included in Annual and 100-Hour Inspections,  contains a list of general items to be checked during  inspections.  
+
+# Altimeter System Inspection  
+
+The aircraft’s static system, altimeter, and automatic   altitude-reporting (Mode C) system must have been   inspected and tested in the preceding 24 calendar   months before flying instrument flight rules (IFR) in   controlled airspace. 14 CFR Part 43, Appendix E,  Altimeter System Test and Inspection, lists the items   that must be checked.  
+
+# Transponder Inspection  
+
+The transponder must be inspected every 24 calen- dar months. 14 CFR Part 43, Appendix F, ATC  Transponder Tests and Inspections, lists the items  that must be checked. Additionally, the installation of  or modification to a transponder must be inspected  for data errors as well.  
+
+# Preflight Inspection  
+
+A pilot is required to conduct a thorough preflight  inspection before every flight to ensure that the  aircraft is safe for flight. Pilots should review the  maintenance status of the aircraft as a part of the  preflight inspection.  
+
+# Repairs and Alterations  
+
+All repairs and alterations of standard airworthiness  certificated aircraft are classified as either major   or minor. 14 CFR part 43, appendix A, describes the   alterations and repairs considered major. Major  repairs or alterations are approved for return to  service on FAA Form 337, Major Repair and Altera- tion, by an appropriately rated certificated repair  station, an FAA-certificated A&P mechanic holding  an IA, or a representative of the Administrator.  Minor repairs and minor alterations may be  approved for return to service with a proper entry  in the maintenance records by a certificated A&P  mechanic or an appropriately certificated repair  station.  
+
+Alterations to light-sport aircraft certificated in  the light-sport aircraft category under 14 CFR  part 21, section 21.190, must be authorized by the  manufacturer or a person acceptable to the FAA in  accordance with 14 CFR part 91, section 91.327.  
+
+# Minimum Equipment List/Configuration  Deviation List  
+
+If your aircraft has an approved Minimum Equipment  List (MEL), the MEL should be used to determine   if a flight may be initiated with inoperative aircraft  equipment without the issuance of a special flight   permit. Your Airplane Flight Manual (AFM) may also  include a Configuration Deviation List (CDL) pre- pared by the manufacturer.  
+
+If your aircraft does not have an approved MEL, and   you have inoperative equipment or instruments,  then you must refer to 14 CFR part 91, section 91.213,  to determine if a special flight permit is needed to  operate the aircraft.  
+
+# FAA Resources  
+
+You can find all of the maintenance requirements  applicable to your aircraft in 14 CFR by accessing   the relevant regulations on the FAA website at   www.faa.gov. The best resource for answering  questions about the maintenance necessary on   your aircraft is your local FSDO.  
+
+# Experimental Aircraft  
+
+If you make any major alterations to your  experimental aircraft, you must notify your local  FSDO of those alterations.  
+
+# Maintenance Records  
+
+A n aircraft owner is required to keep aircraft maintenance records for the airframe, engine,     	  propeller, and appliances. These records must contain a description of the work performed  on the aircraft, the date the work was completed, the certificated mechanic’s signature, the type  of Federal Aviation Administration (FAA) certificate, and the certificate number and signature  of the person approving the aircraft for return to service.  
+
+# Responsibilities of the Aircraft Owner  
+
+All recordkeeping is primarily the responsibility of the aircraft owner. The airframe and  powerplant (A&P) mechanic is responsible for the work he or she performs. The owner of an  aircraft must also ensure that maintenance personnel make appropriate entries in the aircraft  maintenance records indicating the aircraft has been approved for return to service. The  owner’s aircraft records shall also contain the inspections required pursuant to Title 14 of the  Code of Federal Regulations (14 CFR) part 91, section 91.409.  
+
+Proper management of aircraft operations begins with a good system of maintenance records.  A properly completed maintenance record provides the information needed by the owner and  maintenance personnel to determine when scheduled inspections and maintenance are to be  performed.  
+
+Aircraft maintenance records must include:  
+
+•  The total time in service of the airframe, each engine, and each propeller; •  The current status of life-limited parts of each airframe, engine, propeller, rotor, and  appliance; •  The time since the last overhaul of all items installed on the aircraft, which are required to  be overhauled on a specified time basis; •  The identification of the current inspection status of the aircraft, including the time since  the last inspection required by the inspection program under which the aircraft and its  appliances are maintained; •  The current status of applicable Airworthiness Directives (ADs) including, for each, the  method of compliance, the AD number, and the revision date. If the AD involves recurring  action, the time and date the next action is required; and •  A copy of the major alterations to each airframe, engine, propeller, and appliance.  
+
+These records are retained by the owner and are transferred with the aircraft when it is sold.  Figure 8-1  at the end of this chapter is a maintenance records checklist you can use to document  compliance with the applicable maintenance requirements.  
+
+These records may be discarded when the work is  repeated or superseded by other work, or 1 year after  the work is performed.  
+
+m  CAUTION: Keep in mind that as a result of  repairs or alterations, such as replacing radios and  installing speed kits, it may be necessary to amend  the weight and balance report, equipment list,   flight manual, etc.  
+
+# Logbooks  
+
+Most maintenance performed on an aircraft is recor- ded in the aircraft logbooks. As an aircraft owner, it  is important to ensure that your aircraft’s logbooks  are complete and up to date at all times. The aircraft  logbooks outline the maintenance history of your air-  craft, and any prospective buyer will want to review  the aircraft and all maintenance performed. In addi-  tion, any A&P or certificated repair station performing  maintenance on your aircraft will want to review the   prior maintenance performed on the aircraft.  
+
+# Airworthiness Directives  
+
+An aircraft owner is required to comply with all  applicable ADs issued by the FAA for his or her  aircraft. The FAA issues ADs to notify aircraft owners  and other interested persons of unsafe conditions  and to specify the corrective action required,  including conditions under which the aircraft may  continue to be operated.  
+
+The aircraft’s maintenance records should indicate  the current status of all applicable ADs, including for  each:  
+
+• AD number, • Method of compliance, • Revision date, and •   Recurring action (if applicable) including the time  and date of the next action required.  
+
+# Safety Directives  
+
+The owner or operator of an aircraft having a  special airworthiness certificate must comply with  each safety directive applicable to the aircraft that  corrects an existing unsafe condition or corrects  the condition in a manner different from safety  directive specifications if the person issuing the  directive agrees with the action. Otherwise, the  owner or operator may, in accordance with 14 CFR  part 91, section 91.327, “obtain an FAA waiver from  the provisions of the safety directive based on a  conclusion that the safety directive was  
+
+issued without adhering to the applicable consensus  standard.”  
+
+Light-sport category aircraft certificated pursuant  to 14 CFR part 21, section 21.190 have mandatory  compliance with all manufacturer safety directives.  
+
+# Service Bulletins  
+
+A service bulletin contains a recommendation from  the manufacturer, with which that manufacturer  believes the aircraft owner should comply, that often  reflects a safety-of-flight issue that the manufacturer  believes should be addressed within a certain time- frame. It may result from an improvement developed  by the manufacturer, or it may address a defect in   a product or published documentation.  
+
+The manufacturer responds to one of these situa- tions by issuing a service bulletin that recommends  a certain type of inspection, replacing certain  components, performing maintenance in a specific  manner, or limiting operations under specified  conditions. Sometimes, compliance with a service  bulletin may be triggered by the occurrence of   a particular event (e.g., the lapse of time or operation  under certain types of conditions).  
+
+# FAA Form 337 ,   Major Repair and Alteration  
+
+A mechanic who performs a major repair or major  alteration shall record the work on FAA Form 337  and have the work inspected and approved by a   mechanic who holds an inspection authorization (IA).  (Light-sport aircraft do not require Form 337 when  altering a non-approved product.) A signed copy  shall be given to the owner and another copy sent  to the FAA Aircraft Registration Branch (AFS-750)  in Oklahoma City, Oklahoma within 48 hours of  aircraft approval for return to service. However,  when a major repair is done by a certificated repair  station, the customer’s work order may be used  and a release given as outlined in 14 CFR Part 43,  Appendix B, Recording of Major Repairs and Major  Alterations. You can obtain additional information  and instructions for completing FAA Form 337 in  Advisory Circular (AC) 43-9 (as revised), Aircraft  Maintenance Records.  Figure 8-2  at the end of this  chapter is a sample FAA Form 337.  
+
+Entries into Aircraft Maintenance Records Each time maintenance, including preventive main-  tenance, is performed on your aircraft, an appropriate  entry must be added to the maintenance records.  
+
+# 14 CFR Part 43, Section 43.9,   Content, form, and disposition of  maintenance, preventive maintenance,  rebuilding, and alteration records (except  inspections performed in accordance   with part 91, part 125, §135.411(a)(1), and  §135.419 of this chapter  
+
+Any person who maintains, rebuilds or alters an  aircraft, airframe, aircraft engine, propeller, or  appliance shall make an entry containing:  
+
+•  A description of the work or some reference   to data acceptable to the FAA, • The date the work was completed, •  The name of the person who performed the   work, and •  If the work was approved for return to service,  the signature, certificate number, and kind of  certificate held by the person approving the  aircraft for return to service.  
+
+# 14 CFR Part 43, Section 43.11,   Content, form, and disposition of records for  inspections conducted under parts 91 and  125 and §§135.411(a)(1) and 135.419 of this  chapter  
+
+When a mechanic approves or disapproves an air- craft for return to service after an annual, 100-hour,  or progressive inspection, an entry shall be made  including:  
+
+• Aircraft time in service, • The type of inspection, • The date of inspection, •  The signature, certificate number, and kind of   certificate held by the person approving or  disapproving the aircraft for return to service, and •  A signed and dated listing of discrepancies and  unairworthy items.  
+
+# 14 CFR Part 91, Section 91.409,   Inspections  
+
+Inspection entries for 14 CFR part 91, section   91.409(e) airplanes over 12,500 pounds, turbo jet,   or turbopropeller-powered multiengine airplanes   are made according to 14 CFR part 43, section 43.9,  and shall include:  
+
+• The kind of inspection performed, •  A statement by the mechanic that the inspection   was performed in accordance with the instruc- tions and procedures for the kind of inspection  program selected by the owner, and  
+
+•  A statement that a signed and dated list of any  defects found during the inspection was given to   the owner, if the aircraft is not approved for  return to service.  
+
+# 14 CFR Part 91, Section 91.411,  Altimeter system and altitude  reporting equipment tests and inspections  
+
+14 CFR part 91, section 91.411, requires that every  airplane or helicopter operated in controlled airspace  under instrument flight rules (IFR) conditions have  each static pressure system, each altimeter, and each  automatic pressure altitude reporting system tested  and inspected every 24 calendar months. The aircraft  maintenance records must include:  
+
+• A description of the work, •  The maximum altitude to which the altimeter   was tested, and •  The date and signature of the person approving  the aircraft for return to service.  
+
+# 14 CFR Part 91, Section 91.413, ATC transponder tests and inspections  
+
+14 CFR part 91, section 91.413, requires that anyone  operating an Air Traffic Control (ATC) transponder  specified in 14 CFR part 91, section 91.215(a), have it  tested and inspected every 24 calendar months. The  aircraft maintenance records must include:  
+
+• A description of the work, and  •  The date and signature of the person approving  the airplane for return to service.  
+
+# 14 CFR Part 91, Section 91.207,  Emergency locator transmitters  
+
+14 CFR part 91, section 91.207, requires that no  person may operate a U.S. registered civil airplane  unless there is attached to the airplane a personal  type or an automatic type emergency locator  transmitter (ELT) that is in operable condition   and meets applicable requirements of Technical   Standard Order (TSO)-C91.  
+
+m  CAUTION: New ELT installations after June  21, 1995, must meet TSO-C91A (the first revised, or  amended, version).  
+
+Batteries used in ELT shall be replaced when:  
+
+•  The transmitter has been in use for more than   1 cumulative hour, or • 50 percent of the ELT’s useful life has expired.  
+
+The expiration date for replacing the battery shall be  legibly marked on the outside of the transmitter and  entered in the aircraft maintenance records.  
+
+# Amateur-Built Aircraft  
+
+The condition inspection for amateur-built aircraft  replaces the annual inspection.  
+
+These publications are available on the FAA website  at www.faa.gov and from U.S. Government Printing  Office (GPO) bookstores located throughout the  United States. For more information about obtaining  these publications, refer to the information contained  in chapter 11.  
+
+# Available Resources  
+
+Your local FSDO can help you establish your aircraft  maintenance program and the necessary maintenance  records. Additional information relating to aircraft  maintenance records can be obtained from:  
+
+• 14 CFR Part 39, Airworthiness Directives •  14 CFR Part 43, Maintenance, Preventive  Maintenance, Rebuilding, and Alteration •  14 CFR Part 91, General Operating and   Flight Rules • AC 43-9 (as revised), Maintenance Records  
+
+#   
+
+# Maintenance Records Checklist  
+
+![](images/43366228c84c6df9bfd567ab0a17df050c26de8067448d137ce05fbd1fb73cc3.jpg)  
+
+![](images/be761905546496a8d90767889d473a539014d3787836f2a681773d94a97eb34c.jpg)  
+
+Figure 8-2.   FAA Form 337, Major Repair and Alteration.  You can obtain instructions for completing FAA  Form 337 on the FAA website at www.faa.gov or from your local FSDO.  
+
+![](images/552fbc20f679795ccb4076c9fbcf5bfe51abc8c32c85b59a12d5fcc1bc416609.jpg)  
+
+#  
+
+(P/N) 383493, that had loosened or completely backed out of the threaded plug hole on the regulator  
+
+#  
+
+#  
+
+Interim Action These actions are interim actions and we might take additional rulemaking actions in the  
+
+#  
+
+is to rapidly correct an urgent safety of flight situation. This is an exception to the standard  process. If time by which the terminating action must be accomplished is too short to allow for  public comment (that is, less than 60 days), then a finding of im practicability is justified for  the terminating action, and it can be issued as an immediately adopted rule. The immediately  adopted rule will be published in the Federal Register with a request for comments. The Final  Rule AD may be changed later if substantive comments are received.  
+
+# Superseded AD  
+
+An AD is no longer in effect when it is superseded   by a new AD. The superseding AD identifies the AD  that is no longer in effect. There are no compliance  requirements for a superseded AD.  
+
+# Compliance with ADs  
+
+For purposes of compliance, ADs may be divided   into two categories:  
+
+•  Those of an emergency nature requiring  immediate compliance before further flight, or •  Those of a less urgent nature requiring  compliance within a relatively longer period of  time.  
+
+ADs are the “final rule” and compliance is required  unless specific exemption is granted. Aircraft owners  are responsible for ensuring compliance with all  pertinent ADs. This includes those ADs that require  recurrent or continuing action. For example, an AD  may require a repetitive inspection each 50 hours   of operation, meaning the particular inspection must   be accomplished and recorded every 50 hours of   time in service.  
+
+m  CAUTION: Aircraft owners are reminded   that there is no provision to overfly the maximum  hour requirement of an AD unless it is specifically   written into the AD.  
+
+# Amateur-Built Aircraft  
+
+For help in determining if an AD applies to your  amateur-built aircraft, contact your local Flight  Standards District Office (FSDO).  
+
+# Summary of ADs  
+
+14 CFR part 91, section 91.417, requires a record  to be maintained that shows the current status of  applicable ADs, including:  
+
+• Method of compliance; • AD number and revision date; • Date and time when due again, if recurring; • Certified mechanic’s signature; • Type of certificate; and •  Certificate number of the repair station or  mechanical performing the work.  
+
+For ready reference, many aircraft owners keep a  chronological listing of the pertinent ADs in the back  of their aircraft and engine records. Generally, a  summary of ADs contains all the valid ADs previously  published.  Figure 9-1  is a sample form of summary  of ADs.  
+
+# Obtaining ADs  
+
+Both AD categories (small and large aircraft) are  published in biweekly supplements. All ADs are   available on the FAA website at www.faa.gov.   Advisory Circular (AC) 39-7 (as revised), Airworthi- ness Directives, provides additional guidance and  information for aircraft owners and operators about   their responsibilities for complying and recording  ADs. For more information, contact the FAA  Regulatory Support Division, Delegation and  Airworthiness Programs Branch (AIR-140). AIR-140  contact information is available in the FAA Contact  Information appendix on pages A1–A2 of this  handbook.  
+
+![](images/4ceee0bc8f819f92cc100427754268d3cf6042ce8596a4604fd44ed374d55a2e.jpg)  
+
+![](images/26f3e56a82367afbbd11a1acc4d4958c2794185857c4debca1b05807e6ea94c9.jpg)  
+
+# Service Difficulty Program  
+
+he Service Difficulty Program is an information system designed to provide assistance   to aircraft owners, operators, maintenance organizations, manufacturers, and the Federal  Aviation Administration (FAA) in identifying aircraft problems encountered during service.  
+
+# Background  
+
+The Service Difficulty Program provides for the collection, organization, analysis, and  dissemination of aircraft service information to improve service reliability of aeronautical  products. The primary sources of this information are aircraft maintenance facilities, owners,  and operators. The incentive for early detection is to expedite corrective actions and ultimate  solutions, thereby minimizing the effect of equipment failure on safety.  
+
+Each problem reported contributes to the improvement of aviation safety through the  identification of a potential problem area and the alerting of other persons to it. This focusing  of attention on a problem has led to improvements in the design and maintainability of  aircraft and aircraft products.  
+
+Advisory Circular (AC) 20-109 (as revised), Service Difficulty Program (General Aviation),  describes the Service Difficulty Program as it applies to general aviation. It also includes  instructions for completing FAA Form 8010-4, Malfunction or Defect Report. The  information from these reports is compiled and published as Maintenance Alerts.  
+
+By pooling everyone’s knowledge about a situation, the FAA can detect mechanical problems  early enough to correct them before they might possibly result in accidents/incidents which  should make flying safer, more enjoyable, and certainly less expensive.  
+
+# FAA Form 8010-4, Malfunction or Defect Report  
+
+General aviation aircraft service difficulty information is normally submitted to the FAA by  use of FAA Form 8010-4. However, information will be accepted in any form or format when  FAA Form 8010-4 is not readily available for use.  
+
+The information contained in the FAA Form 8010-4 is stored in a computerized data bank  for retrieval and analysis. Items potentially hazardous to flight are telephoned directly to the  Regulatory Support Division, Aviation Data Systems Branch (AFS-620) personnel by FAA  aviation safety inspectors (ASIs) in local Flight Standards District Offices (FSDOs). These  items are immediately referred to, and promptly handled by, the appropriate FAA offices.  
+
+Aircraft owners, pilots, and mechanics are urged to  report all service problems promptly, using FAA   Form 8010-4 or any other form or format. You may  obtain a copy of the form from any FSDO. No postage  is required.  
+
+FAA Form 8010-4 is also available in a fillable   PDF format on the FAA website at  http://forms.faa.gov/forms/faa8010-4.pdf   for mailing, or it can be submitted electronically   on the FAA website at www.faa.gov.  Figure 10-1   at the end of this chapter is a sample FAA   Form 8010-4.  
+
+# Maintenance Alerts  
+
+The FAA publishes AC 43-16 (as revised), Aviation  Maintenance Alerts, monthly on its website to  provide the aviation community with a means for  interchanging service difficulty information and  sharing information on aviation service experiences.  
+
+Maintenance specialists review the reports and select  pertinent items for publication in the Maintenance  Alerts. The information is brief and advisory and   compliance is not mandatory. However, the informa- tion is intended to alert you to service experience,  and, when applicable, direct your attention to the  manufacturer’s recommended corrective action.  
+
+# Accessing Maintenance Alerts  
+
+You can access current and back issues of this  publication on the FAA website at http://www.faa. gov/aircraft/safety/alerts/aviation maintenance/,  which allows free access to each month’s Main-  tenance Alerts.  
+
+# Contact Information  
+
+You can contact the FAA Aviation Systems Data  Branch (AFS-620) regarding the Maintenance Alert  Program. AFS-620 contact information is available  in the FAA Contact Information appendix on pages  A1–A2 of this handbook.  
+
+# Background  
+
+The Maintenance Alert program leads to improved  aeronautical product durability, reliability, and safety.  The articles contained in the Maintenance Alerts are   derived from the Malfunction or Defect Reports sub- mitted by aircraft owners, pilots, mechanics, repair  stations, and air taxi operators.  
+
+![](images/53dafd99a70617f95415955419384974eeecd21842d22a0d15727f055b1157ae.jpg)  
+
+![](images/2547b88535ccdb8907aab8d0640439e6931ce10ccce7cb47f7f01d1e46194135.jpg)  
+Figure 10-1.  FAA Form 8010-4, Malfunction or Defect Report.  You can obtain instructions for completing  FAA Form 8010-4 on the FAA website at www.faa.gov or from your local FSDO.  
+
+# Obtaining FAA Publications and Records  
+
+T 	here are several ways to obtain various Federal Aviation Administration (FAA) 	 	publications. The easiest way to locate a particular FAA document and/or   Title 14 of the Code of Federal Regulations (14 CFR) part is on the FAA website at  www.faa.gov. In addition, you can order some FAA publications directly from the  FAA or from the Government Printing Office (GPO). The FAA Records Checklist in  Figure 11-1  at the end of this chapter is a list of addresses to assist you in obtaining  the publications and records discussed in this chapter.  
+
+FAA publications and supporting regulatory guidance material fall into several   specific categories, which are explained in this chapter. If you cannot find the  information you are seeking, refer to the FAA website, which contains a great deal   of useful information for aircraft owners and operators.  
+
+# Advisory Circulars  
+
+The FAA issues an Advisory Circular (AC) to inform the aviation public, in a  systematic way, of nonregulatory material of interest. The content of an AC is not  binding on the public unless it is incorporated into a regulation by reference.  
+
+AC 00-2 (as revised) , Advisory Circular Checklist, contains a list of current FAA ACs   and provides detailed instructions on obtaining copies. It also contains a list of   U.S. GPO bookstores throughout the United States that stock many Government  publications. This AC may be accessed on the FAA website at www.faa.gov by  selecting “Regulations & Policies” from the main menu bar.  
+
+# Airworthiness Directives  
+
+The FAA uses an Airworthiness Directive (AD) to notify aircraft owners and other  interested persons of unsafe conditions and to specify the conditions under which the  product may continue to be operated. You can access ADs on the FAA website at   www.faa.gov by selecting “Regulations & Policies” from the main menu bar.  
+
+You can subscribe to ADs at the FAA Regulatory & Guidance Library (RGL) website,  http://rgl.faa.gov. Current and historical ADs are also available on the RGL website.  
+
+# Temporary Flight Restrictions  
+
+A Temporary Flight Restriction (TFR) is a geographi- cally limited, short term, airspace restriction, typically  in the United States. TFRs often encompass major  sporting events, natural disaster areas, air shows,  space launches, and Presidential movements. You  can access current TFRs on the FAA website at   www.faa.gov by selecting “Regulations & Policies”  from the main menu bar.  
+
+m  CAUTION: You should check the current TFRs  every time you fly.  
+
+# Notice to Airmen  
+
+You can obtain the most recent Notice to Airmen  (NOTAMs) from the FAA website at www.faa.gov  by selecting “Regulations & Policies” from the main  menu bar. Current NOTAMs are also available from  Flight Service Stations at 1-800-WX-BRIEF  (1-800-992-7433).  
+
+# 14 CFR  
+
+While aircraft owners and operators are responsible  for compliance with all applicable 14 CFR parts, you  may find the following parts most relevant to your  aircraft operations:  
+
+•  14 CFR Part 1, Definitions and Abbreviations •  14 CFR Part 21, Certification Procedures for  Products and Parts •  14 CFR Part 23, Airworthiness Standards:  Normal, Utility, Acrobatic, and Commuter  Category Airplanes •  14 CFR Part 33, Airworthiness Standards: Aircraft  Engines •  14 CFR Part 35, Airworthiness Standards:  Propellers •  14 CFR Part 39, Airworthiness Directives •  14 CFR Part 43, Maintenance, Preventive  Maintenance, Rebuilding, and Alteration •  14 CFR Part 45, Identification and Registration  Marking •  14 CFR Part 47, Aircraft Registration •  14 CFR Part 49, Recording of Aircraft Titles and  Security Documents •  14 CFR Part 61, Certification: Pilots, Flight  Instructors, and Ground Instructors •  14 CFR Part 65, Certification: Airmen Other than  Flight Crewmembers •  14 CFR Part 91, General Operating and Flight  Rules  
+
+AC 00-44 (as revised), Status of Federal Aviation  Regulations, contains the current status of the   14 CFR parts, including changes issued, price   list, and ordering instructions. This AC may be  obtained on the FAA website at www.faa.gov.  
+
+# Handbooks and Manuals  
+
+The FAA publishes a series of handbooks and  manuals designed for aircraft, general aviation en- thusiasts, examiners, and inspectors. You can find  most of these handbooks and manuals, including  Plane Sense , on the FAA website at www.faa.gov   by selecting “Regulations & Policies” from the main  menu bar.  
+
+# Aircraft Records  
+
+The FAA Civil Aviation Registry Aircraft Registration  Branch (AFS-750) maintains registration records  on individual aircraft and serves as a warehouse for  airworthiness documents received from FAA field  offices. You can access information on requesting  aircraft records, as well as current fee information,  on the FAA website at www.faa.gov by selecting  “Licenses & Certificates” from the main menu bar.  
+
+# Request Aircraft Records  
+
+You can mail or fax your request for aircraft records  to AFS-750, or submit your request online.  
+
+Written requests from outside the United States   must include a check or money order (in U.S. funds)  payable to the FAA to cover the projected fee. You  can obtain the correct fee by contacting AFS-750.  AFS-750 contact information is available at the end  of this chapter in  Figure 11-1 , FAA Records Checklist,  and in the FAA Contact Information appendix on  pages A1–A2 of this handbook.  
+
+# Format  
+
+You can order paper copies or electronic copies (on   CD-ROM) of aircraft records. Each CD-ROM con- tains one aircraft record. You can view the CD-ROM  files using Adobe Acrobat Reader. The FAA includes  a copy of the latest reader on the CD-ROM.  
+
+Most records for aircraft removed from the U.S.  Civil Aircraft Register before 1984 are in storage and  available only in paper format. You can ask the FAA  to retrieve these records.  
+
+# Airman Records  
+
+The FAA Civil Aviation Registry Airmen Certification  Branch (AFS-760) maintains airman records. You   can access information on requesting airman records,  as well as current fee information, on the FAA website  at www.faa.gov by selecting “Licenses & Certificates”  from the main menu bar.  
+
+There are two ways to obtain copies of your airman  records. You can mail the FAA Aeronautical Center  (AC) Form 8060-68, Request for Copies of My  Complete Airman File; or a signed, written request  stating your name, date of birth, and social security  number or certificate number.  Figure 11-2  at the end  of this chapter is a sample FAA Form 8060-68.  
+
+When the FAA receives your request, they will notify  you of the total charges due and payment options.  
+
+For an airman or third party to obtain copies of  medical records or a duplicate medical certificate,  the Freedom of Information Act (FOIA) request  should be mailed to the FAA Civil Aerospace  Medical Certification Division, Medical Certification  Branch (AAM-331). AAM-331 contact information  is available at the end of this chapter in  Figure 11-1 ,  FAA Records Checklist, and in the FAA Contact  Information appendix on pages A1–A2 of this  handbook.  
+
+You can also have copies of your airman records  released to a third party. Requests for airman records  can be mailed to AFS-760. AFS-760 contact infor- mation is available at the end of this chapter in  Figure 11-1 , FAA Records Checklist, and in the FAA  Contact Information appendix on pages A1–A2 of  this handbook.  
+
+# FAA RECORDS CHECKLIST  
+
+![](images/ab78bbd1ee7e0424b844a49a5d97499a695a207a25cc427b24b12821220eba42.jpg)  
+
+#  
+
+![](images/f12890c4c6c2a3f1276aeec986f738e13313f7110196dcdc3b2f913b59b98bd5.jpg)  
+
+Figure 11-2.  FAA Form 8060-68, Request for Copies of My Complete Airman File.  You can obtain instructions  for completing FAA Form 8060-68 on the FAA website at www.faa.gov or from your local FSDO.  
+
+# Appendix A: FAA Contact Information  
+
+The information contained in this appendix will help you contact the appropriate Federal Aviation Administration  (FAA) office.  
+
+# FAA Office Page(s)  
+
+U.S. Department of Transportation  Federal Aviation Administration  800 Independence Avenue, SW  Washington, DC 20591-0004 
+
+ (866) TELL-FAA  
+
+ (866-835-5322)  toll-free www.faa.gov  
+
+Federal Aviation Administration Airman Testing Standards Branch, AFS-630 P.O. Box 25082 Oklahoma City, OK 73125-0082 (405) 954-4151   phone afs630comments@faa.gov  
+
+Federal Aviation Administration  Aircraft Registration Branch, AFS-750 P.O. Box 25504 Oklahoma City, OK 73125-0504
+
+ (866) 762-9434  toll-free
+
+ (405) 954-3116  phone
+
+ (405) 954-3548 or (405) 954-8068  fax  
+
+Federal Aviation Administration Light Sport Aviation Branch, AFS-610 P.O. Box 25082 Oklahoma City, OK 73125-0082
+
+ (405) 954-6400   phone
+
+ (405) 954-4104  fax  
+
+Federal Aviation Administration Delegation & Airworthiness Programs Branch, AIR-140 P.O. Box 26460 Oklahoma City, OK 73125-4902 (405) 954-4103   phone  
+
+vii  
+
+iii  
+
+2-2, 2-3, 4-1, 4-3, 4-4, 4-5,  11-2, 11-4  
+
+2-4, 4-5, 6-2  
+
+9-2  
+
+# FAA Office  
+
+Federal Aviation Administration Aviation Systems Data Branch, AFS-620 ATTN: AFS-620 ALERTS P.O. Box 25082 Oklahoma City, OK 73125-0082 (405) 954-4391  phone  
+
+Federal Aviation Administration   Airmen Certification Branch, AFS-760  P.O. Box 25082  Oklahoma City, OK 73125-0082 (405) 954-3261  phone  
+
+Federal Aviation Administration Aeromedical Certification Branch, AAM-331  P.O. Box 26080   Oklahoma City, OK 73126-5063 (405) 954-4821  phone  
+
+Federal Aviation Administration Aeromedical Certification Branch, AAM-331 ATTN: FOIA Desk  P.O. Box 26200   Oklahoma City, OK 73125-9914 (405) 954-4821  phone  
+
+Page(s)  
+
+10-2  
+
+11-3, 11-4  
+
+11-3, 11-4  
+
+11-4  
+
+# Appendix B: Regulatory Guidance Index  
+
+The information contained in this appendix will help you locate regulatory guidance information including  pertinent Code of Federal Regulations parts, FAA Orders, and Advisory Circulars.  
+
+# Code of Federal Regulations (CFR)	 Page(s)  
+
+14 CFR. ..  iii, 1-4, 2-2, 3-1, 6-1, 7-1,7-2, 7-3, 11-1 14 CFR part 1. ......................................................... 11-2 14 CFR part 1, section 1.1......................................... 6-1 14 CFR part 21...................................... 3-1, 3-3, 11-2 14 CFR part 21, subpart C. ....................................... 3-2 14 CFR part 21, subpart H....................................... 3-3 14 CFR part 21, subpart I. ........................................ 3-2 14 CFR part 21, section 21.24.................................. 3-2 14 CFR part 21, section 21.25.................................. 3-2 14 CFR part 21, section 21.181................................. 3-3 14 CFR part 21, section 21.184................................ 3-2 14 CFR part 21, section 21.185. ................................ 3-2 14 CFR part 21, section 21.187. ................................ 3-2 14 CFR part 21, section 21.189................................ 3-2 14 CFR part 21, section 21.190..... 3-2, 4-5, 6-2, 7-1,  7-3, 8-2 14 CFR part 21, section 21.191........................  3-2, 6-2 14 CFR part 21, section 21.193. ................................ 3-2 14 CFR part 21, section 21.195. ................................ 3-2 14 CFR part 21, section 21.197........................ 3-2, 5-2 14 CFR part 23....................................................... 11-2 14 CFR part 33....................................................... 11-2 14 CFR part 35....................................................... 11-2 14 CFR part 39...................................... 8-4, 9-1, 11-2 14 CFR part 43.... 1-2, 3-1, 3-3, 7-2, 7-3, 8-2, 11-2 14 CFR part 43, section 43.9..................  2-4, 8-3, 8-4 14 CFR part 43, section 43.11.......................... 7-2, 8-3 14 CFR part 43, appendix A............................ 7-2, 7-3 14 CFR part 43, appendix B. .................................... 8-2 14 CFR part 43, appendix D.................................... 7-3 14 CFR part 43, appendix E. .................................... 7-3 14 CFR part 43, appendix F. .................................... 7-3 14 CFR part 45............................................... 3-3, 11-2  
+
+# Code of Federal Regulations (CFR)	 Page(s)  
+
+14 CFR part 47...................................... 4-5, 4-6, 11-2 14 CFR part 47, section 47.2. ................................... 4-2 14 CFR part 47, section 47.41.........................  1-1, 4-4 14 CFR part 49....................................................... 11-2 14 CFR part 61............................................... 1-2, 11-2 14 CFR part 65....................................................... 11-2 14 CFR part 67......................................................... 1-2 14 CFR part 91.... 1-2, 3-1, 5-2, 7-2, 8-3, 8-4,11-2 14 CFR part 91, subpart D....................................... 3-3 14 CFR part 91, subpart E. .............................. 7-1, 7-2 14 CFR part 91, section 91.203................................ 4-3 14 CFR part 91, section 91.207................................ 8-3 14 CFR part 91, section 91.213. .......................  2-4, 7-3 14 CFR part 91, section 91.215. ................................ 8-3 14 CFR part 91, section 91.305................................ 2-5  14 CFR part 91, section 91.313. ................................ 3-3 14 CFR part 91, section 91.317. ................................ 3-2 14 CFR part 91, section 91.319. ................................ 2-5  14 CFR part 91, section 91.327...... 7-1, 7-2, 7-3, 8-2 14 CFR part 91, section 91.403.......................  2-4, 7-1 14 CFR part 91, section 91.409. .............. 7-2, 8-1, 8-3 14 CFR part 91, section 91.411................................. 8-3 14 CFR part 91, section 91.413. ................................ 8-3 14 CFR part 91, section 91.417. ................................ 9-2 14 CFR part 91, section 91.715................................. 3-3 14 CFR part 121........................................................ 5-1 14 CFR part 125....................................................... 8-3 14 CFR part 135. ....................................................... 5-1 14 CFR part 145....................................................... 5-2 14 CFR part 183....................................................... 3-3 14 CFR part 183, section 183.33.............................. 4-4 14 CFR part 375....................................................... 3-3 49 CFR part 830...................................................... 1-2 49 CFR part 830, section 830.5.............................. 1-3  
+
+# FAA Orders (as revised) 	   Page(s)  
+
+Order 8100.8........................................................... 4-5 Order 8130.2.........................  2-5, 3-1, 3-3, 5-2, 6-2 Order 8130.33. ......................................................... 6-2 Order 8900.1........................................................... 3-3  
+
+# Advisory Circulars (ACs) (as revised)	 Page(s)  
+
+AC 00-2................................................................. 11-1 AC 00-44. .............................................................. 11-2 AC 20-27.................................................................. 3-3 AC 20-109............................................................. 10-1 AC 20-139................................................................ 3-3 AC 21-4. .................................................................... 3-3 AC 21-12................................................................... 3-3 AC 39-7.................................................................... 9-2 AC 43-9........................................................... 8-2, 8-4 AC 43-16. ............................................................... 10-2 AC 45-2.................................................................... 3-3 AC 90-89. ................................................................. 3-3  

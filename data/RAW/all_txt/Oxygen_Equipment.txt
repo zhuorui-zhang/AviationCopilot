@@ -1,0 +1,187 @@
+# Oxygen Equipment Use in  General Aviation Operations  
+
+A basic knowledge of oxygen equipment can be critical  whether you are flying a commercial, commuter, or a  general aviation aircraft. This equipment is the first line  of defense against the potentially lethal effects of hypoxia  and carbon monoxide poisoning. It is the responsibility of  the pilot that all aboard the aircraft, crew-members and  passengers, know how to use this life-saving equipment  safely and efficiently.  
+
+# General Precautions  
+
+This pamphlet describes operational precautions to use  with all types of oxygen systems. The basic principles and  practices include:  
+
+• Keep your equipment clean.  The interaction of 	 	 oil-based products and oxygen creates a fire hazard.  	 Additionally, oil attracts dirt particles, and these dirt  	 particles can contaminate storage containers,  	 regulators, masks, and valves. For cleaning  	 instructions, check with the manufacturer’s guide.  
+
+• Protect your oxygen mask from direct  	 sunlight and dust.  Store in proper containers.  
+
+• Inspect oxygen storage containers.  Make sure that  	 they are securely fastened in the aircraft, as turbulence  	 or abrupt changes in attitude can cause them to come  	 loose. Proper inspections are important, so your oxygen  	 equipment should be inspected regularly at an  	 authorized Federal Aviation Administration  	 inspection station.  
+
+• No smoking!  Although oxygen itself is not flammable,  	 it can cause other materials to ignite more easily and  	 will make existing fires burn hotter and faster. Do not  	 allow anyone to smoke around oxygen equipment that  	 is being used. Likewise, no one should smoke around  	 oxygen equipment that is being recharged. Ensure that  	 the aircraft is properly grounded before loading oxygen.  
+
+• Mix and match components with caution.  When  	 inter-changing oxygen systems components, ensure  	 compatibility of the components - storage containers,  	 regulators, and masks.  
+
+# Basic Components  
+
+There are three components to most oxygen systems,  whether they are portable or installed systems.  
+
+• A storage system (containers)
+
+ • A delivery system
+
+ • Mask or nasal cannula  
+
+# Storage Systems  
+
+Oxygen can be stored in the aircraft as a gas, liquid,  or a solid.  
+
+Gaseous aviator’s breathing oxygen (ABO).  Storing  oxygen as a gas has the major advantage of being more  economical. It can be stored in high-pressure (1800-2200  psi) containers or low-pressure (400-450 psi) containers.  The major disadvantage is the weight and bulk of the  storage containers, which may become an issue in smaller  aircraft. Aviator’s oxygen must meet certain standards to  ensure that it is safe to be taken to altitude. Only aviator’s- grade breathing oxygen meets this specification. Neither  
+
+medical grade nor  industrial grade  oxygen is safe to  substitute because  they do not meet the  
+
+![](images/5b28f77160585c45b0951bc06b97dd389d057cdd6faac4b26f8938ddb924b123.jpg)  
+
+same stringent standards as ABO.  
+
+Liquid aviators breathing oxygen (LOX).  Oxygen can  be serviced to the aircraft in a liquid state. The advantage  of LOX is that it has a nine hundred-to-one expansion  ratio. In other words, one liter of LOX will expand into 900  gaseous liters of ABO. This provides a three-to-one space  and a five-to-one weight savings over gaseous ABO. The  major disadvantages are that LOX is stored at its critical  temperature of minus  $197^{\circ}\,\mathsf{F}$   and its volatile nature when it  comes in contact with petroleum products. If LOX comes in  contact with exposed skin, severe frostbite may occur.  
+
+Sodium chlorate candles (solid-state oxygen).  Sodium  chlorate is a chemical that, when heated to   $350^{\circ}\,\mathsf{F},$  , will  thermally decompose and release oxygen. Sodium chlorate  candles have the  advantage of saving  weight and space  over ABO because  
+
+![](images/a82114aaf9b0351fa1580fa10acf42f1cd3f8ccb72fd3343e9aa3552082b048d.jpg)  
+
+they provide a six hundred-to-one expansion ratio. The  major disadvantage is that once the chemical reaction  starts (the candle is activated), it can’t be stopped easily.  Additionally, the candle produces a great deal of heat and  precautions must be taken to avoid a fire hazard.  
+
+Molecular sieve oxygen generators (MSOG).  The air  we breathe contains  $21\%$   oxygen and the remainder  is nitrogen and inert gases that play no major role in  respiration. MSOGs take ambient air and separate oxygen  from the nitrogen and inert gases. The separated oxygen is  concentrated and used to supply the aircraft. . The military  has used this system for many years, as well as medical  patients who need a portable oxygen system. Civil aviation  hasn’t embraced MSOG, but it may become more common  in future aircraft.  
+
+# Oxygen Delivery Systems  
+
+Continuous flow. This system delivers a continuous flow of  oxygen from the storage container. It is a very economical  system in that it doesn’t need complicated masks or  regulators to function. But it is also very wasteful—the  oxygen flow is constant whether you’re inhaling, exhaling,  or pausing in between breaths. This system is typically  used at 28,000 feet and lower.  
+
+Diluter demand.  The diluter  demand system is designed  to compensate for the short- comings of the continuous-  flow system. It gives the  user oxygen on-demand  (during inhalation) and stops  the flow when the demand  ceases (during exhalation).  This helps conserve oxygen.  
+
+![](images/a229c5a0f8b5202bfaf7559458ae0e2c6b01c26666113dc25d792673154826f9.jpg)  
+
+Additionally, the incoming oxygen is diluted with cabin air  and provides the proper percentage of oxygen, depending  on the altitude. This system is typically used at altitudes up  to 40,000 feet.  
+
+Pressure demand.  This  system provides oxygen  under positive pressure.  Positive pressure is a  forceful oxygen flow that  slightly over-inflates the  
+
+![](images/a5374801ce95bccc7a5e0a3f5e3636fb51ab5efbbf5b5930e142c24dafbcfea6.jpg)  
+
+lungs. This will, in a sense, pressurize the lungs to a lower  altitude, thus allowing you to fly at altitudes above 40,000  feet, where   $100\%$   oxygen without positive pressure is  insufficient.  
+
+# Oxygen Masks and Cannulas  
+
+When considering an oxygen mask, you must ensure that  the mask you are using is compatible with the delivery  system you are using.  
+
+Nasal cannulas.  These are  continuous-flow devices  and offer the advantage of  personal comfort. They are  restricted by federal aviation  regulations to 18,000 feet  service altitude because of  the risk of reducing blood  
+
+![](images/dc7f4c7952be979efb3c1ab39c14d1109096c754325eb25a0aaf703158bb1096.jpg)  
+
+oxygen saturation levels if one breathes through the mouth  or talks too much.  
+
+![](images/dc0c350b389c2cf702d64ad9fdc10672d62d22ccc1c7d30d2b8409bb2225ea6f.jpg)  
+
+Oral-nasal re-breather.  This  mask is the most common  and the least expensive. It  is also the simplest to use;  ; it has an external plastic  rebreather bag that inflates  every time you exhale. The  purpose of the rebreather bag  is to store exhaled air, so that  it may be mixed with  $100\%$    oxygen from the system.  
+
+These masks supply adequate oxygen to keep the user  physiologically safe up to 25,000 feet.  
+
+Quick-don mask.  These  masks must have the capability  to be donned with one hand  in 5 seconds or less, while  accommodating prescription  glasses. Quick-don masks are  typically suspended or stored  to permit quick and unimpeded  access by flight deck crew. These  masks are typically rated to  altitudes up to 40,000 feet.  
+
+![](images/506576855de0affc7062e82c90f7d9810db77b384ec0aac3448ab267e12e5cba.jpg)  
+
+![](images/155eb799ae7e69c736ba32cc57b436515847f2a7b9db098064d96e739795fe60.jpg)  
+
+Airline drop-down  units (Dixie cup). The continuous flow,  phase-dilution (or  phase-sequential)  mask looks similar  to a general aviation  re-breather mask.  However, the masks  function differently and  the phase dilution mask  allows the user to go  to higher altitudes. This  mask uses an external reservoir bag and a series of one- valves working in sequence to allow a mixture of   $100\%$    oxygen and cabin air into the mask. When activated by  pulling down on a suspended mask, oxygen from a supply  source flows continuously into the reservoir bag. During  inhalation, a one-way valve allows the flow of oxygen  from the reservoir bag into the lungs. If the reservoir bag  empties before inhalation is complete, a second one-way  valve on the mask face piece opens to permit the flow of  cabin air into the mask, allowing the user to take a full  breath. If the user is breathing rapidly the reservoir bag  will appear to not fully inflate. Expired air is vented out of  the mask into the cabin via a one-way exhalation valve;  expired air is not returned to the reservoir bag.  
+
+This mask can be safely used at emergency altitudes up to  40,000 feet.  
+
+# The PRICE Check  
+
+Prior to every flight, the pilot should perform the “PRICE”  check on the oxygen equipment. The acronym PRICE is a  checklist memory-jogger to help pilots and crewmembers  inspect oxygen equipment.  
+
+PRESSURE.  ensure that there is enough oxygen 
+
+ 	 	 pressure and quantity to complete the flight.  
+
+• 	 REGULATOR.  inspect the oxygen regulator for proper 
+
+ 	 	 function. If you are using a continuous-flow system, 
+
+ 	 	 ensure that the outlet assembly and plug-in coupling 
+
+ 	 	 are compatible.  
+
+INDICATOR.  most oxygen delivery systems indicate 
+
+ 	 	 oxygen flow by use of flow indicators. Flow indicators 
+
+ 	 	 may be located on the regulator or within the oxygen  	 	 delivery tube. Don the mask and check the flow 
+
+ 	 	 indicator to ensure a steady flow of oxygen.  
+
+CONNECTIONS.  ensure that all connections are 
+
+ 	 	 secured. This includes oxygen lines, plug-in coupling, 
+
+ 	 	 and the mask.  
+
+• 	 EMERGENCY.  have oxygen equipment in the aircraft 
+
+ 	 	 ready to use for emergencies that require oxygen 
+
+ 	 	 (hypoxia, smoke and fumes, rapid decompressions/
+
+ 	 	 decompression sickness). This step should include 
+
+ 	 	 briefing passengers on the location of oxygen and its 
+
+ 	 	 proper use.  
+
+# Be Aware  
+
+From a safety-of-flight standpoint, oxygen equipment is an  issue that should concern all pilots. Know the equipment  you have on board, know when to use it, and most  importantly, know its limitations. It’s your key to a safe and  enjoyable flight.  
+
+Federal Aviation Regulations and Oxygen Use (Title 14 of the Code of Federal Regulations)  
+
+# PART 91 GENERAL OPERATING AND FLIGHT RULES  
+
+$\S91.211$   Supplemental oxygen.  
+
+(a) General. No person may operate a civil aircraft of U.S. registry—  1) At cabin pressure altitudes above 12,500 feet (MSL) up to and  including 14,000 feet (MSL) unless the required minimum flight  crew is provided with and uses supplemental oxygen for that part  of the flight at those altitudes that is of more than 30 minutes  duration;  (2) At cabin pressure altitudes above 14,000 feet (MSL) unless  the required minimum flight crew is provided with and uses  supplemental oxygen during the entire flight time at those altitudes;  and  (3) At cabin pressure altitudes above 15,000 feet (MSL) unless each  occupant of the aircraft is provided with supplemental oxygen.  (b) Pressurized cabin aircraft. (1) No person may operate a civil  aircraft of U.S. registry with a pressurized cabin—  
+
+(ii) At flight altitudes above flight level 350 unless one pilot at the  controls of the airplane is wearing and using an oxygen mask that  is secured and sealed and that either supplies oxygen at all times  or automatically supplies oxygen whenever the cabin pressure  altitude of the airplane exceeds 14,000 feet (MSL), except that the  one pilot need not wear and use an oxygen mask while at or below  flight level 410 if there are two pilots at the controls and each pilot  has a quick-donning type of oxygen mask that can be placed on  the face with one hand from the ready position within 5 seconds,  supplying oxygen and properly secured and sealed.  
+
+(2) Notwithstanding paragraph (b)(1)(ii) of this section, if for any  reason at any time it is necessary for one pilot to leave the controls  of the aircraft when operating at flight altitudes above flight level  350, the remaining pilot at the controls shall put on and use an  oxygen mask until the other pilot has returned to that crew- member’s station.  
+
+# PART 135  
+
+# OPERATING REQUIREMENTS:  
+
+Commuter and On Demand Operations and Rules  Governing Persons On Board Such Aircraft  
+
+Sec. 135.89 Pilot requirements: Use of Oxygen.  
+
+(a) Unpressurized aircraft. Each pilot of an unpressurized aircraft  shall use oxygen continuously when flying—  
+
+(1) At altitudes above 10,000 feet through 12,000 feet MSL for  that part of the flight at those altitudes that is of more than 30  minutes duration; and  
+
+(2) Above 12,000 feet MSL. (b) Pressurized aircraft. (1) Whenever  a pressurized aircraft is operated with the cabin pressure altitude  more than 10,000 feet MSL, each pilot shall comply with  paragraph (a) of this section.  
+
+(2) Whenever a pressurized aircraft is operated at altitudes above  25,000 feet through 35,000 feet MSL, unless each pilot has an  approved quick-donning type oxygen mask–  
+
+(i) At least one pilot at the controls shall wear, secured and  sealed, an oxygen mask that either supplies oxygen at all times or  automatically supplies oxygen whenever the cabin pressure altitude  exceeds 12,000 feet MSL; and  
+
+(ii) During that flight, each other pilot on flight deck duty shall  have an oxygen mask, connected to an oxygen supply, located so  as to allow immediate placing of the mask on the pilot’s face sealed  and secured for use.  
+
+(3) Whenever a pressurized aircraft is operated at altitudes above  35,000 feet MSL, at least one pilot at the controls shall wear,  secured and sealed, an oxygen mask required by paragraph(b)(2)(i)  of this section.  
+
+(4) If one pilot leaves a pilot duty station of an aircraft when  operating at altitudes above 25,000 feet MSL, the remaining pilot  at the controls shall put on and use an approved oxygen mask until  the other pilot returns to the pilot duty station of the aircraft.  
+
+# Physiological Training Classes for Pilots  
+
+CAMI offers physiological training for civil aviation pilots,  FAA flight crews, and FAA aviation medical examiners  at our facilities in Oklahoma City, Oklahoma including  practical demonstrations of rapid decompression in a  hypobaric (altitude) chamber or Portable Reduced Oxygen  Training Enclosure (PROTE). Visit this FAA website to sign  up for this training: https://faa.gov/go/aerophys  
+
+Provided by  Aerospace Medical Education Division, AAM-400  
+
+To obtain copies of this brochure online: http://www.faa.gov/pilots/safety/pilot safety brochures/  
+
+![](images/c4cee8f6b29f55dd925de22f94a965e8e8c32b497937ed5c014029064f997c47.jpg)  
+
+or contact:  
+
+Federal Aviation Administration Aviation Safety Civil Aerospace Medical Institute AAM-400 P .O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831  

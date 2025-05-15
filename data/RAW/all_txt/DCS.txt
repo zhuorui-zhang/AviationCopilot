@@ -1,0 +1,159 @@
+#  
+
+# ALTITUDE-INDUCED  DECOMPRESSION  SICKNESS  
+
+# iny Bubbles, BIG Troubles  
+
+Decompression sickness (DCS) describes  a condition characterized by a variety of  symptoms resulting from exposure to low barometric  pressures that cause inert gases (mainly nitrogen),  normally dissolved in body fluids and tissues, to  come out of physical solution and form bubbles.  DCS can occur during exposure to altitude (altitude  DCS) or during ascent from depth (mining or diving).  The first documented cases of DCS (Caisson  Disease) were reported in 1841 by a mining  engineer who observed the occurrence of pain and  muscle cramps among coal miners exposed to air- pressurized mine shafts designed to keep water out.  The first description of a case resulting from diving  activities while wearing a pressurized hard hat was  reported in 1869.  
+
+# ALTITUDE-INDUCED  DECOMPRESSION SICKNESS  
+
+Altitude DCS became a commonly observed  problem associated with high-altitude balloon and  aircraft flights in the 1930s. In present-day aviation,  technology allows civilian aircraft (commercial and  private) to fly higher and faster than ever before.  Though modern aircraft are safer and more reliable,  occupants are still subject to the stresses of high  altitude flight — and the unique problems that go with  these lofty heights. A century and one-half after the  first DCS case was described, our understanding  of DCS has improved, and a body of knowledge  has accumulated; however, this problem is far from  being solved. Altitude DCS still represents a risk to  the occupants of modern aircraft.  
+
+# Tiny Bubbles  
+
+According to Henry’s Law, when the pressure of  a gas over a liquid is decreased, the amount of photo of wine bottle  
+
+gas dissolved in that liquid will also  decrease. One of the best practical  demonstrations of this law is offered  by opening a soft drink. When the  cap is removed from the bottle, gas  is heard escaping, and bubbles can  be seen forming in the soda. This  is carbon dioxide gas coming out  of solution as a result of sudden  exposure to lower barometric  
+
+![](images/50643950128b4d19e45ec8600d3db6c30ca22c5db77879eee38d810cb21cbd7b.jpg)  
+
+pressure. Similarly, nitrogen is an inert gas normally  stored throughout the human body (tissues and  fluids) in physical solution. When the body is  exposed to decreased barometric pressures (as in  flying an unpressurized aircraft to altitude, or during  a rapid decompression), the nitrogen dissolved in  the body comes out of solution. If the nitrogen is  forced to leave the solution too rapidly, bubbles form  in different areas of the body, causing a variety of  signs and symptoms. The most common symptom is  joint pain, which is known as “the bends.”  
+
+# Trouble Sites  
+
+Although bubbles can form anywhere in the body,  the most frequently targeted anatomic locations are  the shoulders, elbows, knees, and ankles.  
+
+![](images/05fd0096b665dacafcf9f472004309026f59e6eca20bf23f05e1de59e1d4ddba.jpg)  
+
+Table 1 lists the different DCS types  with their corresponding bubble  formation sites and their most  common symptoms. “The bends’’  (joint pain) account for about 60 to   $70\%$   of all altitude DCS cases, with  the shoulder being the most common  site. Neurologic manifestations  
+
+are present in about 10 to   $15\%$   of all DCS cases ,   with headache and visual disturbances being the  most common symptoms. “The chokes” are very  infrequent and occur in less than   ${\mathcal{Z}}\%$   of all DCS  cases. Skin manifestations are present in about 10  to   $15\%$   of all DCS cases. cartoon of man sick  
+
+# Medical Treatment  
+
+Mild cases of “the bends” and skin bends (excluding  mottled or marbled skin appearance) may disappear  during descent from high altitude, but still require  medical evaluation. If the signs and symptoms  persist during descent or reappear at ground  level, it is necessary to provide hyperbaric oxygen  treatment immediately (  $100\%$   oxygen delivered in  a high-pressure chamber). Neurological DCS, “the  chokes,” and skin bends with mottled or marbled  skin lesions (see Table 1) should always be treated  with hyperbaric oxygenation. These conditions are  very serious and potentially fatal if untreated.  
+
+# Facts About Breathing   $100\%$   Oxygen  
+
+One of the most significant breakthroughs in altitude  DCS research was the discovery that breathing   $100\%$   oxygen before exposure to a low barometric  pressure (oxygen prebreathing), decreases the risk  of developing altitude DCS. Oxygen prebreathing  promotes the elimination (washout) of nitrogen from  body tissues. Prebreathing   $100\%$   oxygen for 30  
+
+minutes prior to initiating ascent to altitude reduces  the risk of altitude DCS for short exposures (10-30  min. only) to altitudes between 18,000 and 43,000 ft.  However, oxygen prebreathing has to be continued,   without interruption ,  with inflight   $100\%$   oxygen  breathing to provide effective protection against  altitude DCS. Furthermore, it is very important to  understand that breathing   $100\%$   oxygen only during  flight (ascent, enroute, descent) does not decrease  the risk of altitude DCS and should not be used in  lieu of oxygen prebreathing.  
+
+Although   $100\%$   oxygen prebreathing is an effective  method to provide individual protection against  altitude DCS, it is not a logistically simple or an  inexpensive approach for the protection of civil  aviation flyers (commercial or private). Therefore ,   at the present time ,  it is only used by military flight  crews and astronauts for their protection during high  altitude and space operations.  
+
+# Table 1. Signs and symptoms of Altitude Decompression Sickness.  
+
+![](images/2ff3b68daca2f48794a8f808848b900edf4c55ef55fa0e271f9c8a5ad8d99df3.jpg)  
+
+# PREDISPOSING FACTORS  
+
+# Altitude  
+
+There is no specific altitude that can be considered  an absolute altitude exposure threshold, below  which it can be assured that no one will develop  altitude DCS. However, there is very little evidence  of altitude DCS occurring among healthy individuals  at altitudes below 18,000 ft. who have not been  SCUBA (Self Contained Underwater Breathing  Apparatus) diving. Individual exposures to altitudes  between 18,000 ft. and 25,000 ft. have shown a low  occurrence of altitude DCS. Most cases of altitude  DCS occur among individuals exposed to altitudes  of 25,000 ft. or higher. A US Air Force study of  altitude DCS cases reported that only   $13\%$   occurred  below 25,000 ft. The higher the altitude of exposure,  the greater the risk of developing altitude DCS. It  is important to clarify that although exposures to  incremental altitudes above 18,000 ft. show an  incremental risk of altitude DCS, they do not show  a direct relationship with the severity of the various  types of DCS (see Table 1).  
+
+# Repetitive Exposures  
+
+Repetitive exposures to altitudes above 18,000  ft. within a short period of time (a few hrs.) also  increase the risk of developing altitude DCS.  
+
+# Rate of Ascent  
+
+The faster the rate of ascent to altitude, the greater  the risk of developing altitude DCS. An individual  exposed to a rapid decompression (high rate of  ascent) above 18,000 ft. has a greater risk of  altitude DCS than being exposed to the same  altitude but at a lower rate of ascent.  
+
+# Time at Altitude  
+
+The longer the duration of the exposure to altitudes  of 18,000 ft. and above, the greater the risk of  altitude DCS.  
+
+# Age  
+
+There are some reports indicating a higher risk of  altitude DCS with increasing age.  
+
+# Previous Injury  
+
+There is some indication that recent joint or limb  injuries may predispose individuals to developing  “the bends.”  
+
+# Ambient Temperature  
+
+There is some evidence suggesting that individual  exposure to very cold ambient temperatures may  increase the risk of altitude DCS.  
+
+# Body Type  
+
+Typically, a person who has a high body fat content  is at greater risk of altitude DCS. Due to poor blood  supply, nitrogen is stored in greater amounts in fat  tissues. Although fat represents only   $15\%$   of an adult  normal body, it stores over half of the total amount  of nitrogen (about 1 liter) normally dissolved in the  body.  
+
+# Exercise  
+
+When a person is physically active while flying at  altitudes above 18,000 ft., there is greater risk of  altitude DCS.  
+
+# Alcohol Consumption  
+
+The after-effects of alcohol consumption increase  the susceptibility to DCS.  
+
+# Scuba Diving Before Flying image of a diver  
+
+SCUBA diving requires  breathing air under  high pressure. Under  these conditions,  there is a significant  increase in the amount  of nitrogen dissolved in  the body (body nitrogen  
+
+![](images/6d8e955035db8d9e1f856b1cbc3382f4a1ccb61a94f72267deb1376895a863f8.jpg)  
+
+saturation). The deeper the SCUBA dive, the greater  the rate of body nitrogen saturation. Furthermore,  SCUBA diving in high elevations (mountain lakes),  at any given depth, results in greater body nitrogen  saturation when compared to SCUBA diving at sea  level at the same depth. Following SCUBA diving, if  not enough time is allowed to eliminate the excess  nitrogen stored in the body, altitude DCS can occur  during exposure to altitudes as low as 5,000 ft. or  less.  
+
+# WHAT TO DO WHEN ALTITUDE  DCS OCCURS  
+
+• Put on your oxygen mask immediately and switch  the regulator to   $100\%$   oxygen. 
+
+ • Begin an emergency descent and land as soon as  possible. Even if the symptoms disappear during  descent, you should still land and seek medical  evaluation while continuing to breathe oxygen.  
+
+• If one of your symptoms is joint pain, keep the  affected area still; do not try to work pain out by  moving the joint around.  
+
+• Upon landing seek medical assistance from an  FAA medical officer, aviation medical examiner  (AME) military flight surgeon, or a hyperbaric  medicine specialist. Be aware that a physician not  specialized in aviation or hypobaric medicine may  not be familiar with this type of medical problem.  Therefore, be your own advocate.  
+
+• Definitive medical treatment may involve the use  of a hyperbaric chamber operated by specially  trained personnel.  
+
+• Delayed signs and symptoms of altitude DCS can  occur after return to ground level whether or not  they were present during flight.  
+
+# THINGS TO REMEMBER  
+
+• Altitude DCS is a risk every time you fly in an  unpressurized aircraft above 18,000 feet (or at  
+
+lower altitude if you SCUBA dive prior to the flight). 
+
+ • Be familiar with the signs and symptoms of  altitude DCS (see Table 1) and monitor all aircraft  occupants, including yourself, any time you fly an  unpressurized aircraft above 18,000 ft. 
+
+ • Avoid unnecessary strenuous physical activity  prior to flying an unpressurized aircraft above  18,000 ft. and for 24 hrs. after the flight. 
+
+ • Even if you are flying a pressurized aircraft,  altitude DCS can occur as a result of sudden loss  of cabin pressure (inflight rapid decompression). 
+
+ • Following exposure to an inflight rapid  decompressions do not fly for at least 24 hrs. In  the meantime, remain vigilant for the possible  onset of delayed symptoms or signs of altitude  DCS. If you present delayed symptoms or signs of  altitude DCS, seek medical attention immediately. 
+
+ • Keep in mind that breathing   $100\%$   oxygen during  flight (ascent, enroute, descent) without oxygen  prebreathing prior to take off does not prevent the  occurrence of altitude DCS. 
+
+ • Do not ignore any symptoms or signs that go away  during the descent. In fact, this could confirm that  you are actually suffering altitude DCS. You should  be medically evaluated as soon as possible.  
+
+• If there is any indication that you may have  experienced altitude DCS, do not fly again until  you are cleared to do so by an FAA medical officer,  an aviation medical examiner, a military flight  surgeon, or a hyperbaric medicine specialist.  
+
+• Allow at least 24 hrs. to elapse between SCUBA  diving and flying.  
+
+• Be prepared for a future emergency by  familiarizing yourself with the availability of  hyperbaric chambers in your area of operations.  However, keep in mind that not all of the available  hyperbaric treatment facilities have personnel  qualified to handle altitude DCS emergencies. To  obtain information on the locations of hyperbaric  treatment facilities capable of handling altitude  DCS emergencies, call the Diver’s Alert Network at  (919) 684-8111.  
+
+# For More Information  
+
+If you are interested in learning more about altitude  DCS, as well as the other stressors that may affect  your performance and/or your health during flight,  we encourage you to enroll in the Physiological  Training Course offered by the Aeromedical  Education Division (Airman Education Programs)  at the FAA Civil Aerospace Medical Institute in  Oklahoma City. A similar course is also available at  US military physiological training facilities around the  country through an FAA/DOD Training Agreement.  For more information about any of these courses,  call us at (405) 954-4837.  
+
+# Medical Facts for Pilots  
+
+Publication  AM-400-95/2 Written by:  J. R. Brown & Melchor J. Antuñano, MD  
+
+Prepared by:  Federal Aviation Administration  Civil Aerospace Medical Institute Aeromedical Education Division  
+
+To order copies of this brochure and  others listed below, contact FAA Civil Aerospace Medical Institute Shipping Clerk, AAM-400 P.O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831  
+
+# Other Pilot Safety Brochures Available  
+
+Number  Title AM-400-94/2  Alcohol and Flying: A Deadly  Combination OK05-0270  Carbon Monoxide: A Deadly Threat AM-400-03/2  Deep Vein Thrombosis and Travel AM-400-91/1  Hypoxia: The Higher You Fly, the Less Air... AM-400-98/3  Hearing and Noise in Aviation AM-400-97/1  Introduction to Human Factors in  Aviation AM-400-92/1  Over the Counter Medications and Flying AM-400-98/2  Pilot Vision AM-400-95/1 Smoke!AM-400-00/1  Spatial Disorientation: Visual Illusions AM-400-03/1  Spatial Disorientation: Why You Shouldn’t  Fly By the Seat of Your Pants  AM-400-01/1  Physiological Training Courses for Civil  Aviation Pilots AM-400-05/1  Sunglasses for Pilots: Beyond the Image  
+
+To view these pilot and passenger safety brochures,  visit the Federal Aviation Administration’s Web Site www.faa.gov/pilots/safety  
+
+# Physiological Training Classes for  Pilots  
+
+If you are interested in taking a one-day aviation  physiological training course with altitude chamber  and vertigo demonstrations or a one-day survival  course, learn about these courses by visiting this  FAA Web site:  
+
+www.faa.gov/pilots/training/airmen education  

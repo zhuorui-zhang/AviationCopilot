@@ -1,0 +1,183 @@
+Q: How do pitch, roll and yaw forces change during an engine failure?
+A: Pitch decreases, roll is induced towards the failed engine and yaw is generated  towards the dead engine.
+
+Q: Which axis — pitch, roll, or yaw — usually gives the most obvious indication of  an engine failure?
+A: Yaw
+
+Q: Why does lift change on one wing during an engine failure?
+A: From a reduction in accelerated slipstream caused by a loss of thrust in that  engine.
+
+Q: How would the aerodynamic forces be different if an engine failure occurred on  the ground?
+A: The roll moment would not be felt as strongly because the wheels are on the  ground and less lift is being generated; slipstream may not be as strong  because it may be dampened from ground interference.
+
+Q: Why is it so important that pilots practice the body movements required to  compensate for changing aerodynamic forces during an engine failure?
+A: Because when a real engine failure occurs, the response needs to be prompt  and correct.
+
+Q: Why does a 50% reduction in power result in a far greater reduction in performance?
+A: Because performance is a by-product of excess thrust. Because an engine  failure not only reduces thrust but adds drag, the excess thrust is reduced.
+
+Q: Following an engine failure, how can performance be improved?
+A: By reducing drag by establishing a zero sideslip condition and changing  conﬁguration as appropriate.
+
+Q: What pilot actions distinguish the sideslip angle from the zero sideslip angle?
+A: In a sideslip condition, the pilot has used rudder and aileron to maintain a  heading and keep the wings level. In a zero sideslip condition the pilot banks  slightly towards the operating engine and reduces rudder pressure slightly until  the airplane is slightly uncoordinated (split the ball).
+
+Q: How might a pilot plan differently for an engine failure after takeoff at sea level vs.  at a high density altitude airport?
+A: In an engine failure on departure, the airplane may have insufﬁcient excess  thrust to climb or even maintain level ﬂight on a single engine. Hence, the pilot  needs to consider a suitable off-airport location to land should an engine failure  occur. Furthermore, the pilot may consider waiting until density altitude lowers,  improving the situation.
+
+Q: What actions can a pilot take to increase single engine performance before  departure?
+A: Reduce weight, increase power (if possible), and change conﬁguration for a  maximum performance takeoff (short ﬁeld takeoff)
+
+Q: What aerodynamic force makes Vmc the minimum controllable airspeed?
+A: Rudder force; Once the yawing force from an engine failure exceeds the pressure that can be exerted through maximum deflection of the rudder, Vmc has been reached.
+
+Q: Why is Vmc so important during takeoff?
+A: Flying below VMC after an engine failure on takeoff is likely unrecoverable, because recovery requires sufficient altitude.
+
+Q: What are all the certifying criteria used to establish  VMC?
+A: Critical engine inoperative and windmilling
+Operation engine at maximum power
+Most unfavorable gross weight and CG
+Bank up to 5° towards the operating engine
+Able to maintain heading +/- 20°
+Takeoff configuration (flaps, cowl flaps, trim)
+Standard atmosphere at sea level (15° and 29.92’’)
+Out of ground effect
+Gear up
+150lbs rudder force maximum
+
+Q: What effect does landing gear have on Vmc On performance?
+A: Landing gear lowers VMC and reduces performance.
+
+Q: Why is VMC determined with landing gear up?
+A: Landing gear provide a stabilizing effect (keel effect) which lowers VMC. In an engine failure scenario, however, the gear will usually be retracted for performance, so VMC is calculated with the gear up.
+
+Q: How does density altitude affect VMC? Performance?
+A: A higher density altitude lowers VMC because it reduces engine power on the operating engine. It also reduces performance.
+
+Q: What are the four factors that make an engine critical?
+A: P-factor; Accelerated slipstream; Spiraling slipstream; Torque
+
+Q: How does P-factor affect the critical engine?
+A: P-factor is the asymmetric thrust on the descending blade (the right side on  most light twins). The distance from the CG to the descending blade is longer  on the right engine than the left; meaning that when the left engine fails, the  right engine will produce more p-factor than the left engine would if the right  engine failed.
+
+Q: How does accelerated slipstream affect the critical engine?
+A: Accelerated slipstream increases lift over the area of the wings directly behind  the propellers and greater slipstream is located behind the descending blades.  The distance from the CG to the section of wing with greater lift from  accelerated slipstream is greater on the right side than the left. Failure of the  critical engine results in a greater roll force asymmetry than failure of the non- critical engine.
+
+Q: How does spiraling slipstream affect the critical engine?
+A: Spiraling slipstream passes underneath both engines and corkscrews off to the  right. The critical engine slipstream hits the tail section, counteracting the  yawing motion produced by a non-critical engine failure. The non-critical engine  slipstream does not hit the tail and does not counteract the yawing motion  created by the failure of the critical engine.
+
+Q: How does torque affect the critical engine?
+A: In engines that turn to the right, torque effect creates a left turning tendency.  When the non-critical engine fails, the remaining engine torque effect  counteracts the right turning tendency. When the critical engine fails, the non- critical operating engine still produces a left turning tendency, exacerbating the  left turning tendency.
+
+Q: Does an airplane with counter-rotating engines have a critical engine? Why or  why not?
+A: No. Counter-rotating engines prevent the four elements that create a critical  engine. Both engines are equally critical.
+
+Q: What is the major difference between the propeller governors in single-engine  and multi-engine constant speed systems? Why are they designed differently?
+A: In a multi-engine airplane, spring tension forces the propeller to high pitch, low  RPM angle to reduce drag and facilitate in feather following a loss of oil  pressure. In a single-single-engine airplane, the propeller fails to a low pitch,  high RPM position to encourage windmilling for a restart.
+
+Q: What is the purpose of an unfeathering accumulator?
+A: The unfeathering accumulator uses pressurized oil to force the propeller out of  feather during a restart.
+
+Q: What is the purpose of a propeller synchronizer/synchrophaser? How do pilots  without either keep the propellers in sync?
+A: A propeller synchronizer/synchrophaser adjust propeller RPM to reduce  vibration and noise. Without either, a pilot will keep the propellers in sync by  roughly setting the RPM using the tachometer and ﬁnely tuning by hearing and  reducing the oscillations/vibrations.
+
+Q: What is the difference between fuel cross-feed and fuel transfer systems?
+A: A fuel cross-feed allows an engine to use fuel from an opposite-side tank. A fuel  transfer system, physically transfers fuel from one tank to another.
+
+Q: What is the difference between de-ice and anti-ice systems?
+A: De-ice systems get rid of existing ice, while anti-ice systems prevent ice  accumulation.
+
+Q: How do de-ice boots function? What improper use can cause them to stop  working?
+A: De-ice boots use pneumatic pressure to expand a rubber boot which expands  the leading edge of the wing enough to crack the ice, which then ﬂies off. If  boots are used without proper accumulation of ice, ice may adhere to the  expanded boot, leaving them stuck in the inﬂated position and preventing  system use.
+
+Q: How does a glycol bleed system work? What improper use can prevent it from  working?
+A: Glycol bleed systems force ﬂuid through a series of “pores” on the wing which  prevent ice accumulation. The common misuse of glycol anti-ice is allowing ice  to accumulate before using the system. Glycol systems only  prevent   accumulation. They cannot rid an airfoil of existing ice.
+
+Q: What are the advantages and risks associated with a heated wing de-ice/anti-ice  system?
+A: A heated wing is both a de-ice and anti-ice system, which can be used at any  time to get rid of existing ice or prevent ice build up, in contrast to boots and  glycol systems which require very speciﬁc operation to work properly. The main  hazard associated with heated wings is the extreme temperature of the air  which heats the wings — a leak in the bleed duct can cause structural damage  or a ﬁre risk.
+
+Q: What happens to excess fuel that is delivered to the engine driven pump? It is delivered back to the same side main fuel (wing tip) tank
+A: What is the purpose of the internal main tank pumps?
+
+Q: What is the purpose of the internal main tank pumps?
+A: To route fuel from the forward portion of the tank back to the electric driven  pump, particularly in a steep descent.
+
+Q: Is the Cessna 310 able to cross-feed? Can it transfer fuel directly between main  tanks?
+A: The 310 is able to cross feed, but is unable to transfer fuel directly from main  tank to main tank. It can, however, transfer fuel directly from the wing locker  tank(s) to the corresponding main tank(s).
+
+Q: What is the total number of fuel pumps?
+A: The exact number will vary on your fuel tank conﬁguration: There are 2 engine  driven pumps, 2 auxiliary pumps, 1 internal transfer pump per each main tank,  and 1 pump per locker tank. With 1 locker tank, there are 7 pumps total. With  two locker tanks, there are 8 pumps total.
+
+Q: How many fuel tanks are there?
+A: 5 or 6, depending on locker tank conﬁguration: 2 mains (wing tip), 2 auxiliary (in  wing) and either 1 or 2 locker tank(s).
+
+Q: How many fuel selectors? There are two fuel selectors.
+A: How many fuel strainers? There are two fuel strainers, one per engine.
+
+Q: How many fuel strainers? There are two fuel strainers, one per engine.
+A: If the wing tip main tanks are full, how long should a pilot ﬂy before switches to  the aux tanks?
+
+Q: If the wing tip main tanks are full, how long should a pilot ﬂy before switches to  the aux tanks?
+A: At least one hour
+
+Q: Which tanks should be used for takeoff and landing? Why?
+A: The main tanks. The auxiliary fuel pumps are connected to the main tanks. Prior  to takeoff and landing, the auxiliary pumps should be on LOW. If, while in LOW,  the engine driven pump fails, the auxiliary pump will automatically switch to  HIGH, ensuring adequate fuel delivery.
+
+Q: What incorrect operation could cause a pilot to inadvertently dump fuel  overboard?
+A: Operating on the aux tanks with full, or near full, wingtip tanks
+
+Q: What is critical speed?
+A: Critical speed is the minimum speed, as published by manufacturers, at which  an airplane with a single engine will have sufﬁcient performance to ﬂy.
+
+Q: Is an aborted takeoff after critical speed ever acceptable?
+A: Yes! It is preferable, so long as there is runway available.
+
+Q: What is blue line?
+A: Vyse, or the single engine best rate of climb speed.
+
+Q: What is red line?
+A: Vmc, or the minimum controllable airspeed with an engine inoperative. Actual  Vmc speed, as opposed to the red line, is dynamic, based on conﬁguration,  power output and bank; The absolute value is based on the least preferable  combination of these, as illustrated by the acronym COMBATSOG150
+
+Q: In many multi engine airplanes, VXSE and Vmc are very close together. What is  the signiﬁcance of that as it pertains to safety?
+A: During a short ﬁeld takeoff, where a Vx climb is expected, the pilot must realize  that following an engine failure on takeoff, a Vxse climb will be necessary, and  puts the airplane very near Vmc. Precise ﬂying is required to ensure control is  maintained.
+
+Q: What is accelerate-stop distance?
+A: The distance required to accelerate from a stop, abort the takeoff at critical  speed, and come to a complete stop.
+
+Q: What is accelerate-go distance?
+A: The distance required to accelerate from a stop to critical speed, experience an  engine failure, and continue the takeoff to a height of 50 feet.
+
+Q: What is a balanced ﬁeld condition?
+A: A balanced ﬁeld condition is one in which accelerate stop and accelerate go  distances are the same.
+
+Q: Does a “balanced ﬁeld condition” have anything to do with the actual runway  length?
+A: No. Balanced ﬁeld is a performance concept.
+
+Q: Why is a takeoff brief so important, particularly to a multi-engine pilot?
+A: When an engine fails during the takeoff roll, there is no time to talk about it. A  pilot’s actions must be pre-briefed and include scenarios for an engine failure  before and after critical speed. Execution must be timely.
+
+Q: A takeoff brief should include at least three main scenarios. What are they?
+A: Engine failure before critical speed, engine failure after critical speed, and the  two engine or normal departure procedure.
+
+Q: The visibility is near approach minimums at your departure airport. How could  your takeoff brief change accordingly?
+A: Several considerations:
+• You may be unable to return to the airport following an emergency
+• Visibility will be degraded during takeoff, decreasing SA particularly following an engine failure
+• Following an aborted takeoff, the airplane may not be visible to other pilots on either end of the runway. Either clearing the runway or making positive radio communication could be critical.
+
+Q: There is rising terrain to your left and water to your right. How might this  incorporate into your takeoff brief?
+A: You will want to modify your engine failure procedure to meet the requirements  of the terrain — in this case most likely turning right to ﬂy over the water as you  prepare to landing again.
+
+Q: What is the purpose of the drag demo?
+A: The drag demo is used to demonstrate the increase in drag from various factors  during single engine operations and the resulting effect on performance.
+
+Q: What are the approximate drag factors for your airplane?
+A: Consider drag factors for gear, flaps, and cowl flaps.
+
+Q: What is the purpose of the Vmc  demo?
+A: The Vmc demo illustrates the loss of control that occurs as the airplane slows  below Vmc during single engine operations.
+
+Q: What is an appropriate deceleration rate for the  Vmc demo?
+A: 1 knot per second.
+

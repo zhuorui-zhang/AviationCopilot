@@ -1,0 +1,117 @@
+# HEARING AND NOISE IN  AVIATION  
+
+# HEARING  
+
+T he t erm  hearing  describes the process,  fun ction, or power of perceiving sound.  He aring is second only to vision as a  physiolog ical sensory mechanism to obtain critical  information during the operation of an aircraft. The  sense of hearing makes it possible to perceive,  process, and identify among the myriad of sounds  from the surrounding environment.  
+
+# Anatomy and Physiology of the  Auditory System  
+
+The auditory  system  consists of  the external  ear, ear canal,  eardrum,  auditory  ossicles,  cochlea (which  resembles a  
+
+![](images/8018c3c43e69c362e30aefc049a476d5d888a02e81b15de0df61218880e659f6.jpg)  
+
+snail shell and is fi  lled with fl  uid), and the auditory  nerve.  
+
+Ambient sound waves are collected by the external  ear, conducted through the ear canal, and cause  the eardrum to vibrate. Eardrum vibration is  mechanically transmitted to the ossicles, which, in  turn, produce vibration of a fl  exible window in the  cochlea. This vibration causes a pressure wave  in the fl  uid located inside the cochlea, moving  thousands of hair-like sensory receptors lining the  inner walls of the cochlea. The movement of these  receptors resembles the gentle movement of a  crop fi  eld caused by the wind. The stimulation of  these sensors produces an electrical signal that is  transmitted to the brain by the auditory nerve. This  signal is then processed by the brain and identifi  ed  as a particular type of sound.  
+
+# SOUND  
+
+The term  sound sound sound  is used to describe the mechanical Image of ear radiant energy that is transmitted by longitudinal  pressure waves in a medium (solid, liquid, or gas).  Sound waves are variations in air pressures above  and below the ambient pressure. From a more  practical point of view, this term describes the  sensation perceived by the sense of hearing. All  sounds have three distinctive variables: frequency,  intensity, and duration.  
+
+Frequency . This is the physical property of sound  that gives it a pitch. Since sound energy propagates  in a wave-form, it can be measured in terms of wave  oscillations or wave cycles per second, known as  hertz   $(\mathsf{H}z)$  . Sounds that are audible to the human  ear fall in the frequency range of about 20-20,000  Hz, and the highest sensitivity is between 500 and   $_{4,000\,\,\mathsf{H}z}$  . Sounds below  $_{20\,\mathsf{H z}}$   and above 20,000  Hz cannot be perceived by the human ear. Normal  conversation takes place in the frequency range  from 500 to   $^{3,000\,\mathsf{H}z}$  .  
+
+Intensity . The correlation between sound intensity  and loudness. The decibel (dB) is the unit used  to measure sound intensity. The range of normal  hearing sensitivity of the human ear is between  -10 to  $+25$   dB. Sounds below -10dB are generally  imperceptible. A pilot who cannot hear a sound  unless its intensity is higher than 25 dB (at any  frequency) is already experiencing hearing loss.  
+
+Duration . Determines the quality of the perception  and discrimination of a sound, as well as the  potential risk of hearing impairment when exposed  to high intensity sounds. The adverse consequences  of a short-duration exposure to a loud sound can be  as bad as a long-duration exposure to a less intense  sound. Therefore, the potential for causing hearing  damage is determined not only by the duration of a  sound but also by its intensity.  
+
+# NOISE  
+
+The term  noise  refers to a sound, especially one  which lacks agreeable musical quality, is noticeably  unpleasant, or is too loud. In other words, noise is  any unwanted or annoying sound. Categorizing a  sound as noise can be very subjective. For example,  loud rock music can be described as an enjoyable  sound by some (usually teenagers), and at the same  time described as noise by others (usually adults).  
+
+Sources of Noise in Aviation . The aviation  environment is characterized by multiple sources of  noise, both on the ground and in the air. Exposure  of pilots to noise became an issue following the  introduction of the fi  rst powered aircraft by the  Wright Brothers, and has been a prevalent problem  ever since. Noise is produced by aircraft equipment powerplants, transmission systems, jet effl  ux,  propellers, rotors, hydraulic and electrical actuators,  cabin conditioning and pressurization systems,  cockpit advisory and alert systems, communications  equipment, etc. Noise can also be caused by  the aerodynamic interaction between ambient air  (boundary layer) and the surface of the aircraft  fuselage, wings, control surfaces, and landing  gear. These auditory inputs allow pilots to assess  and monitor the operational status of their aircraft.  All pilots know the sounds of a normal-functioning  aircraft. On the other hand, unexpected sounds  or the lack of them, may alert pilots to possible  malfunctions, failures, or hazards. Every pilot has  experienced a cockpit or cabin environment that was  so loud that it was necessary to shout to be heard.  These sounds not only make the work environment  more stressful but can, over time, cause permanent  hearing impairment. However, it is also important  to remember that individual exposure to noise is a  common occurrence away from the aviation working  environment — at home or work, on the road, and in  public areas. The effects of pre-fl  ight exposure to  noise can adversely affect pilot in-fl  ight performance.  
+
+# Sources of Sound/Noise  
+
+![](images/0c8b8b73721e67527e43e9e313d7ae6de80eb321da4cb17df8ddd87dce1f9b60.jpg)  
+
+# Types of Noise  
+
+Steady : Continuous noise of sudden or gradual  onset and long duration (more than 1 second).  Examples: aircraft powerplant noise, propeller noise,  and pressurization system noise. According to the  Occupational Safety and Health Administration  (OSHA), the maximum permissible continuous  exposure level to steady noise in a working  environment is 90 dB for 8 hours.  
+
+Impulse/blast : Noise pulses of sudden onset and  brief duration (less than 1 second) that usually  exceed an intensity of 140dB. Examples: fi  ring a  handgun, detonating a fi  recracker, backfi  ring of  a piston engine, high-volume squelching of radio  equipment, and a sonic boom caused by breaking  the sound barrier. The eardrum may be ruptured by  intense levels (140dB) of impulse/blast noise.  
+
+# EFFECTS OF NOISE EXPOSURE  
+
+# Physiologic  
+
+•  Ear discomfort : May occur during exposure to a  120 dB noise.  
+
+•  Ear pain : May occur during exposure to a 130 dB  noise.  
+
+•  Eardrum rupture : May occur during exposure to a  140 dB) noise.  
+
+•  Temporary hearing impairment . Unprotected  exposure to loud, steady noise over 90 dB for a  short time, even several hours, may cause hearing  impairment. This effect is usually temporary and  hearing returns to normal within several hours  following cessation of the noise exposure.  
+
+•  Permanent hearing impairment : Unprotected  exposure to loud noise (higher than 90dB) for  eight or more hours per day for several years,  may cause a permanent hearing loss. Permanent  hearing impairment occurs initially in the vicinity  of   $_{4,000\,\,\mathsf{H}z}$   (outside the conversational range)  and can go unnoticed by the individual for some  time. It is also important to remember that hearing  sensitivity normally decreases as a function of age  at frequencies from 1,000 to  $6{,}000\:\mathsf{H}z$  , beginning  around age 30.  
+
+# Psychologic  
+
+•  Subjective effects : Annoying high-intensity  noise can cause distraction, fatigue, irritability,  startle responses, sudden awakening and poor  sleep quality, loss of appetite, headache, vertigo,  nausea, and impair concentration and memory.  
+
+•  Speech interference : Loud noise can interfere  with or mask normal speech, making it diffi  cult to  understand.  
+
+•  Performance : Noise is a distraction and can  increase the number of errors in any given task.  Tasks that require vigilance, concentration,  calculations, and making judgments about time  can be adversely affected by exposure to loud  noise higher than 90 dB.  
+
+# HOW TO PROTECT YOUR HEARING  
+
+Limiting duration of exposure to noise.  OS HA - established permissible noise exposure limits for the  workplace (including the cockpit of an aircraft):  
+
+# Noise Exposure Level Limits  
+
+![](images/9f952294accd31ff35d8796c9743a87634e446cec93e923c0452fae4277bfcd3.jpg)  
+
+Use Hearing Protection Equipment . If the ambient  noise level exceeds OSHA’s permissible noise  exposure limits, you should use hearing protection  devices — earplugs, earmuffs, communication  headsets, or active noise reduction headsets. Even  if an individual already has some level of permanent  hearing loss, using hearing protection equipment  should prevent further hearing damage. These  protection devices attenuate noise waves before  they reach the eardrum, and most of them are  effective at reducing high-frequency noise levels  above   $1{,}000\;{\sf H}z.$  . It is very important to emphasize  that the use of these devices does not interfere with  speech communications during fl  ight because they  reduce high-frequency background noise, making  speech signals clearer and more comprehensible.  
+
+•  Earplugs . Insertable-type earplugs offer a very  popular, inexpensive, effective, and comfortable  approach to provide hearing protection. To be  effective, earplugs must be inserted properly to  create an air-tight seal in the ear canal. The wax- impregnated moldable polyurethane earplugs  provide an effective universal fi  t for all users and  provide 30 to 35 dB of noise protection across all  frequency bands.  
+
+•  Communication headsets . In  general, headsets provide the  same level of noise attenuation  as earmuffs, and are also more  easily donned and removed that  earplugs, but the microphone  can interfere with the donning of  an oxygen mask.  
+
+![](images/f91084958d07566aae9f3b6a3b62369da0f720edbb47f6acc43f42a5d44f8a7b.jpg)  
+
+•  Active noise reduction headsets . This type of  headset uses active noise reduction technology  that allows the manipulation of sound and signal  waves to reduce noise, improve signal-to-noise  ratios, and enhance sound quality. Active noise  reduction provides effective protection against low- frequency noise. The electronic coupling of a low- frequency noise wave with its exact mirror image  cancels this noise.  
+
+•  Combinations of protection devices . The  combination of earplugs with earmuffs or  communication headsets is recommended when  ambient noise levels are above 115dB. Earplugs,  combined with active noise reduction headsets,  provide the maximum level of individual hearing  protection that can be achieved with current  technology. Head Set  
+
+# SUMMARY  
+
+• Hearing is second only to vision as a sensory  mechanism to obtain critical information during the  operation of an aircraft.
+
+ • All sounds have three distinctive variables:  frequency, intensity, and duration.
+
+ • Normal conversation takes place in the frequency  range from 500 to  $^{3,000\,\mathsf{H}z}$  .
+
+ • Daily exposure to noise levels higher than 90dB  can cause hearing impairment. This can go  unnoticed initially because it occurs in the vicinity  of   $_{4,000\,\,\mathsf{H}z}$   (outside the conversational range)
+
+ • If the ambient noise level reaches 90dBA, you  must use hearing protection equipment to prevent  hearing impairment.  
+
+• Exposure to loud noise before fl  ying (at home,  while driving, at a party, etc.) can be as harmful as  exposure to aircraft noise.  
+
+# MEDICAL FACTS FOR PILOTS  
+
+Publication: AM-400-98/3 Written by: Melchor J. Antuñano, M.D.,  and James P. Spanyers  
+
+# Physiological Training Classes for  Pilots  
+
+If you are interested in taking a one-day aviation  physiological training course with altitude chamber  and vertigo demonstrations or a one-day survival  course, learn about these courses by visiting this  FAA Web site:  
+
+www.faa.gov/pilots/training/airman education  
+
+Prepared by: FAA Civil Aerospace Medical Institute  Aeromedical Education Division AAM-400, P.O. Box 25082 Oklahoma City, OK 73125  
+
+# Other Pilot Safety Brochures Available  
+
+Number Title AM-400-94/2 Alcohol and Flying: A Deadly  Combination OK05-0270 Carbon Monoxide: A Deadly Threat AM-400-03/2 Deep Vein Thrombosis and Travel AM-400-91/1 Hypoxia: The Higher You Fly, the Less  Air... AM-400-97/1 Introduction to Human Factors in Aviation AM-400-92/1 Over the Counter Medications and Flying AM-400-98/2 Pilot Vision AM-400-95/1Smoke!AM-400-00/1 Spatial Disorientation: Visual Illusions AM-400-03/1 Spatial Disorientation: Why You Shouldn’t  Fly By the Seat of Your Pants  AM-400-01/1 Physiological Training Courses for Civil  Aviation Pilots AM-400-05/1 Sunglasses for Pilots: Beyond the Image  
+
+To view these pilot and passenger safety brochures,  visit the Federal Aviation Administration’s Web Site :  
+
+www.faa.gov/pilots/safety  

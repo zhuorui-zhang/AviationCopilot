@@ -1,0 +1,115 @@
+![](images/c8b9666c0edd55bf71076cb1da9c0652dadcc6c1b3af646be84deb552a038aaa.jpg)  
+
+# Sunglasses for Pilots:  
+
+Beyond the Image  
+
+P rotecting a pilots most i mportant sensory asset Selecting the right lenses Radiation Glare New materials Frames  
+
+S unglasses help safeguard a pilot’s  most important sensory asset – vision.  A quality pair of sunglasses is essential  i n the cockpit environment to optimize  ormance. Sunglasses reduce the  effects of harsh sunlight, decrease eye fatigue,  and protect ocular tissues from exposure  to harmful solar radiation. Additionally, they  protect the pilot’s eyes from impact with objects  (i.e., flying debris from a bird strike, sudden  decompression, or aerobatic maneuvers).  Sunglasses can also aid the dark adaptation  process, which is delayed by prolonged  exposure to bright sunlight.  
+
+RADIATION.   Radiation from the sun can  damage skin and eyes when exposure is  excessive or too intense. Fortunately, the  Earth’s atmosphere shelters us from the more  hazardous solar radiation (i.e., gamma and  X-ray); however, both infrared (IR) and ultraviolet (UV) radiation are present in our environment in varying amounts. This is depend e nt upon factors such as the time of day and year, latitude, altitude, weather conditions, and the reflectivity of surrounding surfaces. For example, exposure to UV radiation increases by approximately 5 percent for every 1,000 feet of altitude.Graph  
+
+![](images/2978266edcae042184877702049443654cdbf77364600d0c11757a3af8c25ff7.jpg)  
+Figure 1.  Electromagnetic radiation spectrum including  visible, infrared, UVA, UVB, and UVC wavelengths.Sun photo  
+
+![](images/5233e7ff68fbeca5ef0a51c3ef12fb392c7f8522c6c20a8cf30708a367580b7f.jpg)  
+
+Atmospheric IR energy consists of long- wavelength radiation (780 – 1400 nanometers  [nm], see Figure 1). The warmth felt from the  sun is provided by IR radiation and is thought  to be harmless to the skin and eyes at normal  atmospheric exposure levels. More hazardous to  human tissues is short-wavelength UV radiation.  UV is divided into three bandwidths: UVA (400 –   $315\,\mathsf{n m})$  ), UVB   $(315-280\ \mathsf{n m})$  , and UVC   $(<280$    nm).  Excessive or chronic exposure to UVA and,  to a greater extent, UVB can cause sunburn, skin cancers, and is implicated in the formation of  cataracts, macular degeneration, and other eye  maladies.  
+
+The American Optometric Association  recommends wearing sunglasses that  incorporate   $99-100\%$   UVA and UVB protection.  
+
+Fortunately, UVC, the most harmful form of  UV radiation, is absorbed by the atmosphere’s  ozone layer before it reaches the Earth’s  surface. Some scientists believe, however, that  depletion of the ozone layer may allow more UV  to pass through the atmosphere,  making   $100\%$    UV protection a wise choice when selecting  eyewear.  
+
+LENS MATERIAL.  The three most common  lens materials in use today are optical quality  “crown” glass, monomer plastic   $(\mathsf{C R-}39^{\mathrm{\textregistered}})$  , and  polycarbonate plastic (see Table 1). Lenses  made from crown glass provide excellent optical  properties (as indicated by the high Abbe  value). Crown glass is more scratch resistant  but heavier and less impact resistant than  plastic. Glass absorbs some UV light; however,  absorption is improved by adding certain  chemicals during the manufacturing process  or by applying a special coating. Glass retains  tints best over time, but for higher refractive  correction, the color may be less uniform, as  parts of the lens will be thicker than others (see  Figure 2).  
+
+CR-  $\mathbf{\mathcal{3}}9^{\mathrm{\textregistered}}$   plastic lenses possess excellent optical  qualities, are lighter in weight, and more impact illustration lenses  
+
+![](images/adc57de4c2d3a83ebfd3ca0ba535f203767a06b84817a90cf35369e833ddacfd.jpg)  
+Figure 2.  Illustration of non-uniform tints with glass lenses  for high hyperopic (left) and myopic (right) corrections..  
+
+resistant than glass lenses, but are more easily  scratched, even when scratch-resistant coatings  (SRC) are applied. CR-  $\mathbf{\nabla}\!\!\cdot\!\!39^{\otimes}$   lenses tint easily and  uniformly, even for those requiring a great deal of  refractive correction, but do not hold tints as well  as glass. CR-  $\mathbf{\mathcal{3}}9^{\mathrm{\textregistered}}$   plastic can be bleached and re- tinted if fading becomes excessive at some point.  
+
+Polycarbonate plastic lenses are lighter than  CR-  $\mathbf{\mathcal{3}}9^{\mathrm{\textregistered}}$   and the most impact-resistant lenses  available. Polycarbonates have a low Abbe value,  indicating their inherent optical aberrations. The  application of an anti-reflective (AR) coat can  improve optical quality, particularly when a high  refractive correction is required. These lenses  have built-in UV protection and are manufactured  with a scratch-resistant coating that is much  stronger than that applied to CR-  $\mathbf{\nabla}\!\!\cdot\!\mathbf{\nabla}\!\!\otimes\!\mathbf{\Theta}^{\otimes}$   lenses.  Since polycarbonate lenses do not accept dye  
+
+![Table 1.  Properties of the three most common lens  materials ](images/8e8b89ceb3a5a4dfbb284e5f26cf03ebea155e4081869c364157df6c7b6f7d07.jpg)  
+
+as readily as CR-  $\mathfrak{39^{\mathrm{g}}}$   plastic, they are less  adaptable for use as sunglasses. However, the  interior anti-scratch coating will absorb tints.  
+
+High-index materials (i.e., index of refraction  $\geq$    1.60) are available in both glass and plastic for  those who require a large degree of refractive  correction and/or desire lighter, thinner lenses.  High-index materials are not as widely available,  require AR coats to improve optical clarity, and a  SRC for durability. In addition, most high-index  materials do not accept tints as easily and are  less shatter resistant than low-index materials.  
+
+COATINGS.   Special coatings can be applied  to lens materials for reasons such as those  previously mentioned. Crown glass and most  plastic lenses require a specific coating to block  residual UV radiation. Plastic and polycarbonate  lenses require a SRC to prolong their useful life.  The SRC applied to polycarbonate lenses absorb  tints and dyes. High-index materials benefit from  AR coatings to improve transmissivity due to  their high reflective properties. While AR coats  can improve optical clarity, they are extremely  porous, attracting water and oils, making the  lenses difficult to clean. Lenses with AR coatings  should be “sealed” with a smudge- and water- repellant coat that extends the useful life of the  AR coat and make the lenses easier to keep  clean. Coatings must be applied correctly and  lenses must be meticulously cleaned for the  process to be successful. Coated lenses should  be handled with care and not subjected to  excessive heat to avoid delamination or crazing.  
+
+![](images/7bdbbe9262b6b87a6807d1d7de78c5c89a65c10b4ee24d80619701c9a7913df9.jpg)  
+
+and violet) light, thus enhancing contrast in hazy  conditions. Yellow, amber, and orange (i.e., “Blue  Blockers”) tints eliminate short-wavelength light  from reaching the wearer’s eyes and reportedly  sharpen vision, although no scientific studies  support this claim.  In addition, these tints are  known to distort colors, making it difficult to  distinguish the color of navigation lights, signals,  or color-coded maps and instrument displays.  For flying, sunglass lenses should screen out  only   $70\cdot85\%$   of visible light and not appreciably  distort color. Tints that block more than  $85\%$    of visible light are not recommended for flying  due to the possibility of reduced visual acuity,  resulting in difficulty seeing instruments and  written material inside the cockpit.  
+
+POLARIZATION.   Polarized lenses are  not recommended for use in the aviation  environment. While useful for blocking reflected  light from horizontal surfaces such as water or  snow, polarization can reduce or eliminate the man flying  
+
+breaking, yet light enough to be comfortable.  An aviator’s sunglasses should fit well so that  sudden head movements from turbulence or  aerobatic maneuvers do not displace them.  Finally, use of a strap is recommended to  prevent prescription sunglasses from being  accidentally dislodged, or a necklace chain can  be used to allow them to be briefly removed and  subsequently replaced.  
+
+visibility of instruments that incorporate anti- glare filters. Polarized lenses may also interfere  with visibility through an aircraft windscreen  by enhancing striations in laminated materials  and mask the sparkle of light that reflects off  shiny surfaces such as another aircraft’s wing or  windscreen, which can reduce the time a pilot  has to react in a “see-and-avoid” traffic situation.  
+
+PHOTOCHROMIC.   Glass photochromic lenses  (PhotoGray ®  and PhotoBrown ® ), like their plastic  counterpar glasses when expo light. Most  
+
+UMMARY.   While adding to the mystique  of an aviator, sunglasses protect a pilot’s  eyes from glare associated with bright  
+
+sunlight and the  harmful effects  from exposure to  solar radiation.  
+
+![](images/09b9cf4c8a2042ccb549510854f8c57c21631d05be597abac41f7d9692c51ba3.jpg)  
+
+lightening  may take  several  minutes.  Although m photochrom lenses can as dark as  
+
+# Lenses   for  
+
+sunglasses that  incorporate   $100\%$    UV protection are  available in glass,  plastic, and polycarbonate  
+
+transmittan  
+
+materials. Glass and CR-  $\mathfrak{39^{\mathrm{g}}}$   plastic  lenses have superior optical qualities, while  polycarbonate lenses are lighter and more  impact resistant.  
+
+warm temp  $\scriptstyle(>70^{\circ}\mathsf{F})$  their ability to darken, and reduced UV exposure  in a cockpit can further limit their effectiveness.  In addition, the faded state of photochromic  glass lenses may not be clear enough to be  useful when flying in cloud cover or at night.  
+
+The choice of tints for use in the aviation  environment should be limited to those that  optimize visual performance while minimizing  color distortion, such as a neutral gray tint with   $15\cdot30\%$   light transmittance.  
+
+FRAMES.  The selection of sunglass frames is  probably more a matter of personal preference  than lens material or tint. The frames of an  aviator’s sunglasses, however, must be  functional and not interfere with communication  headsets or protective breathing equipment.  Frame styles that incorporate small lenses may  not be practical, since they allow too much  visible light and UV radiation to pass around the  edges of the frame. A sunglass frame should  be sturdy enough to take some abuse without  
+
+Polarized sunglasses are not recommended because of their possible interaction with  displays or other materials in the cockpit  environment.  
+
+Since sunglasses are an important asset,  whether or not refractive correction is required,  careful consideration should be used when  selecting  an appropriate pair for flying.  
+
+Finally, the  technology  associated with  ophthalmic lenses is continually evolving, with  the introduction of new materials, designs, and  manufacturing techniques.  
+
+Aviators should consult  with their eyecare  practitioner for the most effective alternatives  currently available when choosing a new pair of  sunglasses.  
+
+# REFERENCES.  
+
+1. La Comission Internationale de l’Eclairage (CIE). Figures correspond broadly to the effects of UVR on biological tissue.  
+
+2. World Meteorological Organization. Scientific Assessment of Ozone Depletion: 1994, WMO Global Ozone Research and Monitoring Project - Report No. 37, Geneva, Switzerland: 1995.  
+
+3. Rash CE, Manning SD. For Pilots, Sunglasses are Essential in Vision Protection. Flight Safety Foundation Human Factors & Aviation Medicine, July-August 2002; 49(4): 1-8.  
+
+# Medical Facts for Pilots  
+
+Publication AM-400-05/1 Written by  
+
+Ronald W. Montgomery, B.S Van B. Nakagawara, O.D.  
+
+# Prepared by  
+
+FAA Civil Aerospace Medical Institute AAM-400, P.O. Box 25082 Oklahoma City, OK 73125  
+
+To order copies of this brochure, write to the above address, or call (405) 954-4831  
+
+# www.faa.gov/  
+
+For more pilot safety brochures, physiology training,  and to locate an aviation medical examiner, visit the  FAA Web site –  
+
+www.faa.gov/pilots/safety/pilot safety brochures  
+
+www.faa.gov/pilots/training/airman education/ aerospace physiology/index.cfm  
+
+www.faa.gov/safety/programs initiatives/health/ physiologyvideos/  
+
+www.faa.gov/pilots/amelocator/  

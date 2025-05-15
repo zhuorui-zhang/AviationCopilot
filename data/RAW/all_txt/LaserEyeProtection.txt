@@ -1,0 +1,67 @@
+LEP glasses can also skew the perception of colors  on instrument displays, with the most common  problem being a yellow shift.Control panel with LEP off  
+
+![](images/19d759d22fa2dfd6ac70f299e642e2fc7de3240f5e825f840d24112179c9377d.jpg)  
+Figure 4:  A flight control panel and weather radar without LEP visor.Control panel with LEP on  
+
+![](images/6e1bab8148092d8a3aa068a054a1accbe861f1b99e2b96d07213f3bd84a54963.jpg)  
+Figure 5:  The same panel as seen though an LEP visor.  
+
+# Safety Precautions  
+
+•	 Aviators are encouraged to familiarize	 themselves with color perception through their LEP devices prior to flight by viewing lighting in  the airport environment before departure.  
+
+• During flight operations, pilots are advised to 	 cross-check signal lighting information with other visual cues, ground and traffic warning  systems, and flight deck displays.  
+
+• Choose laser safety glasses after consulting with  a qualified optical expert for consideration of  wavelength and optical density (a measure of the  saturation permitted to pass through a filter for  the laser in use).  
+
+# References  
+
+1. Gildea, K. M., & Jack, D. (2018). Laser eye protection and the   effect of two types of light-emitting diodes (LEDs) on color perception.   Washington, DC: Office of Aerospace Medicine; 2018. https://www.faa. gov/data_research/research/med_humanfacs/oamtechreports/  
+
+Provided by  Aerospace Medical Education Division, AAM-400  To obtain copies of this brochure online: http://www.faa.gov/pilots/safety/pilot safety brochures/QR code  
+
+or contact:  
+
+Federal Aviation Administration Aviation Safety Civil Aerospace Medical Institute  AAM-400 P .O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831  
+
+# Laser Eye  Protection (LEP)  Perceptual Effects  on AviationPilot with LEP on  
+
+![](images/03c7d5595579d5107e4173b939604f00a8f6a73f931defaaad6908a67c83f98d.jpg)  
+
+![](images/09bfd5910cd6102fcb51ec097357a9dd7dc524701034896706cc4e324a4f40bb.jpg)  
+
+# Laser Eye Protection Perceptual  Effects on Aviation Signal Lighting 1  
+
+Reports by aircrew indicate that aircraft in the  U.S. are illuminated by lasers in excess of 6,000  times every year. The distraction and potential for  temporary blindness places the aircraft at risk. As  a countermeasure, some aircrew wear laser eye  protection (LEP) glasses. Most laser strikes are caused  by green lasers with a smaller percentage being from  blue lasers. Red laser events are rare. Because of  this, LEP glasses have colored filters that substantially  reduce the amount of light reaching the eye within the  wavelengths of the most common handheld lasers.   This reduces the potential for distraction and  temporary blindness while allowing the pilot to  perceive most colors.Laser shining in aircraft  
+
+![](images/6846689e26ba882a6312d5821ee1e9cd376e8175d36d541e6f083c7562296af9.jpg)  
+
+# Laser Eye Protection (LEP)  Glasses LEP glasses  
+
+![](images/7b39d64007231ce4b8fda25070a4e8f94e5dbed7d3f06e7730ec502ea6e0115b.jpg)  
+
+Most common LEP glasses filter green and blue  wavelengths. LEP is available both as eyeglasses  and visors. No single LEP eyeglass or visor offers  protection against ALL laser wavelengths. In  addition, LEP glasses may cause physical and optical  interference with Night Vision Goggles (NVG).  
+
+# LEP Glasses And Color Perception  
+
+Because LEP glasses with green filters reduce the  amount of green light present, any remaining light will  become more dominant. Depending on the type of  light being viewed (incandescent with various filters  or different LEDs), a green light might appear more  blue or more yellow, and a white light may appear  more yellow or red.  
+
+By blocking some of the light from the green and blue  areas of the spectrum, laser eye protection devices  produce color perception changes that are similar  to what is observed by those with mild color vision  deficiencies. For example, those with a green color  deficiency would encounter difficulty in reading the  number   $"6"$   in this image.Color blindness test plate  
+
+![](images/b8a477035d7248887f1a67620fd74d9fbfb29ab66e9f345ffa65687f86442f23.jpg)  
+Figure 1: Ishahara color blindness test plate  
+
+![](images/c6de400d21dbde69822b5b29d2332653e40d222144fae31c0b23690342a48e24.jpg)  
+Figure 2: Potential approach and runway light color perceptual challenges  based on LEP filters.  
+
+Similarly, in the case of a green filter in a laser eye  protection device, green lights may appear dimmer  and more yellow in color. This can lead to green  lights being confused with aviation white and  yellow lights.  
+
+LEP glasses with a green filter will cause white and  yellow lights to appear red and could potentially  interfere with some green and blue lights.  
+
+![](images/a1dff9f967fefd1d05a136d0389a864236345c0ab54f79df37ee2208b4c124e9.jpg)  
+
+Figure 3:  Navigation and position lights under filtered and  unfiltered conditions.  
+
+# Safety Precautions  
+
+To offset the loss of color cues, pilots should rely  on visual cues such as the general pattern of  lights, which can provide additional information  to the flight crew. However, during times of high  workload, distraction, or degraded visibility such  as haze, the additional visual cues may be more  difficult to discern and properly interpret.  

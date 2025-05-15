@@ -1,0 +1,97 @@
+Acceleration  in Aviation: G-Force  
+
+![](images/bef5a2b72a951576a66b5f5e9721e58a96d42489ca9eacf72405c30421caaf48.jpg)  
+
+# Acceleration in Aviation:  G-Force  
+
+Human beings are adapted to live and  survive within the ever-present, accelerative  force of gravity. While on earth, this is a  constant, and we live and function with it  from the day we are born until the day we  die. As an infant learning to walk, we learn  very quickly that a misstep will ultimately  lead to a painful gravity-induced incident  with the ground that we call “a fall.”  
+
+As we develop and start to solve problems,  we learn that a cookie jar falling off the  counter will accelerate all the way to floor  with shattering results. Many hours of our  youth are spent determining the results  of gravity on spherical objects of various  shapes and sizes to our advantage in  competition. We became accustomed to  gravity at the standard 1 “G-force.”  
+
+When we pilot an aircraft, all that we have  learned about gravity and have become  comfortable with suddenly changes. Flight,  in its purest definition, is overcoming gravity  to ascend through the air. Just as when  we were learning to walk, a primary goal  of every flight should be to avoid painful,  gravity-induced incidents with the ground.  These encounters are called aircraft  
+
+accidents and mishaps, and they can be  destructive, even fatal.  
+
+# What Goes Up Must Come Down  
+
+The force of gravity on earth causes a  constant acceleration of 32 feet-per-second  squared. An object in freefall will accelerate  at an ever-increasing speed toward earth  until it impacts the earth or reaches terminal  velocity, the point at which the force of  aerodynamic drag acting on the object  overcomes the force of acceleration induced  by gravity.  
+
+Acceleration is described in units of the  force called “Gs.” A pilot in a steep turn may  experience forces of acceleration equivalent  to many times the force of gravity. This  is especially true in military fighter jets  and high-performance, aerobatic aircraft  where the acceleration forces may be as  high as 9 Gs. Air race pilots in a tight pylon  turn also experience high G-forces, but the  important thing to remember is that any  aircraft operated in a maximum-performance  profile will subject the pilot to acceleration  that is greater than the 1 G acceleration  encountered on the ground. Pilots need to  understand this in to successfully master  flying.  
+
+![](images/a7b8bf2ca25a4eaea5945374288358130f3a7553b15db6c8004492d8b09adefc.jpg)  
+
+# Types of Acceleration  
+
+There are three types of acceleration.  These types are Linear, Radial, and  Angular Acceleration.  
+
+Linear Acceleration , reflects a change  of speed in a straight line. This type of  acceleration occurs during take-off, landing,  or in level flight when a throttle setting i s changed.  
+
+Radial Acceleration , is the result of a change  in direction such as when a pilot performs a  sharp turn, pushes over into a dive, or pulls  out of a dive.  
+
+Angular Acceleration , results from a  simultaneous change in both speed and  direction, which happens in spins and  climbing turns.  
+
+# G Forces  
+
+During flight, a pilot may experience a  combination of these accelerations as a  result of input to the flight controls. These  accelerations induce G-forces on the body  that may be described as Gx, Gy, and Gz.  
+
+${\mathfrak{G}}{\mathfrak{x}}$   is described as force acting on the body  from chest to back;   $+6\times$   is experienced,  for example, during the take-off roll as the  throttle is advanced. This is the force that  pushes the pilot back into the seat as the  aircraft accelerates.  
+
+-Gx  is described as force from back to  chest, and it is encountered during landing  as the throttle is closed. This force pushes  the pilot forward into the shoulder strap.  Naval pilots flying from aircraft carriers feel  the extremes of this type of G force. During  a catapult launch, the aircraft accelerates  to 160-plus mph in just under two seconds.  During landing, the aircraft will decelerate  to a complete stop in just a few feet. Carrier  pilots have adapted and successfully  functioned with these extreme Gs  for decades.  
+
+Gy  is a lateral force that acts from shoulder  to shoulder, and it is encountered during  aileron rolls. Aerobatic pilots routinely  encounter this type of G force and can still  safely and precisely maneuver their aircraft.  
+
+Gz  is a gravitational force that is applied  to the vertical axis of the body. If it is  experienced from head to foot, it is termed  (positive)  $+\mathbb{G}\mathtt{Z}$  . This happens when a pilot  pulls out of a dive or pulls into an inside loop.  -Gz (negative) travels from foot to head, and  it is experienced when a pilot pushes over  into a dive.  
+
+# Physiological Effects of  High G Forces  
+
+Human beings are adapted for life at 1 G  on the surface of the earth. In the aviation  environment, any maneuver has the potential  to expose the human body to more than   $1+\mathbb{G}\mathtt{Z}$   of acceleration force. This can be  particularly hazardous for pilots in the Gz  axis. This is a G force that acts from head  to toe in the case of  $+6z$   and from toe  to head in the case of -Gz. As an aircraft  enters into a high-speed, coordinated turn  or begins the pullout from a steep dive,  the pilot experiences  $+6z$  . The heart and  cardiovascular system must respond quickly  to G acceleration to keep blood flowing  to the brain and maintain consciousness.  Physiological response to  $+\mathbb{G}\mathtt{Z}$   causes the  heart to beat harder and faster with an  increased vascular tone to keep the blood  flowing “northward” toward the head.  
+
+![](images/628e6edb8b5e4e079410649d913050fe201e8d2ddd9833635e5b0aba19b58e75.jpg)  
+
+If the physiologic response of the heart  and vascular system does not keep pace  with the rapid onset of the G forces, pilot  performance will be degraded to the point  where unconsciousness and inability to pilot  the aircraft may ensue.  
+
+One of the first indications of impending  disaster may be a progressive loss of vision  as the aircraft enters the maneuver. The eyes  are extremely sensitive to low blood flow,  and if the vascular system cannot keep up  with the onset of Gs, the retina will not be  supplied with adequate blood. As arterial  pressure in the eye falls below that needed  for the retina, the pilot may notice a loss of  peripheral vision (tunnel vision), which may  then be followed by progressive degradation  to a smaller visual field (gun barrel vision),  which in turn may be quickly followed by  Gray Out and Blackout of the visual fields.  If the rapid onset of G forces continues,  the end result may be G-induced loss of  consciousness (GLOC). In this condition,  unless the aircraft has sufficient altitude  for the pilot to back off the Gs and recover  vision and/or consciousness, the result can  be tragic. This has been the cause of far too  many military and civilian aviation fatalities.  
+
+The symptoms that result from high G  exposure are dependent on the rate of  onset of the acceleration. When the onset  
+
+![](images/facaec85cc1f9b0c2efd817958b869fce244913d48550de7fb196193df001770.jpg)  
+
+is gradual (about 0.1 G per sec.), visual  symptoms precede GLOC. If the onset is  rapid (1 G per second or more), GLOC can  occur without visual warning.  
+
+![](images/5ba149cf2bcf17eedfe98d864c352fa99fd316af96e03717660f39e3e5a3d1b7.jpg)  
+
+While the effects of  $+6z$   can be profound, the  human body is even less well equipped to  handle -Gz, which is described as a foot-to- head force and is encountered when a pilot  pushes over into a dive or enters an outside  loop. Under -Gz, the blood is prevented from  flowing back down the jugular veins into  the heart, but the arterial blood flow to the  head is enhanced. Once again, the retina  of the eye is extremely sensitive, and the  visual effect is a loss of vision due to “Red  Out.” If the pilot does not back off the control  pressure, loss of consciousness will ensue in  short order because the blood does not flow  through the brain. To survive in an aviation  environment, pilots must respect the laws of  acceleration.  
+
+# OK….What Does This Mean to Me?  
+
+Any aircraft, civilian or military, can expose  the pilot, crew, and passengers to forces  in excess of 1 G. During steep turns and  unusual attitude recovery, civil aviation pilots  can experience high G forces that may take  them by surprise unless they are prepared.  Subsequently, all aviators need to understand  what makes their body more resistant to  the effects of G acceleration. Conversely,  aviators need to understand those conditions  that will make their body more susceptible  to the effects of G forces. The bottom line is  that G tolerance for each individual aviator  may fluctuate from day to day, and this can  lead to disastrous consequences in flight.  This is one of the reasons that military pilots  do a “G warm-up” maneuver prior to flying  high-performance aircraft, it allows them to  assess their own body and how well they will  be able to tolerate the high -G environment.  
+
+# The Bad Things  
+
+G tolerance is degraded as a result  of dehydration, fatigue, hunger, and  medications, which are often associated  with a social event. With the “Big Four”  above, the aviator may experience severe  symptoms of G exposure at much less  than the customary level. Lack of physical  conditioning and a sedentary lifestyle can  also degrade G tolerance and increase the  aviator’s susceptibility. Also, once again,  smoking and flying do not mix. Individuals  who smoke have diminished performance  at high altitude and high-G environments.  Flying is difficult, do not make it harder by  needlessly abusing your body.  
+
+# The Good Things  
+
+Most civilian aircraft are not equipped to  handle  $\complement$  -protective clothing, a “G suit.”  However, there are other things that can be  done to enhance aviator performance in the  high-G environment. A well-rested, hydrated,  and fit aviator will physically be able to  withstand higher G forces. When an aviator  is well hydrated, there is more circulating  volume in the blood stream, and it is easier  for the heart to keep the brain perfused with  oxygenated blood.  
+
+A regular program of conditioning that  includes a mix of aerobic exercise coupled  with resistance weight training will increase  an aviator’s resistance to the effects of Gs.  (All exercise programs should be physician- approved prior to the initiation of training.)  Training that is only aerobic in nature  (jogging and swimming, for example) may  lower the aviator’s heart rate to the point  where is does not accelerate fast enough  to compensate for the effects of Gs. The  combination of aerobic and resistance  weight training enhances the response to  G forces and adds a layer of protection that  is not present in aerobic conditioning alone.  
+
+# The Anti-G Straining Maneuver  
+
+Another technique for dealing with G forces  is the anti -G straining maneuver. This is  a physical technique where the aviator  pushes air out of the lungs against a closed  glottis, while simultaneously contracting  the muscles in the calves, thighs, and  shoulders. This resistance inhibits the blood  from flowing away from the brain, and it  simultaneously increases the pressure in the  carotid arteries. This maneuver is practiced  by military pilots, and it can increase  G-tolerance. To avoid injury, however, it  should not be attempted at  1 G with   $100\%$   effort.  
+
+# Respect  
+
+Aviators need to respect G acceleration  just as they respect other aspects of flight.  Proper flight planning will take a number of  things into account, such as weather, fuel,  distance, and time. A smart aviator will also  include consideration of the G forces for  the aircraft and all aboard when it comes to  flight planning. A healthy respect, training,  and planning will help to avoid possible  encounters with the ground.  
+
+![](images/5087a478b4a7f1130b5f28b3ce58f23d0f038bdcacdf5538f56e204dc4182a22.jpg)  
+
+# Provided by  Aerospace Medical Education Division, AAM-400  
+
+To obtain copies of this brochure online: http://www.faa.gov/pilots/safety/pilot safety brochures/  
+
+![](images/f1ad496c0efb6bd25f5e32502e9052c20977e145fcbc798105c48c1f2f287178.jpg)  
+
+or contact:  
+
+Federal Aviation Administration Aviation Safety Civil Aerospace Medical Institute AAM-400 P .O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831  

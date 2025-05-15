@@ -1,0 +1,166 @@
+illuminated individual can fill out a Laser Beam Exposure Questionnaire (Advisory Circular 70-2A). While unlikely, laser exposure can result in injury to the eye and an examination by an eye doctor may be warranted when an airman has any concerns about a laser illumination event. However, an eye exam is certainly recommended should the aviator experienced persistent visual (blurred vision, afterimages, double vision, etc.) and/or physical effects (headaches, tearing, photo sensitivity, etc.) that last more than a few hours after a laser beam exposure.  
+
+Members of the general public who witness an individual aiming a laser at an aircraft can send an email to laserreports  $@$  faa.gov.  
+
+# Why Green?  
+
+Reports indicate that over  $90\%$  of all aircraft illuminations by handheld lasers are green in color, followed by red with the remainder being other colors or combinations of colors. Effects onvisionare  
+
+![](images/ba5670a5b53f947aa7755478adf3875d1ef2e7df7d75d51410c9346712cf066f.jpg)  
+
+Figure4: ExampleofaPowerful,Handheld Laser Device Available Online  
+
+wavelength  
+
+dependent. “Laser exposure is most hazardous when a direct laser beam, or its specular (mirrorlike) refection, enters the pupil along the axis of vision when the eye is focused on a distant object. The energy density of the laser beam can be intensified up to 100,000 times by the focusing action of the eye."5 Due to this heightened visibility and increased likelihood of adverse visual effects, illumination by green lasers may result in more events being reported.  
+
+The wavelength of most green lasers (  $532~\mathrm{nm}$  is close to the eye's peak sensitivity when they are dark-adapted. Over saturation of the eye's photoreceptor cells occurs more quickly with green light. For example, the photoreceptor cells in the retina are much more sensitive to green light (  $532~\mathrm{nm})$  than red light  $(630~\mathrm{nm}$  )of equivalent luminance due to the photoreceptor's inherent peak sensitivity to wavelengths around  $555~\mathrm{nm}$  or yellow-green.  
+
+# What Actions Can I Take?  
+
+Continuing research and interviews with pilots who were victims of lasing events have provided a list of recommended actions to minimize the effects of laser illumination:  
+
+![](images/79bc6cb43032602888d77ed071a05c9bd423f10731059cd4f4492952dd4a8133.jpg)  
+Figure5: As this chart illustrates,due to the relative sensitivity ofthe eye's photoreceptor cells,green laser light can appear as much as 30 times brighter than a red laser of equal irradiance.As the eye becomes dark- adapted,thepeakshifts toward shorter wavelength blue-greenlight.  
+
+Anticipate - When operating in a known or suspected laser environment, the non-fying pilot should be prepared to take control of the aircraft.  
+
+Aviate - Check aircraft configuration and (if available) consider engaging the autopilot to maintain the established Hight path.  
+
+Navigate - Use the fuselage of the aircraft to block the laser beam by climbing or turning away.  
+
+Communicate-Inform Air TraffcControl of the situation. Include location/direction of the beam, your present location, altitude, etc. Once on the ground, request and complete a “Laser Beam Exposure Questionnaire" (i.e., AC 70-2A)  
+
+lluminate - Turn up the cockpit lights to minimize any further illumination effects.  
+
+Delegate - If another crewmember has avoided  
+
+exposure, consider handing over control to the unexposed crewmember.  
+
+Attenuate - Shield your eyes when possible (hand, clipboard, visor, etc.). Do not look directly at the laser beam and avoid drawing other crewmembers’ attention to thebeam.  
+
+Do Not Exacerbate - Avoid rubbing of eyes and possibly inducing further injury.  
+
+Evaluate - If any visual symptoms persist after landing, get an examination by an eye doctor.  
+
+# Can More Be Done To Protect AviationSafety?  
+
+Continued monitoring of laser issues and effective reporting of illumination events provide data necessary to define the changing nature of the threat and develop better strategies for mitigating the problem. Strategies may include educating thet public regarding the reporting of malicious behavior, restricting t the sale of manufacturers to attach warning labels on laser devices that address aviation concerns, performing studies on the use of laser eye protection as an option in the aviation environment, and investigating the value of deploying laser detection and recording systems on end this threat, the FAA will continue to examine and recommend ways to best protect aviation from this serious hazard.  
+
+# References  
+
+1. Public Law 112-95,FAA Modernization and Reform Act of 2012. Section311  
+
+2. FAA Laser Safety Initiative , Laser Incident Tracking System (FLITS) databaseURL:https://www.faa.gov/about/initiatives/lasers/laws/  
+
+3. Nakagawara, VB, Montgomery RW Wood KJ. Laser illumination of flight crew personnel by month, day of week and time of day for 5-year studyperiod:2004-2008.Department of Transportation/FederalAviation Administration, Washington, DC 20591.Report No. DOT/FAA/AM- 11/7. April 2011.At URL:https://www.faa.gov/data_research/research/ med_humanfacs/oamtechreports/2010s/media/201107.pdf  
+
+4. Montgomery, RW and Wood KJ.Laser Illumination of Helicopters: A Comparative Analysis With Fixed-Wing Aircraft for the Period 1980 - 2011URL:https://www.faa.gov/data_research/research/med_humanfacs/ oamtechreports/2010s/media/201308.pdf  
+
+5. Nakagawara, VB, Montgomery RW Wood KJ Laser exposure incidents: Pilot ocular health and aviation safety issues Optometry (2008) 79,518- 524  
+
+![](images/937b841084993a2ccf4df27583ec8622ad323dcc09aec4348e1c2001b30709da.jpg)  
+
+# Physiological Training Classes for Pilots  
+
+If you are interested in taking a one-day aviation physiological training course with altitude chamber and spatial demonstrations or a one-day survival course, learn about how to sign up:  
+
+www.faa.gov/pilots/training/airman education/ aerospace physiology/index.cfm  
+
+Providedby Aerospace Medical Education Division, AAM-400  
+
+To obtain copies of thisbrochure online: http://www.faa.gov/pilots/safety/pilot safety brochures/  
+
+![](images/a7a1334f4634560002a28037b9989f640a409147c8538e0a2a29abbd08a5ad59.jpg)  
+
+or contact:  
+
+Federal Aviation Administration Civil Aerospace Medical Institute AAM-400 P.O.B0x25082 OklahomaCity,OK73125 (405)954-4831  
+
+Laser Hazards n Navigable Airspace  
+
+![](images/ec5f74c16c542f85045950027a278e36a95a567ac0d5e068342b35793170f361.jpg)  
+
+![](images/7aef51df4f896475ef04189822e5fa950f9c0c92b971c290b7f5f1b44da4325b.jpg)  
+
+Figure1: Laser illumination in a flight simulator as viewed from the pilots'perspective approximately a mile away atleast aboveground level.The circle to the right of the flash contains runway lights  
+
+# Laser Targeting of Aircraft  
+
+A Boeing 787 is on final approach toBoston Logan Airport's Runway 4 R after fying for nearly three hours in nighttime conditions, when the captain is suddenly hit with a dazzling green laser light that obliterates his vision! The laser beam had hit the captain's left eye with such intensity that he feels as if he has been “punched in the eye." He ducks down, closes his eyes, and tells the first officer he has been hit by a laser beam and not to look at the light. The pilot experiences pain, spasms, and spots in his vision. The fash was so bright that he believes the aircraft may be the target of a terrorist attack! So distraught by the event that occurred and visibly shaken, he gives up control of the aircraft to the first officer, who, fortunately, has not been hit by the laser beam and is able to land the plane successfully  
+
+The captain's symptoms persist in the hotel that night. Upon eye is noticeably more blurred with or without his glasses, and his “eye hurts and feels strained." The pilot goes to an eye doctor that afternoon and is diagnosed with accommodative spasm, sluggish pupil responses, and increased light sensitivity, which continue on for several days before finally clearing up. For a while, though, the pilot thinks that his fying days may be over.  
+
+This laser incident is fictitiousbut isbased on actual events and personal interviews with pilots that have been exposed to laserbeams.  
+
+Although lasers have many legitimate outdoor uses, such as in astronomical research, deep-space communications, orbital satellite imaging, and outdoor displays to attract and entertain the public, the misuse of laser devices poses a serious threat to aviation safety. Aviators are particularly vulnerable to laser illuminations when conducting low-level fight operations at night. The irresponsible or malicious use of laser devices can threaten the lives of fight crews and passengers.  
+
+As part of the FAA Modernization and Reform Act of 2012, Public Law 112-95, made it a federal crime to aim a laser pointer at an aircraft.1  
+
+The office of Aerospace Medicine is responsible for providing information regarding the potential effects of laserbeams onpilotvision.  
+
+Laser - an acronym forlight amplificationby stimulated emission of radiation. a laser is a device that produces an intense, directional coherentbeamofvisibleorinvisiblelight  
+
+# Why Should I Be Concerned?  
+
+The FAA Laser Safety Initiative has compiled laser incidents for the past eight years.2 These reports describe the illumination of military and civilian aircraft by lasers, including law enforcement and medical evacuation fights and incorporate reported laser eventsfrom CEDAR, Skywatch and manual input. Laser activity in navigable airspace is continually monitored to better define the nature of the threat from outdoor lasers. Reports of illumination events haveincreased steadily over thepastfew years. This increase may be due to heightened awareness of the problem by fight crewmembers, the introduction of an authorized reporting process, and the increased availability of high-output, handheld laser devices.  
+
+No accidents have been attributed to the illumination of crewmembers by lasers, but given the sizeable number of reports and debilitating effects that can accompany such events,thepotential does exist.  
+
+Laser events can occur anywhere but have been noted most frequently in the Western Pacific and Southern regions of  
+
+![](images/dfde9b8212e234ce3b71a76fcdfe597d0383321d056c58205386d5c08ea26e64.jpg)  
+
+the United States  
+
+· FAA studies have also shown that almost  $70\%$  of all incidents occurred between 2,000 and 10,000 feet above ground level.  
+
+$51\%$  
+
+Sunday is the most likely day of the week for an aircraft to be illuminated by a laser followed by Friday and Saturday.  $70\%$   occurred between the hours of 7 and  $11\;\mathrm{p.m}$  3，  
+
+# What Can Happen?  
+
+Whilethevisual effects of laser exposure aremost often transient, fash blindness or afterimage can linger for several minutes or a few hours, in some instances. Pilot complaints of residual physiological effects after being illuminated by laser light include an increased sensitivity to light, headaches, eye pain, iritation, and an inability to focus. Follow-up interviews indicate that these complaints often resolve after a few minutes or up to a few hours, but, in rare instances, may linger forseveraldays.  
+
+Sudden exposure tolaser radiation during a critical phase of fight, such as on approach to landing or departure, can distract or disorient a pilot and cause temporary visual impairment. Permanent ocular damage is unlikely since the majority of incidents are brief and the eye's blink response further limits exposure. In addition, considerable distances are often involved, and atmospheric attenuation dissipates much of the radiant energy  
+
+FAA fight simulator studies, however, have shown the adverse visual effects from laser exposure are especially debilitating when the eyes are adapted to the low-light level of a cockpit at night. Similar to a camera fash at close proximity or the high-beam headlights of an oncoming car, recovering optimal visual performance after exposure to laser light may takefrom a few seconds to several minutes.  
+
+Brief exposure tolaser light can result in startle distraction, and/or disorientation. More serious visual impairments include glare, fashblindness, afterimages, and, in rare cases, ocular injury.  
+
+The three most commonly reported physiologica effects associated with laser exposures are:  
+
+· Glare - Obscuration of an object in a person's feld of vision due to a bright light source located near the same line of sight (e.g., as experienced with oncoming headlights).  
+
+·Flashblindness -A visual interference effect that persists after the source of illumination has ceased.  
+
+·Afterimage-Areverse contrast shadow image left in the visual field after an exposure to a bright light that may be distracting and disruptive, and may persist for several minutes.  
+
+# Is Anything Being Done?  
+
+FAA Order 7400.2L,Part 6,Chapter 29 (Outdoor Laser Operations) establishes exposure limits to prevent temporary visual impairment in three zones that become more restrictive at lower attitude and closer proximity to airport runways. On February 8, 2013,in response to the rapid increase in laser illumination reports involving aircraft, the Department of Transportation published advisory circular AC 70-2A entitled, “Reporting of Laser Illumination of Aircraft." This document provides mitigation procedures and information on how to report laser illumination events. In addition to providing an official reporting mechanism, AC 70-2A also improved coordination between local and federal law enforcement agencies responsible for the apprehension and prosecution of violators. Frequently, prompt reporting has led to the capture of perpetrators.  
+
+A laser is measured by the power of the beam expressed as it sir radiance in watts per centimeter  
+
+![](images/f14752a698c12079496a9d77f701fd159bc690b4037234072f16e9e662c72424.jpg)  
+Figure3: Protection Zones for a Single-Runway Airport  
+
+squared  $\left(\mathbb{W}/c_{\mathrm{m}2}\right)$  .A microwatt (μ) is a measurement of the output of a laser. The ir radiance levels listed below must not be exceeded in the corresponding zones. The Critical Flight Zone (CFZ) Airpsace within a  $10\;\mathrm{{NM}}$  radius of the airport reference point, up to and including 10,0oofeet AGL.  
+
+Sensitive Flight Zone - 100 microwatts per square centimeter  $(\upmu\mathrm{W}/\mathrm{cm}2),\mathrm{cm}2$  
+
+Critical Flight Zone -- 5 microwatts per square centimeter $(\upmu\mathbb{W}/\mathrm{cm}2$ ,cm2） and  
+
+Laser Free Zone - 50 nanowatts (one thousand millionth of a watt) per square centimeter  $\mathrm{(nW/cm}2).\mathrm{cm}2)$  1  
+
+# Rotary Wing  
+
+![](images/800eb61151640f6e7e4665ee0e547ad45ad4079a325ccbc2acd2316f02329e0e.jpg)  
+The nature of the bubble canopy allows more light to enter scatter,and reflect throughout the cockpit.  
+
+FAA researchers have shown that the majority of helicopter laser exposures  $(70\%)$  were within the Laser Free Zone  $\left(\leq2{,}000\right.$  feet) versus  $21\%$  for fixed wing aircraft. This puts rotary wing pilots (medical evacuation, law enforcement, military, general aviation, freight, corporate) at greater risk for visual impairment from laser illumination as well as increased chance for adverse operational effects.4  
+
+# What Can Be Done?  
+
+An aviator whohas been exposed to a laser beam while in flight should be advised to report the event to the local Air Traffic authority and/or the FAA so that a proper investigation can be performed. The  

@@ -1,0 +1,225 @@
+#  
+
+# P RIVILEGES AND LIMITATIONS  
+
+In general, the privileges and limitations of a seaplane rating are similar to those of the equivalent land rating. The same standards and requirements apply as for comparable landplane certificates.  
+
+While it is possible for a student to use a seaplane to obtain all the flight training necessary to earn a pilot certificate, and many pilots have done so, this publica- tion is intended primarily for pilots who already hold airman certificates and would like to add seaplane capabilities. Therefore, this chapter does not address pilot certificate requirements, regulations, or proce- dures that would also apply to landplane operations. Information on regulations not directly related to water operations is available in other Federal Aviation Administration (FAA) publications.  
+
+For certification purposes, the term “seaplane” refers to a class of aircraft. A pilot requires additional train- ing when transitioning to a seaplane. Ground and flight training must be received and logged, and a pilot must pass a class rating practical test prior to initial opera- tions as pilot in command. This training requires the use of an authorized flight instructor to conduct such training and attest to the competency of a pilot prior to taking the practical test. Because the seaplane rating is part of an existing pilot certificate, the practical test is not as extensive as for a new pilot certificate, and cov- ers only the procedures unique to seaplane operations. No separate written test is required for pilots who are adding seaplane to an existing pilot certificate.  
+
+Adding a seaplane rating does not modify the overall limitations and privileges of the pilot certificate. For example, private pilots with a seaplane rating are not authorized to engage in seaplane operations that would require a commercial certificate. Likewise, a pilot with a single-engine seaplane class rating may not fly multi- engine seaplanes without further training. However, no regulatory distinction is made between flying boats and seaplanes equipped with floats. [Figure 1-1]  
+
+# S EAPLANE REGULATIONS  
+
+Because of the nature of seaplane operations, certain regulations apply. Most of them are set forth in Title 14  
+
+![](images/e3c38592514733507ed75c173984f8d01dd6ba59ef337dd63d337d28a2c47687.jpg)  
+Figure 1-1. Seaplane is a class.  
+
+of the Code of Federal Regulations (14 CFR) parts 1, 61, and 91.  
+
+Just as land-based pilots must understand airport oper- ations, the pilot certification requirements in   $14~\mathrm{CFR}$  part 61 require seaplane pilots to know and use the rules for seaplane base operations.  
+
+Specific regulations recognize the unique characteristics of water operations. For example, 14 CFR part 61, sec- tion 61.31 takes into account that seaplanes seldom have retractable landing gear as such, so an endorsement to act as pilot in command of a complex seaplane requires training in a seaplane with flaps and a controllable pitch propeller. Likewise, in 14 CFR part 91, section 91.107, there is an exception to the rule that everyone must have a seat and wear a seatbelt during movement on the surface. The person pushing off or mooring a seaplane at a dock is authorized to move around while the seaplane is in motion on the surface.  
+
+# 14 CFR PART 91, SECTION 91.115 RIGHT-OF-WAY RULES: WATEROPERATIONS  
+
+The right-of-way rules for operation on water are similar, but not identical, to the rules governing right- of-way between aircraft in flight.  
+
+(a) General. Each person operating an aircraft on the water shall, insofar as possible, keep clear of all vessels and avoid impeding their navigation, and shall give way to any vessel or other aircraft that is given the right-of-way by any rule of this section.
+
+ (b) Crossing. When aircraft, or an aircraft and a ves- sel, are on crossing courses, the aircraft or vessel to the other’s right has the right-of-way.
+
+ (c) Approaching head-on. When aircraft, or an air- craft and a vessel, are approaching head-on, or nearly so, each shall alter its course to the right to keep well clear.
+
+ (d) Overtaking. Each aircraft or vessel that is being overtaken has the right-of-way, and the one over- taking shall alter course to keep well clear.
+
+ (e) Special circumstances. When aircraft, or an air- craft and a vessel, approach so as to involve risk of collision, each aircraft or vessel shall proceed with careful regard to existing circumstances, including the limitations of the respective craft.  
+
+# RULES OF THE SEA  
+
+According to United States Coast Guard (USCG) regulations, the definition of a vessel includes virtu- ally anything capable of being used for transportation on water, including seaplanes on the water. Therefore, any time a seaplane is operating on the water, whether under power or not, it is required to comply with USCG navigation rules applicable to ves- sels. Simply adhering to 14 CFR part 91, section 91.115 should ensure compliance with the USCG rules. Pilots are encouraged to obtain the USCG Navigation Rules, International-Inland, M16672.2D, available from the U.S. Government Printing Office. These rules apply to all public or private vessels navi- gating upon the high seas and certain inland waters.  
+
+# INLAND AND INTERNATIONAL WATERS  
+
+Inland waters are divided visually from international waters by buoys in areas with frequent ocean traffic. Inland waters are inshore of a line approximately paral- lel with the general trend of the shore, drawn through the outermost buoy. The waters outside of the line are international waters or the high seas.  
+
+Seaplanes operating inshore of the boundary line dividing the high seas from the inland waters must follow the established statutory Inland Rules (Pilot Rules). Seaplanes navigating outside the boundary line dividing the high seas from inland waters must follow the International Rules of the Sea. All sea- planes must carry a current copy of the rules when operating in international waters.  
+
+# UNITED STATES AIDS FOR MARINE NAVIGATION  
+
+For safe operations, a pilot must be familiar with seaplane bases, maritime rules, and aids to marine navigation.  
+
+# SEAPLANE LANDING AREAS  
+
+The familiar rotating beacon is used to identify lighted seaplane landing areas at night and during periods of reduced visibility; however, the colors alternate white and yellow for water landing areas. A double white flash alternating with yellow identifies a military sea- plane base.  
+
+On aeronautical charts, seaplane landing areas are depicted with symbols similar to land airports, with the addition of an anchor in the center. As with their land counterparts, tick marks around the outside of the symbol denote a seaplane base with fuel and services available, and a double ring identifies military facili- ties. [Figure 1-2]  
+
+# BUOYS AND DAYBEACONS  
+
+Buoys are floating markers held in place with cables or chains to the bottom. Daybeacons are used for similar purposes in shallower waters, and usually consist of a marker placed on top of a piling or pole driven into the bottom. Locations of buoys within U.S. waters are  
+
+![](images/8889d5070d172bdce38da36b8ff84c534859de960421ca56e36a1d4cff5bab9a.jpg)  
+Figure 1-2. Seaplane landing areas have distinctive symbols to distinguish them from land airports.  
+
+shown on nautical charts prepared by the Office of Coast Survey (OCS), an office within the National Oceanic and Atmospheric Administration (NOAA). Light lists prepared by the Coast Guard describe light- ships, lighthouses, buoys, and daybeacons maintained on all navigable waters of the United States.  
+
+The buoyage system used in the United States employs a simple arrangement of colors, shapes, numbers, and lights. Whenever operating near buoys, keep in mind that the length of chain holding the buoy in place is likely to be several times the depth of the water, so the buoy may be some distance from its charted location, as well as from any danger or obstruction it is intended to mark. Do not come any closer to a buoy than necessary.  
+
+Buoys with a cylindrical shape are called can buoys, while those with a conical shape are known as nun buoys. The shape often has significance in interpreting the meaning of the buoy. [Figure 1-3]  
+
+Since a buoy’s primary purpose is to guide ships through preferred channels to and from the open sea, the colors, shapes, lights, and placement become meaningful in that context. Approaching from sea- ward, the left (port) side of the channel is marked with black or green can buoys. These buoys use odd numbers whose values increase as the vessel moves toward the coast. They also mark obstructions that should be kept to the vessel’s left when proceeding from seaward.  
+
+The right side of the channel, or obstructions that should be kept to the vessel’s right when headed toward shore, are marked with red nun buoys. These  
+
+![](images/8fd764a693da998a25639017ab33f5e7d569d5d53ce57f40bebce10cdf168d79.jpg)  
+Figure 1-3. Buoys typically used along waterways.  
+
+buoys use even numbers whose values increase from seaward. The mnemonic “red, right, returning” helps mariners and seaplane pilots remember to keep the red buoys to their right when proceeding toward the shore (“returning” to their home port).  
+
+Black and white vertically striped buoys mark the cen- ter of the channel or fairway (the nautical term for the navigable part of a river, bay, or harbor), and may use letters starting at A from seaward.  
+
+Naturally, not all waterways lead straight from ocean to port, so there are also buoys to mark the junctions of waterways. Buoys with red and black horizontal bands mark junctions or places where the waterway forks. They also mark wrecks and obstructions that can be passed on either side. The color of the top band (red or black) and the shape of the buoy (nun or can) indicate the side on which the buoy should be passed by a ves- sel proceeding inbound along the primary channel. If the topmost band is black, the buoy should be kept to the left of an inbound vessel. If the topmost band is red, keep the buoy to the right when inbound. Buoys with the black top band will usually be cans, while those with the red top band will usually be nuns.  
+
+For waterways that run more or less parallel to the coast, there is no obvious inbound or outbound to give direction to the waterway, so by convention the inbound direction of such waterways is assumed to be “clockwise” around the contiguous states. This means that for waterways running parallel to the east coast, southbound is considered the inbound direction; for waterways along the Gulf coast, inbound means westbound; and for waterways along the west coast, northbound is inbound.  
+
+Daybeacons and daymarks serve similar purposes as buoys and use similar symbology. In the United States, green is replacing black as the preferred color for port- side daymarks. [Figure 1-4]  
+
+These are just the most basic features of the most com- mon buoyage system in the United States. There are other buoyage systems in use, both in the United States and in other countries. Sometimes the markings are exactly the opposite of those just described. Good pilots will obtain a thorough understanding of the mar- itime aids to navigation used in the areas where they intend to fly.  
+
+# NIGHTTIME BUOY IDENTIFICATION  
+
+Usually only the more important buoys are lighted. Some unlighted buoys may have red, white, or green reflectors having the same significance as lights of the same colors. Black or green buoys have green or white lights; red buoys have red or white lights. Likewise, buoys with a red band at the top carry red lights, while those with a black band topmost carry green lights. White lights are used without any color significance. Lights on red or black buoys are always flashing or occulting. (When the light period is shorter than the dark period, the light is flashing. When the light is interrupted by short dark periods, the light is occulting.) A light flashing a Morse Code letter “A” (dot-dash) indicates a mid-channel buoy.  
+
+There is much more to the system of maritime naviga- tion aids than can be presented here. Nautical books and online resources can be a great help in extending knowledge and understanding of these important aids.  
+
+![](images/2045faef45b415f25dea770944746bc83adb69661379685c876bcaf6484be700.jpg)  
+Figure 1-4.Typical daymarks.  
+
+![](images/78e0d7609254f8d91d1314da9635dc506513cc6c8baa08cae8547f614c0e36a1.jpg)  
+
+# S EAPLANE CHARACTERISTICS  
+
+There are two main types of seaplane: flying boats (often called hull seaplanes) and floatplanes. The bottom of a flying boat ’s fuselage is its main landing gear. This is usually supplemented with smaller floats near the wingtips, called  wing or tip floats . Some flying boats have  sponsons , which are short, winglike projections from the sides of the hull near the waterline. Their pur- pose is to stabilize the hull from rolling motion when the flying boat is on the water, and they may also pro- vide some aerodynamic lift in flight. Tip floats are sometimes known as sponsons. The hull of a flying boat holds the crew, passengers, and cargo; it has many features in common with the hull of a ship or boat. On the other hand,  floatplanes  typically are conventional landplanes that have been fitted with separate floats (sometimes called pontoons) in place of their wheels. The fuselage of a floatplane is supported well above the water’s surface.  
+
+Some flying boats and floatplanes are equipped with retractable wheels for landing on dry land. These aircraft are called  amphibians . On amphibious flying boats, the main wheels generally retract into the sides of the hull above the waterline. The main wheels for amphibious floats retract upward into the floats themselves, just behind the step. Additional training is suggested for any- one transitioning from straight floats to amphibious aircraft. [Figure 2-1]  
+
+There are considerable differences between handling a floatplane and a flying boat on the water, but simi- lar principles govern the procedures and techniques for both. This book primarily deals with floatplane  
+
+![](images/b4f9c9afba6bcad122e22a0f6e5cdd6ee89314806f2cff82e826ecce94ae6011.jpg)  
+Figure 2-1. Flying boats, floatplanes, and amphibians.  
+
+operations, but with few exceptions, the explanations given here also apply to flying boats.  
+
+A number of amphibious hull seaplanes have their engines mounted above the fuselage. These seaplanes have unique handling characteristics both on the water and in the air. Because the thrust line is well above the center of drag, these airplanes tend to nose down when power is applied and nose up as power is reduced. This response is the opposite of what pilots have come to expect in most other airplanes, and can lead to unex- pected pitch changes and dangerous situations if the pilot is not thoroughly familiar with these characteristics. Pilots transitioning to a seaplane with this configuration should have additional training.  
+
+Many of the terms that describe seaplane hulls and floats come directly from the nomenclature of boats and ships. Some of these terms may already be familiar, but they have specific meanings when applied to seaplanes. Figures 2-2 and 2-3 describe basic terms, and the glossary at the end of this book defines additional terms.  
+
+Other nautical terms are commonly used when operat- ing seaplanes, such as port and starboard for left and right, windward and leeward for the upwind and down- wind sides of objects, and bow and stern for the front and rear ends of objects.  
+
+Research and experience have improved float and hull designs over the years. Construction and materials have changed, always favoring strength and light weight. Floats and hulls are carefully designed to optimize hydrodynamic and aerodynamic performance.  
+
+Floats usually have bottoms, sides, and tops. A strong keel  runs the length of the float along the center of the bottom. Besides supporting the seaplane on land, the keel serves the same purpose as the keel of a boat when the seaplane is in the water. It guides the float in a straight line through the water and resists sideways motion. A short, strong extension of the keel directly behind the step is called the  skeg . The  chine  is the seam where the sides of the float are joined to the bottom. The chine helps guide water out and away from the float, reducing spray and helping with  hydrodynamic lift. Hydrodynamic forces are those that result from motion in fluids.  
+
+On the front portion of the float, midway between the keel and chine, are the two  sister keelsons . These lon- gitudinal members add strength to the structure and function as additional keels. The top of the float forms a  deck  that provides access for entering and leaving the cabin. Bilge pump openings, hand hole covers, and cleats for mooring the seaplane are typically located along the deck. The front of each float has a rubber bumper to cushion minor impacts with docks, etc. Many floats also have  spray rails  along the inboard forward portions of the chines. Since water spray is sur- prisingly destructive to propellers, especially at high r.p.m., these metal flanges are designed to reduce the amount of spray hitting the propeller.  
+
+Floats are rated according to the amount of weight they can support, which is based on the weight of the actual volume of fresh water they displace. Fresh water is the standard because sea water is about 3 percent denser than fresh water and can therefore support more weight. If a particular float design displaces 2,500 pounds of fresh water when the float is pushed under the surface, the float can nominally support 2,500  
+
+![](images/f91d9254aab373ac12290c312c9bb230648b314ba650756ead69fe4f46fa857c.jpg)  
+Figure 2-2. Hull components. 2-2  
+
+![](images/3e4826d672ef2d8bf5cfea24cd2fe30c5938b09ac68d14e2bec80157bd5d8289.jpg)  
+Figure 2-3. Float components.  
+
+pounds. A seaplane equipped with two such floats would seemingly be able to support an airplane weighing 5,000 pounds, but the floats would both be completely submerged at that weight. Obviously, such a situation would be impractical, so seaplanes are required to have a buoyancy of 80 percent in excess of that required to support the maximum weight of the seaplane in fresh water. To determine the maximum weight allowed for a seaplane equipped with two floats, divide the total displacement by 180 percent, or 1.8. Using the example of two floats that each displace 2,500 pounds, the total displacement of 5,000 pounds divided by 1.8 gives a maximum weight for the seaplane of 2,778 pounds. Many other consid- erations determine the suitability of a particular set of floats for a specific type of airplane, and float installations are carefully evaluated by the Federal Aviation Administration (FAA) prior to certification.  
+
+All floats are required to have at least four watertight compartments. These prevent the entire float from fill- ing with water if it is ruptured at any point. The floats can support the seaplane with any two compartments flooded, which makes the seaplane difficult to sink.  
+
+Most floats have openings with watertight covers along the deck to provide access to the inside of each com- partment for inspection and maintenance. There are also smaller holes connected by tubes to the lowest point in each compartment, called the bilge. These bilge pump openings are used for pumping out the bilge water that leaks into the float. The openings are typically closed with small rubber balls that push snugly into place.  
+
+Both the lateral and longitudinal lines of a float or hull are designed to achieve a maximum lifting force by diverting the water and the air downward. The forward bottom portion of a float or hull is designed very much like the bottom of a speedboat. While speedboats are intended to travel at a fairly constant pitch angle, sea- planes need to be able to rotate in pitch to vary the wings’angle of attack and increase lift for takeoffs and landings. The underside of a seaplane float has a sud- den break in the longitudinal lines called the  step . The step provides a means of reducing water drag during takeoff and during high-speed taxi.  
+
+At very low speeds, the entire length of the floats supports the weight of the seaplane through buoy- ancy, that is, the floats displace a weight of water equal to the weight of the seaplane. As speed increases, aerodynamic lift begins to support a certain amount of the weight, and the rest is supported by hydrodynamic lift, the upward force produced by the motion of the floats through the water. Speed increases this hydrodynamic lift, but water drag increases more quickly. To minimize water drag while allowing hydrodynamic lift to do the work of supporting the seaplane on the water, the pilot relaxes elevator back pressure, allowing the seaplane to assume a pitch atti- tude that brings the aft portions of the floats out of the water. The step makes this possible. When running on the step, a relatively small portion of the float ahead of the step supports the seaplane. Without a step, the flow of water aft along the float would tend to remain attached all the way to the rear of the float, creating unnecessary drag.  
+
+The steps are located slightly behind the airplane’s center of gravity (CG), approximately at the point where the main wheels are located on a landplane with tricycle gear. If the steps were located too far aft or forward of this point, it would be difficult, if not impossible, to rotate the airplane into a nose-up attitude prior to lifting off. Although steps are necessary, the sharp break along the underside of the float or hull concentrates structural stress into this area, and the disruption in airflow produces considerable drag in flight. The keel under the front portion of each float is intended to bear the weight of the seaplane when it is on dry land. The location of the step near the CG would make it very easy to tip the seaplane back onto the rear of the floats, which are not designed for such loads. The skeg is located behind the step and acts as a sort of chock when the seaplane is on land, making it more difficult to tip the seaplane backward.  
+
+Most floatplanes are equipped with retractable  water rudders  at the rear tip of each float. The water rudders are connected by cables and springs to the rudder pedals in the cockpit. While they are very useful in maneuvering on the water surface, they are quite susceptible to damage. The water rudders should be retracted whenever the seaplane is in shallow water or where they might hit objects under the water surface. They are also retracted during takeoff and landing, when dynamic water forces could cause damage.  
+
+# SEAPLANE FLIGHT PRINCIPLES  
+
+In the air, seaplanes fly much like landplanes. The additional weight and drag of the floats decrease the airplane’s useful load and performance compared to the same airplane with wheels installed. On many air- planes, directional stability is affected to some extent by the installation of floats. This is caused by the length of the floats and the location of their vertical surface area in relation to the airplane’s CG. Because the floats present such a large vertical area ahead of the CG, they may tend to increase any yaw or sideslip. To help restore directional stability, an auxiliary fin is often added to the tail. Less aileron pressure is needed to hold the seaplane in a slip. Holding some rudder pressure may be required to maintain coordination in turns, since the cables and springs for the water rudders may tend to prevent the air rudder from streamlining in a turn.  
+
+![](images/5793c0cd9128813eb586fa2d53248977f81afb0a7e2a74ad7cd860acf967f897.jpg)  
+
+# C HARACTERISTICS OF WATER  
+
+A competent seaplane pilot is knowledgeable in the characteristics of water and how they affect the sea- plane. As a fluid, water seeks its own level, and forms a flat, glassy surface if undisturbed. Winds, currents, or objects traveling along its surface create waves and movements that change the surface characteristics.  
+
+Just as airplanes encounter resistance in the form of drag as they move through the air, seaplane hulls and floats respond to drag forces as they move through water. Drag varies proportionately to the square of speed. In other words, doubling the seaplane’s speed across the water results in four times the drag force.  
+
+Forces created when operating an airplane on water are more complex than those created on land. For landplanes, friction acts at specific points where the tires meet the ground. Water forces act along the entire length of a seaplane’s floats or hull. These forces vary constantly depending on the pitch atti- tude, the changing motion of the float or hull, and action of the waves. Because floats are mounted rigidly to the structure of the fuselage, they provide no shock absorbing function, unlike the landing gear of landplanes. While water may seem soft and yielding, damaging forces and shocks can be transmitted directly through the floats and struts to the basic structure of the airplane.  
+
+Under calm wind conditions, the smooth water surface presents a uniform appearance from above, somewhat like a mirror. This situation eliminates visual refer- ences for the pilot and can be extremely deceptive. If waves are decaying and setting up certain patterns, or if clouds are reflected from the water surface, the resulting distortions can be confusing even for experienced seaplane pilots.  
+
+# D ETERMINING SEA CONDITIONS  
+
+The ability to read the water’s surface is an integral part of seaplane flying. The interaction of wind and water determine the surface conditions, while tides and currents affect the movement of the water itself. Features along the shore and under the water’s surface contribute their effects as well. With a little study, the interplay between these factors becomes clearer.  
+
+A few simple terms describe the anatomy and charac- teristics of waves. The top of a wave is the  crest , and the low valley between waves is a  trough . The height of waves is measured from the bottom of the trough to the top of the crest. Naturally, the distance between two wave crests is the wavelength. The time interval between the passage of two successive wave crests at a fixed point is the period of the wave.  
+
+Waves are usually caused by wind moving across the surface of the water. As the air pushes the water, ripples form. These ripples become waves in strong or sustained winds; the higher the speed of the wind, or the longer the wind acts on them, the larger the waves. Waves can be caused by other factors, such as under- water earthquakes, volcanic eruptions, or tidal movement, but wind is the primary cause of most waves. [Figure 3-1 on next page]  
+
+Calm water begins to show wave motion when the wind reaches about two knots. At this windspeed, patches of ripples begin to form. If the wind stops, sur- face tension and gravity quickly damp the waves, and the surface returns to its flat, glassy condition. If the wind increases to four knots, the ripples become small waves, which move in the same direction as the wind and persist for some time after the wind stops blowing.  
+
+As windspeed increases above four knots, the water surface becomes covered with a complicated pattern of waves. When the wind is increasing, waves become larger and travel faster. If the wind remains at a con- stant speed, waves develop into a series of evenly spaced parallel crests of the same height.  
+
+In simple waves, an object floating on the surface shows that waves are primarily an up and down motion of the water, rather than the water itself moving down- wind at the speed of the waves. The floating object describes a circle in the vertical plane, moving upward as the crest approaches, forward and downward as the crest passes, and backward as the trough passes. After each wave passes, the object is at almost the same place as before. The wind does cause floating objects to drift slowly downwind.  
+
+While the wind is blowing and adding energy to the water, the resulting waves are commonly referred to as wind waves or  sea . (Sea is also occasionally used  
+
+![](images/fd32d39e772c6cac7a19d1a2a987ce741cae4805a5f1c6b0debe62037e436d0a.jpg)  
+
+to describe the combined motion of all the factors disturbing the surface.) These waves tend to be a chaotic mix of heights, periods, and wavelengths. Because the wind causes the height to increase faster than the wavelength, they often have relatively steep, pointed crests and rounded troughs. With a windspeed of 12 knots, the waves begin to break at their crests and create foam.  
+
+The height of waves depends on three factors: wind- speed, length of time the wind blows over the water, and the distance over which the wind acts on the water. As waves move away from the area where they were generated (called a  fetch ), they begin to sort them- selves by height and period, becoming regular and evenly spaced. These waves often continue for thou- sands of miles from where they were generated.  Swell is the term describing waves that persist outside the fetch or in the absence of the force that generated them. A swell may be large or small, and does not indicate the direction of the wind. The wake of a boat or ship is also a swell.  
+
+Unlike wind and current, waves are not deflected much by the rotation of the Earth, but move in the direction in which the generating wind blows. When this wind ceases, water friction and spreading reduce the wave height, but the reduction takes place so slowly that a swell persists until the waves encounter an obstruction, such as a shore. Swell systems from many different directions, even from different parts of the world, may cross each other and interact. Often two or more swell systems are visible on the surface, with a sea wave sys- tem developing due to the current wind.  
+
+In lakes and sheltered waters, it is often easy to tell wind direction by simply looking at the water’s sur- face. There is usually a strip of calm water along the upwind shore of a lake. Waves are perpendicular to the wind direction. Windspeeds above approximately eight knots leave wind streaks on the water, which are paral- lel to the wind.  
+
+Land masses sculpt and channel the air as it moves over them, changing the wind direction and speed. Wind direction may change dramatically from one part of a lake or bay to another, and may even blow in opposite directions within a surprisingly short distance. Always pay attention to the various wind indicators in the area, especially when setting up for takeoff or landing.  
+
+While waves are simply an up and down undulation of the water surface,  currents  are horizontal movements of the water itself, such as the flow of water down- stream in a river. Currents also exist in the oceans, where solar heating, the Earth’s rotation, and tidal forces cause the ocean water to circulate.  
+
+# WATER EFFECTS ON OPERATIONS  
+
+Compared to operations from typical hard-surface runways, taking off from and landing on water pres- ents several added variables for the pilot to consider. Waves and swell not only create a rough or uneven surface, they also move, and their movement must be considered in addition to the wind direction. Likewise, currents create a situation in which the surface itself is actually moving. The pilot may decide to take off or land with or against the current, depending on the wind, the speed of the current, and the proximity of riverbanks or other obstructions.  
+
+While a landplane pilot can rely on windsocks and indicators adjacent to the runway, a seaplane pilot needs to be able to read wind direction and speed from the water itself. On the other hand, the landplane pilot may be restricted to operating in a certain direction because of the orientation of the runway, while the sea- plane pilot can usually choose a takeoff or landing direction directly into the wind.  
+
+Even relatively small waves and swell can compli- cate seaplane operations. Takeoffs on rough water can subject the floats to hard pounding as they strike consecutive wave crests. Operating on the surface in rough conditions exposes the seaplane to forces that can potentially cause damage or, in some cases, overturn the seaplane. When a swell is not aligned with the wind, the pilot must weigh the dangers posed by the swell against limited crosswind capability, as well as pilot experience.  
+
+On the other hand, calm, glassy water presents a different set of challenges. Since the wind is calm, taxiing and docking are somewhat easier, but takeoffs and landings require special techniques. Takeoff distances may be longer because the wings get no extra lifting help from the wind. The floats seem to adhere more tenaciously to the glassy water surface. When landing, the flat, featureless surface makes it far more difficult to gauge altitude accurately, and reflections can create confusing optical illusions. The specific techniques for glassy water operations are covered in Chapter 4, Seaplane Operations–Preflight and Takeoffs, and Chapter 6, Seaplane Operations–Landing.  
+
+Tides are cause for concern when the airplane is beached or moored in shallow water. A rising tide can lift a beached seaplane and allow it to float out to sea if the airplane is not properly secured. Depending on the height of the tide and the topography of the beach, an outgoing tide could leave a beached seaplane stranded far from the water. [Figure 3-2]  
+
+![](images/c9eb5a2dddd0b8aa4e30a4f94e731057cfd0a84e41e279f528407c92e2e339e6.jpg)  
+Figure 3-2. An outgoing tide can leave a seaplane far from the water. A rising tide can cause a beached seaplane to float away.  
+
+Many of the operational differences between land- planes and seaplanes relate to the fact that seaplanes have no brakes. From the time a seaplane casts off, it is usually in continuous motion due to the wind and current, so the pilot must take deliberate action to control this movement. Often these forces can be used to the pilot’s advantage to help move the seaplane as desired. Starting the engine, performing the engine runup, and completing most pre-takeoff checks are all accomplished while the seaplane is in motion. The seaplane continues moving after the engine is shut down, and this energy, along with the forces of wind and current, is typically used to coast the seaplane to the desired docking point.  
+
+As with land airplanes, the wind tends to make the airplane weathervane, or yaw, until the nose points into the wind. This tendency is usually negligible on landplanes with tricycle landing gear, more pro- nounced on those with conventional (tailwheel) gear, and very evident in seaplanes. The tendency to weathervane can usually be controlled by using the water rudders while taxiing, but the water rudders are typically retracted prior to takeoff. Weathervaning can create challenges in crosswind takeoffs and landings, as well as in docking or maneuvering in close quarters.  
+
+# SEAPLANE BASE OPERATIONS  
+
+In the United States, rules governing where seaplanes may take off and land are generally left to state and local governments.  
+
+Some states and cities are very liberal in the laws regarding the operation of seaplanes on their lakes and waterways, while other states and cities may impose stringent restrictions. The Seaplane Pilots Association publishes the useful Water Landing Directory with information on seaplane facilities, landing areas, waterway use regulations, and local restrictions throughout the United States. Before operating a seaplane on public waters, contact the Parks and Wildlife Department of the state, the State Aeronautics Department, or other authorities to determine the local requirements. In any case, sea- plane pilots should always avoid creating a nuisance in any area, particularly in congested marine areas or near swimming or boating facilities.  
+
+Established seaplane bases are shown on aeronautical charts and are listed in the Airport/Facility Directory. The facilities at seaplane bases vary greatly, but most include a hard surface ramp for launching, servicing facilities, and an area for mooring or hangaring sea- planes. Many marinas designed for boats also provide seaplane facilities.  
+
+Seaplanes often operate in areas with extensive recre- ational or commercial water traffic. The movements of faster craft, such as speedboats and jet-skis are unpre- dictable. People towing skiers may be focusing their attention behind the boat and fail to notice a landing seaplane. Swimmers may be nearly invisible, often with just their heads showing among the waves. There is no equivalent of the airport traffic pattern to govern boat traffic, and although right-of-way rules exist on the water, many watercraft operators are unaware of the limits of seaplane maneuverability and may assume that seaplanes will always be able to maneuver to avoid them. Many times, the seaplane itself is an object of curiosity, drawing water traffic in the form of interested onlookers.  
+
+When seaplane operations are conducted in bush country, regular or emergency facilities are often lim- ited or nonexistent. The terrain and waterways are frequently hazardous, and any servicing becomes the individual pilot’s responsibility. Prior to operating in an unfamiliar area away from established seaplane facilities, obtain the advice of FAA Accident Prevention Counselors or experienced seaplane pilots who are familiar with the area.  

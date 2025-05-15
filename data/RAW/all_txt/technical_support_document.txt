@@ -1,0 +1,495 @@
+# Technical Support Document  for  
+
+Attainment Area Screening  Methodology  
+
+Federal Aviation Administration  Office of Environment and Energy  
+
+# EXECUTIVE SUMMARY  
+
+The  Aviation Emissions and Air Quality Handbook  (the  Handbook ), published by the Federal Aviation  Administration (FAA), serves as a resource for the planning and completion of air quality assessments   for  projects and actions under the jurisdiction of the FAA.  
+
+The purpose of this report is to document the technical analysis completed in the development of an  Attainment Area Screening Methodology  to reduce FAA workload by reducing the resources required to  evaluate air quality impacts in Attainment Areas. The Methodology provides clarification on what to  evaluate when an air quality assessment is warranted in an Attainment Area.  Furthermore, it simplifies  environmental review of air quality impacts from projects that occur in attainment areas by screening  out such projects that have little chance of causing an adverse impact on air quality.  This screening  methodology screens out pollutants in attainment areas only.  However,  the methodology also applies  to all attainment pollutants, even if an airport is non-attainment for a particular pollutant.  
+
+For Nonattainment Areas 1 , the  Handbook  identifies the General Conformity Rule  de minimis  thresholds  as values below which emissions from FAA Projects and/or Actions are considered to conform to the  State Implementation Plan (SIP). By comparison, within the current version of the Handbook, there are  no comparable emission thresholds for FAA projects in Attainment Areas.  
+
+The principal feature of this report is the technical documentation for both the scientific and regulatory  background of the  Attainment Area Screening Methodology .  This report also contains:  
+
+•   Attainment Area Screening Methodology : A basic methodology that establishes a Screening  Criteria for four parameters that accommodate the bulk of airport projects.  This also provides  justification for the establishment of a Screening Metric and the associated Screening Criteria.   The four questions supporting the Screening Criteria are:  
+
+o   Will the FAA decision result in an increase of more than 14,000 commercial aircraft  operations per year, or if the project is in an OTR, more than 5,000 general aviation  aircraft operations per year?  o   Will the FAA decision result in an increase of more than 340,000 minutes of aircraft  delay per year?  o   Will the FAA decision result in an additional 25 million VMT per year?  o   Will the FAA decision result in the use of more than 125 construction vehicles or GSE  during a year, or if the project is in the OTR, 50 construction vehicles or GSE during a  year?.  
+
+•   Air Quality Assessment Flowchart (the Flowchart) : A decision-making process for FAA projects  with respect to air quality assessments that is consistent with the National Environmental  Protection Act (NEPA) and the Clean Air Act (CAA), and is applicable to both operational and  construction-related emissions. For Attainment Areas, the Flowchart also includes evaluation of  Exempt and Presumed to Conform (PTC) actions.  For Nonattainment Areas the Flowchart includes  requirements for preparing emission inventories, General Conformity Determinations, and NEPA.  
+
+# 2.   REGULATORY BASIS FOR EVALUATION OF AIR QUALITY IN ATTAINMENT AREAS .......................................... 1  
+
+2.1.   N ATIONAL  E NVIRONMENTAL  P OLICY  A CT ...............................................................................................................  2
+
+ 2.2.   C LEAN  A IR  A CT .................................................................................................................................................  2  
+
+# 3.   RELEVANT ENVIRONMENTAL PROTECTION AGENCY (EPA) DEFINITIONS ....................................................... 3  
+
+3.1.   S TATIONARY  S OURCES ........................................................................................................................................  3
+
+ 3.2.   P REVENTION OF  S IGNIFICANT  D ETERIORATION  ........................................................................................................  3
+
+ 3.3.   S IGNIFICANT  E MISSION  R ATE  (SER)  ......................................................................................................................  3
+
+ 3.4.   N ONATTAINMENT  N EW  S OURCE  R EVIEW ...............................................................................................................  3
+
+ 3.5.   O ZONE  T RANSPORT  R EGION ................................................................................................................................  4
+
+ 3.6.   G ENERAL  C ONFORMITY  ......................................................................................................................................  4
+
+ 3.7.   G REENHOUSE  G AS  R EGULATIONS  .........................................................................................................................  4
+
+ 3.8. FINDINGS AND INTERPRETATION........................................................................................................................... 4  
+
+# 4.   EPA EXPECTATIONS FOR MAJOR STATIONARY SOURCES IN ATTAINMENT AREAS ......................................... 4  
+
+4.1.   B EST  A VAILABLE  C ONTROL  T ECHNOLOGY  (BACT) ...................................................................................................  5
+
+ 4.2.   I NCREMENT ......................................................................................................................................................  5
+
+ 4.3.   C LASS  I   A REAS  ..................................................................................................................................................  5  
+
+# 5.   UNDERSTANDING TYPICAL AIRPORT PROJECTS ............................................................................................. 5  
+
+5.1.   P ROJECT  P ARAMETERS  ( THAT CAN BE READILY EQUATED TO EMISSIONS ).......................................................................  6 5.1.1.   Increased Aircraft Operations..............................................................................................................  6 5.1.2.   Changes in Operational Efficiency (Taxi/Idle/Delay) ...........................................................................  6 5.1.3.   Changes in Vehicle Activity ..................................................................................................................  6 5.1.4.   Construction ........................................................................................................................................  6
+
+ 5.2.   P ROJECT  T YPES  ( THAT DO NOT HAVE PARAMETERS SUITABLE FOR SCREENING ) ...............................................................  7 5.2.1.   Aircraft Fleet Mix Changes ..................................................................................................................  7 5.2.2.   Impacts to Passenger Levels ................................................................................................................  7 5.2.3.   Relocation of Emission Sources ...........................................................................................................  8
+
+ 5.3.   S UITABILITY OF  E XEMPT AND  P RESUMED TO  C ONFORM  L ISTS  (PTC) ...........................................................................  8  
+
+# 6.   ACTIVITY LEVELS THAT CAN SERVE AS SCREENING CRITERIA ......................................................................... 9  
+
+6.1.   A IRCRAFT  O PERATIONS  ....................................................................................................................................  10
+
+ 6.2. OPERATIONAL EFFICIENCY................................................................................................................................. 12
+
+6.3.   V EHICLE  A CTIVITY ............................................................................................................................................  14
+
+ 6.4.   C ONSTRUCTION AND  GSE   A CTIVITY  ....................................................................................................................  15  
+
+# 7.   SUGGESTED QUESTIONS FOR FOUR SELECTED SCREENING PARAMETERS ................................................... 18  
+
+7.1.   Q UESTIONS ....................................................................................................................................................  18
+
+ 7.2.   E MISSIONS FROM  M ORE  T HAN  S CREENING  P ARAMETER IN A  G IVEN  Y EAR  .................................................................  18 7.2.1.   Example Emissions Aggregation  ........................................................................................................  19  
+
+# 8.   WHAT TO DO IF FAA DECISION EXCEEDS SCREENING CRITERIA ................................................................... 21  
+
+8.1.   P OLLUTANT  Q UANTIFICATION ............................................................................................................................  21
+
+ 8.2.   T EMPORAL  D ISAGGREGATION ............................................................................................................................  22
+
+ 8.3.   A IR  Q UALITY  A NALYSIS  F LOWCHART  ...................................................................................................................  23 S TEP  1:   D ETERMINE IF THE  F EDERAL  A CTION FALLS WITHIN AN EXEMPTION TO  G ENERAL  C ONFORMITY .........................................  24   S TEP  2:   D OES THE  F EDERAL  A CTION QUALIFY AS  P RESUMED TO  C ONFORM ?  ............................................................................  25   S TEP  3:   D ETERMINE IF THE  F EDERAL  A CTION IS IN AN  EPA- DESIGNATED NONATTAINMENT AREA OR MAINTENANCE AREA  ................  25   S TEP  4:   E VALUATE IF  A TTAINMENT  S CREENING  C RITERIA IS EXCEEDED  ....................................................................................  26   S TEP  5:   I F  F EDERAL  A CTION EXCEEDS  S CREENING  C RITERIA OR WAS SUBJECT TO  G ENERAL  C ONFORMITY .......................................  26   8.4.   A TTAINMENT  A REA  S CREENING  M ETHODOLOGY  ...................................................................................................  27  
+
+# List of Tables  
+
+Table 1. NUMBER OF AIRPORTS IN ATTAINMENT AND NONATTAINMENT/MAINTENANCE  AREAS  .................................................................................................................................. 2  Table 2.  EXEMPT PROJECTS AND/OR ACTION ITEMS .............................................................................................. 8  Table 3.  PRESUMED TO CONFORM PROJECTS AND/OR ACTION ITEMS (2007)  ...........................................  9  Table 4.  REPRESENTATIVE AIRCRAFT USED FOR CALCULATING LTO EMISSIONS  ........................... 10  T able 5.  CHARACTERISTIC EMISSIONS INCLUDING AIRCRAFT, APU, AND GSE  (POUNDS PER LTO CYCLE) ................................................................................................................ 10  Table 6.  NUMBER OF LTOS AND ASSOCIATED LIMITING POLLUTANT THAT CAN BE  ACCOMMODATED BY THE SCREENING METRIC ..................................................................... 11 Table 7.   SCREENING METRICS IN ATTAINMENT AREAS    ............................................................................11  
+
+# List of Figures  
+
+Figure 1: Air quality assessment process for a Federal Action ................................................................... 24  
+
+![List of Acronyms  ](images/98e48b4129c09d6c7949985c34b971462221ebad64b9257e06835e2dc8bdd589.jpg)  
+
+# 1.   INTRODUCTION  
+
+The Federal Aviation Administration (FAA)  Aviation Emissions and Air Quality Handbook  (the  Air Quality  Handbook  or  Handbook ) was first published in 1982, then revised in 1997 and 2004. Prepared by the Office  of Environment and Energy (AEE), Emissions Division, the current version (Version 3, Update 1) is dated  2015 and obtainable on the FAA’s website.  
+
+The principal purpose of the  Handbook  is three-fold:  
+
+•   Technical Assistance: To provide information, data and methodologies for carrying out air quality  assessments prepared for FAA-supported Projects and/or Actions.   •   Regulatory Support: To help ensure that the air quality assessments are properly disclosed in  accordance with the National Environmental Protection Act (NEPA) and comply with the General  Conformity Rule and National Ambient Air Quality Standards (NAAQS) of the Federal Clean Air Act  (CAA).  •   Produce Consistency: To provide an appropriate decision-making process for determining when an  air quality assessment is considered necessary, the type of analysis, and the expected endpoints.  
+
+Currently, the Handbook includes a methodology for environmental review of air quality impacts from  projects that occur in Nonattainment Areas. However, there is no comparable methodology for projects  that occur in Attainment Areas.  
+
+This document provides the technical analysis completed in the development of an  Attainment Area  Screening Methodology  ( Screening Method ). The Screening Method provides clarification on what to  evaluate when an air quality assessment is warranted in an Attainment Area.  It simplifies environmental  review of air quality impacts from projects that occur in attainment areas by screening out such projects  that have little chance of causing an adverse impact on air quality.  Therefore, the purpose of this  document is to reduce the FAA workload and resources required to evaluate air quality impacts in  Attainment Areas.  
+
+This document also provides an  Air Quality Assessment Flowchart  (the  Flowchart ),  which outlines a   decision-making process for FAA projects with respect to air quality assessments that is consistent with the  National Environmental Protection Act (NEPA) and the Clean Air Act (CAA) and is applicable to both  operational and construction-related emissions. For Attainment Areas, the Flowchart also includes  evaluation of Exempt and Presumed to Conform (PTC) actions.  For Nonattainment Areas the Flowchart  includes requirements for preparing emission inventories, General Conformity Determinations, and NEPA.  
+
+Therefore, the Method and Flowchart is enhanced to include the Screening Method, for environmental  review of air quality impacts from projects that occur in Attainment Areas.  The Screening Method will  allow FAA to focus scarce resources on projects that have greater potential to create impacts.  
+
+# 2.   REGULATORY BASIS FOR EVALUATION OF AIR QUALITY IN ATTAINMENT AREAS  
+
+The number of airports in Attainment and Nonattainment/Maintenance areas are shown in Table 1. Of  approximately 500 commercial service airports in the United States,  $75\%$   are located in Attainment Areas.  However, the largest airports, and consequently the largest projects, are most commonly located in  Nonattainment Areas. The preponderance of large hub airports in Attainment Areas is disproportionately  small.  
+
+![](images/8acb70e11315608ddfe8e56b29eb6e9e381f32d89bcfcf2b2535cae2a6a95d54.jpg)  
+Source: FAA, Voluntary Airport Low Emissions Program. https://www.faa.gov/airports/environmental/vale/. Updated 6/21/2017.  
+
+The Screening Method supports FAA’s regulatory obligations for performing environmental reviews of air  quality impacts. As such, this section provides a summary of pertinent documents, policies, regulations,  guidelines, processes, data and other forms and sources of information. Wherever possible, the summary  focuses on the applicability of comparable methodologies, as well as relevancy to FAA projects/actions. The  key relevant regulations are provided in the subsections below.  
+
+# 2.1.   National Environmental Policy Act  
+
+FAA’s environmental review of Projects and/or Actions pursuant to NEPA is primarily focused on (1)  determining if there are any significant environmental impacts, (2) disclosing impacts to the public if the  review is an environmental assessment (EA) or environmental impact statement (EIS), and (3) ensuring  FAA’s action is consistent with all appropriate federal regulations. The FAA Orders  5050.4B  and  1050.1F   provide comprehensive guidance on preparing NEPA documents, including Categorical Exclusions (CATEXs),  EAs, and EISs. It should be noted that projects requiring an EIS are subject to the most complicated  environmental reviews, and therefore are not suitable for an Attainment Area Screening Methodology.   However, projects/actions in attainment areas if they do not screen out, may require EIS and be subjected  to comprehensive environmental reviews.  
+
+# 2.2.   Clean Air Act  
+
+The CAA is intended to protect public health and the environment from air pollution by establishing  scientifically based standards and regulating air emissions. Typical environmental reviews by FAA for  projects/actions in Attainment Areas are generally not subject to regulatory review under the CAA.  Projects/actions that involve stationary sources could be subject to the CAA, or similar state laws, however,  these laws are more likely to apply to the project sponsor rather than the FAA.  The General Conformity  provisions of the CAA only apply to FAA projects/actions in Nonattainment and Maintenance Areas.  
+
+The CAA establishes NAAQS for the six criteria pollutants, which are particulate matter   $\left(\mathsf{P M}_{10/2.5}\right)$  , ozone   $\left({{O}_{3}}\right)$  , nitrogen dioxide  $\left(\mathsf{N O}_{2}\right)$  , sulfur dioxide (SO 2 ), carbon monoxide (CO), and lead (Pb). It is incumbent on  FAA to ensure that an action will not cause a violation of these standards. The Prevention of Significant  Deterioration (PSD) regulations under the CAA that ensure stationary sources do not cause a violation of  the NAAQS can serve as a valuable reference to FAA on how to ensure FAA actions won’t cause a violation  of the NAAQS.  
+
+# 3.   RELEVANT ENVIRONMENTAL PROTECTION AGENCY (EPA) DEFINITIONS  
+
+In order for FAA to evaluate appropriate criteria for the Screening Method, it is helpful to look at definitions  that EPA has created for permitting air pollutant emissions.  
+
+# 3.1.   Stationary Sources  
+
+The CAA generally defines air pollution sources as stationary or mobile. Airport emissions are dominated by  mobile sources. However, EPA’s regulatory program for stationary sources is considerably more robust than  for mobile sources.  As such, this technical document examines stationary source regulations simply for the  fact that EPA regulations are more comprehensive and have considerable documentation of their logical  development.  
+
+# 3.2.   Prevention of Significant Deterioration  
+
+Under the 1977 CAA amendments, EPA’s PSD program, a subset of the New Source Review (NSR) program  established major source thresholds for the permitting and modification of stationary sources in  Attainment Areas (40 CFR 51.165). The Major Source definition for Attainment Areas is established as a  source having the potential to emit equal to or greater than 250 tons per year (TPY) of a criteria pollutant of  unnamed/unlisted categories. This regulation also defines a 100 TPY threshold for a named/listed major  stationary sources or major medication sources (40 CFR 51.165).  
+
+# 3.3.   Significant Emission Rate (SER)  
+
+The PSD program also defines a threshold to determine whether control technology should be applied to  3 secondary pollutants emitted at a major source . The SER sets a threshold for applying Best Available  Control Technology (BACT) for criteria pollutants that are emitted below the Major Source threshold at  sources subject to PSD regulations. SERs vary by pollutant but are all defined as less than the 250 TPY major  source threshold.  
+
+# 3.4.   Nonattainment New Source Review  
+
+EPA has established emission rates for the permitting of stationary sources subject to Nonattainment New  Source Review (NNSR).  The emission rates are specific to the pollutant for which the region is designated  as nonattainment or maintenance and are more stringent than the threshold defined under the PSD  regulations.  NNSR does not apply to Attainment Areas.  
+
+# 3.5.   Ozone Transport Region  
+
+The Ozone Transport Region (OTR) is a single transport region for ozone, consisting of the Northeastern  States of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York,  Pennsylvania, Rhode Island, Vermont and the District of Columbia. States in the OTR have a special  definition in the CAA for Major Sources; the threshold is defined as if the area is in a moderate (or higher)  ozone Nonattainment Area.  Therefore, in Attainment Areas in the OTR, a Major Source is one with the  potential to emit 100 TPY or more of   $\mathsf{N O x}$   and 50 TPY of VOCs.  
+
+# 3.6.   General Conformity  
+
+The General Conformity regulations contain a definition of a  de minimis  change—an emissions change that  is not expected to cause an adverse impact. Since the General Conformity regulations apply to actions  occurring in Nonattainment or Maintenance Areas, EPA’s  de minimis  definition draws upon NNSR’s major  source definition for permitting of stationary sources in Nonattainment Areas. The regulatory rulemaking  process contemplated setting General Conformity’s  de minimis  thresholds at the SER level or lower 6 , but  deemed that to be unnecessarily restrictive and instead EPA chose the NNSR major source definition.  
+
+# 3.7.   Greenhouse Gas Regulations  
+
+Greenhouse Gases (GHGs) are pollutants for which there is no NAAQS but they are of concern because of  their role in climate change. In recent years, the EPA’s Tailoring Rule set GHG emissions thresholds that  define when permits under existing permitting programs were required to consider GHG emissions from a  new or modified source. In 2016 EPA adopted 75,000 TPY of GHG emissions as the threshold for reporting 7   from only 41 selected industries (which did not include airports or activities typically found at airports).  
+
+# 3.8.   Findings and Interpretation  
+
+EPA has created a two-tier system for defining major sources—a threshold for Attainment Areas and a  more stringent threshold for Nonattainment and Maintenance Areas. The SER definition was deemed to be  more restrictive than the threshold EPA deemed necessary for Nonattainment Areas. Thus, FAA can  embrace EPA’s regulatory approach and thoughtful deliberation by adopting the PSD Major Source  threshold as the basis of the development of a Screening Method.  The 250 TPY value for each criteria  pollutant (in OTR it is reduced to 100 TPY of  $\mathsf{N O x}$   and 50 TPY of VOC) will herein be defined as the Screening  Metric. In other words, the Screening Metric serves as an emissions level for projects in attainment areas  below which the Project or Action emissions do not cause adverse impacts on air quality.  
+
+# 4.   EPA EXPECTATIONS FOR MAJOR STATIONARY SOURCES IN ATTAINMENT AREAS  
+
+In order to establish FAA’s requirements for Projects and/or Actions in Attainment Areas that exceed the  proposed Screening Metric, it is helpful to look at EPA’s expectations for major stationary sources in  Attainment Areas that exceed this level (i.e. EPA’s PSD permitting requirements). EPA has established three  key considerations for projects permitted under PSD. This section summarizes these key considerations and  examines how these requirements could apply to FAA decisions.  
+
+# 4.1.   Best Available Control Technology (BACT)  
+
+EPA requires that air pollution sources in Attainment Areas use the BACT as a pollution control requirement  during permitting under the PSD program. The PSD program also requires that any modified sources meet  applicable New Source Performance Standards (NSPS), thus ensuring that pollution is minimized. Since  BACT is determined on a case-by-case basis it may be equal to or more stringent than NSPS standards 8 .  There is not an explicit description of what is and what is not categorized as BACT.  However, the increased  cost of deploying BACT is weighed against the anticipated reduction in emissions relative to an uncontrolled  emission source.  
+
+Understanding EPA’s application of BACT to stationary sources provides an important reference for FAA.  Most FAA decisions involve mobile sources (aircraft, on-road vehicles, and off-road vehicles) that all have  stringent regulations on emissions. The economic and technical feasibility that is evaluated when  developing emission standards for mobile sources can be considered comparable to the process used by  EPA to develop NSPS and BACT for stationary sources. Thus, FAA decisions typically involve emissions from  sources that have ‘BACT-like’ pollution controls already in place.  
+
+# 4.2.   Increment  
+
+Each state is responsible for establishing an Increment for each criteria pollutant for each area that is in  attainment. The Increment is the amount of additional pollutant emissions in a geographic region that  would cause an area to violate the NAAQS. When a PSD permit is sought, the permit requestor needs to  demonstrate that the increase in pollution is less than the state calculated Increment.  
+
+# 4.3.   Class I Areas  
+
+Class I areas are lands with special national or regional scenic, recreational or historic value. When a PSD  permit is sought, an evaluation is required to determine the potential impact on nearby Class I areas. The  EPA requires quantitative analysis (i.e. emission modeling) for PSD permit requests that seek to locate  emission sources within 50, or   $100\,{\mathsf{k m}}$   of a designated Class I area 9 .  
+
+# 5.   UNDERSTANDING TYPICAL AIRPORT PROJECTS  
+
+The FAA is responsible for completing NEPA reviews, including a review of the CAA and other special  purpose laws, for a broad range of airport projects. These projects include airfield improvements, terminal  improvements, commercial development of airport land, and ground transportation projects. While no two  projects are identical, there are some common characteristics of projects that could serve as suitable  screening criteria. Understanding how those characteristics are likely to impact air quality allows the  development of suitable Screening Parameters.   In other words, the Screening Parameters represent  activities common to most airport projects while Screening Criteria check if the associated activity levels of  these parameters are below the Screening Metric.  This allows selection of activity levels that ensure  project emissions do not exceed the Screening Metric.  
+
+# 5.1.   Project Parameters (that can be readily equated to emissions)  
+
+The purpose of the Screening Method is to simplify analysis of projects that have little chance of causing an  adverse impact on air quality. As such, the Screening Method needs to rely on simple and readily available  project parameters, or variables. This section looks at common parameters of Projects and/or Actions that  can be used to quickly estimate emissions from the Project and/or Action so the emissions can be evaluated  relative to the Screening Metric. The intent is to select parameters for screening that are commonly tracked  and easily understood by non-environmental professionals.  
+
+# 5.1.1.   Increased Aircraft Operations  
+
+Projects and/or Actions that directly affect the number of aircraft operations are relatively infrequent.  Typically, passenger demand (and supporting aircraft operations) would occur with or without a specific  improvement project. However, there are some Projects and/or Actions where the number of aircraft  operations is dependent on a specific improvement. Examples of Projects and/or Actions that increase  aircraft operations could include additional cargo hangars, aircraft maintenance hangars, or flight training  facilities. It is less common that terminal expansions, or airfield enhancements would cause any change in  aircraft operations. Terminal expansions are more commonly intended to provide passenger convenience  and accommodate passenger demand. Only in unique circumstances is additional aircraft demand  stimulated by such a Project and/or Action. It is important to note that the only aircraft operations that  should be included in the assessment are those that are the result of an FAA decision, excluding increases  resulting from natural growth.  
+
+# 5.1.2.   Changes in Operational Efficiency (Taxi/Idle/Delay)  
+
+Many FAA approvals are for Projects and/or Actions that enhance operational efficiency, which generally  improve air quality. However, some projects may create substantial operational delays during the  construction period and there are Projects and/or Actions that have a secondary effect of increasing airfield  delay (e.g. new terminal gates that may result in more congestion at or around the terminal). Examining the  anticipated change in operational delay that results from the Project and/or Action could serve as a suitable  Screening Parameter. It is important to note that the only operational delays that should be included in the  assessment are those that are the consequence of an FAA decision, excluding changes resulting from  natural growth.  
+
+# 5.1.3.   Changes in Vehicle Activity  
+
+FAA decisions that impact vehicle activity such as Ground Access Vehicles (GAVs) and Ground Support  Equipment (GSE) can generally be categorized in one of two ways: change in activity level or change in  vehicle type. A change in activity level encompasses changes in total number of vehicles, total duration of  vehicle usage, routing of vehicles, speed of vehicles, and distance traveled. A change in vehicle type covers  a diverse set of potential changes that generally reflects modifications to the vehicle fleet. This includes  changes driven by mode hare, infrastructure modifications, changing fuel type, or any other change that  affects which vehicles are used and how they are needed.  
+
+# 5.1.4.   Construction  
+
+FAA decisions that cause changes in airport emissions often involve construction equipment, on-/off-road  vehicles used for transport and delivery, and on-road vehicles used by construction workers. FAA’s  emissions evaluations of airport projects for the purpose of General Conformity (i.e.  de minimis  findings)  have often been focused exclusively on construction emissions. As such, it is important to look at what  types of construction emissions are well suited to a screening methodology.  
+
+# Constructing Structures  
+
+Emissions associated with building structures such as terminals, retail, office, and hotels most commonly  involve equipment used for site preparation and receiving and handling materials. Focusing on these  aspects can be somewhat counter intuitive because much of the cost and time is associated with the  interior work. However, the equipment used for interior work is typically powered by electricity due to the  fact that connecting electricity is often a first priority, and therefore available after site preparation.  
+
+# Constructing Runway/Taxiway/Apron Pavement  
+
+Constructing runway/taxiway/apron pavement is the emissions-generating activity that is most likely to  dominate emissions during the construction of a Project and/or Action. Earthwork or demolition may  require large earth-moving equipment that can produce substantial emissions. It is also important to  consider the age of equipment that would potentially be used at a site--emissions from older equipment  can be as much as 20 times the emissions of newer equipment in otherwise similar units.  
+
+# Constructing Roadways  
+
+Airports undertake a variety of roadway projects that range from building simple gravel roads to elevated  high-speed roadways. Similar to airfield pavement projects, the emissions impacts of roadway projects are  typically dominated by earth-moving equipment. It is also common for roadway projects to cause a change  in GAV activity.  
+
+# Maintenance and Refurbishment  
+
+Airports are constantly performing maintenance and repair activities. Aside from airfield refurbishment  projects that receive Airport Improvement Program (AIP) funding, much of this activity is not subject to FAA  review. While this type of FAA decision is infrequent, this activity is common and thus, well suited to serve  as a Screening Parameter.  
+
+# 5.2.   Project Types (that do not have parameters suitable for screening)  
+
+The Screening Method is meant to cover FAA decisions that are common and share parameters that  provide a relatively high confidence that the resulting emissions are understood.  This ensures that by only  looking at the Screening Parameters there will not be an adverse air quality impact. That framework results  in some types of FAA Projects and/or Actions that are not well suited to serve as Screening Parameters, this  includes:  
+
+# 5.2.1.   Aircraft Fleet Mix Changes  
+
+Projects that involve a change in fleet mix are relatively infrequent and typically unique to specific local  conditions. That is not to say that these decisions often cause a meaningful increase in emissions.  Rather, it  is hard to create a common framework to evaluate this type of impact from an FAA decision. However,  these decisions could be conservatively evaluated by using the Screening Parameter associated with  increased aircraft operations.  
+
+# 5.2.2.   Impacts to Passenger Levels  
+
+Experience has shown that most FAA decisions are intended to accommodate the convenience of  passengers, while demand changes occur independent of an FAA decision. The types of projects where an  FAA decision causes a change in passenger level are often associated with passenger leakage between air  service regions, passenger selection of competing airports within a region, airline changes to hub  operational structure, or come from the relaxation of capacity constraints. This complexity and uniqueness  of this type of Project and/or Action makes it difficult to find a suitable Screening Parameter.  However,  
+
+these projects could be conservatively evaluated by using the Screening Parameters for increased aircraft  operations.  
+
+# 5.2.3.   Relocation of Emission Sources  
+
+Projects and/or Actions that relocate a substantial amount of emissions from one location to another on an  airport would be suitable for a unique Screening Parameter.  Instead, this type of project could be  evaluated via the Screening Parameter for increased aircraft operations, using an assumption that the  relocated emissions are all new emissions.  
+
+# 5.3.   Suitability of Exempt and Presumed to Conform Lists (PTC)  
+
+The FAA published the PTC List in 2007 in the Federal Register (72 FR 41565) for the purpose of screening  projects in Nonattainment Areas. In that notice, FAA also identified activities that mat qualify for an existing  exemption from General Conformity.  In developing it’s PTC list, FAA reviewed over 600 studies (mostly  being CATEXs and Findings of No Significant Impacts [FONSI]) to develop a list of project-types that were  consistently below  de minimis  or negligible. Given that anything included on the list was unlikely to cause a  significant impact in a Nonattainment Area, it is safe to conclude these project types would not cause a  significant impact in an Attainment Area. Therefore, the Exempt and PTC Lists should be available for  screening purposes in Attainment Areas.  
+
+Table 2 and Table 3 list the Projects and/or Actions that were found to be exempt or PTC, respectively.  
+
+![EXEMPT PROJECTS AND/OR ACTION ITEMS  Federal Aviation Administration   ](images/676af711da9734320bf095053e206bb7fce6608df099fb045cdfbb5f55fef3bd.jpg)  
+
+![PRESUMED TO CONFORM PROJECTS AND/OR ACTION ITEMS (2007)  Federal Aviation Administration   ](images/ab01d10896c57f4667cf45fdc29a1a67607ab5b93d69174a016668ca1aa973ce.jpg)  
+Source: RoVolus, 2018.  
+
+# 6.   ACTIVITY LEVELS THAT CAN SERVE AS SCREENING CRITERIA  
+
+Representative emissions for each Screening Parameter need to be evaluated for each criteria pollutant to  determine activity levels that result in emissions below the Screening Metric.  This will allow for the  selection of activity levels that will be designated as Screening Criteria – these will be activity levels that  safely ensure emissions do not exceed the Screening Metric.  For this analysis lead will be omitted from the  list of criteria pollutants and from calculations since the total 2020 annual lead emissions from airports has  been estimated at less than 176.2 TPY 10 , making it unlikely any individual Project and/or Action could  exceed the Screening Metric.  
+
+Emissions will be quantified for each criteria pollutant but only a single Screening Criterion will be selected  for each Screening Parameter.  Essentially, the pollutant that causes the lowest activity level to exceed the  Screening Metric will be the ‘ controlling pollutant ’ and serve as the basis for the Screening Criterion.   There  will be a Screening Criterion established for each of the four Screening Parameters.  The purpose of this  analysis is to examine if it is possible to establish an activity level that would cause emissions less than the  Screening Metric.  
+
+# 6.1.   Aircraft Operations  
+
+Projects and/or Actions that affect aircraft operations may target a specific airframe type. However, the  Screening Criteria needs to apply to a range of possible Projects and/or Actions and consider a broad range  of airframe types. In order to examine the emissions associated with additional aircraft operations, the  Aviation Emission Design Tool (AEDT) was used to estimate emissions per Landing Take-Off (LTO) cycles for  a number of common airframe types. This included the direct aircraft emissions, as well as Auxiliary Power  Unit (APU) and GSE emissions based on default assumptions established within AEDT. The emissions  estimate did not include GAV emissions. The representative aircraft for the emissions estimate were  selected to represent the breadth of the current commercial fleet and are shown in Table 4.  
+
+![TABLE 4  REPRESENTATIVE AIRCRAFT USED FOR CALCULATING LTO EMISSIONS  Federal Aviation Administration   ](images/b632cee90e03a7a06d145912a7a76e3661a0df9255dd5fa30a6e61091089b16f.jpg)  
+
+The emissions for all pollutants were estimated using AEDT’s default modeling assumptions (e.g. 27  minutes of taxi/idle), and then compared to the Screening Metric.  The aggregate emissions per LTO cycle  are shown in Table 5 and the number of LTOs that could be accommodated within the Screening Metric are  shown in Table 6.  
+
+![](images/e91c00c31b7adfe3510a6d9937ff9e4ce0c6d8ed8315c77e1591885581441fdf.jpg)  
+
+![TABLE 6  NUMBER OF LTOS AND ASSOCIATED LIMITING POLLUTANT THAT CAN  BE ACCOMMODATED BY THE SCREENING METRIC Federal Aviation Administration   ](images/30e62258e0f09ca2d78025155c4f73167cea6f2dacb482a32ad905b4140b38d3.jpg)  
+Source: RoVolus, 2018.  
+
+![](images/125dbefe026c583c09044c18aa273a713405b25166be767a0bb607c3d47e1cfb.jpg)  
+Source: RoVolus, 2018.  
+
+It is clear from this analysis that CO,  $\mathsf{N O}_{\mathsf{x},}$  ,  and VOC are controlling pollutants and their screening metrics are  summarized in Table 7.  
+
+![](images/ebedf7aefd46ead68127c87c47c17ed0b3fc45c7fb82882287ce7d005cd8c8d2.jpg)  
+
+Determining an appropriate activity level based on the Screening Metric is clearly dependent on  assumptions regarding fleet mix. It is also worth noting that general aviation aircraft are the only fleet  limited by VOC.  
+
+The most conservative approach for identifying Screening Criteria would be to take the most restrictive  series of assumptions – effectively assuming that only wide body operations would increase when an FAA  action results in an increase in aircraft activity. This level of caution may not be necessary since there are  only five large hub airports located in Attainment Areas. In fact, the vast majority of the 378 commercial  service airports in Attainment Areas are small and non-hub airports that rarely see wide body aircraft.  
+
+Alternatively, a more accurate approach would be to look at the increase in activity by airframe type for  each Project and/or Action and calculate a blended activity level that meets the Screening Metric. This  would require a considerable effort and would be inconsistent with the purpose of the Screening Method  to reduce workload.  
+
+In balancing the need for accuracy with efficiency, it is recommended that for Projects and/or Actions at  airports in Attainment Areas that are not in the ozone transport region use a representative mix of aircraft,  conservatively weighted to heavier airframes.  This fleet mix assumption will serve as the basis of the  Screening Criteria. However, when an airport is in the ozone transport region, it is appropriate to consider  different activity levels for commercial aircraft projects and general aviation aircraft projects. This is due to  the stark differences in emissions profiles of these two airframes. This is appropriate since most Projects  and/or Actions would primarily impact either commercial aircraft or general aviation aircraft.  
+
+The representative mix for commercial aircraft projects was arbitrarily selected to be  $5\%$   wide body aircraft,   $60\%$   narrow body aircraft,  $30\%$   regional jets, and  $5\%$   general aviation aircraft.  Based on this fleet mix, it  was estimated that the Screening Metric would not be exceeded if the Project and/or Action resulted in an  increase of 16,600 LTOs per year. If the airport is in the OTR, the Screening Metric would not be exceeded if  the Project and/or Action resulted in an increase of 14,200 LTOs per year. Coincidentally, the Screening  Metric is not exceeded by 14,900 LTOs of general aviation aircraft outside the OTR. However, inside the  OTR, the Screening Metric is exceeded by 5,600 LTOs of general aviation aircraft.  
+
+In the interest of being conservative, and minimizing complexity, it is recommended that there be two  Screening Criteria for this Screening Parameter:  
+
+•   Projects and/or Actions that increase aircraft operations by more than 14,000 operations per year  
+
+•   Projects and/or Actions that specifically increase general aviation operations in the OTR by more than  5,000 LTOs  
+
+# 6.2.   Operational Efficiency  
+
+Projects that affect airfield delay may be targeted to affect a specific aircraft type (e.g. taxiway change that  only affects Group V operations). However, the screening criteria need to apply to a range of possible  actions and consider a broad range of airframe types. In order to examine the emissions associated with  changes to airfield delay, AEDT was used to estimate emissions from taxi/idle/delay for a number of  common airframe types. Only main engine emissions were included. This is a conservative approach, since  any extended delays that could cause the main engines to be shut down, resulting in the operation of APUs,  which have lower emissions. The representative aircraft for the emissions estimation were selected and are  intended to represent the breadth of the current commercial fleet and are shown in Table 8.  
+
+![](images/62f053ef151cc7bf4b986a6d7792df8a70d2962a3e482079cad78feb8f218d5b.jpg)  
+
+![](images/d1a7dd7ae07bb69b9e6a32209bc78a27ed6bf765bab82021dc4ca4f87a66e11c.jpg)  
+Source: RoVolus, 2018.  
+
+The emissions were estimated using AEDT’s default modeling assumptions and then compared to the  Screening Metric. The aggregate emissions per minute of taxi/idle/delay are shown in Table 9. The number  of minutes of taxi/idle/delay that could be accommodated within the screening criteria are shown in Table  10.  
+
+TABLE 9  CHARACTERISTIC EMISSIONS PER MINUTE OF  TAXI/IDLE/DELAY (LBS)  Federal Aviation Administration  
+
+![TABLE 10  MINUTES OF DELAY THAT RESULT IN EMISSIONS  LESS THAN THE SCREENING METRIC  Federal Aviation Administration   ](images/6ec035240f48d4ab67ad60a9a71a7170c10301111507782f5e14d2918922dec1.jpg)  
+Source: RoVolus, 2018.  
+
+![](images/b9f2e0d968f254c1a594c3be67c1bd7194cc49be8ae103d675235cda0d25da3d.jpg)  
+
+![](images/07243e82abcc5573b5325f4ba2205ee67b4637395fe7d90d5e87f1b407cf2905.jpg)  
+Source: RoVolus, 2018.  
+
+Determining an appropriate activity level based on the Screening Metric is clearly dependent on  assumptions regarding fleet mix. It is also worth noting that general aviation aircraft clearly have different  emission profiles than commercial aircraft.  
+
+The most conservative approach for identifying Screening Criteria would be to take the most restrictive  series of assumptions – effectively assuming that only wide body operations delay increases when an FAA  action results in an increase in aircraft delay. This level of caution may not be necessary since there are only  five large hub airports located in Attainment Areas. In fact, the vast majority of the 378 commercial service  airports in Attainment Areas are small and non-hub airports that rarely see wide body aircraft activity.  
+
+Alternatively, the most accurate approach would be to look at the increase in delay related emissions by  each airframe type for each Project and/or Action and calculate a blended activity level that meets the  Screening Metric. This would require airport sponsors to effectively perform a calculation to determine if  another calculation is required. This would require a considerable effort and would be inconsistent with the  purpose of the Screening Method to reduce workload.  
+
+In balancing the need for accuracy with efficiency, it is recommended that a representative mix of aircraft,  conservatively weighted to heavier airframes. This fleet mix assumption will serve as the basis of the  Screening Criteria. The representative mix for commercial aircraft projects was arbitrarily selected to be  $5\%$    wide body aircraft,  $60\%$   narrow body aircraft,  $30\%$   regional jets, and  $5\%$   general aviation aircraft.   Based on  this fleet mix, it was calculated that the Screening Metric is not exceeded by 417,000 minutes of aircraft  delay per year and the OTR Screening Metric is not exceeded by 402,000 minutes of aircraft delay per year.  Likewise, the Screening Metric is not exceeded by 674,000 minutes of aircraft delay from general aviation  aircraft and the OTR Screening Metric is not exceeded by 374,000 minutes of aircraft delay of general  aviation aircraft. It is also worth noting that there was relatively little difference between the emissions  associated with the delay of regional jets and narrow body aircraft. Narrow body aircraft were the greater  constraint, but you could have 342,000 minutes of annual aircraft delay comprised entirely of narrow body  aircraft and not exceed the Screening Metric.  
+
+In the interest of being conservative, and minimizing complexity, it is recommended that a single  operational delay level of 340,000 minutes be set as the Screening Criteria. This will ensure that all FAA  actions, unless they target wide body aircraft, will not cause an emission increase that exceeds the  Screening Metric.  
+
+# 6.3.   Vehicle Activity  
+
+The emissions from vehicles were estimated using EPA’s Mobile 6. The model’s default assumptions on  vehicle fleet mix and vehicle age were used to calculate criteria pollutant emissions from three vehicle  speeds. Tailpipe emissions per 10,000 miles driven are reported in Table 11.  
+
+![](images/6b8dfd648bce71dd81bd4a5697795d7f453c2fc32e23e82061cbc5eab3269271.jpg)  
+Source: RoVolus, 2018.  
+
+For this default fleet mix, CO is clearly the controlling pollutant. To be conservative, CO emissions at 10 mph  (i.e., the highest emission rate) were compared to the Screening Metric. At this conservative rate, more  than 27.2 million vehicle miles could be traveled without exceeding the Screening Metric. Therefore, after  rounding, it is recommended that the Screening Criteria for ground access vehicles be set at 25 million  vehicle miles traveled (VMT) per year.  
+
+# 6.4.   Construction and GSE Activity  
+
+Construction activities are temporary and variable depending on location, duration, and level of  activity and are generally confined to a construction site and access/egress roadways. These emissions  occur predominantly from the operation of heavy construction equipment (e.g., backhoes, bulldozers),  on- and off-road vehicles used for the transport and delivery of supplies and material (e.g., cement  trucks, dump trucks), and on-road vehicles used by construction workers getting to and from a  construction site (e.g., cars, pick-up trucks).  Setting Screening Criteria for construction emissions is  difficult because of the wide range of types of equipment, the duty cycle of equipment, and the range in  age of equipment. One caveat on this parameter is that GSE inventories should also be included in this  Screening Parameter.  Both construction equipment and GSE are dominated by off-road diesel vehicles.   Thus, any reference to pieces of construction equipment should also be read to include pieces of GSE. It is  important to note that additional GSE associated with increased aircraft operations is already covered by  that Screening Parameter.  
+
+In determining a conservative estimate of equipment emissions, two approaches were examined:  
+
+1.   NonRoad —EPA’s preferred model for off-road equipment, including construction equipment.   2.   Tier II Emission Factors —EPA’s emission factors for relatively old off-road equipment, and therefore  the highest emitters of pollution.  
+
+There are additional tools and models that could be used.  However, some tools, such as the Airport  Cooperative Research Project’s (ACRP) Airport Construction Emission Inventory Tool (ACEIT), are simply  techniques to apply emission factors from the above models to minimize the detail needed for calculations  required when preparing an emission inventory.  Other models such as the California OFFROAD model  produce emission inventories that have narrower applicability than the two approaches described above.  
+
+NonRoad is the EPA’s preferred model for off-road equipment. It was used to estimate emission rates per  unit, by equipment type, for the 2018 equipment inventory initially developed for use in the Philadelphia  Capacity Enhancement Program EIS. These emission rates for an array of construction equipment are  shown in Table 12.  
+
+The highest emission rate of 856 grams per hour   $\left(\mathsf{g}/\mathsf{h r}\right)$   is for   $\mathsf{N O x}$  emissions from Diesel Off-Highway Trucks.  When this emission rate is applied to the number of business hours in a year (i.e., 2,080 hours) the  annualized emissions are 1.96 tons per year (TPY).  
+
+The EPA has progressively mandated cleaner and cleaner emissions standards for on- and off-road vehicles.  In the case of construction equipment (generally off-road diesel vehicles), the Tier II Emission Factors have  been required for off-road equipment starting in 2003. Therefore, any equipment manufactured since 2003  (i.e., within the last 15 years) has emission rates equal to, or better than, the Tier II standards. The  standards specify a blended  $\mathsf{N O x}$    and Nonmethane Hydrocarbon (NMHC) emission factor, so for this  calculation,  $\mathsf{N O x}$    emissions were assumed to be 5.32 grams per brake horsepower hour   $(\mathsf{g}/\mathsf{B H P\,h r})$  .  This is  greater than the CO emission factor, so  $\mathsf{N O x}$    is the limiting pollutant.  This emission factor was applied to a  relatively large piece of construction equipment (i.e., one with a 300 hp engine). This resulted in 1.82 TPY of   ${\mathsf{N O}}_{\mathsf{X}},$   assuming a  $50\%$   load factor and 2,080 hours of use per year.  
+
+The two approaches to establishing a Screening Criteria clearly show that while there is a tremendous  range in equipment size and emissions, the highest emitting piece of construction equipment would likely  emit less than 2 TPY of  $\mathsf{N O x}$  . Therefore, it is recommended that the Screening Criteria for construction  equipment be set at 125 pieces of equipment per year (250 TPY divided by 2 TPY per piece of equipment)  outside the OTR and 50 pieces inside the OTR. As with other Screening Criteria, concerns regarding the  suitability of the assumptions regarding equipment age, duty cycle, types of equipment need to be  considered the closer the estimate is to the Screening Criteria.  
+
+![TABLE 12  EMISSIONS FROM SELECT PIECES OF CONSTRUCTION EQUIPMENT (G/HR)  Federal Aviation Administration   ](images/b78a4e68774322713893e1360d68af5b16f7449649e9c88cc2e8b890b103aa79.jpg)  
+Source: Appendix G, Tables G-5, G-6, G-7, G-8, G-9, and G-10, Final Environmental Impact Statement, Philadelphia Capacity Enhancement  Program, 2010.  
+
+# 7.   SUGGESTED QUESTIONS FOR FOUR SELECTED SCREENING PARAMETERS  
+
+There are two key time periods to evaluate the Screening Criteria—the construction period and the  operational period.  
+
+The screening questions evaluate the four Screening Parameters that could cause (or contribute to)  changes in airport emissions. The variables are defined as: (A) increase in aircraft operations, (B) new  aircraft taxi/delay/idle, (C) GAV trips, and (D) construction equipment and GSE. Each variable has a  corresponding letter (A, B, C, and D) for representation in emissions computations.  
+
+•   Variable A (Aircraft Operations) .  Increase in   number of aircraft LTOs (including supporting changes  in GSE and APUs) as a result of the project.   •   Variable B (Aircraft Taxi Time) . Increase in delay or changes to the taxi-in and -out times and/or taxi  distances by on-ground aircraft as a result of the project.  •   Variable C (GAVs) .   Changes in the VMT from GAV trips on airport property driven by on-road vehicles  that occur as a result of a project.  •   Variable D (Construction Equipment   and GSE) . Number of pieces of construction equipment that are  active and working on the project, or number of pieces of GSE that are not associated with a change  in aircraft operations.  
+
+The following questions comprise the necessary information to make an evaluation of the Screening  Criteria:  
+
+A.   Will the FAA decision result in an increase of more than 14,000 commercial aircraft operations per  year, or if the project is in an OTR, more than 5,000 general aviation aircraft operations per year?  B.   Will the FAA decision result in an increase of more than 340,000 minutes of aircraft delay per year?  C.   Will the FAA decision result in an additional 25 million VMT per year?  D.   Will the FAA decision result in the use of more than 125 construction vehicles or GSE during a year,  or if the project is in the OTR, 50 construction vehicles or GSE during a year?  
+
+7.2.   Emissions from More Than Screening Parameter in a Given Year  
+
+In the case that there are emissions associated with more than one of the four Screening Parameters in a  given year, it is necessary to aggregate those emissions for comparison to the Screening Criteria. It is  important to note that this analysis should be aggregated by calendar year. For example, it is uncommon  for emissions from construction equipment and emissions from increased aircraft operations to occur in the  same year.  
+
+When aggregating emissions, each of the four Screening Parameters should be normalized, i.e., divide the  anticipated activity level by the Screening Criteria for that Screening Parameter. As an example, for  construction equipment, if there were 25 units expected to be on site outside the OTR, this would be  divided by the 125-unit Screening Criteria resulting in a normalized value of 0.2.  
+
+Each of the normalized values would be added together and if the sum exceeds 1.0, an emission inventory  would be required (the same as if one of the screening questions had been exceeded). The formula for this  aggregation is shown below:  
+
+In a given year, i  $f A^{\prime}+B^{\prime}+C^{\prime}+D^{\prime}\geq\mathit{1.0},$  , prepare emissions inventory.  
+
+Where:  A’   $=$   Increase in Aircraft LTO’s / 14,000\*    $\mathtt{B^{\prime}}$     $=$   Increase in Aircraft Taxi/Idle/Delay (minutes) / 340,000  C’    $=$   GAV Trips (VMT) / 25,000,000  D’   $=$   Number of pieces of GSE and Construction Equipment /  $_{125^{\ast\ast}}$    \*- 5,000 if the project primarily involves GA aircraft AND is in the OTR  \*\* - 50 if in the OTR  
+
+7.2.1.   Example Emissions Aggregation  
+
+Based on the proposed  Attainment Area Screening Methodology  and the input variables described, it is  instructive to apply the method to some example applications.  
+
+For the purposes of demonstration, two scenarios are examined:  
+
+Scenario I - Airport “QRS”  – Construction of a new terminal at an airport outside the OTR that enhances  customer service experience but doesn’t cause a change in aircraft activity. This is expected to cause (A) no  additional aircraft operations, (B) 10,000 minutes of additional aircraft taxi time after the construction of  the new terminal is complete (i.e., 1 minute of taxi delay for each of the 10,000 LTOs that are expected to  use the new terminal), (C) 300,000 additional VMT after the construction of the new terminal is complete,  and (D) 50 pieces of construction equipment. Tables 13 and 14 show the aggregation results for  construction years and operational years, respectively.  
+
+![TABLE 13  AIRPORT “QRS” AGGREGATION RESULTS—CONSTRUCTION YEARS  Federal Aviation Administration   ](images/241db6635eebb81a22793c43490509895211b822e414f0e7e37af1616a0b7e78.jpg)  
+Source: RoVolus, 2018.  
+
+![TABLE 14  AIRPORT “QRS” AGGREGATION RESULTS—OPERATIONAL YEARS Federal Aviation Administration   ](images/9dc6fb10037fdedb0b5b8f49239122c4e9e1c797274a13f7989b9a4555a3d303.jpg)  
+Source: RoVolus, 2018.  
+
+In this example, the aggregation results are below 1.0 and therefore the project does not exceed the  Screening Criteria.  No further action would be required.  
+
+Scenario II - Airport “TUV”  – Construction of a cargo hangar at an airport in the OTR that attracts a new  carrier. This project is expected to cause a change of (A) additional 4,000 narrow body LTOs, (B) no increase  in taxi/idle/delay, (C) 10 million additional VMTs, and (D) the use of 75 pieces of construction equipment.  
+
+![TABLE 15  AIRPORT “QRS” AGGREGATION RESULTS—CONSTRUCTION YEARS  Federal Aviation Administration   ](images/e874f94606de0416d6e636f25f426fcbe2672ec8aaafd80ef248dc49b828c359.jpg)  
+Source: RoVolus, 2018.  
+
+![TABLE 16  AIRPORT “QRS” AGGREGATION RESULTS—OPERATIONAL YEARS Federal Aviation Administration   ](images/a8efab543150a17d9a8c04c3edf64eee2e4019c7311bc5042d849b2f86fb22f4.jpg)  
+Source: RoVolus, 2018.  
+
+In this example, the aggregation for construction equipment is greater than 1.0, even though the  operational aggregation is below 1.0. Therefore, the project exceeds the Screening Criteria for the  construction period and an emission inventory would be required.  
+
+# 8.   WHAT TO DO IF FAA DECISION EXCEEDS SCREENING CRITERIA  
+
+FAA’s key obligation for any NEPA review is to disclose potential environmental impacts and determine if  they exceed a threshold of significance. The screening of air quality impacts in Attainment Areas is simply  intended to identify projects that have minimal chance of adversely impacting ambient air quality, thus  avoiding unnecessary analysis. The exceedance of the Screening Criteria is not comparable to exceeding a  threshold of significance. In fact, no Air Quality threshold of significance has been established for  Attainment Areas.  Instead exceeding the Screening Criteria merely indicates that an emission inventory  should be performed to determine the magnitude of the air quality impacts.  However, the screening  methodology will consider analysis of pollutants that are in attainment or unclassified only.  
+
+In evaluating the approach to quantitative analysis there are a couple of key questions: (1) which pollutants  need to be quantified, and (2) should both operational and construction emissions increases be quantified  if only one exceeds the Screening Criteria?  Absent an extraordinary circumstance, dispersion modeling is  never expected to be appropriate when preparing a CATEX or EA in an Attainment Area.  
+
+# 8.1.   Pollutant Quantification  
+
+The Screening Criteria has been established based on CO, VOC, or  $\mathsf{N O x}$   serving as a controlling pollutant. In  no cases were Pb, PM, or  $\mathsf{S O x}$   emissions expected to be greater than the emissions for the controlling  pollutant. Regardless of this consideration, common emission models generally prepare emission  inventories for all pollutants, except for  $\mathsf{P b}$   (these emissions are generally limited to piston aircraft). Thus, it  makes sense to disclose all the pollutants that are easily calculated by the models.  It is expected that AEDT  would be the model that is used for aircraft operations and aircraft delay. However, EPA’s MOVES model  would need to be used if quantifying emissions from ground access vehicles, construction equipment, or  GSE.  
+
+A separate question on pollutant quantification is if and when FAA should require the quantification of  emissions of GHGs, including carbon dioxide   $\left(\mathsf{C}\mathsf{O}_{2}\right)$   and Hazardous Air Pollutants (HAPs). These are not  criteria pollutants and thus are not subject to the 250 TPY major source threshold that is proposed as the  Screening Metric. However for GHG reporting, as per Section 3.3.1 of 1050.1 Desk Reference (Version 3,  October 2023), it is required to quantify and report carbon dioxide equivalent   $\left(\mathsf{C O}_{2}\mathsf{e}\right)$   in the NEPA  document; or when fuel burn is computed and reported in the NEPA document, quantification of  $\mathsf{C O}_{2}\mathsf{e}$    calculated from the fuel burned should also be included in the NEPA document.  
+
+# 8.2.   Temporal Disaggregation  
+
+In the event that one of the Screening Criteria is exceeded, or the aggregate sum of the Screening Criteria is  exceeded, the FAA needs to clearly define what is expected in the emission inventory.  A key parameter in  defining an emission inventory is what years should be quantified. This directly impacts the necessary  resources since many projects will only have a meaningful impact on construction emissions or one  operational year can be representative of all operational years.  Thus, looking at all years would provide  minimal benefit.  On the other hand, limiting emission quantification to the years where the Screening  Criteria is exceeded would diminish disclosure of impacts and does not substantially reduce resource  requirements.  The incremental effort of preparing the quantification of an additional year is considerably  less than the effort of preparing the initial analysis year.  
+
+12 EPA crafted an approach on a similar issue when addressing secondary pollutants in the PSD regulations .  EPA’s SER criteria serves as useful guidance for FAA in selecting the requirements for pollutant  quantification when a Screening Criteria is exceeded. Essentially EPA set a lower emission rate for  application of BACT when a different pollutant had exceeded the major source threshold. In the case of   ${\mathsf{N O}}_{\mathsf{X}},$   EPA set the SER at 40 TPY, compared to the major source threshold of 250 TPY. EPA set different SERs  for each criteria pollutant (e.g. SER for CO is 100 TPY).  
+
+Applying EPA’s approach for the SER in the PSD program, FAA could adopt a lower threshold for emission  quantification only when the Screening Criteria is exceeded.  In EPA’s regulations, the ratio of the major  source threshold for criteria pollutants to the respective SER was the largest for  $\mathsf{N O x}$   (250/40 or 6.25).  In  other words, if the Screening Criteria is exceeded, FAA could require emission quantification for years  where emissions exceed a lower threshold.  
+
+In examining a lower Screening Criteria, the ratio between major source and SER for  $\mathsf{N O x}$   was the greatest.   Further,  $\mathsf{N O x}$   is also a key limiting pollutant in the Screening Criteria. Thus, it is recommended that the ratio  for  $\mathsf{N O x}$   of the major source definition to the SER serve as the guide to determine the need to quantify  emissions that are temporally separated from the emissions that exceeded the Screening Criteria. In other  words, if the Screening Criteria is exceeded for construction emissions, the operational emissions outside of  the construction period should be quantified if they are greater than  $1/6^{\mathrm{{th}}}$   of the screening threshold  Attainment Area Screening Process.  
+
+This section of the report discusses the application and justification for revisions and updates to the current  Handbook . The updates include an Air Quality Analysis Flowchart and an Attainment Area Screening  Methodology. Combined, these updates provide clarity for determining when, and what types of, air quality  analyses are necessary. These updates and revisions are summarized below:  
+
+•   Air Quality Analysis Flowchart.  This decision-making flowchart enables  Handbook  users to  determine the need for, and the type of, an air quality analysis for an airport action/project. Types of  analyses are based on: (1) whether the project will involve operational and/or construction  emissions, (2) a qualitative assessment, (3) if the airport is in an Attainment or  Nonattainment/Maintenance Area, and (4) whether a project is “Exempt” or “PTC”.  
+
+•   Attainment Area Screening Methodology.  This methodology describes the flowchart in order to  assist staff when they are determining if a detailed air quality assessment (i.e., an emissions inventory  or dispersion modeling) is needed in an Attainment Area with a two-tiered approach. The first tier  uses existing procedures to quickly identify project types that require no quantitative analyses. The  second tier uses readily available project information to conservatively evaluate whether project- related emissions approach a screening threshold. This methodology was designed to relieve airports  from unnecessary detailed evaluations when possible. The tiers are summarized below:  
+
+−   Tier-1: Project types that require no analysis  – The EPA and FAA have prepared lists for  Nonattainment and Maintenance areas for project types that are categorized as Presumed to  Conform and Exempt. If a project in an Attainment Area satisfies the criteria for one of these  lists, no further air quality analysis is required for the project.  
+
+−   Tier-2: Project-related Emissions Screening  – This method uses four Screening Criteria and the  possible aggregation of the Screening Criteria to determine if a detailed air quality assessment  is required.  
+
+−   Tier-3: Emission Quantification  – AEDT and MOVES are used to quantify pollutant emissions  directly resulting from a potential FAA action or decision.  
+
+8.3.   Air Quality Analysis Flowchart  
+
+Figure 1 depicts a flowchart that could serve as an aid for evaluating air quality impacts associated with FAA  Projects and/or Actions. The chart is a modification of the chart in Figure 4-1 of the  Airport Air Quality  Handbook, Version 3 Update 1, January 2015 . The proposed revision attempts to minimize changes by  limiting modifications to the Flowchart to the review of attainment areas and pollutants.  
+
+![](images/3e6560424da2155b045d0dda96124631900d284879fdfea069de38c8d9ba10be.jpg)  
+Figure 1: Air quality assessment process for a Federal Action  
+
+As shown in Figure 1, the review of attainment pollutants and areas can consist of up to five steps,  reflecting the Attainment Area Screening Methodology. These steps are described individually, below.  
+
+Step 1: Determine if the Federal Action falls within an exemption to General Conformity  
+
+The General Conformity regulations contain a list of exempt actions, including a list of 22 exempt actions  that would result in no emissions increase or an increase in emissions that is clearly  de minimis.   If the  Federal Action is exempt, the General Conformity requirements do not apply.  
+
+If the project qualifies as exempt under 40 CFR 93.153, the NEPA analysis should document this finding in  the air quality analysis.  If there is a potential decrease in emissions this should likewise be documented in  the NEPA analysis. It is advisable in these cases to make note that the CAA conformity requirement was  reviewed, and the requirement is not applicable.  
+
+The list of exempt and clearly  de minimis  actions is specific to analysis under the General Conformity  regulations (i.e. for nonattainment and maintenance pollutants).  Given that anything included on the list  was unlikely to cause a significant impact in a nonattainment area, it is safe to conclude these project types  would not cause a significant impact in an attainment area. Therefore, the analysis of emissions for  attainment pollutants (i.e. air quality analysis under NEPA) can be satisfied if a major federal action qualifies  as exempt under 40 CFR 93.153 .  For attainment pollutants, this would be documented as described in the  preceding paragraph.  
+
+In the rare case where there are scientific analyses that would provide additional information to help  determine if there are significant impacts, nothing in this document precludes FAA from seeking a more  comprehensive analysis.  If the project is not exempt under 40 CFR 93.153, the analysis should continue to  Step 2.  
+
+Step 2: Does the Federal Action qualify as Presumed to Conform?  
+
+The General Conformity regulations have detailed specifications about the applicability of the regulations to  Federal Actions. It is important to be aware of the FAA’s development of a Presumed to Conform list that  may also exclude Federal Actions from review under the General Conformity regulations.  This step is  deliberately set to occur before the consideration of the attainment status of the region.  
+
+In July 2007, the FAA developed a list of actions that are Presumed to Conform (PTC) pursuant to the  General Conformity regulations (72  Federal Register  41565).  The General Conformity requirements only  apply to Federal Actions proposed to occur within nonattainment or maintenance areas, to ensure that a  Federal Action does not cause or contribute to a violation of the NAAQS, or delay timely attainment of the  NAAQS.  The FAA published the PTC list in 2007 in the Federal Register for the purpose of screening  projects in nonattainment areas.   In that notice, FAA also identified activities that may qualify for an  existing exemption from General Conformity.  Given that anything included on the PTC list was unlikely to  cause a significant impact in a nonattainment area, it is safe to conclude these project types would not  cause a significant impact in an attainment area. Therefore, the analysis of emissions for attainment  pollutants (i.e. air quality analysis under NEPA) can be satisfied by determining that a major federal action  qualifies for the PTC list.  
+
+It is noted that there are two types of PTC actions: 1)   some actions would be very unlikely to ever exceed  the  de minimis  threshold and thus do not include any numeric threshold as a condition of their designation  of PTC; and 2) PTC actions that have the potential to exceed the  de minimis  threshold and thus the PTC list  cites a specific numeric threshold as a condition of their designation of PTC.  
+
+Step 3: Determine if the Federal Action is in an EPA-designated nonattainment area or  maintenance area  
+
+This step of the assessment process is to establish the attainment/nonattainment status of the study area  and, if applicable, to identify those pollutants for which the area is designated nonattainment or  maintenance.  
+
+17 The EPA Greenbook  contains a current listing of nonattainment and maintenance areas for each criteria  pollutant. This assessment should be made for each criteria pollutant. In other words, there are effectively  six air quality reviews (one for each criteria pollutant) associated with each Federal Action.  For any  pollutant for which the area is classified as being in nonattainment or maintenance, further analysis of that  pollutant should follow the guidelines contained in Section 8 of the Air Quality Handbook ,  unless the  Federal Action has been deemed exempt or presumed to conform.  
+
+For the emission of all pollutants where the area is classified as attainment or unclassified, the attainment  Screening Criteria can be applied. In the case that a pollutant is classified as attainment, but another  concurrently emitted pollutant has triggered an escalation of the analysis for the Federal Action to the  General Conformity rules, the Federal Action may quantify attainment pollutants according to the  methodology specified in the General Conformity rule, if that is more convenient.  However, the General  Conformity rule should not be used to determine significance of emissions of those attainment pollutants,  regardless of whether they are emitted concurrently with nonattainment/maintenance pollutants.  
+
+Attainment pollutants are not subject to the General Conformity rule and are only subject to NEPA (where  the threshold of significance is a violation of the NAAQS).  
+
+During this step it is also necessary to determine if the Federal Action will occur in a state that is designated  as an Ozone Transport Region (OTR). This is because attainment areas that are located in an OTR have more  restrictive air quality requirements under the Clean Air Act.  As such, the screening methodology is more  cautious for these areas.  
+
+# Step 4: Evaluate if Attainment Screening Criteria is exceeded  
+
+Under this step, Project and/or Action is evaluated relative to the Screening Criteria.  The four screening  questions presented in Section 7.1 should be assessed for every year affected by the Project and/or Action.   If a representative year, or year of maximum impact can be identified, the assessed years can be limited to  that representative year.  If there is more than one screening question that has a response in a given year,  the screening questions should be aggregated for that year.  If there is no affirmative response to the  screening questions, or the aggregation is less than 1.0, this determination should be documented and no  further analysis is required.  Otherwise, an emission inventory should be prepared.  
+
+# Step 5: If Federal Action exceeds Screening Criteria or was subject to General Conformity  
+
+The FAA’s key obligation for any NEPA review is to assess potential environmental impacts and determine if  they exceed a threshold of significance. The screening of air quality impacts for attainment pollutants is  intended to identify projects that have minimal chance of adversely impacting ambient air quality and the  potential for a significant impact; therefore allowing practitioners to quickly identify those Federal Actions  that are unlikely to have significant air quality impacts and avoid unnecessary analysis. Please note that  exceedance of the Screening Criteria is not by itself an indication the Federal Action will exceed the FAA’s  threshold of significance for air quality (see FAA Order 1050.1F). Rather, exceeding the Screening Criteria  merely indicates that an emission inventory should be performed to determine the magnitude of the air  quality impacts.  It is also important to note that if the Federal Action’s emissions of nonattainment  pollutants have satisfied the General Conformity requirements it inherently means that a Federal Action  will not increase the frequency or severity of any NAAQS violations and the Federal Action will not delay  attainment of the NAAQS.  Thus, establishing that there will be no significant impacts to air quality from  those pollutants.  
+
+When it is determined from the Screening Criteria that an emissions inventory is needed, two questions  must be considered: (1) which pollutants need to be quantified, and (2) should both operational and  construction emissions increases be quantified if only one exceeds the Screening Criteria?  Analysis of  nonattainment and maintenance pollutants for a Federal Action is performed pursuant to the General  Conformity requirements. However, the General Conformity requirements only apply to the Proposed  Action and No Action alternatives. Whereas NEPA requires disclosure of air quality impacts from all  alternatives. As such, an emissions inventory needs to be prepared for any alternative in nonattainment  and/or maintenance areas that has not been considered in the General Conformity analysis.  
+
+When there is an increase that exceeds the  de minimis  threshold in emissions of a non-reactive criteria  19 pollutant, the General Conformity requirements often will call for dispersion modeling of those emissions   and that level of analysis would typically be appropriate for other NEPA alternatives being considered.  Dispersion modeling is not expected to be appropriate for any other circumstances.  
+
+# 8.4.   Attainment Area Screening Methodology  
+
+The Screening Methodology is reflected in the Flow Chart and provides an opportunity for FAA staff to  reduce workload for cases where there is unlikely to be an adverse air quality impact.  The methodology  builds on existing FAA procedures for Nonattainment and Maintenance Areas.  The key new aspect is the  development of the Screening Criteria.  This requires collecting the data necessary to answer the four  screening questions, for each year affected by an FAA Project and/or Action (typically only a representative  year during the construction period and a representative year during the operational period).  

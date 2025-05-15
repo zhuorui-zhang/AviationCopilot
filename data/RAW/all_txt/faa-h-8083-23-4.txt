@@ -1,0 +1,746 @@
+![](images/e8a2e7f3ab0733ac8d4fa25e0c8c6c12ebd522bcbd8b8ea485033bf9e671e738.jpg)  
+
+# SKIPLANE OPERATIONS  
+
+This chapter introduces pilots to the procedures required in the operation of skiplanes. Since most skiplane operations and training are conducted in single-engine airplanes with a conventional gear (tailwheel) configuration, this information is based on operating skiplanes of this type. [Figure 7-1]  
+
+![](images/e490b79e073bdae341b70d7692ef982ef641038082b94f16a4e451c992c55574.jpg)  
+Figure 7-1. Skiplane.  
+
+A skiplane configuration affects the overall operation and performance of an airplane in several different ways, including ground handling, takeoff, landing, and flight operations. Some manufacturers provide recom- mended procedures and performance data in the Airplane Flight Manual (AFM) and/or Pilot’s Operating Handbook (POH).  
+
+Title 14 of the Code of Federal Regulations (14 CFR) part 61 does not require specific pilot training and authorization to operate skiplanes; however, it is important to train with a qualified skiplane flight instructor.  
+
+Since most skiplanes operate in a wide variety of con- ditions, such as landing on frozen or snow-covered lakes and sloping glaciers, with varying qualities of snow, it is important to know how performance is affected. Use the performance data provided by the manufacturer.  
+
+# C ONSTRUCTION AND MAINTENANCE  
+
+Modern airplane ski designs are a compromise for the various forms and conditions of snow and ice. For example, a long, wide ski is best for new fallen, pow- dery, light snow, whereas a sharp, thin blade is best for hard-packed snow or smooth ice. Many ski designs feature a wide, flat ski with aluminum or steel runners on the bottom. Airplane skis may be made from composites, wood, or aluminum, and some have a polyethylene plastic sheathing bonded or riveted to the bottom surfaces. Ski designs fall into two main categories: plain and combination. Plain skis can only be used on snow and ice, while combination skis also allow the wheels to be used to land on runways.  
+
+# PLAIN SKI TYPES  
+
+• Wheel Replacement— Wheels are removed and ski boards are substituted. [Figure 7-2]
+
+ • Clamp-On— Skis that attach to the tires and benefit from the additional shock absorbing qualities of the tires. 
+
+ • Roll-On or Full Board— Similar to the clamp-on type except the tires are bypassed and do not carry side or torque loads. Only the tire cushioning effect is retained with this installation.  
+
+![](images/6c4be4392ffacb885e6c9fb1e15d82e5c00a8980a4ec4f4a494c2a0aa2485c6c.jpg)  
+Figure 7-2. Wheel replacement ski.  
+
+# COMBINATION SKI TYPES  
+
+• Retractable Ski— Can be extended into place for snow operations or retracted for non-snow opera- tions. This is accomplished by either a hydraulic pump or crank.  
+
+• Penetration Ski— The wheel extends down par- tially below the ski, allowing the skiplane to operate from both snow and non-snow surfaces. This type of ski gives poor ground clearance on non-snow surfaces and causes extra drag when on snow. [Figure 7-3]  
+
+![](images/8231381dfd1615bd99c6cba1299aaf67e280c7854f655aa9047c6917c808b45b.jpg)  
+Figure 7-3. Penetration ski.  
+
+The plastic polyethylene sheathing on the bottoms of the skis may be punctured by sharp objects, including ice. It also may shatter from impacts in extremely cold temperatures. Replacing the bonded type sheathing is very difficult in the field. If the sheathing is riveted, machine screws may be used to secure loose sheathing, but the screw holes must provide for expansion and contraction. Follow the manufacturer’s recommen- dations for patching limited sheathing damage. If damage is extensive, the entire ski bottom may need new covering.  
+
+Shock cord bungees used in ski rigging deteriorate rapidly when left under tension. When parking the skiplane overnight, detach the bungees at the lower fitting and allow them to hang free. Reattaching the bungees normally requires two or more people.  
+
+Hydraulic ski retracting mechanisms usually function well in cold environments, but the small, abrupt change of ski attitude occurring at touchdown imposes a severe load on the external hydraulic lines leading to the skis. These lines are a more prevalent source of trouble than the internal parts.  
+
+Use low temperature oils and greases to lubricate fric- tion points. For lubrication requirements, see the AFM/POH or the ski manufacturer’s manual.  
+
+The condition of the limiting cables and their fasten- ings is important to safety in flight. Be sure there is no fraying, kinking, rusting, or other defective condition before each flight.  
+
+# OPERATIONAL CONSIDERATIONS  
+
+In the air, skiplane flight characteristics are similar to those of airplanes with standard landing gear, except for a slight reduction in cruising speed and range. Leaving the skis in the extended position in flight pro- duces no adverse effect on trim, but may cause a slight loss of speed. Consult the operator’s manual for skiplane performance data, and weight and center of gravity considerations.  
+
+The AFM/POH skiplane supplement may provide lim- itations including limiting airspeeds for operation with skis in flight and for other wheel/ski configurations. These speeds may be different from the wheel-type landing gear configuration, depending on the type of ski and the tension of the springs or bungees holding the fronts of the skis up.  
+
+Understand both the limitations and advantages of the ski equipment. Compared to the standard wheel equipped airplane that incorporates individual brakes for steering, skis are clumsy and the airplane is less maneuverable while on the ground. Like a floatplane, a skiplane has a tendency to weathervane with the wind and needs considerable space to maneuver. Maneuvering on the ground and parking require spe- cial techniques which are acquired only through practice.  
+
+# TYPES OF SNOW  
+
+• Powder Snow— Dry snow in which the water content and ambient temperature are low.
+
+ • Wet Snow— Contains high moisture and is associated with warmer temperatures near the freezing point.
+
+ • Granular Snow— Wet snow that has had a temperature drop causing the snow to ball up and/or crust.  
+
+# TYPES OF ICE  
+
+• Glaze Ice— Snow that has been packed down and frozen to a solid ice pack, or frozen snow.
+
+ • Glare Ice— A smooth sheet of ice that is exceed- ingly slippery with no deformities, cracks, or other irregularities in the surface. This ice lacks any kind of traction, with a coefficient of friction near zero.
+
+ • Clear Ice— Ice that forms smoothly over a sur- face and has a transparent appearance.  
+
+# SURFACE ENVIRONMENTS  
+
+• Glaciers— Sloping snow or ice packs.
+
+ • Frozen Lakes— Frozen bodies of water with or without snow cover.
+
+ • Tundra— A large area of grass clumps support- ing snow cover.  
+
+# PREFLIGHT  
+
+Before departing on any trip, it is important to do proper preflight planning. A good preflight should include a review of the proposed route as well as possible alternate routes; terrain; local, en route, and destination weather; fuel requirements; facilities available at the destination; weight and balance; and takeoff and landing distance requirements.  
+
+Obtain a complete weather briefing for each leg, and file a flight plan with appropriate remarks. For local flights, always inform someone at home of the area of operation and the expected time of return if a flight plan is not filed.  
+
+Include good Aeronautical Decision Making (ADM) procedures, such as running a personal minimums checklist, and think PAVE (Pilot, Aircraft, Environment, and External Pressures) during the preflight phase.  
+
+Cold weather is implicit in flying a skiplane, so preflight planning must also include preparations for possible contingencies unique to cold weather operations. This is especially important for flights in bush country, where facilities are scarce and emergency assistance may be limited or nonexistent.  
+
+Evaluate all passengers’ clothing for suitability in the conditions expected. Consider the passenger when making this evaluation. Children and older people need more protection from the environment than a middle- aged person in good health. Every occupant should be dressed for a long walk, including adequate boots or rubber-bottomed shoes and an arctic parka. Sunglasses are highly recommended, even on cloudy days. Pilots can be blinded by the brightness of the snow, and glare can destroy depth perception.  
+
+Survival equipment is required by some states and countries, and many areas require specific items for even the shortest local flights. The requirements usu- ally vary between winter and summer months. Be sure to check the current requirements for the particular jurisdiction. Beyond the minimum requirements, use good judgment to select and carry any other equipment that could help occupants survive an unplanned stay in the specific terrain and environmental conditions along the route of flight. Always consider means of provid- ing warmth, shelter, water, and food; methods of attracting attention and signaling for help in both daylight and darkness; and treatment of injuries. Obtain appropriate survival training and know how to make effective use of the equipment. Whether the cause is a forced landing or an engine that fails to restart after landing at a remote location, the survival gear and clothing should keep the pilot and passen- gers alive until help arrives.  
+
+When planning for an overnight stay away from an air- port, or if the skiplane is routinely parked outside, other items may be added to the equipment carried on the skiplane. These might include portable tiedowns, a flashlight, a shovel, and a broom. Wing and fuselage covers can prevent the buildup of frost and snow, sim- plifying the preflight. In temperatures below  $0^{\circ}\:\mathrm{F}.$  , an engine cover and a catalytic heater may be necessary to preheat the engine compartment. If the pilot carries appropriate hand tools and a bucket, the crankcase oil can be drained from the engine and kept indoors. It may also be helpful to remove the battery and keep it in a warmer location. Many pilots carry burlap sacks, plastic garbage bags, or wooden slats to place under the skis to prevent them from freezing to the surface. Some carry a can of non-stick cooking spray to use on the bottom of the ski to avoid sticking or freezing to the surface. Depending on the needs of the skiplane, it may be nec- essary to carry extra engine oil, hydraulic fluid, or deicer fluid. Markers such as red rags, colored flags, or glow sticks may come in handy, as well as 50 feet of nylon rope, and an ice pick or ice drill. Select equip- ment according to the situation, and know how to use it.  
+
+If a skiplane has been sitting outside overnight, the most important preflight issues are to ensure that the airframe is free of snow, ice, and frost and that the skis are not frozen to the ground. Often, while sitting on the ground, precipitation may fall and cover the skiplane. Temperatures on the ground may be slightly colder than in the air from which the precipitation falls. When liquid precipitation contacts the colder air- craft structure, it can freeze into a coating of clear ice, which must be removed completely before flight. Wing and tail surfaces must be completely frost free. Any frost, ice, or snow destroys lift and also can cause aileron or elevator flutter. Aerodynamic flutter is extremely dangerous and can cause loss of control or structural failure.  
+
+The preflight inspection consists of the standard aircraft inspection and includes additional items associated with the skis. The AFM or POH contains the appropriate supplements and additional inspection criteria. Typical inspection criteria include:  
+
+• Skis— Examine the skis for damage, delamina- tion, sheathing security, and overall condition.  
+
+• Hardware— Inspect the condition and security of the clamping bolts, cotter keys, diaper pins, limiting cables, and bungees. Be sure cables and bungees are adjusted properly.  
+
+• Retracting Mechanism— (if equipped)—Check the hydraulic fluid level and examine the hydraulic lines for leaks. Inspect all cables for fraying and check cable ends for security. Do not cycle the retracting mechanism while on the ground.  
+
+• Ski Freedom— Be sure the skis are free to move and are not frozen to the surface. If the ambient temperature approaches the melting point, the skis can be freed easily. Gentle swinging of the tail at the rear fuselage, or rocking the airplane at the struts may free the skis. If this does not work, dig the skis out.  
+
+• Tire Pressure— Check the tire pressure when using skis that depend on the tires for shock absorption, as well as for combination skis. This is especially important if moving a skiplane from a warm hangar to cold temperatures outdoors, as tires typically lose one pound of pressure for every ten-degree drop in ambient temperature.  
+
+• Tailwheel— Check the tailwheel spring and tail ski for security, cracks, and signs of failure. Without a tail ski, the entire tailwheel and rudder assembly can be easily damaged.  
+
+• Fuel Sump— During fuel sump checks, some- times moisture can freeze a drain valve open, allowing fuel to continue to drain. Ice inside the fuel tank could break loose in flight and block fuel lines causing fuel starvation. If the manufac- turer recommends the use of anti-icing additives for the fuel system during cold weather opera- tions, follow the ratio and mixing instructions exactly.  
+
+• Survival Equipment— Check that all required survival equipment is on board and in good con- dition.  
+
+# S TARTING  
+
+Adequately preheat the engine, battery, and the cockpit instruments before startup and departure. Sometimes engine oil may require heating separately. Check the manufacturer’s recommendation for starting the engine when ambient temperatures are below freezing.  
+
+Batteries require special consideration. In cold climates a strong, fully charged battery is needed. With just a lit- tle cold-soaking, the engine may require three times the usual amperage to crank the engine.  
+
+Another consideration is the electrolyte freezing point. A fully charged battery can withstand temperatures of -60 to  ${-90^{\circ}\mathrm{~F~}}$   since the electrolyte’s specific gravity is at a 7-4  
+
+proper level. Conversely, the electrolyte in a weak or discharged battery may freeze at temperatures near   $32^{\circ}$  F. If a fully charged battery is depleted by an unsuccess- ful start, it may freeze as it cools to ambient temperature. Later, when the engine is started and the battery is  receiving a charge, it could explode.  
+
+After start, a proper warmup should be completed prior to a runup and high power settings. Perform the warmup according to the engine manufac- turer’s recommendations. Some manufacturers recommend a minimum of   $1{,}000\ \mathrm{r.p.m}$  . to ensure adequate lubrication.  
+
+If the skiplane is parked on heavily crusted snow or glaze ice with the skis frozen to the surface, it may be possible to start the engine and perform the runup in the parking area. Be sure the area behind the skiplane is clear, so as not to cause damage with the propeller wash. If a ski should become unstuck during the runup, reduce power immediately. Then use one of the following procedures to secure the airplane.  
+
+Tie down or chock the skiplane prior to engine start, warmup, and runup. Keep all ropes, bags, etc., clear of the propeller. After warmup is complete, and if no assistance is available, shut down the engine to untie and unchock the skiplane, then restart as quickly as possible. If a post, tree, boulder, or other suitable object is available, tie a rope to an accessible structural component in the cockpit, take the end around the anchor object, bring it back to the cockpit, and tie it off with a quick-release knot. When the warmup and runup are complete, release the knot and pull the rope into the cockpit as the skiplane begins to taxi.  
+
+If tiedowns or chocks are not available, build small mounds of snow in front of each ski. The mounds must be large enough to prevent the skiplane from taxiing over them during engine start and warmup, but small enough to allow taxiing when power is applied after the warmup is complete. If tiedowns or means to block the skis are not available, the runup can be accom- plished while taxiing when clear of obstacles or other hazards. [Figure 7-4]  
+
+![](images/f7b29a3310cc10a56360dd853f5781f0d7856b827b5bc8a06ade5a8aa317de33.jpg)  
+Figure 7-4. Engine warmup.  
+
+# T AXIING  
+
+Taxiing a skiplane on snow and ice presents some unusual challenges. With little or no brakes for stop- ping or turning, and the ability to skid sideways, a skiplane normally requires more maneuvering room and space to turn than an airplane with wheels.  
+
+The tailwheel ski provides marginal directional control on ice and hard packed snow. In such conditions, direc- tional control comes from airflow over the rudder. Adding power and forward elevator control pressure can often help turn the skiplane. The goal is to lighten the tail to help the turn without putting the skiplane on its nose.  
+
+Taxiing in strong crosswinds can be difficult. Skiplanes tend to weathervane into the wind. Drifting sideways in the direction of the wind is also commonplace. Taxi in a skid or let the skiplane weathervane partly into the wind during crosswind operations to compensate. [Figure 7-5] A short blast of power may be required to turn the skiplane from upwind to downwind. It is nor- mal to drift sideways in turns. Preplan the taxi track so as to remain clear of drifts, ridges, or other obstructions.  
+
+![](images/ba28410083463fc169fc1f9982a921ec134e6fdce19f3481f8b564496016a779.jpg)  
+Figure 7-5. Crosswind taxi.  
+
+When taxiing in crosswinds on glare ice, get a helper at each wingtip to help with turns and aligning the skiplane for takeoff.  
+
+As a general rule, power settings and taxi speeds should be kept as low as possible on ice or crusted snow. On loose or powder snow, add enough power to maintain forward motion and keep the skis on top of the snow. The skiplane may even be step-taxied in a manner sim- ilar to a floatplane, staying below takeoff speed. If the skiplane is allowed to sink into soft snow, it may stop moving and become stuck. When the snow is wet and sticky, work the rudder and elevator to get the skiplane moving and maintain forward motion to prevent the skis from sticking again. If the skis are freed during preflight, but stick again before starting the engine and beginning to taxi, free the skis again and pull the skiplane onto tree branches, leaves, or anything that will prevent the skis from sticking. Burlap bags can be used by tying a line to the bags and pulling them into the cockpit after the skiplane has taxied forward. Keep all ropes, bags, etc., clear of the propeller. Rapid rudder movement will usually break the skis free if they begin to stick during a slow taxi. Use a short blast of power to create more airflow over the tail. A thin coat of engine oil or non-stick cooking spray also prevents sticking if the bottoms of the skis are easily accessed.  
+
+At some snow-covered airports, airport managers or fixed base operators spray red or purple dye onto taxi routes and snow banks as visual aids. They may even imbed pine boughs in the snow at regular intervals to help define taxiways and runways or mark hazardous areas. These helpful aids simplify ground operations and improve safety.  
+
+# T AKEOFFS  
+
+Since skiplanes operate from a variety of surfaces, it is important to remember that many takeoff areas can contain unforeseen hazards; therefore, it is important to always plan for the unexpected.  
+
+If the condition of the takeoff path is unknown, walk or taxi the full length of the takeoff area and back to check the surface for hazards and help pack the snow. It is better to discover any irregularities before attempting a takeoff than to encounter them at high speeds during takeoff.  
+
+Most takeoff distances are greater on snow than for wheel-equipped airplanes on cleared runways and other hard surfaces. On wet or powder snow, two or three times the normal distance may be required. Be sure to remove any frost or crusted snow from the skis before takeoff. Such accumulations increase drag and weight, resulting in a greater takeoff distance.  
+
+Select a takeoff direction that provides an adequate distance to lift off and clear any obstructions. Use headwinds or a downhill slope for takeoff when possible to ensure best performance. When turning into the wind, keep moving and turn in a wide arc. Trying to turn too sharply can cause a ski to dig in, resulting in a groundloop or noseover.  
+
+Plan and configure for a soft-field takeoff. Soft-field procedures are recommended because the lack of contrast and surface detail or glare off snow or ice may hide possible hazards. Undetected drifts or soft sticky spots can cause sudden deceleration and even a possible noseover.  
+
+When lining up to depart, have the skiplane configured properly and keep moving. Do not stop before adding takeoff power because the skiplane may settle into soft snow and limit acceleration. If this happens, it may be necessary to taxi the takeoff path again to pack the snow.  
+
+Crosswind takeoffs require the standard procedures and techniques. Be aware that the skiplane may be sliding in a crab during takeoff acceleration. On glaze ice an increase in lateral drift may be seen on takeoff.  
+
+# O FF-AIRPORT LANDING SITES  
+
+Landings on unprepared areas can be accomplished safely if the proper precautions are followed. Evaluating each new landing site thoroughly, obtaining advice from well-qualified pilots already familiar with the area, and staying within the limitations of personal skill and experience can all contribute to safety and reduce risks.  
+
+# GLACIERS  
+
+There are a number of factors that must be consid- ered when operating from glaciers. There can be many hidden hazards.  
+
+The first consideration is the condition of the snow and its suitability for landing. To evaluate a new area, fly downhill with the skis on the surface, just touching the snow, as slowly as possible above stall speed. This helps determine the snow condition. If unsure of the quality of the snowpack, look for a gentle slope and land up the slope or hill. This situation will allow the airplane to accelerate easily on a downslope takeoff.  
+
+If the slope angle of the landing area is very steep, always evaluate the area for the possibility of an ava- lanche. Avoid landing near the bottom of a valley because ice falls may exist and provide rough and unusable terrain.  
+
+Glaciers are very deceptive. It is advisable to train with an experienced glacier pilot and become comfortable before departing alone. Use extreme caution, as just a few clouds overhead can totally change the picture of the intended landing area.  
+
+# LAKES AND RIVERS  
+
+Snow-covered frozen lakes and rivers can provide a number of obstacles. Wind causes snow to form into ripple-shaped wind drifts. Wind also breaks snow into smaller particles, which bond quickly together to form solid ridges. These ridges can be so rough that they can damage or destroy the landing gear and skiplane. The best plan is to land parallel to ridge rows, even if there is a slight crosswind. Another option is to find a lee area (protected area), where there are no wind drifts and land in this area.  
+
+Other problems that may be encountered are beaver dams, houses, or other hidden obstructions that have been covered with snow and have become invisible, especially in flat lighting situations.  
+
+A condition known as “overflow” can present prob- lems on landing and takeoff. The overflow is water, in a liquid state, that is cooled below its freezing point. The moment a ski or any other part of the skiplane touches this supercooled water, it freezes solid. As the water freezes, it will provide a rapid deceleration. Overflow may exist on frozen lakes and rivers with or without snow cover. Thin ice also creates a problem because it is not always obvious. It may be thick enough to support a layer of snow or other material, but not a skiplane.  
+
+It is easier to see obstacles on lakes and rivers that are frozen without snow cover. Spider holes are ports formed by escaping air from under the ice, forming a weak area or bubble at the surface. These may or may not support the skiplane. Avoid running over spider holes.  
+
+Clear ice, under certain conditions, can be extremely slick and will not allow directional control once the aerodynamic controls become ineffective due to the loss of airflow. This becomes critical in crosswind landing conditions.  
+
+Avoid landing near the shoreline where rivers or sewer lines empty into lakes. The ice is likely to be very thin in those areas.  
+
+# TUNDRA  
+
+Tundra is probably the least desirable landing surface since most of the above hazards can exist. Tundra is typically composed of small clumps of grass that can support snow and make ridge lines invisible. They also hide obstacles and obscure holes that may be too weak to support skiplanes. Avoid tundra unless the area is well known. [Figure 7-6]  
+
+![](images/8b204245b2f70e8c3c9a5b1e010e8ca2792da955b9a5fefa1b857c63dfdc9e0c.jpg)  
+
+# Figure 7-6.Tundra.  
+
+# LIGHTING  
+
+Pilots routinely encounter three general lighting conditions when flying skiplanes. They are flat lighting, whiteout, and nighttime. The implications of nighttime are obvious, and in the interest of safety, night operations from unlighted airstrips are not recommended.  
+
+Flat lighting is due to an overcast or broken sky condition with intermittent sunlight. Hills, valleys, and snow mounds take on varying shades of white, and may appear taller, shorter, or wider than they really are. This indirect lighting alters depth perception. The pilot may not realize that depth perception has been compro- mised, and this can cause serious consequences when operating skiplanes near hilly terrain. When flat lighting is encountered, avoid or discontinue flight operations, especially at an unfamiliar strip.  
+
+Whiteout can occur when flying in a valley with both walls obscured by snow or fog. Clear sky conditions can exist, but references cannot be established. Reference to attitude gyro instruments helps when this condition is encountered. Climb out of the valley so additional visual references can be established.  
+
+Takeoffs and landings should not be attempted under flat lighting or whiteout conditions.  
+
+# L ANDINGS  
+
+Landing a skiplane is easy compared to landing with wheels; however, for off-airport landings, extra precautions are necessary. Be careful in choosing a landing site. Before landing, evaluate the site to be sure a safe departure will be possible.  
+
+Upon arriving at a prospective landing site, a pass should be made over the landing area to determine landing direction, and to determine if a safe approach and landing can be completed. A trial landing should be accomplished to determine the best approach, sub- sequent departure path, and the quality of the surface.  
+
+To perform the trial landing, plan and configure for a soft-field landing with a stable approach. Then per- form a gentle soft-field touchdown, controlled with power, while remaining near takeoff speed for approximately 600 to 800 feet, and then initiating a go-around.  
+
+A trial landing is very helpful in determining the depth and consistency of the snow, evaluating surface condi- tions, and looking for possible hazards. Be prepared to go around if at any time the landing does not appear normal or if a hazard appears. Do not attempt to land if the ski paths from the trial landing turn black. This indicates “overflow” water beneath the snow wetting the tracks.  
+
+When landing on a level surface, and the wind can be determined, make the landing into the wind. If landing on a slope, an uphill landing is recommended. To avoid a hard landing, fly the skiplane all the way to the surface and add some power just before touchdown. Be sure to turn the skiplane crosswise to the slope before it stops. Otherwise it may slide backward down the slope.  
+
+When using combination skis to land on solid ice with- out the benefit of snow, it is better to land with the wheels extended through the skis to improve the ground handling characteristics. Solid or clear ice surfaces require a much greater landing distance due to the lack of friction. The skiplane also needs more area for turns when taxiing. If the surface has little or no friction, con- sider the possibility of a groundloop, since the center of gravity is typically behind the main skis and the tail ski may not resist side movement. Keep the skiplane straight during the runout, and be ready to use a burst of power to provide airflow over the rudder to maintain directional control.  
+
+Under bright sun conditions and without brush or trees for contrast, glare may restrict vision and make it diffi- cult to identify snowdrifts and hazards. Glare can also impair depth perception, so it is usually best to plan a soft-field landing when landing off airports.  
+
+After touchdown on soft snow, use additional power to keep the skiplane moving while taxiing to a suitable parking area and turning the skiplane around. Taxi slowly after landing to allow the skis to cool down prior to stopping. Even though they are moving against cold surfaces, skis warm up a few degrees from the friction and pressure against the surface. Warm skis could thaw the snow beneath them when parked, causing the skis to freeze to the surface when they eventually cool.  
+
+# PARKING/POSTFLIGHT  
+
+Skiplanes do not have any parking brakes and will slide on inclines or sloping surfaces. Park perpendicu- lar to the incline and be prepared to block or chock the skis to prevent movement.  
+
+When parked directly on ice or snow, skis may freeze to the surface and become very difficult to free. This happens when there is liquid water under the skis that subsequently freezes. If both the surface and the skis are well below freezing, there will be no problem, but if the skis are warm when the airplane stops, they melt the surface slightly, then the surface refreezes as the heat flows into the ground. Similarly, the weight of the skiplane places pressure on the skis, and pressure generates heat. If the ambient temperature goes up to just below freezing, the heat of pressure can melt the surface under the skis. Then as the temperature drops again, the skis become stuck.  
+
+If parking for a considerable amount of time, support the skis above the snow to prevent them from sticking or freezing to the surface. Place tree boughs, wood slats, or other materials under the skis to help prevent them from becoming frozen to the surface. [Figure 7-7] Some pilots apply a coat of non-stick cooking spray or engine oil to the polypropylene ski surface to prevent ice or snow from sticking during the next takeoff.  
+
+![](images/721fb5556894920e69c3b0e23586bdffb498b425396514bb0d0218323e315684.jpg)  
+Figure 7-7. Supporting the skis above the surface prevents them from freezing in place.  
+
+If the skis are the retractable type and the frozen sur- face will support the wheels, place the skis in the UP position. Next, dig the snow out from around the skis until ready to depart. This keeps the skis away from the surface. When parking on a hill, pay attention to the position of the fuel selector valve. Typically, the uphill tank should be selected to prevent fuel from transferring to the lower wing and subsequently venting overboard.  
+
+# EMERGENCY OPERATIONS  
+
+When operating a skiplane, carry an adequate survival kit. A good rule of thumb is to carry what is needed to be comfortable. Alaska, Canada, and Sweden provide lists on the internet of the survival equipment required for flights in northern areas. In addition to communi- cating the current requirements for specific jurisdictions, these lists can help pilots choose additional equipment to meet their needs, beyond the minimum required. Also be sure to check for any restrictions on the carriage of firearms if they are part of your survival kit.  
+
+# SKI MALFUNCTION  
+
+If skis are not rigged properly, or when recommended airspeeds are exceeded, it is possible that a ski will tuck down and give a momentary downward rotation of the nose of the skiplane. This is generally caused by spring or bungee tension not being sufficient to hold ski tips up. The immediate fix is to reduce power and reduce the speed of the skiplane. When the air loads are decreased below the tension of the spring or bungee, the ski will pitch back into place and the control prob- lem will go away. Have a maintenance shop correctly adjust the spring or bungee tension and avoid exceed- ing the speed limits specified for the skis.  
+
+A precautionary landing may be necessary for events such as a broken ski cable or broken hydraulic line. If a ski cable breaks, the front of the ski will tip down. This creates an asymmetrical drag situation, similar to a large speed brake on one side of the skiplane. This con- dition is controllable; however, it will take skill to maintain control. Not only does the tilted ski create a lot of drag, it also complicates the landing, since the front of the ski will dig in as it contacts the surface, causing abrupt deceleration and severe damage to the landing gear. If efforts to get the ski into a stream- lined position fail, a landing should be made as soon as practical.  
+
+To attempt to streamline the ski, slow to maneuvering speed or less. It may be possible for a passenger to use a long rod such as a broom handle to push down on the back end of the ski, aligning it with the airflow and mak- ing possible a relatively normal landing. If the skis are retractable, try to ensure that they are both in the UPposi- tion (for a pavement landing) and land on pavement.  
+
+If it is not possible to get the ski to trail correctly, the skiplane must be landed in such a way as to minimize danger to the occupants. This usually means trying to land so that the hanging ski breaks off quickly rather than digging in and possibly destroying the skiplane. Fly to an area where help is available, since damage is virtu- ally inevitable. It is often best to land on a hard surface to increase the chances of the ski breaking away.  
+
+With a broken hydraulic line, a condition of one ski up and one ski down may develop. Again, the skiplane is controllable with proper rudder and braking technique.  
+
+# NIGHT EMERGENCY LANDING  
+
+A night landing should never be attempted at an unfa- miliar location except in an emergency. To increase the likelihood of a successful landing, perform the checklist appropriate for the emergency, and unlatch the doors prior to landing to prevent jamming due to airframe distortion in the event of a hard landing. If time permits, make distress calls and activate the emergency locator transmitter (ELT).  
+
+When selecting a landing area, frozen lakes and rivers are a good choice if the ice is thick enough to support the aircraft. If the ice is thin or the thickness unknown, a landing in an open field would be a better option.  
+
+After selecting a landing area, perform a reconnais- sance and look for obstructions, field condition, wind direction, and snow conditions if possible. Fly over the landing area in the intended direction of touchdown and drop glow sticks 2 seconds apart along the length of the touchdown zone. Use the glow sticks to aid in depth per- ception during final approach. Make the touchdown with power, if available, and as slow as possible.  
+
+![](images/14b7d533b7e77f1663fcac420948d9dc2ce6ff69dad118e68dafc461b34eb04f.jpg)  
+
+# OPERATIONS IN OPEN SEAS  
+
+Open sea operations are very risky and should be avoided if possible. If an open sea landing cannot be avoided, a thorough reconnaissance and evaluation of the conditions must be performed to ensure safety. The sea usually heaves in a complicated crisscross pattern of swells of various magnitudes, overlaid by whatever chop the wind is producing. A relatively smooth spot may be found where the cross swells are less turbulent. Both a high and a low reconnaissance are necessary for accurate evaluation of the swell systems, winds, and surface conditions.  
+
+# D EFINITIONS  
+
+When performing open sea operations, it is impor- tant to know and understand some basic ocean terms. A thorough knowledge of these definitions allows the pilot to receive and understand sea condition reports from other aircraft, surface vessels, and weather services.  
+
+Fetch —An area where wind is generating waves on the water surface. Also the distance the waves have been driven by the wind blowing in a constant direc- tion without obstruction.  
+
+Sea —Waves generated by the existing winds in the area. These wind waves are typically a chaotic mix of heights, periods, and wavelengths. Sometimes the term refers to the condition of the surface resulting from both wind waves and swells.  
+
+Swell —Waves that persist outside the fetch or in the absence of the force that generated them. The waves have a uniform and orderly appearance characterized by smooth, regularly spaced wave crests.  
+
+Primary Swell —The swell system having the greatest height from trough to crest.  
+
+Secondary Swells —Swell systems of less height than the primary swell.  
+
+Swell Direction —The direction from which a swell is moving. This direction is not necessarily the result of the wind present at the scene. The swell encountered may be moving into or across the local wind. A swell tends to maintain its original direction for as long as it continues in deep water, regardless of changes in wind direction.  
+
+Swell Face —The side of the swell toward the observer. The back is the side away from the observer.  
+
+Swell Length —The horizontal distance between suc- cessive crests.  
+
+Swell Period —The time interval between the passage of two successive crests at the same spot in the water, measured in seconds.  
+
+Swell Velocity —The velocity with which the swell advances in relation to a fixed reference point, meas- ured in knots. (There is little movement of water in the horizontal direction. Each water particle transmits energy to its neighbor, resulting primarily in a vertical motion, similar to the motion observed when shaking out a carpet.)  
+
+Chop —A roughened condition of the water surface caused by local winds. It is characterized by its irregu- larity, short distance between crests, and whitecaps.  
+
+Downswell —Motion in the same direction the swell is moving.  
+
+Upswell —Motion opposite the direction the swell is moving. If the swell is moving from north to south, a seaplane going from south to north is moving upswell.  
+
+# S EA STATE EVALUATION  
+
+Wind is the primary cause of ocean waves and there is a direct relationship between speed of the wind and the state of the sea in the immediate vicinity. Windspeed forecasts can help the pilot anticipate sea conditions. Conversely, the condition of the sea can be useful in determining the speed of the wind. Figure 8-1 on the next page illustrates the  Beaufort wind scale  with the corresponding  sea state condition number .  
+
+While the height of the waves is important, it is often less of a consideration than the wavelength, or the dis- tance between swells. Closely spaced swells can be very violent, and can destroy a seaplane even though the wave height is relatively small. On the other hand, the same seaplane might be able to handle much higher waves if the swells are several thousand feet apart. The relationship between the swell length and the height of  
+
+![](images/abc22d71df3bc491616f18b34addfcf4e5180e786c5869b6258b2c3f1ca6f448.jpg)  
+
+the waves is the  height-to-length ratio  [Figure 8-2]. This ratio is an indication of the amount of motion a seaplane experiences on the water and the threat to cap- sizing. For example, a body of water with 20-foot waves and a swell length of 400 feet has a height-to- length ratio of 1:20, which may not put the seaplane at risk of capsizing, depending on the crosswinds.  
+
+![](images/91a79546700f876575bcb9a99c6606d463a61dc7cfacbe03ac1d7b0798495ede.jpg)  
+Figure 8-2. Height-to-length ratio. 8-2  
+
+However, 15-foot waves with a length of 150 feet pro- duce a height-to-length ratio of 1:10, which greatly increases the risk of capsizing, especially if the wave is breaking abeam of the seaplane. As the swell length decreases, swell height becomes increasingly critical to capsizing. Thus, when a high swell height-to-length ratio exists, a crosswind takeoff or landing should not be attempted. Downwind takeoff and landing may be made downswell in light and moderate wind; however, a downwind landing should never be attempted when wind velocities are high regardless of swell direction.  
+
+When two swell systems are in phase, the swells act together and result in higher swells. However, when two swell systems are in opposition, the swells tend to cancel each other or “fill in the troughs.” This provides a relatively flat area that appears as a lesser concentra- tion of whitecaps and shadows. This flat area is a good touchdown spot for landing. [Figure 8-3]  
+
+![](images/d550b3ae8288bd5b73a74a2f05a864ed58d5236627f1a01c59bfe801bc75be98.jpg)  
+Figure 8-3. Wave interference.  
+
+# S WELL SYSTEM EVALUATION  
+
+The purpose of the swell system evaluation is to deter- mine the surface conditions and the best heading and technique for landing. Perform a high reconnaissance, a low reconnaissance, and then a final determination of landing heading and touchdown area.  
+
+# HIGH RECONNAISSANCE  
+
+During the high reconnaissance, determine the swell period, swell velocity, and swell length. Perform the high reconnaissance at an altitude of 1,500 to 2,000 feet. Fly straight and level while observing the swell systems. Perform the observation through a complete  $360^{\circ}$   pattern, rolling out approximately every  $45^{\circ}$  .  
+
+Fly parallel to each swell system and note the heading, the direction of movement of the swell, and the direc- tion of the wind.  
+
+To determine the time and distance between crests, and their velocity, follow these directions:  
+
+1. Drop smoke or a float light and observe the wind condition.  
+
+2. Time and count the passage of the smoke or float light over successive crests. The number of waves is the number of crests counted minus one. (A complete wave runs from crest to crest. Since the timing starts with a crest and ends with a crest, there is one less wave than crests.) Time and count each swell system.
+
+ 3. Obtain the swell period by dividing the time in seconds by the number of waves. For example, 5 waves in 30 seconds equates to a swell period of 6 seconds.
+
+ 4. Determine the swell velocity in knots by multi- plying the swell period by 3. In this example, 6 seconds multiplied by 3 equals 18 knots.  
+
+5. To determine the swell length or distance between crests in feet, multiply the square of the swell period by 5. For example, using a 6-second swell period,  $6^{2}$    multiplied by 5 equals 180 feet. [Figure 8-4]  
+
+![](images/a6858c20211752861014fbed2d44a0981682b9ce77a714a27417d4c6e1830db2.jpg)  
+
+# LOW RECONNAISSANCE  
+
+Perform the low reconnaissance at 500 feet to confirm the findings of the high reconnaissance and obtain a more accurate estimate of wind direction and velocity.  
+
+If the direction of the swell does not agree with the direction noted at 2,000 feet, then there are two swell systems from different directions. The secondary swell system is often moving in the same direction as the wind and may be superimposed on the first swell sys- tem. This condition may be indicated by the presence of periodic groups of larger-than-average swells.  
+
+The wind direction and speed can be determined by dropping smoke or observing foam patches, white- caps, and wind streaks. Whitecaps fall forward with the wind but are overrun by the waves. Thus, the foam patches appear to slide backward into the direction from which the wind is blowing. To estimate wind velocity from sea surface indications, see figure 8-1.  
+
+# SELECT LANDING HEADING  
+
+When selecting a landing heading, chart all observed variables and determine the headings that will prove the safest while taking advantage of winds, if possible. Descend to 100 feet and make a final evaluation by flying the various headings and note on which heading the sea appears most favorable. Use the heading that looks smoothest and corresponds with one of the pos- sible headings selected by other criteria.  
+
+Consider the position of the sun. A glare on the water during final approach might make that heading an unsafe option.  
+
+Use caution in making a decision based on the appear- ance of the sea. Often a flightpath directly downswell appears to be the smoothest, but a landing on this heading could be disastrous.  
+
+# SELECT TOUCHDOWN AREA  
+
+On final approach, select the touchdown area by searching for a null or smooth area in the swell sys- tem, avoiding rough areas if possible. When doing so, consider the conditions discussed in the following sections.  
+
+# LANDING PARALLEL TO THE SWELL  
+
+When landing on a swell system with large, widely spaced crests more than four times the length of the floats, the best landing heading parallels the crests and has the most favorable headwind component. In this situation, it makes little difference whether touchdown is on top of the crest or in the trough.  
+
+LANDING PERPENDICULAR TO THE SWELL If crosswind limits would be exceeded by landing par- allel to the swell, landing perpendicular to the swell might be the only option. Landing in closely spaced swells less than four times the length of the floats should be considered an emergency procedure only, since damage or loss of the seaplane can be expected. If the distance between crests is less than half the length of the floats, the touchdown may be smooth, since the floats will always be supported by at least two waves, but expect severe motion and forces as the seaplane slows.  
+
+A downswell landing on the back of the swell is pre- ferred. However, strong winds may dictate landing into the swell. To compare landing downswell with landing into the swell, consider the following example. Assuming a 10-second swell period, the length of the swell is 500 feet, and it has a velocity of 30 knots or 50 feet per second. Assume the seaplane takes 890 feet and 5 seconds for its runout.  
+
+Downswell Landing —The swell is moving with the seaplane during the landing runout, thereby increas- ing the effective swell length by about 250 feet and resulting in an effective swell length of 750 feet. If the seaplane touches down just beyond the crest, it finishes its runout about 140 feet beyond the next crest. [Figure 8-5]  
+
+Landing into the Swell —During the 5 seconds of runout, the oncoming swell moves toward the seaplane a distance of about 250 feet, thereby shortening the effective swell length to about 250 feet. Since the sea- plane takes 890 feet to come to rest, it would meet the oncoming swell less than halfway through its runout and it would probably be thrown into the air, out of control. Avoid this landing heading if at all possible. [Figure 8-6]  
+
+If low ceilings prevent complete sea evaluation from the altitudes prescribed above, any open sea landing should be considered a calculated risk, as a dangerous but unobserved swell system may be present in the proposed landing area. Complete the descent and before-landing checklists prior to descending below 1,000 feet if the ceiling is low.  
+
+# LANDING WITH MORE THAN ONE SWELL SYSTEM  
+
+Open water often has two or more swell systems running in different directions, which can present a confusing appearance to the pilot. When the second- ary swell system is from the same direction as the wind, the preferred direction of landing is parallel to the primary swell with the secondary swell at some angle. When landing parallel to the primary swell, the two choices of heading are either upwind and into the secondary swell, or downwind and downswell. The heading with the greatest headwind is preferred; however, if a pronounced secondary swell system is present, it may be desirable to land downswell to the secondary swell system and accept some tailwind component. The risks associated with landing downwind versus downswell must be care- fully considered. The choice of heading depends on the velocity of the wind versus the velocity and the height of the secondary swell. [Figure 8-7]  
+
+![](images/72257c942cdd0d4124071ed41dc296b3893978f3eff4d55dc63c7118443f4fa7.jpg)  
+Figure 8-5. Landing in the same direction as the movement of the swell increases the apparent length between swell crests.  
+
+![](images/4fe632f7e61233606b763c856bc574fed3796b1b7b4283f636326e7679eab46d.jpg)  
+Figure 8-6. Landing against the swell shortens the apparent distance between crests, and could lead to trouble.  
+
+Due to the rough sea state, landings should not be attempted in winds greater than 25 knots except in extreme emergencies. Crosswind limitations for each type of seaplane must be the governing factor in cross- wind landings.  
+
+# EFFECT OF CHOP  
+
+Chop consists of small waves caused by local winds in excess of 14 knots. These small waves ride on top of the swell system and, if severe, may hide the underly- ing swell system. Alone, light and moderate chop are not considered dangerous for landings.  
+
+# NIGHT OPERATIONS  
+
+Night landings in seaplanes on open water are extremely dangerous with a high possibility of damage or loss of the seaplane. A night landing should only be performed in an extreme emergency when no other options are available. A night landing on a lighted run- way exposes the seaplane to much less risk.  
+
+![](images/921a7f05715b90667b34d7f203ce6f804d4f8d37ba4892f104e6293f8d238fef.jpg)  
+Figure 8-7. Landing heading in single and multiple swell systems.  
+
+If operating at night, equip the seaplane with parachute flares, smoke floats, glow sticks, or other markers.  
+
+# SEA EVALUATION AT NIGHT  
+
+Before attempting a night landing, perform a sea state evaluation as described in previous sections. If an emergency occurs shortly after nightfall, a landing heading can be determined by estimating the current conditions from those conditions prevalent before nightfall. If the pilot has no information to form an esti- mate of the conditions, the information must be obtained from other sources or determined by the pilot from a sea state evaluation by flare illumination or moonlight. If near a ship, sea weather conditions and a recommended landing heading may be obtained from the ship. However, a landing heading based on such information is subject to error and should only be used as a last resort. A pilot evaluation is preferred and can be accomplished by performing the teardrop pattern night sea evaluation as follows:  
+
+1. Set a parachute flare and adjust the altitude so that the flare ignites at 1,700 feet. Altitude should be as close to 2,000 feet as possible.
+
+ 2. After the drop, adjust altitude to 2,000 feet and maintain the heading for 45 seconds.
+
+ 3. Turn back   $220^{\circ}$  , left or right, until the flare is almost dead ahead. The sea becomes visible after the first   $70^{\circ}$   of the turn is completed, allowing approximately 90 seconds for sea evaluation. Use standard rate turn (  $3^{\circ}$   per second).
+
+ 4. Immediately after passing the flare, if it is still burning, the pilot may circle to make additional evaluation during remaining burning time.  
+
+If both pilot and copilot are present, the pilot should fly the seaplane and the copilot should concentrate on the sea evaluation. If only two flares are available and sea conditions are known or believed to be moderate, it may be advisable to dispense with the sea evaluation and use both flares for landing.  
+
+# NIGHT EMERGENCY LANDING  
+
+A night landing should be performed only after exhausting all other options. Be sure all occupants are wearing life vests and secure loose items prior to touchdown. Remove liferafts and survival equipment from their storage containers and give them to those occupants closest to the exits. Prior to the landing pat- tern, unlatch the doors to prevent jamming that may be caused by airframe distortion from a hard landing. If time permits, make distress calls and activate the emergency locator transmitter.  
+
+# LANDING BY PARACHUTE FLARE  
+
+When a landing heading has been determined and all emergency and cockpit procedures have been accomplished, the landing approach with the use of parachute flares is made as follows:  
+
+1. Establish a heading  $140^{\circ}$   off the selected landing heading. 
+
+ 2. Lower the flaps and establish the desired landing pattern approach speed.
+
+ 3. As close to 2,000 feet above the surface as possi- ble, set the parachute flare and adjust the altitude so the flare ignites at 1,700 feet. 
+
+ 4. Release the flare and begin a descent of 900 f.p.m. while maintaining heading for 45 seconds. If the starting altitude is other than 2,000 feet, determine the rate of descent by subtracting 200 feet and dividing by two. (For example, 1800 feet minus 200 is 1600, divided by 2 equals an 800 f.p.m. rate of descent). 
+
+ 5. After 45 seconds, make a standard rate turn of  $3^{\circ}$  per second toward the landing heading in line with the flare. This turn is  $220^{\circ}$   and takes approx- imately 73 seconds. 
+
+ 6. Roll out on the landing heading in line with the flare at an altitude of 200 feet. During the last two-thirds of the turn, the water is clearly visi- ble and the seaplane can be controlled by visual reference. 
+
+ 7. Land straight ahead using the light of the flare. Do not overshoot. Overshooting the flare results in a shadow in front of the aircraft making depth perception very difficult. The best touchdown point is several hundred yards short of the flare.  
+
+A rapid descent in the early stages of the approach allows a slow rate of descent when near the water. This should prevent flying into the water at a high rate of descent due to faulty depth perception or altimeter set- ting. [Figure 8-8]  
+
+# LANDING BY MARKERS  
+
+If parachute flares are not available, use a series of lighted markers to establish visual cues for landing. When a landing heading has been determined and all emergency and cockpit procedures are completed, use drift signals or smoke floats and perform the landing approach as follows:  
+
+1. Establish a heading on the reciprocal of the land- ing heading.
+
+ 2. Drop up to 20 markers at 2 second intervals.
+
+ 3. Perform a right   $90^{\circ}$   turn followed immediately by a  $270^{\circ}$   left turn while descending to 200 feet.
+
+ 4. Slightly overshoot the turn to the final approach heading to establish a path parallel and slightly to the right of the markers.  
+
+![](images/e780f96815133d4ce9e20f3994cbd65597c5e43c698987e86c70724850358abb.jpg)  
+Figure 8-8. Landing by parachute flare.  
+
+5. Establish a powered approach with a 200 f.p.m. rate of descent and airspeed 10 percent to 20 per- cent above stall speed with flaps down, as if for a glassy water landing.
+
+ 6. Maintain the landing attitude until water contact, and reduce power to idle after touchdown.  
+
+Do not use landing lights during the approach unless considerable whitecaps are present. The landing lights may cause a false depth perception. [Figure 8-9]  
+
+# E MERGENCY LANDING UNDER INSTRUMENT CONDITIONS  
+
+When surface visibilities are near zero, the pilot has no alternative but to fly the seaplane onto the water by instruments. A landing heading can be estimated from forecasts prior to departure, broadcast sea conditions, or reports from ships in the area. Obtain the latest local altimeter setting to minimize the possibility of altitude errors during the approach.  
+
+Due to the high possibility of damage or capsizing upon landing, be sure all occupants have life vests on and secure all loose items prior to touchdown. Remove liferafts and survival equipment from their storage containers and give them to those occupants closest to the exits. Prior to the landing pattern, unlatch doors to prevent jamming caused by airframe distortion from a hard landing. If time permits, transmit a distress call and activate the emergency locator transmitter.  
+
+After choosing a landing heading, establish a final approach with power and set up for a glassy water landing. Establish a rate of descent of 200 f.p.m. and maintain airspeed 10 to 20 percent above stall speed with flaps down. Establish the landing attitude by referring to the instruments. Maintain this approach until the seaplane makes contact with the water, or until visual contact is established.  
+
+![](images/4ff1c58554778e23aa9d4899028a3914ef0c40e81e8c5cbdf806c97e7da2cd72.jpg)  
+Figure 8-9. Landing by markers.  
+
+# E SCAPING A SUBMERGED SEAPLANE  
+
+If a seaplane capsizes, it is absolutely essential that both pilot and passengers understand how to exit the seaplane and find their way safely to the surface. Pilots should become thoroughly familiar with possible escape scenarios and practice to the extent possible so that they will be able to react instantly in an emergency. Passengers can not be expected to have any prior train- ing in water survival, and an actual emergency is not a good time to try to instruct them. Therefore, a complete briefing before takeoff is very important. At a mini- mum, the portions of the passenger briefing that deal with escaping from the seaplane in an emergency should cover orientation, water pressure issues, the use of flotation equipment, and both normal and unusual methods of leaving the seaplane.  
+
+# ORIENTATION  
+
+Many of those who have survived seaplane accidents emphasize how disorienting this situation can be. Unlike the clear water of a swimming pool, the water around a seaplane after an accident is usually murky and dark, and may be nearly opaque with suspended silt. In most cases the seaplane is in an unusual attitude, making it difficult for passengers to locate doors or emergency exits. In a number of cases, passengers have drowned while pilots have survived simply because of the pilots’ greater familiarity with the inside of the seaplane. Use the preflight briefing to address disorien- tation by helping passengers orient themselves regardless of the seaplane’s attitude. Help the passengers establish a definite frame of reference inside the seaplane, and remind them that even if the cabin is inverted, the doors and exits remain in the same positions relative to their seats. Also, brief passengers on how to find their way to the surface after getting clear of the seaplane. Bubbles always rise toward the surface, so advise passengers to follow the bubbles to get to the surface.  
+
+# WATER PRESSURE  
+
+The pressure of water against the outside of the doors and windows may make them difficult or impossible to open. Passengers must understand that doors and win- dows that are already underwater may be much easier to open, and that it may be necessary to equalize the pressure on both sides of a door or window before it will open. This means allowing the water level to rise or flooding the cabin adjacent to the door, which can be very counter-intuitive when trapped underwater.  
+
+# FLOTATION EQUIPMENT  
+
+Personal flotation devices (PFDs) are highly recom- mended for pilots and all passengers on seaplanes.  
+
+Since the probability of a passenger finding, unwrap- ping, and putting on a PFD properly during an actual capsizing is rather low, some operators encourage passengers to wear them during the starting, taxiing, takeoff, landing, and docking phases of flight.  
+
+Not all PFDs are appropriate for use in aircraft. Those that do not have to be inflated, and that are bulky and buoyant all the time, can be more of a liability in an emergency, and actually decrease the wearer’s chances of survival. Many of the rigid PFDs used for water recreation are not suitable for use in a seaplane. In gen- eral, PFDs for aircraft should be inflatable so that they do not keep the user from fitting through small open- ings or create buoyancy that could prevent the wearer from swimming downward to an exit that is underwa- ter. Obviously, once the wearer is clear of the seaplane, the PFD can be inflated to provide ample support on the water.  
+
+The pretakeoff briefing should include instructions and a demonstration of how to put on and adjust the PFD, as well as how to inflate it. It is extremely impor- tant to warn passengers never to inflate the PFD inside the seaplane. Doing so could impede their ability to exit, prevent them from swimming down to a sub- merged exit, risk damage to the PFD that would make it useless, and possibly block the exit of others from the seaplane.  
+
+# NORMAL AND UNUSUAL EXITS  
+
+The briefing should include specifics of operating the cabin doors and emergency exits, keeping in mind that this may need to be done without the benefit of vision. Doors and emergency exits may become jammed due to airframe distortion during an accident, or they may be too hard to open due to water pressure. Passengers should be aware that kicking out a window or the windshield may be the quickest and easiest way to exit the seaplane. Because many seaplanes come to rest in a nose-down position due to the weight of the engine, the baggage compartment door may offer the best path to safety.  
+
+In addition to covering these basic areas, be sure to tell passengers to leave everything behind in the event of a mishap except their PFD. Pilots should never assume that they will be able to assist passengers after an accident. They may be injured, unconscious, or impaired, leaving passengers with whatever they remember from the pilot’s briefing. A thorough brief- ing with clear demonstrations can greatly enhance a passenger’s chance of survival in the event of a mishap.  
+
+#  
+
+#  
+
+Helicopters are capable of landing in places inaccessi- ble to other aircraft. In addition to rooftops, mountain tops, pinnacles, and other unprepared locations, there are times when a pilot may have to operate a helicopter in areas that do not offer a solid place to land. For those operations, the normal skid gear configuration can be replaced with a set of floats for water operations or skis for winter operations.  
+
+Note: In this chapter, it is assumed that the helicopter has a counterclockwise main rotor blade rotation as viewed from above.  
+
+# F LOAT EQUIPPED HELICOPTERS  
+
+Unlike airplanes, there is no additional rating required for helicopter float operations. However, it is strongly recommended that pilots seek instruction from a qualified instructor prior to operating a float equipped helicopter. Check the Pilot’s Operating Handbook (POH) or Rotorcraft Flight Manual (RFM) for any limitations that may apply when operating with floats installed. [Figure 9-1]  
+
+![](images/814e146b3d66e52539c2fc58f8b48ee9ae270f17dfc289ece263d4d1e089d9b1.jpg)  
+Figure 9-1. Float equipped helicopter.  
+
+# CONSTRUCTION AND MAINTENANCE  
+
+Helicopter floats are constructed of a rubberized fabric, or nylon coated with neoprene or urethane, and may be of the fixed utility or emergency pop-out type. Fixed utility floats typically consist of two floats that may have one or more individual compartments inflated with air. Fixed floats may be of the skid-on- float or the float-on-skid design. [Figure 9-2]  
+
+A  skid-on-float  landing gear has no rigid structure in or around the float. The float rests on the hard surface and supports the weight of the helicopter. With this  
+
+![](images/823e38e4a0449a63dbf6e261f9ad784df2c044cc37a9128af39e50bc76a6cd3b.jpg)  
+Figure 9-2. Skid-on-float and float-on-skid landing gear.  
+
+type of design, be aware of differences in float pres- sure. While the pressures are usually low, a substantial difference can cause the helicopter to lean while on a hard surface making it more susceptible to dynamic rollover.  
+
+A  float-on-skid  landing gear has modified skids that support the weight of the helicopter on hard surfaces. The floats are attached to the top of the skid and only support the weight of the helicopter in water. A float with low pressure or one that is completely deflated will not cause any stability problems on a hard surface.  
+
+Emergency  pop-out floats  consist of two or more floats with one or more individual compartments per float, depending on the size of the helicopter. [Figure 9-3] They are often inflated with compressed nitrogen  
+
+![](images/343dcaa87d4079c2cfa1a0550a5116672bbf201aa1237627c3216f1b7a43ade0.jpg)  
+Figure 9-3. Pop-out float equipped helicopter.  
+
+or helium and are deployed prior to an emergency landing on water. The aircraft’s maintenance manual states that the pop-out floats must be tested periodically through a deployment check, a leak check, and a hydro- static check of the compressed gas cylinder.  
+
+To maintain the floats in good condition, perform the following tasks before and after every flight:  
+
+• Inflation —Check each float compartment for proper inflation. Record the pressure to obtain a trend over time to help recognize leaks.
+
+ • Condition —Inspect the entire float assembly for cuts, tears, condition of chafing strips, and security of all components.
+
+ • Clean —Wash oil, grease, or gasoline from the floats, since they deteriorate the float’s material.
+
+ • Flush —If the helicopter has been operated on salt water, flush the entire helicopter, including the float assembly, with plenty of fresh water.
+
+ • Storage —Avoid placing the floats in direct sunlight when not in use.  
+
+# OPERATIONAL CONSIDERATIONS  
+
+Helicopter floats have only a mild effect on aircraft performance, with just a slight weight penalty and reduction in cruise speed. However, the large surface area of the floats makes the helicopter very sensitive to any departure from coordinated flight. For example, in cruise flight, any yawing causes the helicopter to roll in the opposite direction, as shown in figure 9-4. A failure of the engine requires immediate pedal application to prevent an uncontrollable yaw, with a resulting roll.  
+
+![](images/e25e9d86a5acd4b8e60ef5553d4a180f322fd7481caa5024a8cf63d88b97f179.jpg)  
+Figure 9-4. Float instability.  
+
+Similarly, a tail rotor failure in cruise flight requires immediate entry into autorotation to prevent a yaw and the subsequent roll. Corrections to this rolling moment can exceed rotor limits and cause mast bumping or droop stop pounding.  
+
+Helicopters equipped with skids-on-floats are limited in ground operations. Minimize horizontal movement during takeoffs and landings from hard surfaces to avoid scuffing or causing other damage to the floats. Perform approaches, in which hover power may not be available, by flaring through hovering altitude in a slightly nose-high attitude to reduce forward motion. Just prior to the aft portion of the floats touching down, add sufficient collective pitch to slow the descent and stop forward motion. Rotate the cyclic forward to level the helicopter, and allow the helicopter to settle to the ground, then reduce collective pitch to the full down position. In helicopters with low inertia rotor systems, an autorotation to a hard surface requires a more aggressive flare to a near-zero groundspeed to ensure minimal movement upon landing. A running takeoff or landing on a hard surface is not recommended in helicopters equipped with skids-on-floats.  
+
+Helicopters equipped with floats-on-skids are capable of performing running takeoffs and landings, and autorotations to hard surfaces require the same procedures as non-float equipped helicopters. The surfaces should be flat and clear of objects that may puncture, rip, or cause other damage to the floats. Do not attempt to land on the heels of floats-on-skids as they may cause the tail boom to kick up and be struck by the rotor.  
+
+Helicopters equipped with stored emergency pop-out floats are operated with the same procedures as a helicopter without floats. When emergency floats are deployed, the helicopter may have similar characteris- tics to a helicopter with fixed floats and should be flown accordingly. If emergency floats are deployed during autorotation, the increased surface increases parasite drag with a resulting reduction in airspeed. To regain the recommended autorotation airspeed, the nose must be lowered.  
+
+Effects on aircraft performance must also be consid- ered during water operations. Air is often cooler near bodies of water, thus decreasing the density altitude but also increasing humidity. Although the higher humidity of the air has little effect on aerodynamic performance, it can reduce piston engine output by more then 10 percent. Properly leaning the mixture might possibly return some of this lost power.  
+
+Turbine engines experience only a small, often negligi- ble, power loss in high humidity conditions.  
+
+# Warning: During water operation, if there is any possibility that the tail rotor struck the water, do not attempt a takeoff. Although a tail rotor water strike may not show any visible evidence of damage, a tail rotor failure is likely to occur.  
+
+# PREFLIGHT INSPECTION  
+
+The preflight inspection consists of the standard aircraft inspection with a few additional items associated with the floats. When performing a preflight inspection, follow the manufacturer’s recommenda- tions. A typical inspection of the floats includes:  
+
+• Visual Inspection —Examine the floats for cuts, abrasions, or other damage.  
+
+• Inflation Check —Although proper inflation can be checked by hand feeling for equal pressure and firmness, a pressure gauge is the preferred method to check for the correct pressure listed in the POH or RFM. For flights to higher altitudes, adjust float pressure before takeoff so that maximum pressure is not exceeded, unless the floats are equipped with pressure relief valves.  
+
+• Valve Checks —Check the air valves by filling the neck with water and watching for bubbles. Examine fittings for security and, if operated in salt water, inspect for corrosion.  
+
+• Float Stabilizer,  if equipped—Examine the float stabilizer and other float related surfaces for security and condition. Any indication of water contact requires, at a minimum, a visual inspec- tion of the tail surfaces, tail boom, and mounts. Consult the aircraft’s maintenance manual for any additional required inspections.  
+
+• Float and Skid Freedom —In cold weather, it is common for floats and skids to freeze to the surface. Inspect the floats and skids for freedom of movement and obstructions. To help prevent this problem, try to park on a dry surface with proper drainage.  
+
+• Secure —Ensure all equipment is secure and properly stowed including survival equipment, anchors, tiedowns, and paddles. If possible, stow items inside the helicopter that could become loose and fly into the rotors.  
+
+• Survival Equipment —Check the quantity and condition of survival equipment including flota- tion devices, liferafts, provisions, and signaling devices.  
+
+# STARTING  
+
+A helicopter on a hard surface has the friction of the skids or floats to counter the torque produced when the rotor is engaged. Therefore, you have more control over the helicopter if you can engage the rotors while it is sitting on a hard surface. On water, little or no anti- torque control is present until the rotor system has accelerated to approximately 50 percent of its normal operating r.p.m.  A heavily loaded helicopter’s floats sit deeper in the water and create more resistance to the turning force than a lightly loaded helicopter. Thus a helicopter turns less when heavily loaded and more when lightly loaded.  
+
+To overcome the spinning and to prevent drifting, tie the helicopter securely to a dock or to the shore using the  fore and aft cross tubes if not otherwise indicated in the POH or RFM. If help is not available for casting off, it may be necessary to paddle to a clear location well away from the shoreline for a safe start.  Wind and water currents may cause the helicopter to turn or drift a considerable distance before control is obtained. To compensate, use a starting position upwind and upcurrent of a clear area.  
+
+Illusions of movement or non-movement can make it difficult to maintain a fixed position during rotor engagement and runup. Techniques to overcome these illusions are discussed later.  
+
+# TAXIING AND HOVERING  
+
+Where possible, it is usually more convenient and safer to hover taxi to the destination. However, due to power limits, local restrictions, noise, water spray, or creating a hazard to other vessels or people, it may be necessary to water taxi the helicopter. To taxi in water, maintain full rotor r.p.m. and use sufficient up collec- tive to provide responsive cyclic control to move the helicopter. Never bottom the collective pitch while the helicopter is in motion to avoid momentarily sinking the floats or capsizing the helicopter. Float equipped helicopters should be taxied with the nose in the direction of movement. Maximum taxi speed is attained when the bow wave around the nose of the floats rises slightly above the normal waterline. Beyond this speed, the bow wave flows over the front portion of the floats, and this severe drag may capsize the helicopter. When the helicopter is heavily loaded, it is restricted to a slower taxiing speed than when lightly loaded.When taxiing in small waves, point the helicopter into or at a slight angle to the waves. Never allow the helicopter to roll in the trough. In some instances, increasing collective can produce enough downwash to create a slight smoothing effect on wind- produced waves.  
+
+A ground swell can be dangerous to the tail rotor while the helicopter is riding up and pitching over the swell.  
+
+Approach the swell at a  $30^{\circ}$   to  $45^{\circ}$   angle and use collec- tive pitch to minimize bobbing. If it becomes obvious that continued water taxi could lead to a serious problem, lift the helicopter off and reassess the situation. It might be possible to land in an area that does not contain the same conditions.  
+
+When hovering over or taxiing on water, movement of the helicopter may be difficult to judge. The rippling effect of the water from the downwash makes it appear as if the helicopter is moving in one direction when it is in fact stationary or even moving in the opposite direction. To maintain a fixed position or maintain a straight course while taxiing and hovering, use a fixed reference such as the bank or a stationary object in the water. When reference points are not available, judge movement by swirls, burbles, or slicks seen around the floats.  
+
+Hovering a helicopter over open water can create deceptive sensations. Without a reference point, extensive or rapid helicopter movements may go unnoticed. Very smooth and very rough water aggravate this situation. The most desirable water conditions are moderate ripples from a light breeze. An odd sensation, similar to vertigo, is sometimes produced by the concentric outward ripples resulting from the rotorwash, and pilots must keep their eyes moving and avoid staring at any particular spot. The inexperienced pilot may choose to initiate a slight forward movement when taking off into or landing from a hover. This guards against undesirable backward or sideward drift during takeoff or landing. With smooth water conditions, the usual tendency is to hover too high because the outward-flowing ripples from the rotorwash gives the pilot the sensation of being in a bowl and descending.  
+
+# TAKEOFF  
+
+A float equipped helicopter can perform a normal takeoff from a hover or directly from the water. If there is insufficient power available for a normal takeoff, a running takeoff from a slow forward taxi may be an option. However, remember that water creates drag, so with insufficient power, a running takeoff may not be possible either.  
+
+The preferred method for taking off from water is to move forward into translational lift without pausing to hover after leaving the water. This type of takeoff is similar to a normal takeoff from the surface.  
+
+A normal takeoff from a hover over water is similar to the same type of takeoff over a hard surface. A common problem is poor judgment of altitude and rate of acceleration, which causes the pilot to increase speed without an increase in altitude. This causes the helicopter to enter the high speed portion of the height/velocity diagram, reducing the probability of a successful autorotation in the event of an engine failure. Also, be aware of possible restricted visibility during takeoff from water spray produced by the rotors. To help alleviate these problem areas, as the helicopter begins to move forward, use reference points some distance in front of the helicopter.  
+
+Over water, ground effect is reduced from the absorp- tion of energy in the downwash. This increases the power required to hover and with other factors may exceed the power available. When this occurs, perform a slow taxi to a takeoff to take advantage of the translational lift produced from the forward motion. Remember, translational lift is also affected by any wind that is present. Apply sufficient collective pitch to keep the floats riding high or skimming the surface. While skimming the surface, float drag increases rapidly, and the takeoff must be executed promptly since a further increase in speed, with the floats plowing in the water, is likely to exceed the limit of aft cyclic control or cause the floats to tuck under the water. The speed at which the floats tuck under is the maximum forward speed that can be attained and is determined by the load and attitude of the helicopter. Never lower the collective during this procedure because doing so could bury the nose of the floats in the water and possibly capsize the helicopter.  
+
+# LANDING  
+
+Pilots performing glassy water landings may experi- ence some difficulty in determining their altitude above the surface. The recommended procedure is to continue an approach to the surface with a slow rate of descent until making contact, avoiding any attempt to hover. The helicopter’s downwash creates a disturbance in the water as concentric ripples moving away from the helicopter. Although this provides the pilot with a visual reference, it may also cause the sensation of moving backwards or descending rapidly. A natural tendency is to apply too much collective pitch in an attempt to halt the perceived descent. To overcome the effects of these visual illusions, avoid staring at the water near the helicopter and maintain forward and downward movement until contacting the water. When making approaches to a landing on a large body of water when land areas or other fixed objects are not visible, occasionally glance to either side of the horizon to avoid stare-fixation. Another technique some pilots use when fixed objects are not available, and the water is glassy, is to make a low pass over the area to create a disturbance on the surface. This disturbance remains for a while giving the pilot a reference to help determine distance.  
+
+When landing on water with a slight chop, bring the helicopter to a hover and descend vertically with no horizontal movement. This procedure is similar to landing on a hard surface.  
+
+Make a running landing on water when high density altitude or a heavy load results in insufficient power to hover. Perform this type of landing when sufficient power is not available to reduce the speed to 5 knots or less. When approaching with greater than 5 knots of speed, hold a slight nose-high attitude to allow the aft portion of the floats to plane. Maintain collective pitch until the speed reduces to below 5 knots, and the heli- copter settles into the water. At zero groundspeed, slowly lower the collective into the full down position. Lowering the collective or leveling the helicopter too quickly may result in the floats tucking, which can cause the helicopter to capsize.  
+
+Landing the float helicopter becomes  risky  when the height of short, choppy waves exceed one half the distance from the water to the helicopter’s stinger, and the distance from crest to crest is nearly equal to or less than the length of the helicopter. These waves cause the helicopter to pitch rapidly and may bring the rotor blades in contact with the tail boom or the tail rotor in contact with the water. In addition, avoid landing parallel to steep swells as this could lead to dynamic rollover. [Figure 9-5]  
+
+If landing on waves higher than half the distance from water to stinger, the following techniques apply:  
+
+• Land the helicopter   $30^{\circ}$   to   $45^{\circ}$   from the direct heading into the swell. This minimizes the fore and aft pitching of the fuselage, reducing the possibility of the main rotor striking the tail boom, or the tail rotor contacting the water. This also minimizes the possibility of dynamic rollover.  
+
+![](images/943b734d25044d5c65885d48154518db5b5e17e1f0a4d5791e810a196b26ccaa.jpg)  
+Figure 9-5. Effect of landing heading relative to waves.  
+
+• When landing with power, maintain rotor r.p.m. in the normal operating range. This permits a quick takeoff if the helicopter begins to pitch exces- sively or when an especially high wave becomes a hazard.  
+
+• When landing without power in high wave conditions, hold the desired heading as long as directional control permits. As the rotor r.p.m. decreases to the point that the desired heading cannot be maintained, bring the rotor to a stop as quickly as possible to avoid rotor contact with the tail boom.  
+
+# AUTOROTATION  
+
+An autorotation to water is similar to one performed on a hard surface except that during touchdown, the helicopter is kept in a slight nose-high position. For greater safety, slow to around 5 knots of forward speed. However, if this is not possible, maintain a slight nose-high attitude and full-up collective to allow the floats to plane until the speed decelerates below 5 knots. As the helicopter settles to the surface and slows to zero knots, level the helicopter with cyclic and lower the collective. Do not lower the collective or level the helicopter until the speed has reduced sufficiently or the floats may tuck causing the helicopter to capsize. Hold a pitch attitude that keeps the tail from contacting the water.  
+
+Autorotations to smooth, glassy water may lead to depth perception problems. If possible, try to land near a shoreline or some object in the water. This helps in judging altitude just prior to touchdown.  
+
+# SHUTDOWN AND MOORING  
+
+Although a helicopter can be moored prior to shutdown, it is preferable to fly to a landing spot on the dock or shore prior to shutting down. The helicopter can then be parked there. If mooring is the only option, be aware of any posts or pillars that might extend above the main dock level. Even though there may be plenty of blade clearance when the rotor is at full r.p.m., blade droop due to low r.p.m. could cause the blades to come into contact with items on the dock. Also be aware of wind and waves that could tilt the helicopter and cause the blades to contact objects. If near an ocean or large body of water, tides could change the water level considerably in just a few hours, so anticipate any changes and position the helicopter to prevent any damage due to the changing conditions.  
+
+When mooring the helicopter prior to shutting down, arrange the mooring lines so the tail cannot swing into objects once the rotors stop. Some pilots prefer to moor the helicopter nose in to protect the tail rotor.  
+
+If there is sufficient room to allow for drift and possible turning or weathervaning, the helicopter may be shut down on open water, but wind and water cur- rents may move the helicopter a considerable distance. When shutting down on open water, do so upwind or upcurrent and allow the helicopter to drift to the moor- ing buoy or dock. It might be necessary to use a paddle to properly position the helicopter.  
+
+Because of the great danger from the main rotor or tail rotor of the helicopter to personnel, docks, or vessels, pilots should never attempt to water taxi up to a dock or vessel. In addition, loading or unloading passengers or freight from a partially afloat helicopter with the rotors turning is extremely dangerous. When loading or unloading passengers, the helicopter should be resting on a hard surface, either on the shore or on a helipad on a dock or on a boat. Passengers should always:  
+
+• stay away from the rear of the helicopter,
+
+ • approach or leave the helicopter in a crouching manner,
+
+ • approach from the side or front, but never out of the pilot’s line of vision,
+
+ • hold firmly to loose articles and never chase after articles that are blown away by the rotor downwash, and
+
+ • never grope or feel their way toward or away from the helicopter.  
+
+# GROUND HANDLING  
+
+On helicopters equipped with floats-on-skids, ground handling usually can be performed with normal or slightly modified ground handling wheels. With the ground handling wheels kept onboard, the helicopter can be handled at any landing facility. On helicopters equipped with skids-on-floats, the helicopter must be transported by a special dolly or wheeled platform on which the helicopter lands.  Unless a dolly or platform is available at the destination, the aircraft usually remains where it lands.  
+
+# S KI EQUIPPED HELICOPTERS  
+
+Ski equipped helicopters are capable of operating from snow and other soft surfaces that might otherwise inhibit conventional gear helicopters. [Figure 9-6] Snow can greatly reduce visibility causing pilot disori- entation; therefore, special procedures are used when operating in snow.  
+
+![](images/c8b23e25e145029650a6ba8e233be1191439f05009ad449e10e0614e302f3992.jpg)  
+Figure 9-6. Ski equipped helicopter.  
+
+# CONSTRUCTION AND MAINTENANCE REQUIREMENTS  
+
+Helicopter skis are made from plastics and composite materials such as fiberglass with steel and aluminum hardware. Steel runners on the bottoms of the skis protect them during hard surface operations. Excessive wear of these runners can lead to wear or damage to the skis.  
+
+All of the steel bands securing the skis to the skids should have a protective rubber lining preventing the bands from wearing into the skids. This lining should be replaced if it becomes brittle or shows signs of wear.  
+
+Have any damage to the skis repaired before flight even if the skis are not needed, or simply have the skis removed. A cracked ski could break off and damage the helicopter or injure people on the ground.  
+
+# OPERATIONAL CHARACTERISTICS  
+
+Apart from the small weight penalty and slight reduc- tion in speed, a ski equipped helicopter operates exactly like one with no skis. The main concern when operating with skis is to avoid operations that may damage the skis, such as landing on rocks or rough hard surfaces.  
+
+# PREFLIGHT REQUIREMENTS  
+
+The preflight inspection consists of the standard aircraft inspection and includes additional items asso- ciated with the skis. The POH or RFM contains the appropriate supplements and additional inspection criteria. Typical inspection criteria include:  
+
+• Hardware —Inspect all of the steel bands and bolts securing the skis to the skids for security. Check for any movement of the skis on the skids. A torque stripe can help determine if any move- ment has occurred.
+
+ • Liner —Inspect the rubber liner between the steel bands and the skids.
+
+ • Runners —Inspect the steel runners on the bottoms of the skis.  
+
+• Condition —Inspect the skis for cracks and check the edges for separation of fiber layers.
+
+ • Clean —Remove all snow and ice from the skis which could break off and cause damage to the tail rotor during flight.
+
+ • Ski Freedom —In cold weather, it is common for the skis to freeze to the surface. Inspect the skis for freedom of movement.  
+
+# STARTING  
+
+Helicopter starting procedures on snow and ice are identical to a hard surface starting procedure except that care must be taken to maintain antitorque control on a slippery surface. When performing the free-wheeling unit check on ice, place the pedals in the autorotation position to prevent the helicopter from spinning.  
+
+# TAXIING AND HOVERING  
+
+When hovering over snow, the rotorwash may create a white-out condition if sufficient loose snow is present. Blowing and drifting snow may give the illusion of movement in the opposite direction. When operating in snow, it is vital to select a reference point to maintain situational awareness and take off directly to a high hover at an altitude that allows visual contact to be maintained. When performing a hover taxi, select the speed just above effective translational lift to help keep the blowing snow behind the helicopter. If loose snow is less than 6 inches, it may be possible to apply collective pitch to create enough rotorwash to blow away the majority of the snow before lift-off. If moving the helicopter a short distance, and especially when around other aircraft, it might be preferable to surface taxi on the skis.  
+
+When taxiing wheel-equipped helicopters on snow and ice, use caution when applying the brakes. If the helicopter begins to skid sideways, lower the collective, which places all of the weight on the wheels and move the cyclic in the opposite direction of the skid. If the skid continues, the best option at that point is to bring the helicopter into a hover, but be aware of objects that could lead to a dynamic rollover situation.  
+
+# TAKEOFF  
+
+Normal takeoff procedures are used in snow and ice, but before startup, check the departure path for any obstructions that may be obscured by blowing snow. Powerlines are difficult to see in the best conditions and nearly impossible to recognize through blowing snow.  
+
+Perform a takeoff from a hover or from the surface by fairly quickly increasing speed through effective translational lift and gaining altitude in order to fly out of the low visibility conditions. A takeoff from ice requires slow application of power and proper pedal application to prevent spinning. At certain tempera- tures, the skis may freeze to ice surfaces. If this occurs, a slight left and right yawing with the pedals may break the helicopter free. If this does not free the skids, shut down the helicopter and free them manually. Excessive pedal application could damage the skids.  
+
+# LANDING  
+
+As with takeoffs, landings in snow can prove to be extremely hazardous if reference points are not available. When possible, land near objects that won’t be easily obscured by blowing snow. If none are available, drop a marker made from a heavy object, such as a rock tied to a colored cloth; then retrieve it after landing.  
+
+When the snow condition is loose or unknown, make a zero-groundspeed landing directly to the surface without pausing to hover. A shallow approach and running landing can be performed when the snow is known to be hard packed and obstacles are not hidden under the snow. The lower power required in a running landing reduces the downwash and the forward motion keeps blowing snow behind the helicopter until after surface contact.  
+
+If the surface conditions are unknown, a low reconnais- sance flight might be appropriate. This could be followed by a low pass. A low pass might blow away loose snow and keep the debris behind the helicopter. If the surface appears appropriate for a landing, make an approach to a high hover to blow away any remaining loose snow and begin a vertical descent to the landing. If the surface appears to be deep hard-packed snow or ice, lower the collective slowly on landing and watch for cracking in the surface. Should one skid break through the surface, a dynamic rollover is likely to follow, so be prepared to return to a hover if the surface is unstable.  
+
+Skis are also very useful for landing on uneven or soft, spongy surfaces. They provide a larger surface area to support the helicopter, thus assisting in stability. Be sure that the skis are not hooked under roots or brush during lift-off.  
+
+# AUTOROTATION  
+
+Use normal autorotation procedures in ski equipped helicopters. Perform practice autorotations on snow or sod to reduce the wear on the skis.  
+
+# GROUND HANDLING  
+
+Shut down before loading and unloading. If shutting down is not feasible, load and unload passengers only from the front during snow and ice operations. This prevents the main rotors from striking an individual should one landing gear drop through the snow or ice. Beware of loading and unloading while running in deep snow as the rotor clearance is reduced by the height of the snow above the skids.  
+
+Most skis for skid-equipped helicopters allow use of standard or slightly modified ground handling wheels. Skis for wheel-equipped helicopters often have cutouts to allow the wheels to protrude slightly below the ski for ground handling.  

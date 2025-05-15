@@ -1,0 +1,94 @@
+# Risk Management Decision Path  
+
+![](images/d115bdd2a718c3f2a450b359c13b6cfa876ac736d6cdac03feb2948b56bb2451.jpg)  
+Pilot  
+
+Aircraft enVironment External Factors  
+
+PERCEIVE HAZARDS associated with:  
+
+Consequences Alternatives Reality External Factors  
+
+PROCESS RISKLEVEL by assessing:  
+
+PERFORM RISK Eliminate MANAGEMENT by deciding whether to: Accept  
+
+Mitigate  
+
+For additional information go to: faasafety.gov  
+
+![](images/823288888e8af06ac9ac3c3958eb937c480df36ed6ea401fb8282bc8d70bc0d8.jpg)  
+
+For questions about aviation safety, contact:  
+
+Your Local  
+
+Federal Aviation Administration Flight Standards District Office Prepared by the Department of Transportation Federal Aviation Administration  
+
+Tips for Teaching Practical Risk Management  
+
+# PURPOSE  
+
+Flying involves risk. To stay safe you need to know how to judge the level of risk, how to minimize it, and  
+
+![](images/1b6c7f9d806a5ca9068e04f08e3a822799ad7852bea2d9be70c8b8de2bf14230.jpg)  
+
+when to acceptit. This guide introduces risk management tools thatyou can use and teach to your flight training clients.  
+
+# PROFILE  
+
+A hazard is a condition, event, object, or circumstance that could lead to an undesired event -- like an accident.For example:  
+
+·Pilotis unfamiliar with local area, pro cedures,or terrain features.  
+
+·Weather encountered  in flight  is worse than forecast.  
+
+Airport has unusual features, such as high terrain or ongoing construction.  
+
+·Flight dispatcher asks you to be sure to return the aircraft on time, because it is needed for someone's practical test later in the day.  
+
+Riskis the potential impact of ahazard thatyou do notcontrol oreliminate.The level of risk is measured by the number of people or resources affected (expo- sure);the extent ofpossibleloss(sever- ity); andlikelihood of loss (probability).  
+
+# PRACTICES  
+
+A"teachable moment"occurs whena student can clearly see how specific in- formation or skills can be used in the real world.Youcanfind,orcreate,teachable momentsonrisk managementin every flight training activity: pattern work, air work in the local practice area,cross- country, flight review, or instrument proficiency check.Forexample:  
+
+Sample Scenarios:  
+
+1.Thepilotappears harried,fatigued,or stressed before a flight.Call attention to the consequences (risk) thatcanarise whenthe pilot is distracted，andask whatcan be done tolower the risk.  
+
+![](images/7c08a17e748a515badf00918415e8c123b5e116d28c4865f81916881f0d3fed6.jpg)  
+
+2. Ask"what-if" ques- tions on the risk of a mechanical issue that is not clearly a "no-go"item:  
+
+What do you do if you find fuel stains under a wing?  
+
+·What risk arises in a day VFR flight if the vacuum pump is inoperative? (Re- member to discuss 14 CFR 91.213!)  
+
+3. Take the pilot out of his or her comfort zone by going to a place with unfamiliar airports,procedures,orterrain.Usecon- ditions that you find (e.g., out-of-service equipment) to teach the difference be- tween what is legal and what is safe for this particular pilot and aircraft.  
+
+The Perceive-Process-Perform model of- fers a structured way to manage risk:  
+
+Perceive hazards by looking at:  
+
+Pilot experience, currency, condition Aircraft performance, fuel enVironment (weather, terrain) External pressures (appointments)  
+
+rocess risk level by considering:  
+
+Consequences posed byeachhazard Alternatives that eliminate hazards Reality (avoid wishful thinking!) Externalpressures(get-home-itus)  
+
+Derform risk management:  
+
+Transfer-can you consult someone? Eliminate - can you remove hazards? Accept -- do benefits outweigh risk? Mitigate -- can you reduce the risk?  
+
+# OSTFLIGHT  
+
+Toreinforcethe risk managementles- sons of theflight, ask questions that let the pilot learn by reflecting onhis orher actions and decisions at key moments:  
+
+-What went well?  
+
+·What could have been better?  
+
+·What would I do differently?  
+
+·What additional knowledge and skills do I need to safely handle (or avoid) this kind of situation?  

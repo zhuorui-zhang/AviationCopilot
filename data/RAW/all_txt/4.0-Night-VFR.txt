@@ -1,0 +1,79 @@
+Risk Management Decision Path  
+
+![](images/36c5aee682c99d2cbd920541e05125eb1f885cc50d461325c9ebb63e23e6c95a.jpg)  
+
+Pilot  
+
+PERCEIVEHAZARDS associatedwith:  
+
+enVironment  
+
+External Factors  
+
+Conseguences  
+
+Alternatives  
+
+PROCESSRISKLEVEL by assessing:  
+
+Reality External Factors  
+
+Transfer  
+
+PERFORMRISK MANAGEMENT by deciding whether to:  
+
+For additional information go to: faasafety.gov  
+
+![](images/7dfdcd2f017c6b7d03761b7c9ecebd77a9d4e1d45e971e12980cc3ae9abef3d4.jpg)  
+
+For questions about aviation safety, contact:  
+
+Your Local  
+
+Federal Aviation Administration Flight Standards District Office Prepared by the Department of Transportation Federal Aviation Administration  
+
+Practical Risk Management for Night VFR Flying  
+
+# PURPOSE  
+
+Flyingatnightcanbevery enjoyable, if pilots under- stand the differences of night flying and take the necessary actions to pre- pare for a safe flight. This  
+
+![](images/de6657836c34a8cfe650fdee6ee78e5f2f43792d045c44b0eff3ba0b90fd1606.jpg)  
+
+guide suggests ways to teach risk man age ment for safe VFR flying at night  
+
+# PROFILE  
+
+Factors in night accidents often include errors in planning, decision-making, and risk management. Fatigue can contrib- ute tosuch errors.Its effectsinclude:  
+
+."Channelized" attention ·Poor judgment ·Slowed reaction time ·lnattention ·Ease of distraction  
+
+Other errors common in night VFR acci dentsinclude:  
+
+·Lack of proper equipment (flash- lights, batteries) ·Loss of situational awareness ·Problems with night vision ·lnadequate traffic scan ·Vulnerability to optical illusions  
+
+# PRACTICES  
+
+Consider structuring a night training or proficiency session as a short cross- country flight, with night takeoff and landing practice at the destination air- port. During each phase of the flight, look for (or create) "teachable moment" scenarios that provide an opportunity to teach good risk management pra c- ticesfor night VFRflying.  
+
+Sample Scenarios  
+
+1.Preflight:Ask the pilot tolist hazards related to pilot (fatigue, night experi- ence), aircraft (working lights), environ- ment (airport lighting, terrain), and ex- ternal pressures (closing times).Stress the importance of a thorough pre flight that includes checking all essential lights and reviewing the location of key circuitbreakers.  
+
+2. Taxi/Takeoff: Simulate an electrical failure during taxi to teach the impor- tance of planning the taxi route, know- ing the airport layout, and positioning a flashlight to illuminate the panel in case of electrical failure after takeoff.Use the Airport/Facility Directory to obtainthe correct frequencies for activating lights.  
+
+3. Enroute: Consider diverting the flight due to simulated bad weather.Ask the pilot to select an alternate and explain why it is a safe choice.Encourage use of the Air Safety Foundation's Terrain Avoidance Planning tools,or carry IFR enroutecharts tohelpstayabove ter- rain. A VFR flight plan and VFR flight fol- lowing are excellent practices for night VFR.If the flight takes place above 5,ooo MSL,remind the pilot that oxygencan help night vision.  
+
+Descent/Approach: :Be surethat thepilotunderstandsthedestination airport's runway layout and lighting. Where is the rotating beacon in relation to the runway or to terrain?  
+
+5. Landing/Parking: A new place can be confusing in darkness,soteachthe pilot to keep a taxi diagram close by. During ground operations near other aircraft, donotusestrobesoraimlandinglights at other pilots.  
+
+Throughout the flight, ask the pilot to consider consequences of each deci- sion, list alternative actions, recognize thereality ofthe situation,andbe sen- sitive to any external pressures that can distract or drive an unsafe decision.  
+
+# POSTFLIGHT  
+
+Use the postflight discussiontoask questions that let the pilot learn from his or her decisions.Forinstance:  
+
+·What part(s) of the flight made you uncomfortable?  
+
+lf you could change something you did,what would it be, and why?  

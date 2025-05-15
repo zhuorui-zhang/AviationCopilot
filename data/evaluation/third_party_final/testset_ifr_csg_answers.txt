@@ -1,0 +1,641 @@
+Q: A pilot has performed one instrument approach, including holding and tracking procedures, per month starting in June, except they skipped December because of holiday commitments. Are they legal to operate a ﬂight as PIC under IFR in January?
+A: No they are not. They are short one approach.
+
+Q: You are talking to an old-timer at the airport. He says that even though he never explicitly holds, he satisﬁes currency requirements to operate under IFR because he does one approach with a full procedure turn each month. Is he right?
+A: No he is not, while holding in lieu of a procedure turn is a speciﬁcally deﬁned maneuver, a full procedure turn does not necessarily deﬁne a complete holding pattern.
+
+Q: If a pilot accomplishes all currency requirements on October 10th, 2019 and then stops ﬂying, when will they be required to complete an IPC to operate as PIC under IFR?
+A: November 1st, 2020.
+
+Q: Say the pilot above has let her IFR currency expire, but is not yet required to complete an IPC. How can she renew her currency without an IPC?
+A: By completing 6 approaches, intercepting, tracking, and holding with a safety pilot.
+
+Q: Your last medical certiﬁcate was issued in September 2012 and expired in 2014. You do not have a U.S. driver’s license, but you have a U.S. passport. Are you eligible for BasicMed?
+A: No, a passport cannot be used as a substitute for a driver’s license under BasicMed.
+
+Q: Can BasicMed be used in operations for compensation or hire?
+A: No.
+
+Q: Your Cessna 310 has a maximum certiﬁed takeoff weight of 5,825lbs and is capable of seating 6. Can you operate it under BasicMed?
+A: Yes.
+
+Q: Why do embedded thunderstorms pose such a risk to instrument pilots in particular?
+A: Embedded thunderstorms are difﬁcult to detect and are visually obscured.
+
+Q: If an embedded thunderstorm is encountered, what options does the pilot have?
+A: - Ask ATC for vectors clear of weather, or proceed into clear air. 
+- Fly at maneuvering speed. 
+- Turn cockpit lights fully up.
+
+Q: There are two major reasons why freezing rain is such a major focus when it comes to icing. What do you think these reasons are?
+A: Freezing rain tends to form heavy clear ice, which can accumulate very quickly (disrupting airﬂow and adding weight), and can also be hard to see.
+
+Q: What is signiﬁcance of large super-cooled droplets?
+A: SLD's are extremely hazardous to aircraft and cause rapid ice accumulation in all areas.
+
+Q: Why may a pilot ﬂying slightly inland turn towards the coast when encountering icing conditions?
+A: Warmer air over the water may reduce or eliminate icing conditions.
+
+Q: What is the risk associated with encountering icing with the autopilot engaged?
+A: Not being able to feel control pressures associated with ice collection.
+
+Q: How does airplane performance change with ice accrual? What considerations should be made during approach and landing?
+A: Aircraft performance is severely reduced by ice. If possible approach with more speed and ﬂaps up to avoid a conﬁguration change induced stall.
+
+Q: You are flying at 7,500ʹ MSL over terrain at 5,000ʹ MSL during a day with a freezing level of approximately 9,000ʹ MSL. After crossing the next fix, your minimum en-route altitude (MEA) changes to 9,500ʹ MSL. What do you need to consider in this situation?
+A: You must consider if, should visible moisture be encountered, your aircraft is prepared and equipped to begin ﬂight in icing conditions.
+
+Q: You are preparing to dispatch from a sea level airport on a local flight to shoot approaches and take advantage of the widespread 500ʹ ceilings. The freezing level is 1,000ʹ MSL. What consideration do you need to make, aside from the potential that you will encounter icing?
+A: Consideration for alternate airport options should be made since an icing encounter could become an emergency in a hurry if weather conditions deteriorate and go below precision minimums.
+
+Q: What conditions can lead to the formation SLDs?
+A: High moisture content and temperatures below freezing with minimal condensation nuclei present.
+
+Q: Why are SLDs such a signiﬁcant hazard to instrument pilots?
+A: Instrument pilots may spend signiﬁcant amounts of time in conditions where SLDs are not visible until encountered.
+
+Q: If SLDs are caused by collision-coalescence, how effective will a climb be in getting out of icing conditions?
+A: Climbing out of these conditions could reduce the amount of collision-coalescence occurring as the top of the visible moisture is reached reducing SLD concentration.
+
+Q: What methods can a pilot use to avoid SLD during a ﬂight?
+A: Exercise caution ﬂying in IMC in cold temperature inversions, additionally if collision-coalescence is suspected keep in mind altitude change of 3,000ft generally change icing conditions.
+
+Q: In a level constant-rate turn, while increasing power, which instruments are primary?
+A: Turn coordinator, and airspeed indicator.
+
+Q: In a constant speed descent, which instruments are primary?
+A: Airspeed indicator, and heading indicator.
+
+Q: Which instrument is primary for bank in all straight (non-turning) ﬂight?
+A: Heading indicator.
+
+Q: Which instrument is primary for pitch in all level (non-climbing/descending) ﬂight?
+A: Altimeter.
+
+Q: What is the cardinal sin of instrument failures?
+A: Overreacting
+
+Q: Why is overreaction such a dangerous response to an instrument failure?
+A: An overreaction often creates a situation that:
+- Makes it more difficult to identify which instrument has failed. 
+- Increases the likelihood of inadvertently entering an unusual attitude.
+
+Q: While in IMC, you notice the attitude indicator is drifting off to the left. The directional gyro indicates a turn left, while the turn coordinator shows a slight turn right. What has likely happened?
+A: Most likely the turn coordinator has failed.
+
+Q: On climb out, you notice the airspeed is stuck at 55 knots even though you are maintaining a pitch/power combination that should result in a 75 knot climb. What action should you take?
+A: Fly the airplane visually and/or according to know pitch and power settings. If in VMC, return to land. If in IMC, coordinate to return to land.
+
+Q: Why are small corrections so critical to good instrument ﬂying?
+A: Small corrections allow for precise aircraft control and avoiding inputs that could lead to spatial disorientation.
+
+Q: How does aerodynamic knowledge apply to ﬂying well as an instrument pilot?
+A: Applying aerodynamic knowledge allows instrument pilots to anticipate future power and control needs. Realizing, for example, the need to decrease rudder pressure while transitioning from a climb attitude to level attitude with a constant power setting.
+
+Q: Why is it preferable to maintain coordination with your feet versus consistently correcting bank issues with the ailerons?
+A: Applying corrections in coordination with rudder inputs leaves your hands free to manipulate radios, charts, and other essential functions.
+
+Q: If you are cruising at 15,000 feet and need to cross an approach ﬁx at 3,000 feet, how far away from that ﬁx should you start down?
+A: 36nm away.
+
+Q: What rough vertical speed target should a pilot use for a standard 3° glideslope if their airspeed is 115 knots?
+A: 600 feet per minute.
+
+Q: Why are rules of thumb important in instrument ﬂying?
+A: Rules of thumb allow pilots to make quick judgement calls that directly impact safety when plans change.
+
+Q: You have planned to ﬂy a particular departure procedure, and have received the departure procedure as part of your clearance. Soon after departure, ATC tells you to procedure direct to a VOR, deviating from your original clearance. What are some reasons ATC might do this?
+A: Typically this occurs for trafﬁc ﬂow optimization. The aircraft behind you might be faster and gaining on you so vectoring you off the departure allows for more efﬁcient use of airspace.
+
+Q: At a minimum, departure and arrival procedures are designed to assure what?
+A: Terrain and obstruction clearance.
+
+Q: The clearance ATC assigns you is completely different from what you ﬁled for. What should you do before you ﬂy according to that clearance?
+A: Analyze the route to assure there are no restrictions you are unable to meet in your aircraft, and verify fuel requirements.
+
+Q: How can you minimize the likelihood of ATC changing your clearance?
+A: File according to preferred routing and avoid ﬁling direct over long distances.
+
+Q: What is Tower En-route Control?
+A: TEC is a series of published low-altitude IFR routes in which the entire routing is between adjacent approach control facilities. TECs are present in busy airspaces like Los Angeles.
+
+Q: What is an ATC preferred route?
+A: Preferred routes are those which are published for ﬂights between busy terminal airports to optimize trafﬁc ﬂow.
+
+Q: You are planned to arrive at your destination at 2325Z. The forecast weather at 2230Z is 2sm and overcast at 1,500. At 2330Z, the forecast is clear skies and more than 6sm. Do you need an alternate?
+A: Yes.
+
+Q: What is required to use an airport as alternate if it lacks instrument approach procedures?
+A: Be able to descend from the en-route MEA to the ﬁeld in basic VFR conditions.
+
+Q: [Requires reference ﬁgure on lesson page] Burbank (KBUR) and Van Nuys (KVNY) towers are closed. Which approach(es) is/are available to use Van Nuys as an alternate, if the forecast weather upon arrival is 6sm visibility and $\mathbf{850^{\prime}}$  ceilings? You are category B.
+A: None of the approaches are available.
+
+Q: Many precision approaches cannot be used to meet alternate requirements when local weather is unavailable. Why might this be?
+A: Because minimums are low enough that variations in altimeter settings may have a considerable effect on terrain clearance.
+
+Q: What does the ‘A’ in a black triangle signify on an approach plate?
+A: That airport has nonstandard alternate minimums.
+
+Q: What is a false glideslope?
+A: A condition where the bottom lobe frequency of the glideslope is refracted off ground based objects reversing the airborne sensing of the glideslope which can occur when intercepting extremely high.
+
+Q: How can you positively identify an ILS?
+A: Monitor the frequency and listen for the correct morse code.
+
+Q: When a NOTAM exists for “GS INOP” are you still able to shoot the localizer approach? Yes.
+A: What limitations exist on ILS service volumes?
+
+Q: What limitations exist on ILS service volumes?
+A: Within 10nm the course is 70 degrees wide, and out to 18nm the course is 20 degrees wide.
+
+Q: Each dot of deﬂection from a CDI is how many degrees of course?
+A: 1/2 a degree of course.
+
+Q: In simple terms, how does a VOR work?
+A: Compares two frequencies against each other, one directional and one omnidirectional to determine location from the station.
+
+Q: What navigational information can a VOR provide?
+A: The relationship of an aircraft with respect to the station.
+
+Q: What does the TO/FROM arrow on a VOR instrument indicate?
+A: The TO/FROM arrow indicates the desired direction to be ﬂown relative to the VOR position.
+
+Q: What is the difference between a radial and a bearing? Can they ever be the same?
+A: A radial is a magnetic azimuth off of a VOR. A bearing is a magnetic course. A radial and bearing are the same when the airplane is tracking directly outbound on a radial.
+
+Q: What condition will create reverse sensing?
+A: Reverse sensing occurs when selecting a radial more than 90 degrees off from the current heading. In other words, reverse sensing occurs when there is a disagreement between the OBS selection and the course. Or, really simply, reverse sensing occurs when you select TO but fly FROM or fly FROM but select TO.
+
+Q: What is the primary danger in reverse sensing?
+A: The major risk with reverse sensing is without an awareness of its occurrence it will lead an aircraft off-course and create a loss of situational awareness.
+
+Q: What is DME?
+A: DME or distance measuring equipment provides the distance of the aircraft from the station.
+
+Q: How does DME work?
+A: On-board DME equipment sends a signal to the station. The DME station returns a signal. The time delay between sending the ﬁrst signal and receiving a response is calculated as distance.
+
+Q: Do all VORs have DME? How do we know if a VOR has DME equipment?
+A: Not all VORs have DME. When DME is present the VOR symbol will have a square box around it.
+
+Q: Do VORTACs have DME capability?
+A: Yes.
+
+Q: What is slant-range error?
+A: Slant range error is the angular error in distance across the ground caused by altitude. DME measures straight-line distance, not distance over the ground. In other words, it’s the error caused by measuring the triangle hypotenuse instead of the base.
+
+Q: How does GPS work?
+A: GPS equipment receives distance information from multiple satellites to determine an approximate 3-dimensional position in space.
+
+Q: How many GPS satellites are needed to establish a 3 dimensional position?
+A: Four.
+
+Q: What is the advantage of GPS compared to VORs or NDBs?
+A: There are several advantages: 
+- GPS is not reliant on ground-based aids which are subject to interference and often down for maintenance
+- GPS is generally more accurate
+- GPS can be used over large bodies of water where ground based aids don’t exist
+- GPS can be used to build procedures at airports without necessitating building and maintaining ground based aids
+
+Q: Why do many GPS systems require contact with 5 satellites in order to function properly?
+A: The 5th GPS satellite provides Receiver Autonomous Integrity Monitoring (RAIM) — essentially a backup satellites to detect potential errors from the other 4.
+
+Q: VORs and localizers provide similar information. Do they function similarly?
+A: 
+No.
+- VORs use the timing between a directional and omni-directional signal to determine azimuth.
+- Localizers use the overlap between a 90Hz and 150Hz signal to determine azimuth.
+
+Q: True or false: localizers and glideslopes provide different information, but function essentially the same way.
+A: True
+
+Q: What is a ﬁx?
+A: A ﬁx is a 2-dimensional point in space and can be deﬁned and identiﬁed in various ways:
+- The intersection of two VOR radials
+- a GPS fix
+- A specific DME along a VOR radial
+- A VOR itself
+- A GPS distance along a specific course
+
+Q: Can a ﬁx be reliably produced by receiving only two DME signals? Why or why not?
+A: No. In most instances, reception of two DME signals without azimuth information will generate two possible locations in space. The exception to this is along the most direct line between two stations, but without azimuth information it is impossible to determine whether or not the airplane is in fact along that line.
+
+Q: What is the function of marker beacons?
+A: Marker Beacons alert pilots to their distance from the runway along a localizer.
+
+Q: Where will a pilot usually be if they ﬂy over an outer marker?
+A: Over the ﬁnal approach ﬁx.
+
+Q: What is the difference between an outer marker (OM) and low outer marker (LOM)?
+A: A LOM is co-located with an NDB.
+
+Q: What is the advantage of a LOM?
+A: A LOM provides directional information while an OM alone does not.
+
+Q: What is the difference between RNAV and GPS?
+A: RNAV is a general navigation method that includes GPS, INS, LORAN, etc. GPS is a speciﬁc system used for RNAV navigation, although it is by far the most common type of RNAV system in general aviation.
+
+Q: What is an INS?
+A: Inertial Navigation System. INS is a navigation system that uses laser-ring gyros to monitor changes in airplane position over time.
+
+Q: What is WAAS?
+A: Wide Area Augmentation System. WAAS uses ground based stations to increase the accuracy of GPS systems to within ${\sim}3$  meters.
+
+Q: What are the advantages of RNAV systems?
+A: RNAV systems permit more efﬁcient ﬂight planning, reduce reliance on ground-based navigation stations en-route and for approaches, and permit RNP-certiﬁed operators/aircraft to conduct approaches with curved approach paths.
+
+Q: How many GPS satellites are needed to determine a 3D position? Why do aviation systems require contact with an extra?
+A: 4; A 5th is used to provide receiver autonomous integrity monitoring (RAIM) which ensures the accuracy of the 4 primary satellites.
+
+Q: GPS is designed to maintain line of sight, anywhere on earth, to how many satellites?
+A: 6. 
+
+Q: What are FMS? What is the function of FMS?
+A: FMS are integrated computer systems which, depending on the speciﬁc system, integrate autopilot, navigation, performance, and communication systems.
+
+Q: What are some ways that FMS can reduce pilot workload?
+A: - Integrating crossing restrictions and step-downs into the autopilot system, and altering pilots when the required performance will not be available.
+- Automatically sequencing waypoints during high-workload phases (e.g. missed approach).
+
+Q: What is the general operating philosophy behind de-ice boots?
+A: De-ice boots use pressurized air to inﬂate ribbed rubber boots at timed intervals to cause accumulated ice to fracture and break off of the leading edge.
+
+Q: What is the general operating philosophy behind weeping wings?
+A: Activating weeping wings prior to accumulating ice coats the aircraft in glycol based antifreeze preventing ice accumulation.
+
+Q: If an airplane has anti-ice or de-ice equipment, which parts of the airplane usually are protected? Why is this?
+A: Leading edges of airfoils such as wings, the horizontal stabilizer, and propellers to minimize the aerodynamic impact, as well as windshields and engine cowls.
+
+Q: What is the advantage of heated wings over boots or glycol ﬂuid?
+A: Heated wings function as both anti-ice and de-ice.
+
+Q: What steps can a pilot take to ensure that they never takeoff with pitot-static covers still on the airplane?
+A: - Ensure they are removed during pre-flight
+- Perform an airspeed check on the takeoff roll
+
+Q: Will a pitot failure cause any abnormal indications on the altimeter and/or VSI?
+A: No.
+
+Q: What is the risk associated with a clogged pitot tube drain only (ram air port is open)?
+A: The indicated airspeed will be abnormally low or zero.
+
+Q: In cruise flight, you notice the airspeed indicator, which should be indicating roughly 110 knots, is indicating 55. The altimeter and VSI are level and the attitude indicator shows a 2˚ nose up attitude. What has likely failed?
+A: Most likely the pitot tube has become blocked (e.g. by a bug) and is giving erroneous indications.
+
+Q: In cruise flight, you notice the airspeed indicator, which should be indicating roughly 110 knots, is indicating 55. The altimeter and VSI are level and the attitude indicator shows a 2˚ nose up attitude. You also notice a bumpiness that you think could be pre-stall buffet. Does this change your assessment as to which instrument is failed?
+A: No. It is most likely just light turbulence. Because the attitude indicator, altimeter and VSI are all in agreement, it is highly unlikely that the error is not with the pitot tube.
+
+Q: Breaking either the VSI or altimeter would create a make-shift static alternate source. Why is it usually better to break the VSI?
+A: The VSI is generally less critical of an instrument and cheaper to replace.
+
+Q: Why does use of an alternate static source cause slightly higher-than-normal altitude and VSI indications?
+A: The cockpit of unpressurized airplanes are not air-tight. The fast-moving air around the fuselage creates a low pressure, which sucks a small amount of air out of the cockpit, producing a slight low pressure. This low pressure causes slightly higher-than-normal readings on the altimeter and VSI.
+
+Q: On takeoff, the attitude indicator indicates a left turn while the turn coordinator and directional gyro indicator a right turn. Which instrument has likely failed?
+A: The attitude indicator.
+
+Q: Your attitude indicator indicates a nose low attitude, while your airspeed indicates just above stall speed. The altimeter and VSI indicate a slow climb. What instrument has most likely failed?
+A: The attitude indicator.
+
+Q: Why does the turn coordinator usually rely on the electrical system while the other gyroscopic instruments use vacuum power?
+A: To create redundancy in measuring turn direction.
+
+Q: What type of gyroscopic failure is likely to create the biggest threat to safety?
+A: Failure of the attitude indicator.
+
+Q: After determining that a broken gyroscopic instrument cannot be ﬁxed in ﬂight, what is the best way to mitigate the risk associated with its failure?
+A: Cover the offending instrument to avoid disorientation and confusion.
+
+Q: What is the purpose of autopilot?
+A: Reduce pilot workload appropriately during certain phases of ﬂight to allow for brieﬁngs or other tasks.
+
+Q: What are the advantages of autopilot?
+A: Autopilot reduced the fatiguing nature of instrument especially in cruise. Additionally it allows pilots to complete other tasks like reviewing approach plates, setting radios, and plan arrival duties.
+
+Q: How does autopilot ﬁt into the concept of single pilot resource management?
+A: Autopilot allows a single pilot balance their ﬂight even without coupled approach capabilities by providing opportunities to setup ﬂight instruments for the next phase of ﬂight.
+
+Q: Are there times when autopilot should not be used?
+A: Absolutely. For example, when immediate control inputs are required, or when an autopilot mode is not engaging or malfunctioning.
+
+Q: What is the risk of becoming over-reliant on autopilot?
+A: Hand-ﬂying skills can deteriorate causing a lack of situational awareness and leading to more loss of control accidents in the event the automation fails and manual control is assumed during an undesired aircraft state.
+
+Q: What engine function should be checked immediately after start?
+A: Positive oil pressure (most airplanes — consult your POH for speciﬁcs)
+
+Q: Before takeoff, engine instruments should indicate what?
+A: Generally, they should indicate in the green ranges for oil pressure and temperature (again, consult your POH for speciﬁcs).
+
+Q: How does a pilot determine proper function of pitot-static instruments during taxi?
+A: - Airspeed should be roughly zero or equal to the speed of relative wind.
+- Altimeter should indicate within 75’ of field elevation once set to the current altimeter setting.
+- VSI should be steady and near 0.
+
+Q: How does a pilot determine proper function of gyroscopic instruments during taxi?
+A: - Attitude indicator should remain ± 5° through turns.
+- Turn coordinator should indicate a turn in the direction of turns, while the ball swings outside.
+- Directional gyro should show a turn in the correct direction.
+
+Q: What function of the electrical system should be checked after start?
+A: Function of the generator/alternator.
+
+Q: What is an ATC clearance?
+A: Approval to operate an airplane in controlled airspace according to the requirements issued in the clearance.
+
+Q: When could an IFR ﬂight be ﬂown without a clearance?
+A: In uncontrolled airspace.
+
+Q: When will a clearance limit be speciﬁed?
+A: When the clearance limit is different than the destination airport.
+
+Q: What are the major components of a clearance?
+A: CRAFT: clearance, routing, altitude, frequency (departure), transponder code.
+
+Q: How do pilots know that they have properly copied the clearance issued?
+A: The controller will respond with “read back correct”.
+
+Q: How does activating an IFR ﬂight plan differ at towered and non-towered airports?
+A: At a towered airport, IFR ﬂight plans are activated with clearance or ground control. At non- towered airports they must be activated with the appropriate departure or center, either over VHF or phone.
+
+Q: You are issued a clearance with a void time 3 minutes from now. You have a three minute taxi to the runway, and need to perform a run-up. What should you do?
+A: Do not accept it. Request a longer void time. If they cannot accommodate that, tell them you will call them back when you are within 3 minutes of departure.
+
+Q: What is a clearance limit?
+A: The clearance limit is the point to which an aircraft is cleared.
+
+Q: What is usually the clearance limit on most ﬂights?
+A: The destination airport.
+
+Q: You are approaching your clearance limit, with no further instructions. What should you do?
+A: Query ATC for a clearance revision.
+
+Q: What is the difference between receiving a new clearance limit and receiving a routing amendment from ATC?
+A: Receiving a new clearance involves a change to the clearance limit, while a re-route is changing the routing to the same clearance limit.
+
+Q: 80 miles away from your destination airport while level at 15,000 feet, ATC tells you to “descend pilot’s discretion to 7,000 feet.” You start down at 45 miles. Is there any report that must be made?
+A: Yes. Tell ATC upon commencing your descent.
+
+Q: While en-route your #1 VOR receiver suddenly indicates failure ﬂags and you no longer have navigation capabilities. Is an ATC report necessary?
+A: Yes. Tell ATC about your navigation issue.
+
+Q: After takeoff on an IFR ﬂight plan your hand held GPS unit fails. Is an ATC report necessary?
+A: No. The hand held unit is for situational awareness purposes only. Your ability to navigate is not impaired.
+
+Q: What information should be transmitted to ATC upon reaching an assigned holding ﬁx?
+A: Aircraft tail number or callsign, the current time, and the altitude.
+
+Q: What mandatory report may a pilot need to make while climbing to 15,000 feet in a Cessna 172?
+A: Reporting their inability to maintain at least a 500fpm climb.
+
+Q: How do reporting requirements change in radar and non-radar environments?
+A: Compulsory reporting points are mandatory only in non-radar environments.
+
+Q: How would a pilot’s response to an in-ﬂight emergency change in a non-radar environment opposed to in a radar environment?
+A: In a non-radar environment it is crucial to relay your location to ATC, as they will only know your general location. In a radar environment this is less critical because ATC can see your location (that said, you may drop off radar coverage in the descent, so if you can be very precise it can be worth updating ATC as to the exact location. For example: “we’ll be in the river, just past the bridge”)
+
+Q: You are 15 miles from a large thunderstorm at your twelve o’clock. Should you exercise your emergency authority to avoid it? Why or why not?
+A: Not yet. You have time to request a deviation from ATC.
+
+Q: What is the difference between requesting something from ATC and using your emergency authority?
+A: When you use emergency authority you are not necessarily adhering to ATC instructions. You are doing what needs to be done in the interest of safety.
+
+Q: Are there times when you could simultaneously involve ATC and exercise PIC authority?
+A: Yes. One example would be initiating an emergency descent (emergency authority) for a ﬁre while asking ATC for vectors to the nearest ﬁeld.
+
+Q: Why may a pilot be asked to hold?
+A: A pilot may be asked to hold for a variety of reasons, including:
+- Arrival delays
+- Delaying an approach for weather
+
+Q: Why may pilots choose to hold?
+A: - To troubleshoot an issue while remaining in the same general area
+- To wait for weather to improve
+
+Q: What can pilots do to reduce their chance of holding?
+A: If approved by ATC, reduce airspeed well ahead of the holding ﬁx.
+
+Q: What kinds of ﬁxes can holds be created on?
+A: Any ﬁx, really.
+- GPS fix
+- Intersection of two radials
+- A VOR station
+- A DME fix along a VOR radial
+- A RNAV distance along an RNAV course
+
+Q: What deﬁnes a particular hold?
+A: A hold is deﬁned by four elements:
+- The inbound course
+- The length of the inbound leg
+- The direction of the turn
+- The holding fix
+
+Q: How can leg lengths be deﬁned?
+A: Leg lengths can be deﬁned by time or distance. The exact way distance is measured will depend on whether the hold is deﬁned by DME distance or RNAV distance.
+
+Q: A holding clearance states “Grumman 123FA, hold southeast on the SAC 150° radial.” What will be the outbound course?
+A: 150°
+
+Q: A holding clearance states “Piper 333FA, hold north on the ABQ 013° radial, left turns.” What will be the outbound and inbound courses?
+A: Inbound course 193°, outbound course 013°
+
+Q: Why do pilots calculate reserve time?
+A: So that they know how long they can hold, and can inform ATC of their maximum holding time.
+
+Q: What are the advantages of using conservative calculations for holding time?
+A: Should you encounter unexpected delays after the hold (e.g. long approach vectors) you will have extra fuel to compensate.
+
+Q: Can a pilot legally land with less than 45 minutes of reserve fuel?
+A: Yes.
+
+Q: What kind of circumstances might warrant landing with more than 45 minutes of reserve fuel?
+A: A wide variety of circumstances including:
+- Low visibility at the destination airport (more fuel reserve in the event of a missed approach)
+- When approaching to land at an airport with no nearby alternate
+- Any time the pilot feels it’s best in the interest of safety.
+
+Q: A pilot calculates that they can hold for 20 minutes in a standard 1-minute hold. How many turns in the hold with that correspond to?
+A: 5 turns.
+
+Q: How do distance-deﬁned holds differ when the distance is deﬁned using GPS vs. DME?
+A: GPS holds calculate the distance of the straight line segment. DME holds use the holding ﬁx DME $^+$  the leg distance, which results in a small slant-range error.
+
+Q: What additional challenges might be encountered when holding over a VOR?
+A: When approaching the holding ﬁx (VOR) the airplane will enter the cone of confusion. This can, in particular, make it difﬁcult to intercept or correct on an inbound course close to the holding ﬁx.
+
+Q: Can pilots requests holds other than published holds, or request published holds with modiﬁcations?
+A: Yes.
+
+Q: What are the three recommend types of entries?
+A: Direct, Parallel, and Teardrop
+
+Q: Why might a pilot elect to use a different entry than suggested?
+A: To decrease the effects of wind on course.
+
+Q: A pilot is proceeding direct to the holding ﬁx on a heading of  $\mathbf{085^{\circ}}$ . The hold has an inbound course of  $\mathbf{065^{\circ}}$ . What entry type should they make?
+A: Direct
+
+Q: How many degrees does a pilot offset while making a teardrop entry?
+A: 30 degrees
+
+Q: What minimal information is required to determine the type of hold entry?
+A: - Direct course to the holding ﬁx
+- Outbound course
+- Turn direction
+
+Q: Why is it important to quickly and easily determine how to enter a hold?
+A: Pilots are often asked to hold in relatively high-workload environments. They are likely to be performing other tasks in addition to holding, so they must be able to calculate a hold entry without disregarding other necessary tasks.
+
+Q: What is the purpose of using the ﬁve T’s?
+A: To alleviate the possibility of missing a step in the holding process.
+
+Q: Do we always need to use all ﬁve?
+A: No, holding based on GPS distances instead of time does not require several of the 5 T's.
+
+Q: Should a pilot adhere to the Five T’s while crossing ﬁxes in the en-route structure (e.g. on an airway or when crossing GPS ﬁxes along a non-airway route)? Why or why not? There is not particular right answer to this question — just think a bit about it!
+A: It’s a great idea, but pilots will need to recognize that not all of the steps will be necessary, and in fact sometimes none of them will be (for example, crossing a ﬁx along a straight-line segment of an airway).
+
+Q: What are the general steps of holding?
+A: Build a mental model and establish situational awareness, slow to holding speed, enter the hold, communicate with ATC, time the hold and repeat.
+
+Q: What information is required to determine the type of hold entry?
+A: Your position relative to the holding ﬁx and the course of the hold.
+
+Q: If a turn direct to the outbound course is left and 55°, for a standard hold, what type of entry should be made?
+A: Direct.
+
+Q: If a turn direct to the outbound course is right and 180°, for a non-standard hold, what type of entry should be made?
+A: Direct entry.
+
+Q: If a teardrop entry is to be used, and the outbound course is  $\mathbf{155^{\circ}}$  in a non-standard hold, what will the initial teardrop heading be?
+A: 185°
+
+Q: You are ﬂying at 255 knots at 13,000 feet prior to entering a holding pattern. Will you need to slow before your hold entry? If so, by how much?
+A: Yes, by 25 knots.
+
+Q: You are required to slow by 80 knots before entering a holding pattern. How many minutes before crossing the holding ﬁx must you start slowing?
+A: Early enough that you are able to be at your holding speed within 3 minutes of arriving at the holding ﬁx at that holding speed.
+
+Q: What are the advantages and disadvantages of the “shortest turn to the outbound course” technique?
+A: The “shortest turn” rule of them is generally correct, but sometimes not in line with the AIM recommendation when the hold entry is near the boundary between a direct and either teardrop or parallel entry.
+
+Q: You enter a hold and time the ﬁrst inbound leg at 1:20. What leg length should you ﬂy on the next outbound course?
+A: 40 seconds
+
+Q: You enter a hold and notice that tracking the inbound course of 125° requires a 10° crab left into the wind. What heading would you fly on the outbound course?
+A: 335°
+
+Q: ATC instructs you to “hold N of the PVF 355° radial 20 DME, right turns. You are over PVF. What is your recommended hold entry?
+A: Direct.
+
+Q: ATC instructs you to “hold N of the PVF 355° radial 20 DME, right turns. You are over PVF. What is your recommended hold entry?
+A: Parallel.
+
+Q: What is the purpose of departure procedures?
+A: To provide vertical and lateral guidance without visual reference to the outside up to the enroute structure.
+
+Q: What is the difference between ODPs and SIDs?
+A: ODPs exist primary for obstacle clearance, while SIDs do the same, they primarily surround large terminal airports for trafﬁc ﬂow.
+
+Q: Why is it so important to brief the departure procedure?
+A: Brieﬁng the departure procedure should provide several key pieces of information for solutions pertaining to engine failures and weather on departure and the associated courses of action.
+
+Q: If ATC clears us direct to a ﬁx while we are on a departure procedure, may we accept that clearance?
+A: Yes, provided you are in radar coverage.
+
+Q: When must pilots make position reports upon crossing a compulsory reporting point?
+A: When arriving at the compulsory reporting point.
+
+Q: If, along an airway, the MEA changes from 4,000ʹ to 6,000ʹ, what is the latest time a pilot may initiate the climb?
+A: At the last ﬁx unless there is a MCA. Then you must start your climb to be at or above the MCA  by that ﬁx.
+
+Q: If a pilot is flying at 120 knots at 13,000ʹ and the MEA changes to 16,000ʹ at the next fix, what is the latest they may initiate a climb, assuming they only climb at the minimum climb gradient?
+A: If there is no MCA restriction then you start your climb at the ﬁx.
+
+Q: A pilot crosses over a VOR on an airway that is defined by the 050° radial from one direction and the 230° radial in the other direction. If they navigated correctly to the station and crossover without readjusting the OBS, will they experience reverse sensing?
+A: No.
+
+Q: Are there times when terrain clearance is assured, but navigation reception is not?
+A: Yes, when at or above the MOCA or MEA but bellow the MRA. Or at the MOCA and beyond 22 NM from the VOR.
+
+Q: What is the difference between a precision and non-precision approach?
+A: Precision is ground based, has lower weather minimums and always has a glide slope.
+
+Q: What are the general steps to an ILS approach?
+A: Vectored to intercept the LOC or navigate to a published intersection or IAP on the approach where you can intercept the LOC. Then descend on the approach segments till you reach the glide slope intercept. Once on the LOC you can also maintain alt until you intercept the glide slope.
+
+Q: Does an ILS approach have a ﬁnal approach ﬁx?
+A: No, but it will have one on the approach chart for the LOC approach.
+
+Q: How low are ILS standard minimums? 
+A: 200’ ceiling, 1/2 SM visibility
+
+Q: Does an ILS have a missed approach point?
+A: Yes, every approach has a MAP. However, on an ILS the MAP is the DA/DH.
+
+Q: When is a missed approach commenced on an ILS approach?
+A: When reaching the DA while being on the LOC and glide slope.
+
+Q: If the runway is not in sight, but part of the airport environment is, how does that change the approach?
+A: If the runway environment is in sight you are allowed to descend 100’ below minimums.
+
+Q: What are the major differences between precision and non-precision approaches?
+A: - Precision approaches are ground based and have a glideslope
+- There is a DA/DH instead of a MDA
+
+Q: What are some types of non-precision approaches, and how are they different from one another?
+A: NDB, VOR, LDA, and LOC.
+GPS is satellite-based and may have an artificial glide path. If it's an LPV approach, it likely has lower minimums. NDB approaches are ground-based and require ADF equipment. VOR approaches are ground-based. LDA approaches are similar to a localizer, but offset.
+
+Q: When is a missed approach commenced on a non-precision approach?
+A: At the MAP. Could be identiﬁed by time, distance or station passage. Or when full-scale deletion/ loss of navigation indication or whenever you think it is safer to do so.
+
+Q: What is the signiﬁcance of the VDP?
+A: It allows you to descend bellow the published minimums. When you can see the airport.
+
+Q: How should a pilot execute a missed approach procedure at the VDP?
+A: Pilot should maintain alt and wait till reaching the MAP before executing the actual missed approach procedure.
+
+Q: What is the purpose of a missed approach procedure?
+A: A safe and published procedure to get you back away from the ground when you have conducted an approach but was unable to see the runway.
+
+Q: You have planned and briefed to ﬂy the ILS approach. Before commencing the approach, ATC informs you that the glideslope is inoperative, but the localizer approach is available. How will a missed approach procedure change if you ﬂy the localizer vs. an ILS?
+A: You will ﬂy to the MAP (Missed approach point) instead of the DA/DH (Decision Alt/Decision height) before executing the missed approach. The MAP will also have higher minimums vs the DH.
+
+Q: What is the purpose of a visual approach?
+A: It allows the pilot to fly using outside visuals as primary navigation and not fly a published approach. You can use this to not have to fly a full published approach and can be quicker to get to your destination. You should still have a approach course loaded up for situational awareness.
+
+Q: Are airplanes conducting visual approaches still on an IFR ﬂight plan?
+A: Yes, they are just conducting a visual approach.
+
+Q: A pilot reports the ﬁeld in sight, with weather conditions at the ﬁeld reported as overcast at 900 feet and 10 miles visibility. May the pilot ﬂy a visual approach?
+A: No, you need a reported 1000’ ceiling and 3 SM visibility.
+
+Q: On departure while being vectored to ABC VOR, you experience a communications failure in instrument conditions. What should you do?
+A: Continue the vectored heading to the expected route.
+
+Q: While ﬂying in instrument conditions in the mountains, you encounter rime icing. The ground is only 2,500 below you and you are at MEA. What options do you have?
+A: Turn on de-ice and anti-ice equipment. Turn around. Declare emergency and descend. You may be able to climb. You would need to climb to a altitude that the temperature is approximately -15C (possibly out of the question). Turn on afterburners and get to destination faster.
+In other words, in most light non-FIKI airplanes, you don’t have many options. Best to not get there in the first place!
+
+Q: Conditions have deteriorated considerably in your area, and you are accruing clear ice as a result of freezing rain. The nearest airport is 5 minutes away and reporting 200 foot ceilings and 1 and 1/2 visibility. The ILS requires 200 and 1 3/4. The next closest airport is 15 minutes away and reporting 250 foot ceilings and 2sm visibility, with an ILS approach with minimums of  $\mathbf{200^{\prime}}$  and 1 1/4sm visibility. What will you do and why?
+A: As PIC you need to determine if doing the nearby approach with less visibility in less ﬂight time is safer then ﬂying longer lower visibility minimums. The risks are: Can you continue to ﬂy for 15 minutes with continually accruing ice? Is the weather still deteriorating? Will the weather be worse or better at the next airport?
+
+Q: While ﬂying at 7,000 feet, you experience light rime icing. The MEA is 4,000ʹ on your segment of the airway. What might you consider doing?
+A: You may, depending on the weather conditions, be able to descent to the MEA and escape the icing. Or, you may be able to climb out of icing conditions, depending on ceiling heights.
+As PIC you could declare an emergency if you think a particularly situation is more dangerous than going below minimums to land (e.g. running out of fuel, being on fire, etc).
+
+Q: Why is continuing below minimums dangerous? Why may it very occasionally be the right action?
+A: You do not know if you will see the ground before it sees you. Controlled Flight Into Terrain (CFIT) kills pilots every year.
+
+Q: How can pilots take preemptive action to avoid low-fuel situations?
+A: - Have more than the minimum fuel required. “The only time you have too much fuel when you are on ﬁre.”
+- Be decisive in actions that avoid creating low-fuel situations (e.g. holding too long).
+
+Q: Why can attempting to act at the highest level of precision be a less-safe option in certain situations?
+A: Sometimes the “good-enough” must be embraced for the sake of taking approximately correct action. For example, over-analyzing a diversion decision while on ﬁre is far more dangerous than efﬁciently picking what seems to be the best option and beginning to execute.
+
+Q: How might fear impede your ability to approach an emergency situation from an ideal vantage point?
+A: Fear can effect our ability to process information. Problem solving,  decision - making , situational awareness, and related intellectual activities can be impeded.
+

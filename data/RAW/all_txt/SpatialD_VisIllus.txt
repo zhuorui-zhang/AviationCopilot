@@ -1,0 +1,131 @@
+# Spatial Disorientation Visual Illusions  
+
+# SPATIAL DISORIENTATION: Seeing Is Not Believing  
+
+# Spatial Orientation  
+
+Our natural ability to maintain our body orientation and/ or posture in relation to the surrounding environment at  rest and during motion. Genetically speaking, humans are  designed to maintain spatial orientation on the ground.  The flight environment is hostile and unfamiliar to the  human body; it creates sensory conflicts and illusions that  make spatial orientation difficult, and, in some cases, even  impossible to achieve. Statistics show that between 5 to   $10\%$   of all general aviation accidents can be attributed to  spatial disorientation, and   $90\%$   of these accidents are fatal.  
+
+# Spatial Orientation on the Ground  
+
+Good spatial orientation on the ground relies on the  effective perception, integration, and interpretation of  visual, vestibular (organs of equilibrium located in the inner  ear), and proprioceptive (receptors located in the skin,  
+
+![](images/6e9a793c518c582749c192fadbe9f32b587fe77a466cb59c72609f5d088cc8d4.jpg)  
+Figure 1  
+
+joints) sensory  information. Changes in  linear acceleration,  angular acceleration, and  gravity are detected by  the vestibular system and  the proprioceptive  receptors, and then  compared in the brain  with visual information  (Figure 1).  
+
+# Spatial Orientation In Flight  
+
+Spatial orientation in flight is sometimes difficult to achieve  because the various types of sensory stimuli (visual,  vestibular, and proprioceptive) vary in magnitude,  direction, and frequency. Any differences or discrepancies  between visual, vestibular, and proprioceptive sensory  inputs result in a “sensory mismatch” that can produce  illusions and lead to spatial disorientation.  
+
+# Vision and Spatial Orientation  
+
+Visual references provide the most important sensory  information to maintain spatial orientation on the ground  and during flight, especially when the body and/or the  environment are in motion. Even birds, reputable flyers, are  unable to maintain spatial orientation and fly safely when  deprived of vision (due to clouds or fog). Only bats have  developed the ability to fly without vision by replacing their  vision with auditory echolocation. So, it should not be any  surprise to us that, when we fly under conditions of limited  visibility, we have problems maintaining spatial orientation.  
+
+# Central Vision  
+
+Central vision, also known as foveal vision, is involved with  the identification of objects and the perception of colors.  During instrument flight rules (IFR) flights, central vision  allows pilots to acquire information from the flight  instruments that is processed by the brain to provide  orientational information. During visual flight rules (VFR)  flights, central vision allows pilots to acquire external  information (monocular and binocular) to make judgments  of distance, speed, and depth.  
+
+# Peripheral Vision  
+
+Peripheral vision, also known as ambient vision, is  involved with the perception of movement (self and  surrounding environment) and provides peripheral  reference cues to maintain spatial orientation. This  capability enables orientation independent from central  vision, and that is why we can walk while reading. With  peripheral vision, motion of the surrounding environment  produces a perception of self-motion even if we are  standing or sitting still.  
+
+# Visual References  
+
+Visual references that provide information about distance,  speed, and depth of visualized objects include:  
+
+• Comparative size of known objects at different distances.
+
+ • Comparative form or shape of known objects at different  distances.
+
+ • Relative velocity of images moving across the retina.  Nearby objects are perceived as moving faster than  distant objects.
+
+ • Interposition of known objects. One object placed in  front of another is perceived as being closer to the  observer.
+
+ • Varying texture or contrast of known objects at different  distances. Object detail and contrast are lost with distance.
+
+ • Differences in illumination perspective of objects due to  light and shadows.
+
+ • Differences in aerial perspective of visualized objects.  More distant objects are seen as bluish and blurry.  
+
+The flight attitude of an airplane is generally determined  by the pilot’s visual reference to the natural horizon.  When the natural horizon is obscured, attitude can  sometimes be maintained by visual reference to the surface  below. If neither horizon nor surface visual references  exist, the airplane’s attitude can only be determined by  artificial means such as an attitude indicator or other  flight instruments. Surface references or the natural  horizon may at times become obscured by smoke, fog,  smog, haze, dust, ice particles, or other phenomena,  although visibility may be above VFR minimums. This is  especially true at airports located adjacent to large bodies  of water or sparsely populated areas, where few, if any,  surface references are available. Lack of horizon or surface  reference is common on over-water flights, at night, or in  low visibility conditions.  
+
+# Visual Illusions  
+
+Visual illusions are familiar to most of us. As children, we  learned that railroad tracks—contrary to what our eyes  showed us—don’t come to a point at the horizon. Even  under conditions of good visibility, you can experience  visual illusions including:  
+
+Aerial Perspective Illusions  may make you change  (increase or decrease) the slope of your final approach. They  are caused by runways with different widths, upsloping or  downsloping runways, and upsloping or downsloping final  approach terrain.  
+
+Pilots learn to recognize a normal final approach by  developing and recalling a mental image of the expected  relationship between the length and the width of an average  runway, such as that exemplified in Figure 2.  
+
+![](images/9aa3897cba709b7f052fd3b8cb12ede45d668a6806f89f5dfe8f5ae57d449b07.jpg)  
+
+#  
+
+runway  may produce the visual illusion of a high-altitude  final approach. If you believe this illusion, you may respond  by pitching the aircraft nose down to decrease the altitude,  which, if performed too close to the ground, may result in  an accident (Figure 3).  
+
+![](images/3469bbc5a1c8c1953d406a830874f3c9702fd1025851494d91073c2e0e8362e2.jpg)  
+
+A final approach over a flat terrain with a  downsloping  runway  may produce the visual illusion of a low-altitude  final approach. If you believe this illusion, you may respond  by pitching the aircraft nose up to increase the altitude,  which may result in a low-altitude stall or missed approach  (Figure 4).  
+
+![](images/ff6f7b028e0c3db19ae5812126f66faa30ee6840e8f5a06b4300247898ed368b.jpg)  
+
+A final approach over an  upsloping terrain  with a flat runway  may produce the visual illusion that the aircraft is higher than  it actually is. If you believe this illusion, you may respond by  pitching the aircraft nose-down to decrease the altitude,  resulting in a lower approach. This may result in landing short  or flaring short of the runway and risking a low-altitude stall.  Pitching the aircraft nose-down will result in a low, dragged-in  approach. If power settings are not adjusted, you may find  yourself short of the runway, needing to add power to extend  your flare. If you do not compensate with power, you will land  short or stall short of the runway (Figure 5).  
+
+![](images/5a60f11a2df68950a97de27811b14f816731338aa1336e9d0c3387ca8e54ecac.jpg)  
+
+A final approach over a  downsloping terrain  with a flat  runway may produce the visual illusion that the aircraft is  lower than it actually is. If you believe this illusion, you  may respond by pitching the aircraft’s nose up to gain  altitude. If this happens, you will land further down the  runway than you intended (Figure 6).  
+
+![](images/07cf218c0a8cb90673557795954e531c05f10963cf29a0193a7743268997ae90.jpg)  
+
+A final approach to an  unusually narrow  runway or an  unusually long  runway may produce the visual illusion of  being too high. If you believe this illusion, you may pitch  the aircraft’s nose down to lose altitude. If this happens too  close to the ground, you may land short of the runway and  cause an accident (Figure 7).  
+
+![](images/e9ee75f0b03060a5cd731a74bf1e0327ea80c1f1f77000ca55337bc949aeea65.jpg)  
+
+A final approach to an  unusually wide runway  may  produce the visual illusion of being lower than you actually  are. If you believe this illusion, you may respond by  pitching the aircraft’s nose up to gain altitude, which may  result in a low-altitude stall or missed approach (Figure 8).  
+
+![](images/888704d870c79a271e3481bcc3b78a6e8a778f4412fd790e06720e62a1ceae5a.jpg)  
+
+A Black-Hole Approach Illusion can happen during a final  approach at night (no stars or moonlight) over water or  unlighted terrain to a lighted runway beyond which the  horizon is not visible. In the example shown in Figure 9,  when peripheral visual cues are not available to help you  orient yourself relative to the earth, you may have the  illusion of being upright and may perceive the runway to  be tilted left and upsloping. However, with the horizon  visible (Figure 10) you can easily orient yourself correctly  using your central vision.  
+
+![](images/2c6b46456993d8dbb39f8f5f2efaeb1f25830ff7513b7e5240cff79b1273a504.jpg)  
+
+A particularly hazardous black-hole illusion involves  approaching a runway under conditions with no lights  before the runway and with city lights or rising terrain  beyond the runway. Those conditions may produce the  visual illusion of a high-altitude final approach. If you  believe this illusion you may respond by lowering your  approach slope (Figure 11).  
+
+![](images/4f0692a382cc4e137a772fc90c77dbe2418c1aaf525c352279b64d313a4045c5.jpg)  
+
+The  Autokinetic Illusion  gives you the impression that a  stationary object is moving in front of the airplane’s path; it  is caused by staring at a fixed single point of light (ground  light or a star) in a totally dark and featureless background.  This illusion can cause a misperception that such a light is  on a collision course with your aircraft (Figure 12).  
+
+![](images/2add9cd2f4f705895eebf6ac8161edfa24090db066a6ca21b42b86355f1487dd.jpg)  
+
+False Visual Reference Illusions  may cause you to orient  your aircraft in relation to a false horizon; these illusions are  caused by flying over a banked cloud, night flying over  featureless terrain with ground lights that are  indistinguishable from a dark sky with stars, or night flying  over a featureless terrain with a clearly defined pattern of  ground lights and a dark, starless sky (Figure 13).  
+
+![](images/e634afcadc1d7bc02063c48514a04b434d14552743e4ca69bd5e103d05a9f9e2.jpg)  
+Figure 14Photo of air craft  
+
+![](images/0413345da685dab933d41fbd95a388f1acb737cdf12399f21877c30531ac036f.jpg)  
+
+# How to Prevent Spatial Disorientation  
+
+• Take the opportunity to personally experience sensory  illusions in a Barany chair, a Vertigon, a GYRO, or a  Virtual Reality Spatial Disorientation Demonstrator  (VRSDD). By experiencing sensory illusions first-hand  (on the ground), pilots are better prepared to recognize a  sensory illusion when it happens during flight and to  take immediate and appropriate action. The Aerospace  Medical Education Division of the FAA Civil Aerospace  Medical Institute offers spatial disorientation  demonstrations with the GYRO and the VRSDD in  Oklahoma City and at all of the major airshows in the  continental U.S. 
+
+ • Obtain training and maintain your proficiency in aircraft  control by reference to instruments.
+
+ • When flying at night or in reduced visibility, use and rely  on your flight instruments. 
+
+ • Study and become familiar with unique geographical  conditions where flight is intended.
+
+ • Do not attempt visual flight when there is a possibility of  being trapped in deteriorating weather.
+
+ • If you experience a visual illusion during flight (most  pilots do at one time or another), have confidence in  your instruments and ignore all conflicting signals your  body gives you. Accidents usually happen as a result of a  pilot’s indecision to rely on the instruments. 
+
+ • If you are one of two pilots in an aircraft and you begin  to experience a visual illusion, transfer control of the  aircraft to the other pilot, since pilots seldom experience  visual illusions at the same time.
+
+ • By being knowledgeable, relying on experience, and  trusting your instruments, you will be contributing to  keeping the skies safe for everyone.  
+
+# Medical Facts for Pilots  
+
+Publication AM-400-00/1 (rev. 2/11) Revised by: Melchor J. Antuñano, M.D. FAA Civil Aerospace Medical Institute  
+
+To request copies, contact: FAA Civil Aerospace Medical Institute Shipping Clerk, AAM-400 P .O. Box 25082 Oklahoma City, OK 73125 (405) 954-4831 A complete list of pilot safety brochures is on the FAA Web site: www.faa.gov/pilots/safety/pilot safety brochures/  

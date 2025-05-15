@@ -1,0 +1,1607 @@
+AIRCRAFT CERTIFICATION SERVICE  
+
+# Airworthiness   Directives   Manual May 17, 2010  
+
+U.S. Department of Transportation Federal Aviation Administration  
+
+FAA-IR-M-8040.1C  
+
+# May 17, 2010  
+
+#  FAA-IR-M-8040.1C  
+
+![RECORD OF CHANGES  ](images/061c3009300647ae2487bf1804658dde9aef26edde66c6eb1d6e1df0546d5671.jpg)  
+
+# FOREWORD  
+
+Airworthiness Directives (ADs) are substantive regulations issued by the Federal Aviation Administration (FAA) in accordance with Title 14 of the Code of Federal Regulations (14 CFR) part 39. ADs are issued when (1) an unsafe condition exists in the product (i.e., aircraft, aircraft engine, propeller, or appliance), and (2) the condition is likely to exist or develop in other products of the same type design. Once an AD is issued, no person may operate a product to which the AD applies except in accordance with the requirements of that AD.  
+
+Similarities with the Corrective Action Request (CAR) Process  
+
+Initiate CARs for nonconformances when: ·  The nonconformance is of such a nature that management wants to ensure that the nonconformance never recurs; or  
+
+The nonconformance is systemic in nature and requires a root cause analysis to ensure the corrective action prevents recurrence.  
+
+# 'D\~\..-J C)\~ \~  
+
+David W. Hempe Manager, Aircraft Engineering Division  
+
+![](images/5b5da20ba7874e1f2c2fcab303d68de3e27fd3ba42c7967439bd18fd3dd7968f.jpg)  
+
+Assistant Chief Counsel for Regulations  
+
+# Table of Contents  
+
+Chapter 1. General Information.................................................................................................. 1  
+
+ 1.   Purpose of this Manual..................................................................................................... 1  
+
+ 2.   Audience............................................................................................................................. 1  
+
+ 3.   Where Can I Find This Manual? .................................................................................... 1  
+
+ 4.   Cancellation....................................................................................................................... 1  
+
+ 5.   Explanation of Changes.................................................................................................... 1  
+
+ 6.   Effective Date. ................................................................................................................... 2   Chapter 2. Laws that Apply to ADs ............................................................................................ 3  
+
+ 1.   Purpose of this Chapter.................................................................................................... 3  
+
+ 2.   Use of Legal Terminology. ............................................................................................... 3  
+
+ 3.   Definitions.......................................................................................................................... 3  
+
+ 4.   Administrative Procedure Act (APA)............................................................................. 4  
+
+ 5.   FAA Regulations............................................................................................................... 6  
+
+ 6.   Regulatory Findings Addressed in ADs.......................................................................... 6  
+
+ 7.   Department of Transportation (DOT) Rulemaking Policies and Procedures. ........... 8   Chapter 3. Ex Parte Contacts .................................................................................................... 11  
+
+ 1.   General............................................................................................................................. 11  
+
+ 2.   DOT Policy. ..................................................................................................................... 11  
+
+ 3.   Improper Ex Parte Contacts.......................................................................................... 11  
+
+ 4.   Procedures for Ex Parte Contacts................................................................................. 12  
+
+ 5.   Precautions and Practices. ............................................................................................. 13   Chapter 4. Determining Type of AD Action............................................................................. 15  
+
+ 1.   Purpose of this Chapter.................................................................................................. 15  
+
+ 2.   When to issue ADs. ......................................................................................................... 15  
+
+ 3.   Advance Notice of Proposed Rulemaking (ANPRM).................................................. 15  
+
+ 4.   Notice of Proposed Rulemaking (NPRM)..................................................................... 15  
+
+ 5.   Final Rule after NPRM (FRAN).................................................................................... 15  
+
+ 6.   Emergency ADs............................................................................................................... 16  
+
+ 7.   Final Rule; Request for Comments (FRC)................................................................... 16  
+
+ 8.   Considerations for IAR and Emergency ADs. ............................................................. 17   9.   Sensitive Security Information (SSI) AD Action.......................................................... 18  
+
+ 10.   Other Types of Documents Published in the  Federal Register .................................... 18   Chapter 5. Changing Existing AD Actions............................................................................... 19  
+
+ 1.   Purpose of this Chapter.................................................................................................. 19  
+
+ 2.   “Supplemental notice of proposed rulemaking (SNPRM); reopening of comment  period”. ........................................................................................................................................ 19  
+
+ 3.   “Proposed rule; withdrawal”......................................................................................... 19  
+
+ 4.   “Proposed rule; extension of the comment period”..................................................... 19  
+
+ 5.   Superseding AD Actions................................................................................................. 19  
+
+ 6.   Revising AD Actions. ...................................................................................................... 20  
+
+ 7.   “Notice of Proposed Rulemaking (NPRM); correction” or “Final rule; correction”.
+
+   21  
+
+ 8.   Rescinding (Removing) an Existing AD........................................................................ 21  
+
+ 9.   Petition for Exemption. .................................................................................................. 22   Chapter 6. Drafting, Coordinating, Issuing, Publishing, and Distributing ADs................... 23  
+
+ 1.   Purpose of this Chapter.................................................................................................. 23  
+
+ 2.   AD Worksheet................................................................................................................. 23  
+
+ 3.   Drafting References and Tools. ..................................................................................... 24  
+
+ 4.   AD Templates.................................................................................................................. 24  
+
+ 5.   Review and Coordination of AD Action. ...................................................................... 25  
+
+ 6.   Administrator’s AD Alert. ............................................................................................. 25  
+
+ 7.   Signature of AD Action. ................................................................................................. 26  
+
+ 8.   Continued Airworthiness Notification to the International Community (CANIC).. 26  
+
+ 9.   Publication of AD Action................................................................................................ 26  
+
+ 10.   Distribution...................................................................................................................... 27  
+
+ 11.   Exchange of Continuing Airworthiness Information.................................................. 28  
+
+ 12.   Biweekly Supplements.................................................................................................... 29   Chapter 7. Preamble of an AD................................................................................................... 31  
+
+ 1.   Purpose of this Chapter.................................................................................................. 31  
+
+ 2.   Information Headings..................................................................................................... 31  
+
+ 3.   AD Numbering. ............................................................................................................... 32  
+
+ 4.   Subject Heading. ............................................................................................................. 34  
+
+5.   Summary.......................................................................................................................... 36  
+
+ 6.   Discussion......................................................................................................................... 36  
+
+ 7.   Relevant Service Information........................................................................................ 36  
+
+ 8.   Differences Between this [Proposed] AD and Service Information. .......................... 36  
+
+ 9.   Costs of Compliance. ...................................................................................................... 36  
+
+ 10.   Interim Actions................................................................................................................ 37   Chapter 8. Rule Portion of an AD............................................................................................. 39  
+
+ 1.   Purpose of this Chapter.................................................................................................. 39  
+
+ 2.   Headings in the Rule Portion of an AD......................................................................... 39  
+
+ 3.   Product Identification..................................................................................................... 40  
+
+ 4.   Effective Date. ................................................................................................................. 40  
+
+ 5.   Affected ADs.................................................................................................................... 41  
+
+ 6.   Applicability. ................................................................................................................... 41  
+
+ 7.   ATA/JASC Code............................................................................................................. 45  
+
+ 8.   Compliance...................................................................................................................... 45  
+
+ 9.   Corrective Action............................................................................................................ 49  
+
+ 10.   Using Notes. ..................................................................................................................... 52  
+
+ 11.   Describing Special Flight Permits. ................................................................................ 52  
+
+ 12.   Alternative Methods of Compliance (AMOCs) in Revision or Supersedure AD  Actions.......................................................................................................................................... 52  
+
+ 13.   Authorization to Perform Work.................................................................................... 53  
+
+ 14.   Reporting Requirements. ............................................................................................... 53  
+
+ 15.   Material Incorporated by Reference............................................................................. 54  
+
+ 16.   Signature Block............................................................................................................... 54  
+
+ 17.   Specialized AD Subjects. ................................................................................................ 54   Chapter 9. Public Comments..................................................................................................... 57  
+
+ 1.   Purpose of this Chapter.................................................................................................. 57  
+
+ 2.   APA Requirement........................................................................................................... 57  
+
+ 3.   Where to Find Comments in the Docket....................................................................... 57  
+
+ 4.   No Comments Received.................................................................................................. 57  
+
+ 5.   Comment Disposition...................................................................................................... 57  
+
+ 6.   Comments to FRCs......................................................................................................... 57   7.   Late Comments. .............................................................................................................. 58  
+
+ 8.   How to Disposition Comments....................................................................................... 58   Chapter 10. Incorporation by Reference and Appendices...................................................... 61  
+
+ 1.   Purpose of this Chapter.................................................................................................. 61  
+
+ 2.   Incorporation by Reference (IBR). ............................................................................... 61  
+
+ 3.   Incorporating Material as Appendices. ........................................................................ 61   Chapter 11. AD Docket............................................................................................................... 63  
+
+ 1.   Purpose of this Chapter.................................................................................................. 63  
+
+ 2.   Maintaining the AD Docket. .......................................................................................... 63  
+
+ 3.   AD Docket Contents. ...................................................................................................... 63  
+
+ 4.   Proprietary Data in AD Dockets. .................................................................................. 63   Appendix A. Acronyms ............................................................................................................ A-1  
+
+# Chapter 1. General Information  
+
+# 1.   Purpose of this Manual.  
+
+This manual provides policy and guidance for the drafting, issuance, and distribution of ADs. It  is intended to explain the laws that apply to ADs, procedures for writing an AD, and policies on  key AD-related issues.  
+
+# 2.   Audience.  
+
+Managers and staff of the FAA Aircraft Certification Service, including any persons designated  by the administrator, and organizations associated with the AD process in accordance with  14 CFR part 39.  
+
+# 3.   Where Can I Find This Manual?  
+
+You can find this manual on the FAA Regulatory and Guidance Library (RGL) Web site at  http://rgl.faa.gov  under the category of Orders/Notices.  
+
+# 4.   Cancellation.  
+
+This manual cancels FAA-IR-M-8040.1B, Airworthiness Directives Manual, dated May 28,  2008.  
+
+# 5.   Explanation of Changes.  
+
+This version of the manual presents a complete revision of the previous AD Manual, FAA-IR-M- 8040.1B. This change –  
+
+a.   Uses plain language whenever possible.  
+
+b.   Consolidates the discussion of similar subjects into one location.  c.   Avoids excessive use of legal terminology and citations, unless use of the term is the only  term that can be used to achieve the desired end.  
+
+d.   Clarifies ex parte policy.  
+
+e.   Establishes when the AD process begins and ends.  
+
+f.   Removes format, text, and style guidance already prescribed in the Office of the Federal  Register (OFR) Document Drafting Handbook (DDH).  
+
+g.   Requires use of a standardized AD worksheet, AD templates, and other documents  (forms/templates) used in the AD process.  
+
+h.   Removes information (e.g., examples) where guidance or boilerplate language is  provided in the standardized AD template(s).  
+
+i.   Provides guidance for economic/regulatory aspects of the AD worksheet.  j.   Clarifies who must coordinate on the AD worksheet and AD action.  
+
+k.   Emphasizes which office is responsible for drafting, coordinating, and issuing an AD  action related to an appliance.  
+
+l.   Explains the different types of a “Final Rule; Request for Comments” (FRC) AD.  m.   Standardizes how we address on-condition costs.  
+
+n.   Clarifies how to write the subject, product identification, and applicability statements  when an AD action is applicable to a Supplemental Type Certificate (STC) or Parts  Manufacturer Approval (PMA).  
+
+o.   Clarifies when and how to use the term ‘series’ in the subject, product identification, and  applicability statements.  
+
+p.   Establishes how to identify commenters.   q.   Emphasizes AD corrective actions are not considered preventative maintenance.  r.   Adds guidance for drafting Sensitive Security Information AD actions.  s.   Corrects guidance associated with where to send an Administrator's AD Alert.  t.   Removes general discussion related to alternative method of compliance (AMOC).   u.   Removes the requirement for distributing paper copies for certain types of ADs.  
+
+v.   Establishes what documentation is placed in the Federal Docket Management System  (FDMS).  
+
+w.   Removes the processes for technical decisionmaking, AD manual changes, AD process  measurement, and continuous AD process improvement.  
+
+# 6.   Effective Date.  
+
+This manual, including use of the standardized AD worksheet and AD templates, is effective  June 21, 2010.  
+
+# Chapter 2. Laws that Apply to ADs  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter describes the laws that apply to ADs, including the Administrative Procedure Act  (APA), Executive Orders, and FAA regulations. This information is intended to serve only as an  aid to understanding the general purpose of the law and does not serve as a substitute for  reference to the actual laws.  
+
+# 2.   Use of Legal Terminology.  
+
+Rulemaking is a legal process. For this reason it is common to find extensive use of legal terms  in rulemaking documents. Use of legal terminology is essential to communication between  attorneys and in legal documents, but is not always required, much less helpful, to non-lawyers.   For this reason, in this manual we avoid excessive use of unnecessary legal terminology and  instead use plain language if the equivalent legal meaning can be achieved. In addition, legal  citations are moved to the footnotes to improve readability.  
+
+# 3.   Definitions.  
+
+a.   Rulemaking . The internal process used by agencies to write and issue rules or  regulations.  
+
+b.   Actual Notice.  A legal term to describe the act of an individual personally delivering a  legal document to another person. In rulemaking, the FAA can provide “actual Notice” by  personal delivery of the rulemaking document or sending a copy by U.S. Postal Service or by  facsimile.  
+
+c.   Executive Order (E.O.).  A law created/enacted by the Executive, Legislative or Judicial  branches of government. The President of the United States issues Executive Orders to convey  policies, responsibilities, and procedures.  
+
+d.   Informal Rulemaking.  Unlike formal rulemaking that involves adjudication (a trial-like  hearing that uses witness testimony), a written record, and a final decision; informal rulemaking  pertains to agency decisions that are made without formal trial-like procedures. Informal  rulemaking provides to the public Notice of proposed regulatory actions and an opportunity to  comment, which can be achieved by public hearings, conferences, and/or negotiations.  
+
+e.   Statutes.  A law or group of laws enacted by Congress that commands or prohibits some  type of conduct, activity, or action.  
+
+f.   Legislation.  The process of making a new law or changing an existing law, which  includes a proposal presented to Congress called a “bill.” Legislation includes the period during  which Congress debates and considers the bill and the process of adopting the bill, which makes  it law. Legislation can have many purposes: to regulate, to authorize, to provide (funds), to  sanction, to grant, to declare or to restrict.  
+
+g.   Substantive rules.  Rules issued by federal agencies that change the rights of the public  to act in a specific manner, impose a burden or restore rights to act in a specific manner, which  do not apply to internal organizational issues. Substantive rules have the force of law and are  codified (“published”) in the Code of Federal Regulations (CFR). Failure to comply with a  substantive rule results in a violation of the law. ADs are substantive rules because they impose  requirements on the regulated public to stop taking a specified action or require that a specific  action be taken, and have the force of law.  
+
+# 4.   Administrative Procedure Act (APA).  
+
+a.   General.   The APA 1  is a body of laws that, working together, provides minimum  guidelines and rules that federal agencies are required to follow when issuing a rule or changing  existing rules that, if adopted, would impact the rights of the regulated public.  
+
+b.   The APA governs both formal and informal rulemaking.  
+
+(1)   An AD is a substantive rule and therefore must be issued in accordance with APA  requirements because it imposes mandatory requirements on the affected public that limit or  restore rights to engage in certain activities.  
+
+(2)   The APA allows a person who has been adversely affected by an agency action, such  as an AD, to challenge the agency in court.  This is significant to persons engaged in rulemaking  because it means that if the FAA is challenged, and the court finds that the FAA was arbitrary  and capricious,  the court can overturn the rulemaking or order that the FAA correctly repeat the  entire rulemaking process.  
+
+c.   Notice.  The APA requires federal agencies to give the public Notice of its intent to add,  change or remove information in a rule. Notice informs members of the public of its intent to  take an action that may impact their rights. For “notice” to be meaningful, an agency should state  what it proposes to change in the CFR and why the proposed change is necessary.  If the Notice  published by the agency is inaccurate, confusing or unclear, it can be fairly argued before a court  that the agency did not give adequate Notice. The FAA complies with the APA requirement by  publishing Notice in the  Federal Register .  
+
+d.   Opportunity to Comment.  The APA also requires agencies to give the public an  opportunity to participate in rulemaking actions. The FAA complies with this requirement by  including a request for comments in the Notice or giving the date, time, and place for a public  
+
+meeting. The opportunity to comment is meaningful only if the public receives accurate Notice  of the proposed action (so that they can respond to the real issues), and the public has a  reasonable period of time to submit their comments to the FAA. We meet these requirements by  publishing a Notice in the  Federal Register  for public comment.  
+
+e.   Publication.  The APA requires agencies to publish a Notice for all proposed rulemaking  actions in the  Federal Register  unless an exception exists for doing otherwise. The  Federal  Register  is similar to a legal newspaper where the public can review the rulemaking activities of  federal agencies. Rules issued by federal agencies are   published in the  Federal Register  chronologically.  
+
+f.   Good Cause Exceptions.  The APA authorizes agencies to bypass the “Notice and  Comment” requirements when we find “good cause” to do so. Congress created three good cause  exceptions which should be used reluctantly, namely: impractical, unnecessary, and contrary to  the public interest. The failure of agency personnel to be efficient or responsible by exercising  diligence in processing a rulemaking is not, in itself, an appropriate reason to use a good cause  exception. The conditions under which each exception can be used are described below.  
+
+(1)   Impracticable.  This exception can be used when an urgent and unsafe condition  exists and going through Notice and Comment rulemaking would increase risks to safety. Giving  Notice would be “impracticable” if immediate action must be taken because safety could be  compromised during the time it would take to comply with “Notice and Comment” requirements.  If you use the impractical exception, you must explain the urgency of the unsafe condition in the  “Supplementary Information” section of the AD preamble. In addition, the compliance time in  the AD must reflect the urgency or describe the facts that drive the expedited processing. Process  ADs quickly to be consistent with the determination of “im practicability,” which denotes  urgency of some type. If you cannot present a viable reason for the expedited processing, issue  an NPRM.  
+
+(2)   Unnecessary.  This exception can be used when the general public has little or no  particular interest in the proposed change. We use this justification for minor corrections,  clarifications, and editorial changes. We may use this justification also for ADs on products that  have a U.S. type certificate, but are not installed on U.S. registered aircraft. In this case, no  person would be affected by the AD because only operators of U.S. registered aircraft are  required to comply with an AD. The “unnecessary” exception is inappropriate for use if the AD  reduces regulatory requirements, provides another method of compliance or removes a regulation  from 14 CFR. Under these circumstances, you should comply with “Notice and Comment”  requirements.  
+
+(3)   Contrary to the Public Interest.  This exception is generally not used for ADs. The  purpose of this exception is to excuse an agency from the Notice requirement if providing  advance Notice would defeat the purpose of the agency action. For example, issuing advance  Notice that the government is contemplating financial controls could cause public reactions so  excessive that the financial system could be placed in jeopardy. In such a case, it would be  contrary to the public interest to publish advance Notice of the government’s intentions.  
+
+g.   Beyond the Scope of Notice.  Generally, this phrase is used to address a requirement the  agency is about to adopt, or has adopted, in a final rule that was not proposed in the published  Notice. The phrase is used by agency personnel, courts or anyone pointing out a discrepancy  between what was proposed and what is finally adopted in the final rule. As discussed earlier,  Notice is meaningful only if the actions proposed in the NPRM are basically the same as those  being adopted by the final rule. But, a final rule is not required to perfectly mirror the proposals  made in the Notice if the added requirement is a logical outgrowth of a proposal made in the  Notice.  
+
+(1)   Example of “beyond the scope” and logical outgrowth:  
+
+(a)    If an NPRM proposes to require a modification to the tail wheel assembly for a  certain aircraft, the final rule cannot also require modification to the main landing gear assembly,  regardless if a commenter suggested it, because it’s beyond the scope of what was proposed. The  additional modification to the main landing gear assembly is beyond the scope because it was not  proposed in the NPRM. Also, reducing the compliance time from that originally proposed would  be considered beyond the scope of the NPRM.  
+
+(b)   If an NPRM proposed a modification to the tail wheel assembly, and the FAA  decided to add a requirement that the modification include an inspection (that is not part of a  standard inspection) to insure the modification was effective, the FAA could argue that the  additional requirement for an inspection is a logical outgrowth of the original proposal because  modification without an inspection would be unsafe.  
+
+(2)   Consider additional rulemaking such as issuing a Supplemental   $\mathrm{{NPRM}^{6}}$   if the  requirement adopted by the final rule is not a logical outgrowth of the NPRM. Changing the  number, or type of items addressed in an AD from the number or type proposed in the Notice  would be improper without additional action.  
+
+# 5.   FAA Regulations.  
+
+The FAA regulations are found in 14 CFR. Regulations govern conduct, directly or indirectly,  related to aviation and have the force and effect of law. For example:  
+
+a.   14 CFR part 11.  The regulations in part 11 explain the FAA's rulemaking process and  include descriptions on how the public can follow and participate in the FAA’s rulemaking  activities, who may file comments, what is an ex parte contact, etc.  
+
+b.   14 CFR part 39.  This part provides the map for navigating through the legal framework  for ADs. Specifically, 14 CFR  $\S~39.3$    defines ADs to be legally enforceable rules that apply to  aircraft, aircraft engines, propellers, and appliances.  
+
+# 6.   Regulatory Findings Addressed in ADs.  
+
+a.   Federalism (E.O. 13132).   This Order requires that every rule be assessed for its impact  on state and local government. The purpose of this EO is to minimize or prevent the Federal  government from imposing regulations that unnecessarily interfere with State, local, and tribal  
+
+governments. Where possible, the federal government is encouraged to work in cooperation with  the State, local, and tribal governments. Generally, ADs do not have an effect on other  government entities. Aircraft operated by government entities are typically public aircraft which  are not subject to the Federal Aviation Regulations’ requirements for civil aircraft to have type  and airworthiness certificates.  
+
+b.   Significant Regulatory Action (E.O. 12866).   Send regulatory actions considered to  have a “significant” impact to the Office of Management and Budget (OMB) for review. A  “significant regulatory action” is defined as any regulatory action that is likely to result in a rule  that might:  
+
+(1)   Have an annual effect on the economy of   $\S100$   million or more or adversely affect in  a material way the economy, a sector of the economy, productivity, competition, jobs, the  environment, public health or safety, or State, local, or tribal governments or communities;  
+
+(2)   Create a serious inconsistency or otherwise interfere with an action taken or planned  by another agency;  
+
+(3)   Materially alter the budgetary impact of entitlements, grants, user fees, or loan  programs or the rights and obligations of recipients thereof; or,  
+
+(4)   Raise novel legal or policy issues arising out of legal mandates, the President's  priorities, or the principles set forth in this Executive order.  
+
+c.   The Regulatory Flexibility Act (RFA).   The RFA is part of the economic evaluation  that requires federal agencies to analyze the impact that their regulatory actions will have on  small entities (i.e., small businesses, small non-profit organizations, and small jurisdictions of  government). If the regulatory impact is likely to be “significant,” which means it affects a  “substantial number” of these small entities, the agency considers less burdensome alternatives,  or explains why a less burdensome alternative was not chosen. However, the agency is not  required to adopt the less burdensome alternative.  
+
+d.   Paperwork Reduction Act (PRA).   The PRA requires agencies to get approval from  OMB for information collection activities, and to list a record of the approval in the  Federal  Register . The purpose of the PRA is to minimize paperwork requirements. The control number  assigned for ADs is “2120-0056.”  
+
+e.   Congressional Review Act (CRA).   The CRA requires that, before a rule can take  effect, the federal agency issuing the rule must submit a form titled  “Submission of Federal  Rules Under the Congressional Review Act”  to Congress and the Comptroller General. The form  provides information that enables Congress to review every new federal regulation issued by the  government agencies and, if necessary, overrule it. This process enables Congress to maintain  some transparency and oversight of the regulatory process. ADs are generally identified as non- major rules and are, therefore, routine and not subject to review.  
+
+# f.   Intrastate Aviation in Alaska Act.  
+
+(1)   Congress requires the FAA, “when modifying its regulations in a manner affecting  intrastate aviation in Alaska, to consider the extent to which Alaska is not served by  transportation modes other than aviation, and to establish appropriate regulatory distinctions.”  The statutory requirement applies only to regulations that could impact aviation transportation  services occurring strictly within the state of Alaska (i.e., intrastate), if aviation transportation is  the only type of transportation service provided, and the aviation transportation in question  serves one or more remotely located communities.  
+
+(2)   When issuing an AD, consider whether compliance with the proposed action would  interrupt aviation transportation to a remote Alaskan community that is not serviced by other  modes of transportation. If you determine that the proposed regulatory action would have a  negative impact on the availability of transportation services to a remotely located community,  and the safety concerns outweigh the benefits of making transportation available, a statement to  that effect might be sufficient. However, to be certain, contact your local Regional Airworthiness  Counsel for guidance.  
+
+# 7.   Department of Transportation (DOT) Rulemaking Policies and Procedures.  
+
+a.   The DOT is the executive agency that acts as a hub to agencies that have a transportation  related mission, such as the FAA. The role of the DOT in FAA rulemaking is to act as a conduit  between the FAA and all other federal agencies. The DOT monitors FAA actions against those  of other agencies for possible duplication or conflicts. The DOT also reviews whether the FAA  has complied with the statutory requirements established by Congress, such as the E.O.s we  describe in this section.  
+
+b.   The DOT emphasizes that an opportunity for comment must be provided for all proposed  rulemaking actions unless the good cause exception applies or otherwise exempted. In addition,  DOT policy states that when it is not possible to ask for comment prior to its issuance of Notice,  an opportunity for the public to comment must be provided after the final rule is issued. The  requirement to provide opportunity for comment also applies to emergency ADs published as a  “Final rule; request for comment” ADs.  
+
+c.   The DOT policy requires that the FAA make a determination for each rulemaking that  involves a substantive rule, on whether the proposed action would have an impact that is  significant, non-significant, or constitutes an emergency. The criteria for considering a  rulemaking to be significant includes matters having a significant public interest, which are those  that are estimated to cost   $\S100$   million or more per year, and those that result in a major increase  in costs or prices for individual industries. The FAA must notify the DOT of significant  
+
+# May 17, 2010  
+
+regulatory action. For ADs, the determinations are made by the Chief Counsel’s Office for  Regulations, AGC-200, and/or the Associate Administrator for Aviation Safety, AVS-1.  
+
+# Chapter 3. Ex Parte Contacts  
+
+# 1.   General.  
+
+An ex parte contact occurs when not all parties to an issue are present when the issue is  discussed. In the context of AD rulemaking, which begins when the AD worksheet is signed, an  ex parte contact is any oral or written communication between the FAA (this does not include  FAA designees) and someone outside the government regarding the substance of a specific  rulemaking that excludes other interested parties and takes place before the final rule is published  or the NPRM is withdrawn.  
+
+# 2.   DOT Policy.  
+
+a.   Obtaining Information.  Notwithstanding the general restrictions placed on ex parte  communication, DOT policy encourages agencies to contact the public directly when there is a  need for factual information to resolve questions of substance and justification. This type of  contact can be especially important in the development of ADs where there is a specific need to  obtain a thorough understanding of the products involved and relevant information can be  obtained only from the design approval holder (DAH) or affected operators.  
+
+b.   Draft Regulatory Document or Text.  It is contrary to DOT and FAA policies to  disclose to any private party outside the agency the proposed preamble or regulatory text prior to  publication. The purpose of the policy is to prevent an unfair advantage to any one party or  appear that the agency is seeking approval from an outside party. Be aware that no group or  individual should be given special access to any information regarding rulemaking that is not  available to all groups or individuals.  
+
+# 3.   Improper Ex Parte Contacts.  
+
+a.   Inappropriate Contacts.  The standard for determining if an ex parte contact is improper  is whether the communication affects the basic openness and fairness of the agency’s decision- making process, or if the communication influences the agency’s position. Prior to engaging in  ex parte contact, consider whether the communication provides an unfair advantage to a party or  creates the appearance of impropriety. As a general rule, if a person attempts to inappropriately  influence your decision on a rulemaking, the communication should be immediately terminated.  An inappropriate ex parte contact could involve implied rewards for changing the rule.  
+
+b.   Disclosing Rulemaking Document or Text.  Both DOT and FAA policy prohibit  disclosing any part of the rulemaking document, which includes the NPRM, Interim AD actions,  Supplemental NPRM or Final Rule before they are made public. Disclosing unpublished text can  give the appearance that we are seeking approval from an outside party before issuing the AD. It  also can give an advantage to some parties over other members of the public. For example, it can  give some parties the advantage of knowing what the issues will be when the NPRM is  published, thereby giving more time for them to prepare their comments. For this reason, the  
+
+public (including DAHs and operators) must not have access to the rulemaking text before it is  published in the  Federal Register  or put on display at the OFR.  
+
+c.   Proprietary Information.  This type of information should be held strictly confidential.  Any questions concerning possible exceptions to allowing disclosure should be coordinated with  your Regional Airworthiness Counsel.  
+
+# 4.   Procedures for Ex Parte Contacts.  
+
+a.   Recording of Contact.  For cases where communication involves a substantive issue  related to a rulemaking, place a record of the contact, including any documents discussed or  handed out, in the AD docket at Web site  http://www.regulations.gov . An ex parte  communication that takes place by telephone or email is still “ex parte communication” and a  record of the contact must be placed in the AD docket. If you have any questions whether the  contact was ex parte, contact your Regional Airworthiness Counsel.  
+
+(1)   For ex parte communication that occurs prior to submittal of the AD worksheet to the  appropriate directorate, record the contact on the AD worksheet.  
+
+(2)   For ex parte communication that involve a substantive issue and occurs after  submittal of the AD worksheet to the appropriate directorate, record the following information at  a minimum:  
+
+(a)   The date and time that the meeting or conversation takes place;  
+
+(b)   A list of the participants;  
+
+(c)   A statement of the topics discussed and what was said about each topic.  This  statement must be more than a list of the topics discussed.  The purpose of the statement is to  supply a record of the information relied upon during the rulemaking process so the FAA can  provide a complete and thorough record for later judicial review. The thoroughness of the  statement also will foster public trust for agency actions. And;  
+
+(d)   Any commitments made by DOT/FAA personnel.  
+
+b.   Referencing Contact in an AD Action.  Reference ex parte contacts that takes place after  the AD worksheet has been signed that influenced the agency’s position by doing one of the  following:  
+
+(1)   Identify each ex parte contact along with a short discussion of the communication in  the AD preamble, unless it is unreasonable to do so. For example, when we make a large number  of ex parte contacts to get information from several DAHs and operators, identify the  circumstances giving rise to the discussion, and just give a general reference in the AD preamble  about how we gathered the information. You don’t have to discuss each individual contact; or  
+
+(2)   Include the following statement in the AD preamble:  
+
+![](images/2687d4fe3c0e5dbc2a16354cda7e84e44b8f7a956505bb42345ecaa456ba8714.jpg)  
+
+# 5.   Precautions and Practices.  
+
+a.   Prior to Issuance of Notice.  Ex parte contacts that take place closer to the date that  rulemaking will be published have a higher likelihood of being considered inappropriate than  those that take place early in the process. If you have questions about specific contacts during  this time, discuss them with your Regional Airworthiness Counsel.  
+
+b.   During the Comment Period.  Ex parte contacts during the comment period are  discouraged because interested parties can still submit a written comment to the AD docket or  present their concern at a public meeting announced in the  Federal Register . If you discuss the  NPRM with an outside party, limit the information to only that contained in the proposed rule  and information made generally available during a public meeting. Do not discuss other  information or the factors the agency is considering as it prepares to issue the final rule.  
+
+c.   After Comment Period Closes.  Ex parte contacts after the comment period closes must  also be recorded in the AD docket and, if the comment is significant, consider reopening the  comment period. If you determine it would be helpful to meet with a person or group after the  comment period closes, announce the meeting in the  Federal Register .  
+
+d.   After Announced Meeting.  Ex parte contacts after a meeting that was announced to the  general public are particularly vulnerable to suspicion. If a contact occurs outside of the meeting  (as in stepping out in the hall to discuss the rule with one or more, but not all, participants), or  after the meeting, you must place a record of the contact in the AD docket.  
+
+e.   International Airworthiness Authorities.  Contacts with international authorities are  vulnerable because these people represent the official interests of their governments, and they  often represent the interests of DAHs and operators in their countries. Limit your  communications with them to exchanging facts or to gaining mutual understanding or  “harmonization” during any phase of the rulemaking process. To ensure harmonization, ask the  representative not to distribute information or documents about the proposed rules to private  individuals.  
+
+# Chapter 4. Determining Type of AD Action  
+
+1.   Purpose of this Chapter.  
+
+This chapter describes:  
+
+a.   When to issue ADs;  
+
+b.   The primary types of AD actions the FAA issues; and  
+
+c.   The standard APA procedure for issuing a final rule and the exceptions to this procedure,  e.g., emergency AD and “Final rule; request for comments.”  
+
+# 2.   When to issue ADs.  
+
+ADs are issued when (1) an unsafe condition exists in the product (i.e., aircraft, aircraft engine,  propeller, or appliance), and (2) the condition is likely to exist or develop in other products of the  same type design. Once an AD is issued, anyone who operates a product that does not meet the  requirements of the AD is in violation of 14 CFR  $\S~39.7$  . If the unsafe condition only exists on  one product and there are no other existing products of the same type design, accomplish  corrective action through means other than an AD.  
+
+# 3.   Advance Notice of Proposed Rulemaking (ANPRM).  
+
+We issue an ANPRM when we would like to gather public input about the possibility of issuing  a new rule before deciding to go forward with an NPRM. The ANPRM is valuable because the  public can be the best source of that information. Using an ANPRM is also beneficial when we  have identified a wide range of alternatives and want public help narrowing the choices down  before issuing the NPRM. The ANPRM can be in the form of a proposed rule or it can be a list  of questions to obtain additional information to be used in developing an NPRM.  
+
+# 4.   Notice of Proposed Rulemaking (NPRM).  
+
+a.   An NPRM is the most common type of AD action. After an unsafe condition and when  proposed corrective actions are identified, we publish an NPRM, which requests public comment  on the proposed corrective action(s). After the comment period closes, we reopen the comment  period, withdraw the NPRM, or issue the final rule, taking into account all comments received.  Change the rule as warranted by the comments.  
+
+b.   After the OFR publishes an NPRM and the comment period closes, publish either a 
+
+ “Final rule” (i.e., Final rule after NPRM) or a “Proposed rule; withdrawal.” An NPRM becomes 
+
+ “stale” 16 months after the comment period closes. Depending on the circumstances that caused  the NPRM to become stale, you might have to issue a Supplemental NPRM.  
+
+# 5.   Final Rule after NPRM (FRAN).  
+
+a.   After the comment period closes, we prepare a final rule provided any changes made do  not go beyond the scope of the proposed AD.  
+
+b.   If we do not issue the final rule within 16 months after the close of the comment period,  consult with your Regional Airworthiness Counsel.  
+
+# 6.   Emergency   ADs.  
+
+We issue an emergency AD when an unsafe condition presents an immediate risk to safety of  flight, when it requires immediate action by owners/operators, and when we cannot wait for  publication in the  Federal Register  to address the unsafe condition. Consider the following:  
+
+a.   Affected Parties.  An emergency AD applies only to the people who receive “actual  notice”. Those who do not physically receive the AD in person, by U.S. mail or fax are not  required to comply with it, even if they hear about it.  
+
+b.   Follow-up Publication in the  Federal Register .  Unless you immediately supersede 15  the  emergency AD, it is critical to follow it with publication in the  Federal Register  as soon as  possible, but no later than 30 days. Other than very minor corrections (such as obvious  typographical errors) and the addition of boilerplate language, cost of compliance, standard  format, and material required for incorporation by reference, the version published in the  Federal  Register  as a final rule MUST BE IDENTICAL to the emergency AD. If an FRV differs from  (but does not supersede) the emergency AD, it creates two classes of persons required to comply:  those who got the emergency AD and those who did not. The existence of two different  corrective actions to the same unsafe condition makes it appear that one is insufficient or not as  effective as the other one. Further, we could be creating another unsafe condition by causing  such a situation to occur.  
+
+c.   Changing an Emergency AD.  To make a change to a previously issued emergency AD,  we have three options:  
+
+(1)   Issue an FRV that is identical to the emergency AD, except for the changes identified  in paragraph 7.b. above. This rule is effective to all persons except those who received the  emergency AD. After issuing that FRV, issue an IAR that supersedes the FRV and contains the  corrected information.  
+
+(2)   Issue an IAR that supersedes or revises the existing emergency AD and contains the  corrected information.  
+
+(3)   Issue a new emergency AD that supersedes or revises the existing emergency AD,  followed by  Federal Register  publication of an FRV.  
+
+# 7.   Final Rule; Request for Comments (FRC).  
+
+When necessary in the interest of safety, we can issue a final rule immediately without first  issuing an NPRM. Do not shorten compliance times artificially to fit the criteria of an FRC in an  effort to avoid the notice requirement procedures. The APA does not set a specific time limit for  a rule to qualify for immediate adoption. In general, we issue an FRC only when it is  “impractical” to complete the notice requirement procedure because the compliance time for the  required action is shorter than the time necessary for the public to comment and for us to publish  the final rule 16 .  
+
+b.   Types of FRCs:  
+
+(1)   Immediately Adopted Rule (IAR).  This type of AD action is used when all of the  following apply:  
+
+(a)   The unsafe condition and our risk assessment indicates an immediate safety of  flight problem;  
+
+(b)   Good cause exists to say it is “impractical” to comply with “Notice and  Comment” requirements before issuing the AD;  
+
+(c)   There are affected aircraft on the U.S. Register; and  
+
+(d)   We can wait for publication in the  Federal Register  to address the unsafe  condition and therefore do not need to issue an emergency AD.  
+
+(2)   No-notice Final Rule (NFR).  This type of AD action is used when:  
+
+(a)   Good cause exists to say it is “unnecessary” to comply with “Notice and  Comment” requirements before issuing the AD (e.g., there are currently no affected aircraft on  the U.S. Register and the public will have little or no interest in the AD); and  
+
+(b)   There is not an immediate safety of flight problem.  
+
+(3)   Federal Register Version of an Emergency AD (FRV).  This type of AD action is  used to make an emergency AD effective to all persons.  
+
+c.   Remember that when an AD has not been preceded by an NPRM, we must make a “good  cause” finding of “impractical” or “unnecessary” and specify that finding in the preamble.  
+
+# 8.   Considerations for IAR and Emergency ADs.  
+
+Sometimes the actions to correct an unsafe condition in an IAR and emergency AD involve both  a short-term interim action (for example, repetitive inspections or operating restrictions) and a  longer-term terminating action (for example, a modification). In these cases, the APA requires  that we analyze each required action separately to determine whether we should give notice. If  we can make an independent finding of “im practicability” 17  for the terminating action, we may  include it as a requirement in the IAR and emergency AD. If not, only include the short-term  interim action in the IAR and emergency AD, though we may include the terminating action as  an option. In other words, the APA does not permit “bootstrapping” a long-term requirement into  an IAR and emergency AD. For example,  
+
+a.   If the terminating action is not immediately mandated, the public may comment on the  terminating action, and the APA requires that we issue an NPRM before mandating the  terminating action. (The FRC can include the terminating action as an option.)  
+
+b.   If the level of safety provided by the interim action is inappropriate for long-term  
+
+operation and the compliance time for the terminating action is too short to allow for public  comment, then we can justify im practicability for including the terminating action in the FRC.  
+
+# 9.   Sensitive Security Information (SSI) AD Action.  
+
+DOT Order 1600.75, “Protecting Sensitive Unclassified Information (SUI),” provides policy and  guidance for protecting sensitive unclassified information we create or control.  AD actions that  relate to national transportation safety or security issues fall within the scope of DOT Order  1600.75 and are defined as sensitive security information (SSI).  
+
+a.   SSI is a designation  unique  to the DOT’s operating administrations and to the  Department of Homeland Security. It applies to information we obtain or develop while  conducting  security activities,  including research and development activities. Unauthorized  disclosure of SSI would:  
+
+(1)   Constitute an unwarranted invasion of privacy  
+
+(2)   Reveal trade secrets or privileged or confidential information obtained from any  person; or  
+
+(3)   Be detrimental to transportation safety or security.  
+
+b.   In general, persons have a duty to protect the information and then a  need to know  it  before given access to SSI ADs. Use protective measures to safeguard SSI ADs from  uncontrolled release outside the FAA and indiscriminate dissemination within the FAA.  
+
+c.   Issue a ‘Final rule; request for comments’ only after the compliance time specified in the  ‘Sensitive Security Airworthiness Directive’ has passed. If no aircraft are on the U.S. Registry,  only issue the ‘Final rule; request for comments’ AD. Do not mark or make reference to a  sensitive security information AD action within the text of the AD. Follow this same process for  MCAI-related ADs that contain SSI.  
+
+# 10.   Other Types of Documents Published in the  Federal Register  
+
+The OFR DDH includes a list of other types of documents available for publication in the  Federal Register . Contact your directorate AD focal point (e.g., AD Coordinator) for more  information about these other types of documents.  
+
+# Chapter 5. Changing Existing AD Actions  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter explains and defines how to change an AD action through a correction, rescission,  revision, withdrawal, or supersedure.  
+
+# 2.   “Supplemental notice of proposed rulemaking (SNPRM); reopening of comment  period”.  
+
+After we issue an NPRM and the comment period has closed, we might need to reopen the  comment period. The supplemental NPRM allows the public an additional opportunity to review  and comment on the requirements.  
+
+a.   Additional Burden to the Public.  Sometimes we change the NPRM requirements, based  on new information, before issuing the final rule. We use this AD action if the changed  requirements add a burden to the public (by expanding the applicability or shortening the  compliance time, for example).  
+
+b.   Request to Reopen Comment Period.  Sometimes we reopen the comment period based  on a request from the public.  
+
+# 3.   “Proposed rule; withdrawal”.  
+
+After we issue an NPRM, we sometimes become aware of new information that prompts us to  withdraw the proposed rule. Withdrawing the NPRM constitutes only that action, and does not  prevent us from issuing another NPRM in the future.  
+
+# 4.   “Proposed rule; extension of the comment period”.  
+
+After we issue an NPRM and while the comment period is still open, we might need to extend  the comment period. This AD action allows the public additional time to review and comment on  the requirements specified in the NPRM.  
+
+# 5.   Superseding AD Actions.  
+
+Superseding AD actions might be issued as an NPRM, final rule, FRC, or emergency AD. We  issue a supersedure when we need to correct an error that affects the substance of the AD or to  expand the scope of the existing AD. Examples include adding a part number, correcting a part  number (when that part number actually exists), mandating compliance with additional service  information, reducing compliance times, expanding applicability, changing the methods of  compliance, adding corrective actions, adding or changing inspection requirements, and adding  mandatory terminating action.  
+
+a.   Identifying Supersedures.  A superseding AD gets a new amendment number and a new  AD number; the previous AD is deleted from 14 CFR part 39.  
+
+b.   Considerations for Writing Supersedures.  Keep the following in mind when  superseding an AD:  
+
+(1)   When restating old compliance dates, be careful to limit them to the previous  requirements only. When increasing applicability, do not use old compliance dates for newly  
+
+added products. On the other hand, do not omit provisions of the previous AD that are intended  to remain in effect until operators have complied with the requirements of the superseding AD. A  careful “side-by-side” comparison of the previous AD and the new AD draft is essential.  
+
+(2)   Remember to give instructions in the amendatory language in terms acceptable to the  OFR. “Supersedure” is an internal FAA term.  
+
+(3)   The preamble must indicate that we are superseding a previous AD.  
+
+c.   Describing the Change in the AD.  Include a discussion of each change in the AD that  caused the supersedure. Be sure to consider whether the change affects any compliance time.  
+
+d.   Verification.  When issuing a superseding AD to correct an error, directorate personnel  must verify that the new AD action corrects the previous error by reviewing and coordinating on  the new AD action. A record of the AD action correcting the previous error can be found in the  AD docket.  
+
+e.   Metrics.  Directorate personnel collect and address metrics in QMS per AIR AOD,  document, AIR-001-002.  
+
+# 6.   Revising AD Actions.  
+
+Revise an AD if the change is relieving in nature, e.g., when we add an optional terminating  action, reduce applicability, or correct an error that causes compliance to be impossible (e.g.,  non-existent part number). A revised AD cannot impose new requirements or expand the scope  of an existing AD.  
+
+a.   Identifying Revisions.  A revised AD gets a new amendment number but retains its AD  number with the addition of the revision number (for example, “2006-14-03 R1”).  
+
+b.   Considerations for Writing Revisions.  Keep the following in mind when revising an  AD:  
+
+(1)   When restating old compliance dates, be careful to limit them to the previous  requirements only. Do not omit provisions of the previous AD that are intended to remain in  effect. A careful “side-by-side” comparison of the previous AD and the new AD draft is  essential.  
+
+(2)   Remember to give instructions in the amendatory language in terms acceptable to the  OFR. Do not use “Revision,” it is an internal FAA term.  
+
+(3)   The preamble must indicate that we are revising a previous AD.  
+
+c.   Describing the Change in the AD.  Include a discussion of each change in the AD. Be  sure to consider whether the change affects any compliance time.  
+
+d.   Verification.  When issuing a revised AD to correct an error, directorate personnel must  verify that the new AD action corrects the previous error by reviewing and coordinating on the  
+
+new AD action. A record of the AD action correcting the previous error can be found in the AD  docket.  
+
+e.   Metrics.  Directorate personnel collect and address metrics in QMS per AIR AOD,  document AIR-001-002.  
+
+7.   “Notice of Proposed Rulemaking (NPRM); correction” or “Final rule; correction”.  We issue a correction AD action when the change has no effect on compliance with the AD.  Examples include, but are not limited to, changes to the contact information, address or  telephone number for obtaining service information, or an incorrect AD docket number.  
+
+a.   Identifying Corrections.  A correction AD is not assigned a new amendment number or a  new AD number because compliance is not affected.  
+
+b.   Considerations for Writing Corrections.  Keep the following in mind when correcting  an AD:  
+
+(1)   Remember to give instructions in the amendatory language in terms acceptable to the  OFR.  
+
+(2)   The preamble must indicate that we are correcting a previous AD.  c.   Describing the Change in the AD.  Include a discussion of each change in the AD.  
+
+d.   Verification.  When issuing a correction AD to fix an error, directorate personnel must  verify that the new AD action corrects the previous error by reviewing and coordinating on the  new AD action. A record of the AD action correcting the previous error can be found in the AD  docket.  
+
+e.   Metrics.  Directorate personnel collect and address metrics in QMS per AIR AOD,  document AIR-001-002.  
+
+8.   Rescinding (Removing) an Existing AD.  
+
+Rescinding an existing AD requires a rule change under 14 CFR part 39. The standard procedure  is to use the NPRM process to solicit public comment. Process the action as an IAR, if justified.  
+
+a.   Identifying Rescissions.  A rescission AD gets a new amendment number but retains its  AD number with the addition of the revision number (for example, “2007-12-05 R1”).  
+
+b.   Considerations for Writing Rescissions.  Keep the following in mind when rescinding  an AD:  
+
+(1)   Check whether the AD being removed mentions or affects another AD in the system.  (2)   Be sure that rescinding the AD does not leave an unsafe condition unresolved.  
+
+(3)   The fact that all owners or operators have complied with an AD does not make the  AD (the change in type design) unnecessary. Do not rescind an AD based on a DAH’s claim that  all affected aircraft have complied with the AD. Do not rescind an AD based on information that  no affected aircraft are on the U.S. registry.  
+
+(4)   Remember to give instructions in the amendatory language in terms acceptable to the  OFR.  
+
+(5)   The preamble must indicate that we are rescinding an existing AD.  
+
+c.   Describing the Change in the AD.  Include a discussion of why it is necessary to rescind  the AD.  
+
+# 9.   Petition for Exemption.  
+
+An AD is a regulation promulgated using the procedures of 14 CFR part 11. A petition  requesting relief (exemption) from the requirements of an AD must meet the requirements of  14 CFR 11.81. Refer to Exemptions Procedures Manual, ARM 001-013, or your Regional  Airworthiness Counsel, for more information.  
+
+# Chapter 6. Drafting, Coordinating, Issuing, Publishing, and Distributing ADs  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter addresses drafting, coordinating, issuing, publishing, and distributing AD actions.  
+
+# 2.   AD Worksheet.  
+
+The AD process begins when the AD worksheet is signed. The AD worksheet is the tool for  conveying factual information to the appropriate directorate for drafting an AD action. Typically,  separate AD worksheets are used for each applicable model or series when the complexity of the  AD (e.g., multiple product configurations, multiple actions, and multiple compliance times) for a  particular unsafe condition varies among those models or series. This practice facilitates better  review of proposed ADs and easier compliance with final rules for owners and operators.  
+
+a.   Use the AD worksheet approved by the Delegation and Airworthiness Programs Branch,  AIR-140 (contact your directorate AD focal point (e.g., AD Coordinator) for the location of the  current version of the worksheet). An AD worksheet is necessary except for the following:  
+
+(1)   A Federal Register Version (FRV) of an emergency AD provided the content of the  emergency AD is restated in the FRV, or  
+
+(2)   A final rule after NPRM (FRAN) when no comments or only supportive comments  are received in response to the NPRM.  
+
+b.   Send completed AD worksheet and other supporting information (e.g., service  information) to the accountable directorate AD focal point (e.g., AD Coordinator) for the  product. For appliances, provide it as follows:  
+
+(1)   When the unsafe condition exists in the appliance (e.g., the appliance is the cause of a  fire, direct cause of occupant injury, etc.), send it to the directorate with geographical jurisdiction  of the appliance design approval holder. The AD action is issued against the appliance.  
+
+(2)   When the unsafe condition results from the installation of the appliance on an aircraft,  engine, or propeller, send it to the directorate responsible for that product. The AD action is  issued against the aircraft, engine, or propeller; not the appliance.  
+
+c.   Do not accept assurance from a DAH that all products are in compliance as a reason to  not issue an AD action, e.g., there is no assurance that a modification remains on the product.  
+
+d.   Coordination.  AD worksheets must be signed by all appropriate parties. Signatures can  be accomplished by actual signature, by initialing the hard copy, or by providing electronic  concurrence with the worksheet.  
+
+(1)   If a worksheet is used, it is complete when the following personnel sign it:  (a)   The Aviation Safety Engineer (ASE);  
+
+Note : For the purposes of this manual, any reference to an  ASE includes a flight test engineer and flight test pilot.  
+
+(b)   The ASE’s manager or person acting on the manager’s behalf;  (c)   Continued Operational Safety (COS) focal  as defined by local office (optional);  (d)   The Aircraft Evaluation Group (AEG) focal (except for appliances); and  
+
+(e)   The Manufacturing Inspection District Office (MIDO), Manufacturing Inspection  Office (MIO) or Certificate Management Office (CMO) representative when a quality control  problem is identified.  
+
+(f)   ACO/Staff Office Manager  
+
+(2)   For the disposition comment page of the AD worksheet, it is complete when:  
+
+(a)   For comments received, the ASE and the ASE’s manager (or person acting on the  manager’s behalf) signs it. Or,  
+
+(b)   When no comments are received, the checkbox “No Comments Received” is  marked and the page is placed onto FDMS at  http://www.regulations.gov .  
+
+e.   Regulatory Evaluation.  The ASE must complete and submit the Regulatory Evaluation,  which is part of the AD worksheet, to the accountable directorate AD focal point (e.g., AD  Coordinator) for the product. Refer to chapter 2 of the AD Manual for guidance on the  economic/regulatory aspects of the AD worksheet.  
+
+# 3.   Drafting References and Tools.  
+
+a.   Document Drafting Handbook (DDH).  The OFR DDH contains guidelines for  developing and formatting rules. Failure to follow those guidelines might result in the OFR  rejecting an AD.  
+
+b.   U.S. Government Printing Office (GPO) Style Manual.  The GPO Style Manual  contains guidance for proper grammar and punctuation.  
+
+c.   FAA Order 1000.36.  Follow this order to ensure we are communicating clearly,  effectively, and in plain language.  
+
+# 4.   AD Templates.  
+
+a.   Use the AD templates approved by AIR-140 (contact your directorate AD focal point  (e.g., AD Coordinator) for the location of the current version of the templates). Refer to FAA  Order 8040.5,  Airworthiness Directive Process for Mandatory Continuing Airworthiness  Information,  for guidance on templates for MCAI-related ADs.  
+
+b.   For a SSI AD, mark the AD with ‘Sensitive Security Airworthiness Directive’ in  accordance with 49 CFR  $\S~15.13$  .  
+
+# May 17, 2010  
+
+# 5.   Review and Coordination of AD Action.  
+
+a.   It is essential that the reviewers, listed below, identify and resolve all possible issues with  the ASE, and raise unresolved issues immediately through appropriate levels of management to  obtain resolution. Except as provided in paragraph b. below, the AD action is ready for signature  once the following personnel have reviewed and coordinated on the grid:  
+
+•   The ASE;  •   The ASE’s manager or person acting on the manager’s behalf;  •   Project officer (as applicable);  •   AEG (except for ADs for appliances);  •   MIDO, MIO, or CMO (for a quality control issue);   •   Regional Airworthiness Counsel; and  •   Directorate Management.  
+
+b.   For the following AD actions, you may coordinate on the grid with only the Regional  Airworthiness Counsel, AEG, and Directorate Management:  
+
+(1)   A Federal Register Version (FRV) of an emergency AD provided the content of the  emergency AD is restated in the FRV, or  
+
+(2)   A final rule after NPRM (FRAN) when no comments or only supportive comments  are received in response to the NPRM.  
+
+c.   For AD actions involving appliances that can be installed on various types of aircraft  (e.g., transport category airplanes, small airplanes, or rotorcraft), coordinate the draft AD action  with the other affected directorate(s).  
+
+# 6.   Administrator’s AD Alert.  
+
+a.   Prepare an Administrator's AD Alert using the template approved by AIR-140 (contact  your directorate AD focal point (e.g., AD Coordinator) for the location of the template).  Transmit the completed template to the Director, Aircraft Certification Service, AIR-1, in  advance of the issuance of a “sensitive” AD. Do not send the AD to the OFR for publication or  AIR-140 for distribution before AIR-1, or person acting on their behalf, has approved the  Administrator's AD Alert.  
+
+b.   Typical examples of ADs that are considered “sensitive” include ADs that are:  
+
+(1)   Unusually burdensome (e.g., imposes a significant cost impact under the DOT  Policies, or might add a significant cost increase over previously issued ADs),  
+
+(2)   Controversial;  
+
+(3)   Expected to generate a high level of congressional or public interest;  
+
+(4)   Grounding aircraft;  
+
+(5)   Affecting a large fleet of aircraft; or  
+
+(6)   Anticipated to generate significant news media coverage, especially if related to a  well-publicized accident.  
+
+# 7.   Signature of AD Action.  
+
+After coordination with all necessary parties, the AD action is signed by the Directorate  Manager. The Directorate Managers may redelegate authority to sign ADs for their directorate to  the Assistant Directorate Manager, but no further.  
+
+# 8.   Continued Airworthiness Notification to the International Community (CANIC).  
+
+a.   A CANIC is used to notify civil airworthiness authorities of other countries of pending  significant safety actions. A significant safety action can be defined as, but not limited to, the  following:  
+
+(1)   Urgent safety situations;  
+
+(2)   The pending issuance of an Emergency AD;  
+
+(3)   A safety action that affects many people, operators;  
+
+(4)   A Special Federal Aviation Regulation (SFAR);  
+
+(5)   Other high interest event (e.g., a special certification review).  
+
+b.    Refer to QMS documents AIR-001-030-F1,  CANIC Template , and AIR-001-030-W1,  AIR Continued Airworthiness Notification to the International Community , for the CANIC  template and procedures regarding initiating, drafting, coordinating, issuing, and distributing  CANICs.  
+
+# 9.   Publication of AD Action.  
+
+a.   Sending the AD Action to the OFR.  After the AD action is signed, the issuing  directorate either:  
+
+(1)   Sends the original AD action, two certified copies, a copy of the service information  for incorporation by reference if appropriate, and a diskette or compact disc (CD), to the OFR for  publication. A designated certifying official in the directorate certifies the copies, or  
+
+(2)   Sends the digitally signed AD action, if authorized by the OFR, to the OFR for  publication.  
+
+b.   Correcting or Withdrawing Documents from the OFR.  Procedures for correcting or  withdrawing documents from the OFR can be found in the OFR DDH.  
+
+# 10.   Distribution.  
+
+The AD process ends when the AD is distributed to the affected parties. After the AD is  published in the  Federal Register , AIR-140 distributes the AD per the process below. AIR-140  also posts it on the FAA Web site at  http://rgl.faa.gov .  
+
+# a.   Special Notification for the Presidential Fleet and Surplus Aircraft of the U.S.  Armed Forces (including engines).  
+
+(1)   When issuing an AD that affects aircraft in the Presidential fleet or other surplus  aircraft of the U.S. Armed Forces, including engines, the issuing directorate must notify the  Military Certification Office (MCO), ACE-100M. If unsure, contact the MCO to determine  whether the affected aircraft, including engines, are in one of these categories. The MCO is  responsible for notifying the U.S. Armed Forces.  
+
+(2)   AIR-140 distributes the AD action electronically.  
+
+# b.   Emergency ADs.  
+
+(1)   For emergency ADs that require AIR-140 support after business hours and on  weekends or holidays, notify the AIR-140 Manager as soon as possible to ensure personnel are  available to complete AIR-140’s distribution responsibilities.  
+
+(2)   Within 24 hours after receiving the AD from the directorate, AIR-140 must:  
+
+(a)   For transport category airplanes, including engines, propellers, or appliances  installed on them:  
+
+   Fax the emergency AD to all affected operators with an A447 OpSpec  paragraph listed in the Web-based Operator Safety System (WebOPSS), as called out in the  “applicability” of the AD;      Mail the emergency AD to all affected owners listed in the FAA Aircraft  Registry, as called out in the “applicability” of the AD; and     Notify appropriate FAA personnel using the distribution list maintained in  AIR-140.  (b)   For rotorcraft or small airplanes, including engines, propellers, or appliances  installed on them:     Mail the emergency AD to all affected owners listed in the FAA Aircraft  Registry, as called out in the “applicability” of the AD; and      Notify appropriate FAA personnel using the distribution list maintained in  AIR-140.  
+
+c.   Final Rules, including “Final rules; request for comments”  (1)   AIR-140 distributes the AD electronically.  
+
+(2)   The issuing directorate e-mails the following to AIR-140 at  9-AMC-AIR140- Information-Products@faa.gov :  
+
+(a)   All final rule AD actions, including corrections, and  
+
+(b)   A completed form titled “Submission of Federal Rules Under the Congressional  Review Act” (contact your directorate AD focal point (e.g., AD Coordinator) for a current copy  of this form).  
+
+(3)   AIR-140 mails copies of the AD and completed form to AGC-200 on a weekly basis.  
+
+d.   NPRMs.  AIR-140 does not distribute NPRMs to owners or operators. You can find  NPRMs at:  
+
+   The FAA Web site at  http://rgl.faa.gov      The Federal Docket Management System at  http://www.regulations.gov    The OFR at  http://www.gpoaccess.gov/fr  
+
+# e.   ADs Affecting Appliances.  
+
+(1)   The FAA Aircraft Registry Database does not contain appliance information.  Therefore, when possible, the issuing directorate includes in the applicability statement of the  AD the aircraft make and model(s) in which an appliance might be installed on.  
+
+(2)   For ADs that don’t or can’t identify a specific affected appliance model (such as a  transceiver AD), AIR-140 might have to distribute the AD to the entire fleet or a large portion of  the fleet. If preparing an AD that requires such a distribution, contact AIR-140 as soon as  possible to discuss distribution.  
+
+# f.   An SSI AD.  
+
+(1)   An AD resulting from SSI must be distributed only to need-to-know persons. Each  Directorate must coordinate early with AIR-140 and provide a list of affected operators for  specific distribution.  
+
+(2)   An SSI AD is not posted to RGL. A follow-up version of the AD is published in the  Federal Register  and RGL in the form of a ‘Final rule; request for comments’ only after the  compliance time specified in the ‘Sensitive Security Airworthiness Directive’ has passed.  
+
+# 11.   Exchange of Continuing Airworthiness Information.  
+
+a. International Civil Aviation Organization (ICAO) Annex 8.  Amendment 100 to  ICAO Annex 8, Airworthiness of Aircraft, Section 4, obligates the United States to exchange  
+
+# May 17, 2010  
+
+continuing airworthiness information with ICAO member states.  
+
+b. Effect on ADs.  Bilateral agreements between the United States and other countries also  require the exchange of AD information. This requirement is met by ensuring that ICAO  Member States that have notified the FAA of the inclusion of a U.S.-manufactured aircraft on its  registry are sent all applicable ADs. AIR-140 is the focal point for the exchange of airworthiness  information with international civil aviation authorities.  
+
+# 12.   Biweekly Supplements.  
+
+A biweekly supplement contains all ADs issued by the FAA during the previous two-week  period. AIR-140 posts each biweekly supplement on the FAA Web site at  http://rgl.faa.gov  
+
+# Chapter 7. Preamble of an AD  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter provides policy and guidance on certain sections of the preamble. You can find  more detail about the preamble in the OFR DDH. Refer to FAA Order 8040.5,  Airworthiness  Directive Process for Mandatory Continuing Airworthiness Information , for guidance on MCAI- related ADs.  
+
+# 2.   Information Headings.  
+
+The preamble provides the basic information about the “who, what, where, when, and why” of  the document for the average reader rather than just the aviation expert. It does not include  regulatory text; the regulatory text is in the rule portion of the AD. All documents we send to the  OFR must include the information headings shown in Example 7-1 and explained in Table 7-1.  
+
+# Example 7-1:  Information Headings in an AD Action  
+
+![](images/e12260eac575256d644c2318157934b3c336677c946ca1fa6e4904ffd9c6b17c.jpg)  
+
+![](images/3f61e466acde287936ac56581a7979b62faca1eaa4d6bd088452629e8aeb75e3.jpg)  
+
+# 3.   AD Numbering.  
+
+a.   Identifying AD Actions.  The directorate issuing the AD action assigns a directorate  identifier and obtains a FDMS docket number.  
+
+# (1)   Docket Number (underlined below).  
+
+![](images/3e33cc63f58444905f9ce8ed4b05ae569cf3a9e34657b7682b22499d3e160fb0.jpg)  
+
+(a)   The directorate issuing the AD action contacts the DOT DMS Docket Office by  telephone or by e-mail and requests an FDMS docket number. The directorate supplies the  following information to the DOT DMS Docket Office:  
+
+•  AD Docket Title (i.e., Directorate Identifier)  •  Category (i.e., Rulemaking)  •  Subcategory (i.e., Airworthiness Directives)  •  Action Office (e.g., ASW-112)  
+
+•  AD Docket Subject (i.e., Make/Model/Subject)  
+
+(b)   The DOT DMS Docket Office then assigns the next sequential AD docket  number, which includes the calendar year the directorate requested the FDMS docket number.  Example: FAA-2008-2432.  
+
+(2)   Directorate Identifier (underlined below).  The directorate identifier includes the  calendar year we start the AD action, the two-letter designator for the directorate region, and a  sequential number. The directorate regions are as follows:  
+
+•  CE (Central region),  •  NE (New England region),  •  NM (Northwest Mountain region), and  •  SW (Southwest region)  
+
+![](images/97bf2a6bda290b8e03f3cede1e65421b970b595dd631e00606e8ff00391c5fd5.jpg)  
+
+b.   Retaining Directorate Identifier and Docket Number.  For final rules that follow  NPRMs, use the same directorate identifier and FDMS docket number used for the NPRM.  
+
+c.   Revising ADs Issued Before Implementation of DMS and FDMS.  For revisions to  ADs issued before we started using DMS or FDMS, convert the original AD docket number to a  directorate identifier and obtain a new FDMS docket number.  
+
+d.   Changing the Directorate Identifier and Docket Number.  The issuing directorate may  change the directorate identifier and AD docket number if it becomes impractical to continue  using the original numbers. Some reasons to change include:  
+
+• Age of the AD action •  Change in directorate responsibility.  
+
+e.   Amendment Number (underlined below).  After a Directorate Manager or Assistant  Directorate Manager signs an AD, the issuing directorate gets a part 39 amendment number and  an AD number from AIR-140. Provide to AIR-140 the FDMS docket number (except for  emergency ADs), directorate identifier, issue date, whether it is a revising or superseding AD  action, and the design approval holder (e.g., TC holder) and model/series of the product affected.  
+
+![](images/f475ac57bbce87b6eb36bddd8f1af7bc8c9b322e1520440f020c1424bd010421.jpg)  
+
+# f.   AD Number (underlined below).  
+
+![](images/c7157b8a4ab269c2d078a9a35be3a0d306b785023859c3694ba0bbcb8d9d1e44.jpg)  
+
+(1)   AIR-140 assigns an AD number to every AD. The AD number is used for agency  tracking, maintenance recordkeeping by operators, and filing purposes. The number consists of a  series of eight digits separated by dashes. The first four digits indicate the calendar year in which  the AD action is issued. The second two digits indicate the biweekly period of the year in which  the AD number was assigned. The last two digits are issued sequentially, beginning with  $^{-01}$   for  each biweekly period and continuing in ascending order until the next biweekly period begins,  unless the AD is an emergency AD.  
+
+(2)   For emergency AD numbers, AIR-140 designated the “50 series.”  Examples are  2005-10-51 and 2004-14-52. The AD numbers follow the same system described previously.  
+
+(3)   Revisions to ADs are identified by a suffix to the basic AD number that indicates the  level of revision. Examples are 2005-10-05 R1; 2005-10-05 R2.  
+
+# 4.   Subject Heading.  
+
+a.   For AD actions involving type certificated (TC) aircraft, engines, or propellers, specify  the affected make and model of the product with additional qualifiers, as necessary.  For  example:  
+
+# Example 7-2:  Subject Heading with Product and Additional Qualifier  
+
+The Boeing Company Model 777 Airplanes Equipped With Rolls- Royce plc Model RB211-TRENT 892-17 Engines  
+
+(1)   Use the legal name of the TC holder specified on the TCDS. Identify previous TC  holder(s) if including them makes it easier to identify the product. For example:  
+
+![](images/fb41adf5d579a1ec2a820c99a0c7dba5aec47cf90823f7e61e232e1ee9342996.jpg)  
+
+(2)   If many different TC holders are affected, replace the product make and model with 
+
+ “Various [Aircraft/Engines/Propellers],” as appropriate. Use product descriptor as necessary 
+
+ (e.g.,  Transport  Airplanes,  Reciprocating  Engines). For example:  
+
+Example 7-4: Subject Heading Involving Many Different TC Holders  
+
+![](images/79cd16b819acbb254291c73729a3b79351ff0e59a35fef1566a844eab1ed5e8a.jpg)  
+
+(3)   If many different models are affected, use the product’s basic model number (e.g.,  The Boeing Company Model 747).  
+
+(4)   The term “series” denotes similar models of a product. Referring to products by series  leaves the AD open to interpretation and inconsistent use is a constant source of problems.  Although it is a useful short cut, it's only useful if it's accurate and clear to affected parties.  
+
+(a)   Use this term with caution, i.e., only if it appears as a make-model-series  description on the TCDS or design approval letter (e.g., The Boeing Company Model 757- 200CB series airplanes as listed on TCDS A2NM). Do not use the term ‘series’ if the AD applies  to only certain products within the make-model-series description. For example:  
+
+![](images/fe106b5918ed9e8486a6d94f797caddc2a9d4175a8729e90abc6f756f6f99bab.jpg)  
+
+(b)   For TCDS’s or design approval letters which do not list models by a make-model- series description, specify each individual model that applies to the AD.  
+
+(5)   You may include a product model’s “common” name for additional clarity. Place the  common name in parentheses after the TCDS’s legal name. For example:  
+
+# Example 7-6:  Subject Heading with a Common Name  
+
+Piper Aircraft, Inc. (Piper) Model PA-46-350P (Mirage) Airplanes  (6)   For unsafe conditions associated with PMAs and STCs:  
+
+(a)   Identify the TC holder’s legal name of the product affected (not the holder of the  PMA or STC). Identify previous TC holder(s) if including them makes it easier to identify the  product.  
+
+(b)   Include a qualifier for the PMA and STC. For example:  
+
+![](images/735b17d1d8d90d26a1571b7edd3151fd42d320288c5a1c31db214abeacfc9a31.jpg)  
+
+b.   For AD actions involving appliances, identify the DAH’s name followed by the affected  part name and part number(s) or model number(s) as appropriate. For example:  
+
+# Example 7-10:  Subject Heading Involving an Appliance with a P/N  
+
+![](images/a33151edafc3d49d8f3cd8152f75caf8158b23a3e6d9f17c67f99fda644abe6a.jpg)  
+
+# Example 7-11:  Subject Heading Involving an Appliance with a Model Number  
+
+PTC Aerospace, Passenger Oxygen System, Model Number  91700  
+
+# 5.   Summary.  
+
+Using the information from the AD worksheet and service information, as appropriate, the  summary must briefly describe the following:  
+
+a.   The mandated or proposed corrective action(s) (e.g., This AD requires you to XXX …); b.   The unsafe condition (e.g., This AD was prompted by XXX …); and  
+
+c.   The root cause, if known, of the unsafe condition and the end-level effect (e.g., We are  issuing this AD to XXX …).  
+
+# 6.   Discussion.  
+
+This section clearly justifies why the AD action is necessary. Fully explain the unsafe condition  and the circumstances that created a need for the AD. Present the history of the information that  the FAA has received to date. Describe what would happen if we did not take AD action (i.e.,  this condition if not corrected could result in …). To further support why the AD action is  necessary, we also may describe elements of a risk analysis.  
+
+# 7.   Relevant Service Information.  
+
+This section describes all service information that is relevant to the AD action and gives a brief  description of the procedures specified.  
+
+8.   Differences Between this [Proposed] AD and Service Information.  
+
+This section describes major differences from the service information (e.g., changes to avoid  bootstrapping, mandating terminating action, etc.).  
+
+# 9.   Costs of Compliance.  
+
+This section includes the costs associated with the mandatory corrective action(s) and adds  together the following:  the number of work-hours required to complete the AD (or one  inspection cycle if the AD requires repetitive inspections) multiplied by the current established  burdened labor rate, plus the cost of parts. The stated costs must address all actions mandated by  the AD (e.g, revising the Instructions for Continued Airworthiness (ICA)). You can express the  labor and parts costs for individual products, and when known, give a total cost for the entire  affected U.S.-registered fleet. When determining the costs of an AD action:  
+
+a.   Make sure the number of work-hours (at the burdened labor rate), the cost of parts, the  total number of U.S.-registered aircraft or the total number of products installed on  U.S.-registered aircraft equal the total cost stated in the AD. Don’t include other unstated factors.  We must give the necessary cost information so the public can see how we reached the total.  
+
+b.   Don’t make unsubstantiated presumptions about how many aircraft, engines, or other  products have already had the work required by the AD performed.  
+
+c.   If different actions are required for more than one aircraft certification category, state the  cost for each category separately.  
+
+d.   Calculate the total cost to comply with the actions of the proposed AD (e.g., accessing,  testing, parts, closing, etc.). State them in the  Cost of Compliance  section of the preamble as if no  warranty program exists. If a TC holder or DAH offers warranty coverage, add a statement  mentioning the warranty program.  
+
+e.   Do not state any costs beyond initial work-hours and parts costs; that is, don’t include  costs that operators might incur in individual maintenance scheduling or costs that operators  might pass on to others.  
+
+f.   Include on-condition costs (e.g., those costs associated with follow-on actions to a  required inspection, such as repairing a crack detected during an inspection) per product. Do not  include the total fleet on-condition costs.  
+
+# 10.   Interim Actions.  
+
+The requirements of some ADs are “interim actions” until a more effective modification or  action is developed or to avoid bootstrapping. The preamble of these ADs must contain a  statement indicating that it is interim action so all affected operators know that we may issue  additional rulemaking in the future. The following are some specific examples:  
+
+a.   If the AD requires repetitive inspections and we know that the manufacturer is  developing a modification or action that makes those inspections unnecessary, you may use one  of the following statements, as appropriate.  
+
+# Example 7-12: Interim Action Statements  
+
+We consider this proposed AD interim action. If final action is  later identified, we might consider further rulemaking then.  
+
+# Example 7-13: Interim Action Statements  
+
+We consider this proposed AD interim action. The design  approval holder is currently developing a modification that will  address the unsafe condition identified in this AD. Once this  modification is developed, approved, and available, we might  consider additional rulemaking.  
+
+b.   Sometimes we issue an IAR or an emergency AD that requires operators to initiate  repetitive inspections within a short time. When we issue the IAR or emergency AD, there might  be a modification available that, once installed on the aircraft, would end the need for the  repetitive inspections. If we plan to require the modification, but the compliance time for its  installation exceeds the criteria for an “immediate” rule and there is enough time to allow the  public to comment on the modification, then you may use the following statement in the  
+
+preamble to the IAR or emergency AD:  
+
+# Example 7-14: Interim Action Awaiting Terminating Action  
+
+![](images/cf602ba8d7f8883e4483c95a9fa1ff4a78a26d21ba426db06f4369cc8425b830.jpg)  
+
+c.   Some ADs require that operators send a report of inspection results to us or to the DAH.  The information is used to determine if an additional action or a final action is necessary (see  Chapter 8, paragraph 14, for more information about reporting requirements). You may use a  statement similar to the following in these cases:  
+
+# Example 7-15: Interim Action Awaiting Inspection Results  
+
+We considered this AD interim action. The inspection reports that  are required by this AD will enable us to obtain better insight into  [the nature, cause, and extent of the cracking,] and eventually to  develop final action to address the unsafe condition. Once final  action has been identified, we might consider further rulemaking.  
+
+# Chapter 8. Rule Portion of an AD  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter provides policy and guidance for certain sections in the rule portion of an AD.  Although the preamble explains the AD and its purpose, the rule portion of the AD stands alone.  Refer to FAA Order 8040.5,  Airworthiness Directive Process for Mandatory Continuing  Airworthiness Information , for guidance on MCAI-related ADs.  
+
+# 2.   Headings in the Rule Portion of an AD.  
+
+While the actual content of each AD varies, you must include certain headings in the rule portion  of every AD. Example 8-1 provides an excerpt from a Final Rule AD. Refer to the standardized  templates for the headings required in other types of AD actions.  
+
+# Example 8-1:  Headings in the Rule Portion of an AD  
+
+#  
+
+#  
+
+#  
+
+#  
+
+#  
+
+#  
+
+# 3.   Product Identification.  
+
+The product identification specifies the name of the TC holder or DAH used in the Subject  Heading in the preamble.  
+
+![](images/f8b832fa7c2fbd44dab0713cd804f898502534993ab9faba988de647004d05e6.jpg)  
+
+a.   If many different TC holders are affected, replace the product make with “Various  [Aircraft/Engines/Propellers],” as appropriate. For example:  
+
+# Example 8-4: Product Identification for a Final Rule Involving Many Different TC Holders  
+
+![](images/08f9eaa401457b69a4b48da22e1739eb9cfd9d5a726bc822f171e69a5574d271.jpg)  
+
+b.   For AD actions that result from an unsafe condition associated with an STC or PMA, use  the TC holder’s legal name of the product affected (not the holder of the PMA or STC). For  example, write the product identification statement for an STC issued to American Airplane  Company on a Boeing Model 737 airplane as the following:  
+
+# Example 8-5:  Product Identification for a Final Rule Involving an STC  
+
+![](images/af000c165b6b1823f6bb8b2a80ed374fc7f8f57f4280100f71dfe0e754fa0a92.jpg)  
+
+c.   For AD actions associated with appliances, use the appliance DAH’s name. For example:  
+
+# Example 8-6:  Product Identification for a Final Rule Involving an Appliance  
+
+![](images/90711f757cb5d159be6407143d0dd6b3989bb2a162d5a03d17efcff11e397dc5.jpg)  
+
+# 4.   Effective Date.  
+
+Standard effective dates are presented in the templates. In rare instances (usually at the direction  of the directorate management), you can specify that an AD is effective upon publication. The  
+
+correct way to do so is to enter the following bracketed statement in the space left for the  effective date.  
+
+# Example 8-7:  Effective on Publication  
+
+![](images/6af5f213c830b7684b835dd84dcc2f168d388434c9e0f7e644bac0fce5c1f2d9.jpg)  
+
+# 5.   Affected ADs.  
+
+a.     List any AD numbers that are superseded or revised. For example:  
+
+![](images/5208f69ec0356654d25ef3ddfe99669b8e157eaed22b19cea52abe35b401ae0f.jpg)  
+
+b.   List the AD number of other ADs if the requirements of those ADs are affected. For  example:  
+
+# Example 8-9:  Affected ADs Related to Other ADs  
+
+![](images/292b1f1d8712ee3a26e5066e85d6bb6a0bee9c58612d1f03f854599fe215dd7e.jpg)  
+
+# 6.   Applicability.  
+
+Include a statement or table that identifies the affected product using the information specified in  the Subject Heading in the preamble. Use only MS Word tables, since they are searchable, when  using tables. Add serial numbers (S/Ns), line numbers, etc., if they are appropriate and useful.  For example:  
+
+# Example 8-10:  Identifying Applicability Using a Statement with Subparagraphs  
+
+![](images/2898f70c15eccf120a95d9708e57426bb1a41bd18eefff0130e64aa34a7f4247.jpg)  
+
+# Example 8-11:  Identifying Applicability Using a Single Statement  
+
+![](images/6bb7ce656f651f084f37ba9730771406657cce7f47fbdc12f336e79561cdcb87.jpg)  
+
+Example 8-12:  Identifying Applicability Using Tables  
+
+![](images/5ea602fc31d18a82345f9beb2b02adbf27694ea73d5b791ffd056059acbdd354.jpg)  
+
+# Example 8-13:  Identifying Applicability Using Tables with S/Ns  
+
+![](images/518df6c6575a10273b08e4d27f764d20f7d24065d2d44890d882f91454a88b1f.jpg)  
+
+a.   STC or PMA.  Some ADs correct a condition that arises when one or more different  models of aircraft, engine, or propeller are altered as a result of an STC or PMA.  
+
+(1)   Use the following:  
+
+(a)   If only one TC holder is affected, list the name of the TC holder and model(s)  affected and reference the STC or PMA as identified in the Subject Heading in the preamble. For  example:  
+
+# Example 8-14:  Applicability Statement for STC  
+
+![](images/6701b6cd95ebd90ce0357c46f42402b9ca28fd9540cbfd2fc1291d7f095d097d.jpg)  
+
+Example 8-15:  Applicability Statement for PMA  
+
+![](images/926ce6ccd1d4a3c223022bd2a76f2598659673b0f95c615b41fe9f2c64d5cd1e.jpg)  
+
+(b)   If the Subject header and product identification statements applied to many  different TC holders (e.g., Various Airplanes), list the name of each TC holder and model(s)  affected. Reference the STC or PMA as identified in the Subject Heading in the preamble. For  example:  
+
+![Example 8-16:  Applicability Statement for Many TC Holders and STCs  ](images/372a77833705882a1a6fae659267e9d3030978e22619d120638256feb357a4cf.jpg)  
+
+(2)   An alternative is to issue a separate AD for each TC holder affected by the STC or  PMA.  
+
+b.   Appliance ADs.  For appliance ADs (e.g., TSOs), use the information specified in the  Subject Heading in the preamble. If known, include the aircraft, engine, or propeller model(s) in  which the appliance might be installed on. For example:  
+
+![Example 8-17:  Applicability Statement for Appliance ADs  ](images/4bb35f3d4f797b61f55f201ccd8e11228af39d172c7e0edb96072448519a905c.jpg)  
+
+c.   Serial Numbers (S/Ns) or Other Identifiers.  You may use or reference S/Ns or other  identifiers with the model number to further identify products affected by an AD.  
+
+(1)   If the product currently is in production, the engineer works with the manufacturer to  determine when the production run will end or when a product improvement will eliminate the  unsafe condition cited by the AD, and then state the complete range of S/Ns. Ensure the  production run ends as represented by the manufacturer.  
+
+(2)   When several S/Ns are cited in sequence, such as “S/N 12340 through S/N 12345  inclusive,” be sure that no S/N in the sequence is excluded from the applicability.  
+
+# d.   Certification Category.  
+
+(1)   Type Certification Categories.  Aircraft are type certificated in categories, such as  transport, normal, commuter, restricted, acrobatic, etc. For aircraft ADs, boilerplate language  includes the phrase “certificated in any category” in the applicability. You must identify those  categories that are excluded from the AD if the unsafe condition does not exist in all of the  categories for which the aircraft is type certificated. For example:  
+
+# Example 8-18:  Excluding TC Categories from an AD  
+
+![](images/12221365ba87371b5bf1f5a381e076f39add55f488d2dc9334b4cbc6d01acfa0.jpg)  
+
+(2)   Airworthiness Certification Categories.  Unless specifically stated, ADs apply to  the make and model of the product set forth in the applicability statement regardless of the  classification or category of the airworthiness certificate issued for the aircraft.  
+
+(3)   Type-Certificated Engine or Propeller Installed on Non-U.S.-Type Certificated  Aircraft.  Do not exclude a type certificated engine or propeller from the applicability statement  of an AD because it might be installed on an aircraft that does not hold a U.S. type certificate.  Write the applicability statement to include all affected engine or propeller models, but do not  specify a non-U.S.-type certificated aircraft that it might be installed on (e.g., amateur-built  aircraft).  
+
+e.   Military Aircraft.  List military aircraft in the applicability paragraph of ADs if:  
+
+•  The military aircraft is eligible for certification under a civilian TC; or  •  The AD affects the civil counterpart.  
+
+# Example 8-19:  Applicability Statement with Military Aircraft  
+
+![](images/6fe1cb91df5ba78ee8239b206739b921df8c9388d09d76f113a09a9169c5b64c.jpg)  
+
+# 7.   ATA/JASC Code.  
+
+Include the code and subject title that clearly and concisely reflects the contents of the AD action  (e.g., 32, Landing Gear; or 3220, Nose/Tail Landing Gear). Contact your directorate AD focal  point (e.g., AD Coordinator) for a copy of the ATA/JASC document.  
+
+# 8.   Compliance.  
+
+The compliance requirements involve compliance times and mandated corrective actions.  
+
+a.   Basic Elements of Compliance Times.  We consider the following information when  establishing a compliance time or period:  
+
+(1)   Establishing a Compliance Threshold.  A compliance “threshold” establishes the  point in the life of a product before which action must be taken to detect or prevent the unsafe  condition. The threshold is based on an engineering assessment. For example, if fatigue cracking  has been found on airplanes with 10,000 landings, the engineer might determine that an initial  inspection for fatigue cracking is necessary before the airplane accumulates 5,000 landings.  
+
+(2)   Establishing a Grace Period for Products that Have Exceeded the Threshold.  Some products might have already exceeded the threshold that the engineer establishes for an  AD. In those cases, the engineer must include a “grace period” so aircraft aren’t grounded  unnecessarily. In those cases, the engineer selects a grace period that avoids grounding or  interfering with normal maintenance schedules, yet still obtains expeditious compliance within  an acceptable level of safety. It’s important to note though, that in some cases, we might need to  ground aircraft. Consider several factors when determining an appropriate grace period:  
+
+(a)   The degree of urgency of the unsafe condition, which must be balanced against  the amount of time necessary to do the required actions.  
+
+(b)   The availability of replacement parts.  (c)   Operators’ regular maintenance schedules.  (d)   Other factors affecting the ability of operators to comply.  
+
+# b.   Expressing Compliance Times Using Time-in-Service (TIS) or Flight Hours.  
+
+(1)   Simple Compliance Times.  A simple way to express a compliance time is to state  the number of hours of operation at which all affected products must be in compliance with the  AD. Using the phrase “within [X] hours TIS” means any time up to or at [X] hours. The phrase  “before the [product] accumulates [X] hours TIS” means up to but not including [X] hours. Use  the following examples as guidance.  
+
+Example 8-20:  Simple Compliance Times Using TIS  
+
+![](images/83c6dd67d8f686578b791af05740997a3c630327993e6515b6016a5be4816586.jpg)  
+
+(2)   Multiple Compliance Times.  When there are multiple compliance times, avoid  stating compliance times that create overlapping requirements. Use the following example as  guidance:  
+
+# Example 8-22:  Multiple Compliance Times Using TIS  
+
+![](images/cd598a1493144c685ade156c4d1838243e7d41c0f5694efc686f8a145906c8e8.jpg)  
+
+(3)   Compliance time for a Component.  If compliance times relate to the hours time-in- service of a part, use a statement similar to Example 8-23.  
+
+![Example 8-23:  Compliance Time for a Component Using TIS  ](images/532b11c610d620d0482898f846b2d347619c018776731db678b37edc03d96122.jpg)  
+
+# c.   Expressing Compliance Times Using Calendar Times.  
+
+(1)   Use calendar times (e.g., “within 6 months after the effective date of this AD”) when:  
+
+(a)   We can establish a direct relationship between calendar time and airworthiness.  For example, after operating in a corrosive environment, an airplane might not be operated for 6  months. Corrosion could continue to develop over time; therefore a compliance based on  calendar time would be necessary to detect the unsafe condition.  
+
+(b)   An aircraft’s usage rate varies greatly throughout the fleet. In this instance, we  generally can’t prioritize the compliance time any other way; or  
+
+(c)   Logistics for the operators, such as parts availability, repair facility availability,  means they must perform the actions in the AD on an attrition basis with a calendar deadline.  
+
+(2)   When we express compliance times in months or calendar months after the effective  date of the AD, we might establish the time from the effective date as follows:  
+
+(a)   If the compliance time is “within 12 months after the effective date of this AD”  and the effective date is January 15, 2006, the deadline for compliance is January 15, 2007.  
+
+(b)   If the compliance time is specified as a number of calendar months after the  effective date, the time is measured from the end of the month during which the AD becomes  
+
+effective. If the compliance time is “within 12 calendar months after the effective date of this  AD” and the effective date is January 15, 2006, the deadline for complying is January 31, 2007.  
+
+d.   Expressing Compliance Times Using Dates.  During the period of time that we develop  an AD, effective dates can’t usually be determined with any precision, especially at the NPRM  stage. Therefore, citing a calendar date (for example, “before December 1, 2006”) isn’t usually  an appropriate method of specifying a grace period. However, when a direct analytical  relationship can be established and it is appropriate to use calendar dates, give a brief explanation  of the relationship in the preamble of the AD. The mere fact that the service document or an  international civil aviation authority’s AD refers to a calendar date isn’t enough to justify using a  calendar date in a U.S. AD. In most cases, this relationship does not exist because:  
+
+(1)   Compliance thresholds are usually a function of usage, which is unrelated to calendar  dates.  
+
+(2)   Grace periods are a function of the time necessary after the effective date to do the  required actions.  
+
+# e.   Expressing Compliance Times Using the Number of Landings or Flight Cycles.  
+
+(1)   Use the number of landings or flight cycles on an aircraft to express compliance time  if the problem is related to landings or flight cycles; for example if the problem is related to  landing gear, flaps, or fatigue that is aggravated by landing or pressurization cycles.  
+
+Required before accumulating 100 landings after the effective  date of this AD.  
+
+(2)   If applicable, use a statement in the AD to provide for operators that do not keep  landing records. For example:  
+
+(a)   The compliance times of this AD are presented in landings. If you do not keep a  record of the total number of landings, then multiply the total number of aircraft hours TIS by  (whatever multiplier is appropriate for the affected aircraft).  
+
+(b)   Subject to acceptance by [appropriate FAA official], operators that do not have  landing records can determine the number of landings by dividing the number of hours of TIS of  each airplane by the time of the average flight for the aircraft of that type in the operator's fleet.  
+
+f.   Expressing Compliance Times Using Engine Cycles.  You may use cycles to express  compliance time for ADs that affect turbine engines. Use the standard cycle definition and cycle  counting methodology specified in the approved service document for the applicable engine  model. When the definitions for the cycle or counting methods in the AD differ from those in the  approved service document, include the cycle definition or the cycle counting method in the  regulatory text of the AD. In this case, make sure the cycle definition or counting methodology  doesn’t allow an airplane to exceed its approved cyclic retirement life specified in the approved  service document.  
+
+g.   Expressing Compliance Times for Inspection and Repair.  If a required inspection  could result in a required repair or replacement, the AD must clearly state the compliance times  for both the inspection and the repair or replacement. Use the following examples as guidance.  
+
+# Example 8-25:  Inspection Compliance Time  
+
+![](images/1a537cb46261c34f197dd4ca2888e089b15bc88aae1bf2712a9705217419fb0f.jpg)  
+
+![](images/6d5ce2780ba76b390d706d612f58e94d14fe0d51db63c360fceb8bcfb000ff0e.jpg)  
+
+# Example 8-27:  Repair or Replacement at Time Different From Inspection  
+
+![](images/413b2bdfad53cfe0797dfb9e98ba7ea4691f1f6ad2df78390c786d098fb16ef5.jpg)  
+
+h.   Expressing Compliance Times that Coincide with Scheduled Maintenance.  Compliance times that coincide with scheduled maintenance are appropriate when the unsafe  condition isn’t so urgent that a shorter compliance time is necessary. However, don’t express  compliance times in terms of an indefinite or nonspecific maintenance interval, such as “at the  next ‘C’ check.”  Maintenance schedules vary from operator to operator, so there is no assurance  that the action will be done within the time frame for safe operation of the aircraft.  
+
+i.   Maintenance Intervals Together With Calendar Times, Hours, or Cycles.  Specify  compliance times in terms of maintenance intervals together with a specific calendar time, hours,  or cycles. For example:  
+
+![Example 8-28:  Maintenance Interval and Calendar Time  ](images/0e8ab16fc4355f3e132bf8716e1c91cf956defca285e2df4d9548bbd6d656c32.jpg)  
+
+j.   Expressing Compliance Times for Interim Action.  If the AD requires an interim action  before a repair or replacement (such as installing an operating limitations placard), use a  statement in the rule portion of the AD similar to the Examples below:  
+
+![Example 8-29:  Interim Action Statements  ](images/efcc2be4c360464525ad148bde29002624fc6c1efe8c04c6c2eb3cd9a2bef052.jpg)  
+
+# Example 8-30:  Interim Action Statements  
+
+![](images/d6493b85147b539cce973ad5b91d78adb34e868256a94e67e2fb9d931cbd6e4a.jpg)  
+
+# k.   Expressing Repetitive Compliance Times.  
+
+(1)   When an initial inspection is followed by repetitive inspections at periodic intervals,  you may use the statement in Example 8-31 but use it in the instruction itself, not as a separate  compliance paragraph. This can be specified as part of the compliance requirement or as part of  the inspection instruction. For example:  
+
+# Example 8-31:  Repetitive Compliance Time  
+
+![](images/8440f76ba4feed5926a6833818d6e1bbfdc21ddf347967dda057d13d263a6029.jpg)  
+
+(2)   Example 8-32 shows a compliance time for an inspection before the effective date of  the AD. The phrase in Example 8-32 “unless already done within the last 75 hours TIS” accounts  for an operator that has made an inspection before the effective date of the AD.  
+
+# Example 8-32:  Allowance for Inspections before the Effective Date  
+
+Within 25 hours time-in-service (TIS) after the effective date of  this AD, unless already done within the last 75 hours TIS, and  thereafter at intervals not to exceed 100 hours TIS from the last  inspection, inspect ...  
+
+9.   Corrective Action.    Every AD contains a clear and concise statement of the action(s) that addresses the unsafe  condition. This statement includes:  
+
+•  The method of performing the actions, and  •  Corrective measures or limitations required.  
+
+a.   Method of Specifying Corrective Actions.   Identify the corrective actions in an AD in a  manner that ensures the actions are complete, clear, and enforceable. For example:  
+
+(1)   Include the corrective actions from the service information in the AD text;  (2)   Include the corrective actions determined by the ASE; or  
+
+(3)   Incorporate the service information by reference.  In the AD text, provide complete  service information identification and do not simply say, “Do the service bulletin.” If we  incorporate service information into an AD by reference, do not use the phrase “or later FAA-  
+
+approved revision” when referring to the service information. This phrase violates OFR policies  for approving materials that are incorporated by reference. Service information that we  incorporate by reference in an AD is often revised after we issue the AD. We can approve later  revisions of service information as an AMOC.  
+
+Example 8-33:  Citing a Service Bulletin that is Incorporated by Reference  Do the x-ray inspection to detect cracking in Body Station XYZ in  accordance with the procedures specified in the Accomplishment  Instructions of the service bulletin.  
+
+b.   Method of Referring to Service Information without IBRing.   For procedures where  standard practices exist or there is more than one way to accomplish the action, do not  incorporate by reference the service information. In other words, if it is not important how the  action is accomplished, referring to service information, without mandating its use, is acceptable.  In this case, give an informational reference, for example:  
+
+![Example 8-34:  Informational Reference to Service Information  ](images/16a30420acb6008727325573e34adf1ffbd72dab235f8593fd10c62f07cb6729.jpg)  
+
+c.   Describing Inspections.  If an AD requires an inspection: (1)   Define the area of the product or the specific parts to be inspected.  
+
+(2)   State whether it is necessary to do extra actions when it is not specified in the service  information, e.g., disassembling an area or removing bolts in order to do the inspection.  
+
+(3)   Describe provisions for an FAA-approved method, if acceptable. For example,  
+
+# Example 8-35:  Language for FAA-Approved Method  
+
+![](images/459a97abbb6592985d673e248a7fad788b0902621debb29061fdb1d9e0eabcfd.jpg)  
+
+(4)   Refer to the applicable service information or document for the inspection procedures  if the procedures are in that document.  
+
+d.   Records Review in Lieu of Inspection.  When the need to take corrective action depends  on whether a particular P/N is installed, we allow review of maintenance records instead of  
+
+inspection of the product, if the P/N can be positively identified from the review.  
+
+e.   Describing Replacement Parts.  Except in ADs that require an immediate grounding,  one important consideration when writing an AD is the availability of replacement parts.  Compare the availability of replacement parts versus the risk of not addressing the unsafe  condition in a timely manner.  This avoids unnecessary groundings. Ensure that risk is managed  at an acceptable level. If risk cannot be managed within part availability, then grounding results.  
+
+# f.   Terminating Action.  
+
+(1)   Mandating Terminating Action.  A terminating action is mandated when we have  determined that long-term continued operational safety is better ensured by design changes that  remove the source of the problem and end the need for any repetitive inspections or special  operating procedures, e.g., operating limitations. Mandating a terminating action might be  necessary to ensure the continued operational safety of the product, if for example:  
+
+(a)   The inspection area is hard to reach, making detection of cracking or corrosion  difficult or unreliable; or  
+
+(b)   The detection method is hindered by an intervening structure or is otherwise  unreliable; or  
+
+(c)   The sheer size of the area covered, or the physical demands on the inspector,  make detection unreliable.  
+
+(2)   Optional Terminating Action.  Mandating a terminating action might not be  necessary to ensure the continued operational safety of the product, if for example:  
+
+(a)   The repetitive inspections are in an area that is easily accessible,  (b)   The unsafe condition (e.g., cracking) is easily detectable, and  
+
+(c)   The consequences of the unsafe condition (e.g., cracking) is not likely to be  catastrophic.  
+
+(3)   No Terminating Action Available.  Mandating a terminating action might not be  possible, if for example the unsafe condition is under investigation. In this case, you may include  an explanation in the preamble of the AD why we are not providing a terminating action.  
+
+# g.   Allowing Credit for Corrective Actions Already Done.  
+
+(1)   Whenever possible, allow credit for corrective actions already done. If the AD  requires a one-time action such as an inspection, modification, or replacement, use a statement  similar to Example 8-36.  
+
+# Example 8-36:  Allowing Credit for Corrective Action  
+
+Required within 100 hours time-in-service after the effective date  of this AD, unless already done.  
+
+(2)   You can also limit credit for corrective action already done if the unsafe condition  
+
+warrants it, for example, if a recent inspection would do, but not an inspection done a year ago.  For example:  
+
+(3)   When appropriate, allow credit for actions accomplished using an earlier revision of  the service information than identified in the AD action.  For example:  
+
+![](images/ab7cf7541a588bc47b11e466bdd8f82fa3db69a9ab74658d5357f81ca4801179.jpg)  
+
+h.   Referencing Maintenance Documents or Programs.  Do not state that a maintenance  document or program is “FAA-approved” without verification from AFS.  
+
+# 10.   Using Notes.  
+
+Use notes in the text of the rule portion of an AD only for informational purposes where the  information is not required by the AD itself, but might help the operator to comply with the AD.  
+
+# 11.   Describing Special Flight Permits.  
+
+14 CFR part 39 allows special flight permits for every AD. The only way to prohibit or limit  special flight permits is by including the limitation or prohibition in the AD itself.  When any  special flight permit limitation or prohibition is included in an AD, the ASE must coordinate  with the appropriate AEG.  
+
+# 12.   Alternative Methods of Compliance (AMOCs) 20  in Revision or Supersedure AD  Actions.  
+
+Include a provision in the AMOC paragraph of all revision and supersedure ADs, if you intend to  provide credit for previously approved AMOCs that continue to be valid. If not all of the  AMOCs are valid or approved under the revision or superseding AD, then list those that are. This  information might help operators and eliminate unnecessary applications for AMOCs. Previously  approved AMOCs continue to be valid for revision and supersedure ADs only if the approved  AMOC information is included in the revision or supersedure AD. If the revision or supersedure  AD does not include the approved AMOC information, the AMOC is no longer valid.  
+
+# Example 8-39:  Previous AMOC Information  
+
+![](images/2ecbcc01370772d7e0e435b6b345cfe0d913276b1c638db3185c868c529d91ec.jpg)  
+
+# 13.   Authorization to Perform Work.  
+
+Work required by ADs can only be done by persons prescribed in 14 CFR 43.3 and 43.7. AD  corrective actions are not considered preventative maintenance.  
+
+# 14.   Reporting Requirements.  
+
+When we need to know the results of an inspection to determine whether we will take additional  action, include a statement in the AD to require reporting the results of the inspections to the  responsible FAA Office, DAH for the affected product, or the civil aviation authority (or its  delegated agent).  
+
+a.   Reporting and the Paperwork Reduction Act.  When a reporting requirement is needed  in an AD, the ASE must be able to justify that requiring reporting meets the criteria of the  Paperwork Reduction Act. The Office of Management and Budget (OMB) previously approved  the inclusion of reporting requirements in ADs based on the FAA’s need to:  
+
+•   Help develop a corrective action;  •   Determine the scope of the problem and how adequate the DAH corrective actions  
+
+We have approval from the OMB to require a report and collect information. According to this  Act, we must:  
+
+•   Include the address(es) (e.g., mail, e-mail, facsimile) to which the reporter sends the  report; and  
+
+•   State that reporting requirements have been approved by the OMB and assigned  OMB control number 2120-0056.  
+
+b.   Quality Control (QC) Problems.  Collecting inspection results is one means that can be  used to affect quality control on a DAH or repair station. When it appears that we can attribute  an unsafe condition addressed by an AD to a DAH’s QC problem, include a reporting  requirement in the AD. These reports can help us gather as much information as possible about  the nature and extent of the QC problem.  
+
+c.   Reporting for Repetitive or Continuing Requirements.  If we’re requiring a report and  the AD has repetitive inspections or other continuing requirements, limit the reporting  requirement to the initial inspection findings unless we determine that later reports are necessary.  If the AD requires repetitive reporting, revise the AD to remove that requirement once the  certification office has accumulated sufficient information.  
+
+# d.   Reporting Requirement Compliance Times.  
+
+(1)   For domestic ADs that include a reporting requirement, use the following compliance  times:  
+
+![Table 8-1:  Reporting Compliance Times  ](images/74e4e27a3510a10a729108e25f2c8df67effcf8f7c8561e8bd453eee2df12574.jpg)  
+
+(2)   Consider, on a case-by-case basis, those ADs where the ASE considers the need for  information to be critical enough to warrant an even shorter compliance time than those provided  above. When including compliance times shorter than those provided above, additional  justification and discussion for deviating from the compliance times provided above is required  in the AD worksheet, e.g., just saying it is urgently needed is insufficient.  
+
+# 15.   Material Incorporated by Reference.  
+
+If the AD instructions mandate use of service information, the OFR approves the document for  incorporation by reference. Chapter 10 of this Manual explains the approval process regarding  referenced material.  
+
+The signature block is the last item on the last page of the AD. It has two parts:  the Issuing  Statement, and the Signature of the Issuing Official. Include both of these.  
+
+a.   Issuing Statement.  The issuing statement is the city and state where the signing official  signed the document and the date when we issued the document.  
+
+# Example 8-40:  Issuing Statement  
+
+![](images/492ecf79a10b66484a3582cf16b49b6d5945851f33c6170b819065064255715a.jpg)  
+
+b.   Signature of Issuing Official.  Only the Directorate Manager, the Assistant Directorate  Manager, or their actors may sign the AD. No one may sign an AD “for” the Directorate  Manager or the Assistant Directorate Manager. The OFR requires that the typed name and title of  the signer appear below the signature.  
+
+•   For handwritten signatures, signers must use any color other than black ink to make  sure the original document won’t be confused with copies. The OFR recommends that signers  use blue ink.  
+
+For electronic signatures, signers must be authorized by the GPO.  
+
+# 17.   Specialized AD Subjects.  
+
+a.   ADs for Surplus Aircraft of the U.S. Armed Forces.  An AD issued against surplus  aircraft of the U.S. Armed Forces that have civilian TCs must be issued on the basis of civil  
+
+operating experience or appropriate military experience similar to civil operations.  
+
+b.   ADs that Affect Products in Production.  Some ADs require a specific design change  (or equivalent) for products that are currently in production. Compliance with the actions in the  AD is accomplished before the product leaves the production facility.  
+
+c.   ADs to Change Life Limits or Inspections.  Life limits and inspections change when  current life limits contribute to unsafe conditions, or when inspections are needed to check for  the presence of unsafe conditions. Not all products have Instructions for Continued  Airworthiness (ICA) and not all operators are required to follow ICA. We can enforce changes to  life limits and inspections in the following ways:  
+
+(1)   Including the Life Limits and Inspections in the AD Action.  We can write reduced  life limits or new or different inspection requirements to address an unsafe condition directly into  an AD. For example:  
+
+# Example 8-41:  Typical Language for Life Limited Parts  
+
+Remove the torque link and replace it with a new or serviceable  part before accumulating 5,000 cycles on the torque link, or  within 50 hours TIS after the effective date of this AD, whichever  occurs later. Thereafter, replace torque link, P/N 13579, with a  serviceable part before accumulating 5,000 cycles.  
+
+(2)   Requiring a Revision to the Limitations Section through an AD Action.  The DAH  might revise the ALS to reduce the life limits or to impose new or different inspection  requirements to address an unsafe condition. For this to be mandatory, issue an AD that requires  revision of the ALS. Once the ALS section is revised, the AD has been fully complied with and  the life limit or inspection change remains enforceable as a part of the ALS. Requiring revision  of the ALS, rather than requiring individual repetitive inspections, is advantageous for operators.  It allows them to record AD compliance once when they make the revision, rather than after  every inspection. Example 8-42 shows AD language to revise airworthiness limitations.  Paragraph (2) in Example 8-42 is also necessary because 14 CFR 91.403(c)  would otherwise  permit operation under alternative inspection intervals set forth in approved operations  specifications or inspection programs, which might conflict with the intervals required by the  AD.  
+
+![Example 8-42:  Language to Revise Airworthiness Limitations  ](images/90683d76f0827a1851a64477570b4e02cde37c47efc67ace5fc22c0b9f211818.jpg)  
+
+# d.   ADs that Revise FAA-Approved Flight Manuals.  
+
+(1)   Only an AD can mandate changes to the Limitations Section of an FAA-approved  
+
+Aircraft or Rotorcraft Flight Manual (AFM/RFM). An owner or operator doesn’t have to comply  with any change to a manual other than a change mandated by an AD. Service information, even  if FAA-approved, can’t mandate compliance for products in service.  
+
+(2)   When the AD requires changing the AFM/RFM, compliance is complete when the  affected party:  
+
+(a)   Makes the manual revisions,  
+
+(b)   Installs any related required placards (if appropriate); and  
+
+(c)   Makes a maintenance record entry or gains Principal Operations Inspector  approval of change to a customized AFM/RFM.  
+
+(3)   If the intent is to mandate the AFM/RFM provision, the AD must specify adding that  provision to the limitations section of the AFM/RFM, since that’s the only section of the  AFM/RFM that’s mandatory.  If it is intended that the added AFM/RFM provisions be advisory  only (e.g., warnings), the provisions may be added to other appropriate sections of the  AFM/RFM by issuing an AD.  
+
+# e.   ADs that Correct Maintenance-Related Defects or Quality Control Failures.  
+
+(1)   We may issue an AD to change current maintenance procedures if the current  maintenance procedures are incorrect or incomplete, and thereby lead to an unsafe condition. We  don’t issue ADs to correct individual cases of improper maintenance or lack of maintenance that  contributed to or produced an unsafe condition.  
+
+(2)   We may also issue an AD if, as a result of a quality control failure, a product does not  meet its type design, and the nonconformance results in an unsafe condition.  
+
+f.   ADs for Products Manufactured Outside the U.S.  We issue ADs against products  manufactured outside the United States that are type-certificated under 14 CFR 21.29 (or its  predecessor, CAR 10) under the same circumstances as we issue ADs against domestic products,  that is, when we determine that an unsafe condition might exist or develop in other products of  the same type design. Refer to FAA Order 8040.5,  Airworthiness Directive Process for  Mandatory Continuing Airworthiness Information , for guidance addressing MCAI-related ADs.  
+
+# Chapter 9. Public Comments  
+
+# 1.   Purpose of this Chapter.  
+
+This chapter explains:  
+
+a.   The APA requirement for considering comments;  b.    Where to place comments and when to begin dispositioning them;  c.   How to handle comments received on FRCs and late comments; and  d.   How to disposition comments.  
+
+# 2.   APA Requirement.  
+
+a.   The APA requires that agencies fully consider all comments received in response to  NPRMs. We comply with this APA requirement in the “Comments” section of a final rule. It is  not necessary to address comments that are not relevant to the NPRM or the unsafe condition  addressed by it, although relevance is not always obvious and is ultimately a legal question. The  disposition of comments in the preamble of a final rule shows that the FAA’s decision to  promulgate a rule is not “arbitrary and capricious” and, therefore, is not subject to being  invalidated by a court. Comments are usually directed at the most controversial parts of rules,  and the answers to the comments could protect the AD from future legal or political challenge.  
+
+b.   Section 553(c) of the APA requires that we give the public time to comment on a  proposed AD. The APA doesn’t give any particular amount of time for a comment period.  
+
+# 3.   Where to Find Comments in the Docket.  
+
+Comments can be found at the Federal eRulemaking Portal website  http://www.regulations.gov All comments received via postal mail, email, or fax must be posted at  http://www.regulations.gov .  
+
+# 4.   No Comments Received.  
+
+If no comments are received, mark the checkbox “No Comments Received” and place the page  onto FDMS at  http://www.regulations.gov .  
+
+# 5.   Comment Disposition.  
+
+Place in FDMS any written or oral comments we receive including supportive or “no objection”  comments. Begin dispositioning comments as soon as the comment period closes using the  “Disposition Comments” page(s) from the AD worksheet. Evaluate all comments, and any other  related information received in response to the proposed AD. Decide whether or not changes are  within the scope of the NPRM.  
+
+# 6.   Comments to FRCs.  
+
+a.   We request public comments in FRCs. If comments, including supportive or “no  
+
+objection” comments, are received during the comment period to an FRC, one of the following  must be done:  
+
+(1)   Complete the form entitled “Comments in Response to ‘Final rule; request for  comments’” after the comment period has closed and the comments analyzed. This form must be  posted to FDMS.  
+
+(2)   Respond directly to the commenter in writing. A copy of the comment (if not already  in FDMS) and the response must be posted to FDMS.  
+
+b.   If comments warrant a change to an FRC, publish a disposition of the comments that  warranted the change in a subsequent AD action. You may also use the preamble to discuss other  comments received.  
+
+c.   If a comment raises a significant issue that might have wide or continuing interest among  members of the affected public, but does not result in a change to an FRC, publish a response to  the comment in the Federal Register as a “Final rule; disposition of comments.”  
+
+# 7.   Late Comments.  
+
+a.   Place in FDMS any late written or oral comments we receive after the comment period  closes.  
+
+b.   If a person files a comment after the comment period closes, under 14 CFR 11.45(b),  consider late comments to the extent possible only if they do not significantly delay the  rulemaking process (i.e., check for and consider incorporating any comments received until the  final rule is issued). For FRCs, check for and consider any comments received for a period of  30 calendar days after the comment period closes.  
+
+# 8.   How to Disposition Comments.  
+
+a.   Organizing Comments.  Group the comments by issue, not by commenter. Don’t group  all of the comments made by one commenter together.  
+
+# b.   Identifying Commenters.  
+
+(1)   Don’t refer to the commenter’s gender.  
+
+(2)   Identify all commenters by name or organization. For cases when different  commenters send a comment relating to the same issue, not all commenters need to be identified.  Instead, refer to the commenters generically by group (e.g., Five carriers requested that the  proposed rule be modified to include . . .). If one commenter in the group addressed the issue  more thoroughly than the others, or is potentially more adversely impacted by the AD than the  others, it is appropriate to call that commenter by name (e.g., Delta requested that the proposed  rule be modified to include . . . . Several other carriers echoed this approach.).  
+
+# c.   Addressing Comments.  
+
+(1)   Always address comments in the past tense (“One commenter requested that we  modify the proposed rule to include. . . ”).  
+
+(2)   If we agree with a comment as stated by the commenter, don’t restate the reason  when agreeing with it. If there is an additional reason for agreement, include that reason.  
+
+(3)   If a commenter proposes a change but does not give any reasons for it, state that the  commenter does not justify the requested change.  
+
+(4)   If a commenter simply states an observation but does not propose a change, infer the  change. For example, if the commenter states, “The proposal would not be cost effective,” infer  that the commenter would like to see the proposal withdrawn.  
+
+(5)   Acknowledge supportive or “no objection” comments.  
+
+(6)   If you change the AD in response to a comment, include a statement to explain the  change.  
+
+(7)   Do not state that a comment is “beyond the scope of the notice.”  The word “scope” is  a legal term that implies notice according to the APA requirement that agencies give the public  the opportunity to comment. We are prohibited from adopting rules that are “beyond the scope”  of the notice without providing additional opportunity for public comment. If we disagree with  the comment, give solid reasons for disagreeing rather than saying simply that the comment is  “beyond the scope.”  If a comment is beyond the scope of the notice, but still has merit, consider  additional rulemaking. For example:  
+
+(a)   Issue a SNPRM if the change itself doesn’t address an immediate safety of flight  problem. Doing this gives the public additional time to comment on the change before adopting a  final rule.  
+
+(b)   Issue a final rule that is within the scope of the original proposed AD. Then issue  a new proposed AD to supersede the AD with a new AD action that incorporates the necessary  change.  
+
+(c)   Issue an IAR that incorporates the change. Use this option if the change addresses  an immediate safety of flight problem. Discuss the comments submitted for the proposed AD and  solicit additional comments.  
+
+(8)   If you are unsure how to address a comment, talk to your Regional Airworthiness  Counsel.  
+
+# Chapter 10. Incorporation by Reference and Appendices  
+
+1.   Purpose of this Chapter.  This chapter describes incorporating material by reference or as an appendix to an AD action.  
+
+# 2.   Incorporation by Reference (IBR).  
+
+a.   Incorporation by reference allows Federal agencies to comply with the requirement to  publish rules in the  Federal Register  by referring to materials already published elsewhere. The  legal effect of IBR is that the material is treated as if it were published in the  Federal Register .  This material, like any other properly issued rule, has the force and effect of law. Congress  authorized IBR in the Freedom of Information Act to reduce the volume of material published in  the  Federal Register  and the Code of Federal Regulations (CFR). For guidance on IBR  procedures, see the Federal Register DDH at  http://www.archives.gov/federal-register .  
+
+b.   The OFR will not publish the final rule AD in the  Federal Register  until the reference  material is approved.  
+
+c.   The OFR does not require that you resend service information that they previously  approved for IBR.  
+
+# 3.   Incorporating Material as Appendices.  
+
+If supplemental information is inappropriate for IBR, or if actual publication is preferable, you  may add the information to the AD as an appendix. You may use selected parts of a service  bulletin as an appendix. The most important thing to remember is that, for the purposes of the  AD, the material in the appendix is sent by the FAA, and is not someone else’s publication. For  this reason, it is critical that you identify everything that you do not want printed (e.g., letterhead,  stray lines or marks, or any information not referenced in the AD language). Refer to the DDH  for additional information.  
+
+a.   Referencing an Appendix within the AD.  In the text of the AD action, only   refer to the  appendix number (“in accordance with Appendix 1 of this AD…,” for example). Do not use an  appendix as an alternative to IBRing a service document.  
+
+b.   Numbering Paragraphs or Instructions in an Appendix.  Although the appendix might  be an extract from another document, the appendix must be complete. Check that the appendix  does not begin with extracted details (e.g., “Instruction 4,”). If necessary, redesignate paragraphs  so the appendix does not appear to be missing information.  
+
+# Chapter 11. AD Docket  
+
+1.   Purpose of this Chapter.  
+
+This chapter describes what information and documents are placed in the AD docket (i.e.,  FDMS).  
+
+2.   Maintaining the AD Docket.  
+
+We must maintain a docket for each AD action in FDMS. The docket must include enough  information to support the AD action. Don’t include any drafts of the AD or any copies not  identical to the version sent to the OFR. Destroy all paper copies once placed into FDMS.  
+
+# 3.   AD Docket Contents.  
+
+Except for proprietary data, the AD docket must contain any documents that support the 14 CFR  part 39 action. The following information, at a minimum, must be placed in the AD docket at  website  http://www.regulations.gov :  
+
+a.   Record of technical decisionmaking (i.e., the version of the AD action that is published in  the  Federal Register  or emergency AD);  
+
+b.   FAA reports, summaries or lists of facts, data, or reports that support the AD action;  c.   ADs or other similar documents issued by an international civil aviation authority;  d.   Regulatory Evaluation Form;  e.   Records of each ex parte contact or series of contacts;  f.   Comments received on the proposed rulemaking (if any); and  g.   Records of approval of IBR documents.  
+
+# 4.  
+
+Give careful consideration to issues related to including or excluding proprietary information in  the AD docket, since all documents in the docket are available for public inspection. We must  have enough information in the docket to form the basis for our rulemaking action and support  the choices we made. Exclude proprietary data from a DAH or other source, unless the DAH or  other source specifically states that we can include it in the docket. All documents placed in the  AD docket are available for public inspection. Consult with the Regional Airworthiness Counsel  for any questions.  
+
+# Appendix A. Acronyms  
+
+AC  — Advisory Circular  ACO  — Aircraft Certification Office  ACMT  — Aircraft Certification Management Team  AD  — Airworthiness Directive  ADC  — AD Coordinator  AEG  — Aircraft Evaluation Group  AFM  — Aircraft Flight Manual  AGC  — Office of the Chief Counsel  AIR  — Aircraft Certification Service  ALS  — Airworthiness Limitations Section  AMOC  — Alternative Method of Compliance  ANPRM — Advanced Notice of Proposed Rulemaking  AOA  — Office of the Administrator  APA  — Administrative Procedures Act  ASE  — Aerospace Engineer  ATA  — Air Transport Association of America  CAA  — Civil Aviation Authority  CANIC  — Continued Airworthiness Notification to the International Community  CAR  — Civil Air Regulation  CFR  — Code of Federal Regulations  CMO  — Certificate Management Office  COS  — Continued Operational Safety  DAH  — Design Approval Holder  DDH  — Document Drafting Handbook  
+
+# May 17, 2010  
+
+DOT  — Department of Transportation  ECO  — Engine Certification Office  FAA  — Federal Aviation Administration  FAR  — Federal Aviation Regulation  FDMS — Federal Docket Management System FR  — Final Rule  FRC  — Final rule; request for comments  FRV  — Final Rule Version  GPO  — Government Printing Office  IAR  — Immediately Adopted Rule  ICAO  — International Civil Aviation Organization  IBR  — Incorporation by Reference  JASC  — Joint Aircraft System/Component Code  MCAI  — Mandatory Continuing Airworthiness Information  MCO  — Military Certification Office, ACE-100M  MIDO  — Manufacturing Inspection District Office  MIO  — Manufacturing Inspection Office  NARA  — National Archive and Records Administration  NPRM  — Notice of Proposed Rulemaking  OFR  — Office of the Federal Register  OMB  — Office of Management and Budget  P/N  — Part Number  PMA  — Parts Manufacturer Approval  RIN  — Regulatory Information Number  RFM  — Rotorcraft Flight Manual  
+
+# May 17, 2010  
+
+RGL  — Regulatory Guidance Library  S/N  — Serial Number  SFAR  — Special Federal Aviation Regulation  SNPRM — Supplemental Notice of Proposed Rulemaking  STC  — Supplemental Type Certificate  TC  — Type Certificate  TCDS  — Type Certificate Data Sheet  TIS  — Time-in-service  TSO  — Technical Standard Order  USC  — United States Code  
+
+Federal Aviation  Administration  
+
+# Directive Feedback Information  
+
+Please submit any written comments or recommendation for improving this directive, or  suggest new items or subjects to be added to it. Also, if you find an error, please tell us  about it.  
+
+Subject: FAA-IR-M-8040.1C, Airworthiness Directives Manual  
+
+To: Directive Management Officer, AIR-530  
+
+(Please check all appropriate line items)  
+
+An error (procedural or typographical) has been noted in paragraph  _______  on
+
+       page  _______  .  
+
+Recommend paragraph  _______  on page  _______   be changed as follows:  
+
+       (attached separate sheet if necessary)  
+
+In a future change to this order, please include coverage on the following subject  (briefly describe what you want added):  
+
+Other comments:  
+
+I would like to discuss the above. Please contact me.  
+
+Submitted by:     Date:  
+
+Telephone Number:    Routing Symbol:  
